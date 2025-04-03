@@ -1,0 +1,160 @@
+- verb: στέλνω
+  translation: to send
+  tenses:
+    present_tense:
+      - greek: στέλνω
+        russian: посылаю
+        english: I send
+      - greek: στέλνεις
+        russian: посылаешь
+        english: you send
+      - greek: στέλνει
+        russian: посылает
+        english: he/she/it sends
+      - greek: στέλνουμε
+        russian: посылаем
+        english: we send
+      - greek: στέλνετε
+        russian: посылаете
+        english: you send
+      - greek: στέλνουν
+        russian: посылают
+        english: they send
+    future_continuous_tense:
+      - greek: θα στέλνω
+        russian: буду посылать
+        english: I will be sending
+      - greek: θα στέλνεις
+        russian: будешь посылать
+        english: you will be sending
+      - greek: θα στέλνει
+        russian: будет посылать
+        english: he/she/it will be sending
+      - greek: θα στέλνουμε
+        russian: будем посылать
+        english: we will be sending
+      - greek: θα στέλνετε
+        russian: будете посылать
+        english: you will be sending
+      - greek: θα στέλνουν
+        russian: будут посылать
+        english: they will be sending
+    simple_future_tense:
+      - greek: θα στείλω
+        russian: пошлю
+        english: I will send
+      - greek: θα στείλεις
+        russian: пошлёшь
+        english: you will send
+      - greek: θα στείλει
+        russian: пошлёт
+        english: he/she/it will send
+      - greek: θα στείλουμε
+        russian: пошлём
+        english: we will send
+      - greek: θα στείλετε
+        russian: пошлёте
+        english: you will send
+      - greek: θα στείλουν
+        russian: пошлют
+        english: they will send
+    imperfect_past_tense:
+      - greek: έστελνα
+        russian: посылал
+        english: I was sending
+      - greek: έστελνες
+        russian: посылал
+        english: you were sending
+      - greek: έστελνε
+        russian: посылал
+        english: he/she/it was sending
+      - greek: στέλναμε
+        russian: посылали
+        english: we were sending
+      - greek: στέλνατε
+        russian: посылали
+        english: you were sending
+      - greek: έστελναν
+        russian: посылали
+        english: they were sending
+    simple_past_tense:
+      - greek: έστειλα
+        russian: послал
+        english: I sent
+      - greek: έστειλες
+        russian: послал
+        english: you sent
+      - greek: έστειλε
+        russian: послал
+        english: he/she/it sent
+      - greek: στείλαμε
+        russian: послали
+        english: we sent
+      - greek: στείλατε
+        russian: послали
+        english: you sent
+      - greek: έστειλαν
+        russian: послали
+        english: they sent
+    continuous_subjunctive_mood:
+      - greek: να στέλνω
+        russian: посылал бы
+        english: (that) I should send
+      - greek: να στέλνεις
+        russian: посылал бы
+        english: (that) you should send
+      - greek: να στέλνει
+        russian: посылал бы
+        english: (that) he/she/it should send
+      - greek: να στέλνουμε
+        russian: посылали бы
+        english: (that) we should send
+      - greek: να στέλνετε
+        russian: посылали бы
+        english: (that) you should send
+      - greek: να στέλνουν
+        russian: посылали бы
+        english: (that) they should send
+    simple_subjunctive_mood:
+      - greek: να στείλω
+        russian: послал бы
+        english: (that) I should have sent
+      - greek: να στείλεις
+        russian: послал бы
+        english: (that) you should have sent
+      - greek: να στείλει
+        russian: послал бы
+        english: (that) he/she/it should have sent
+      - greek: να στείλουμε
+        russian: послали бы
+        english: (that) we should have sent
+      - greek: να στείλετε
+        russian: послали бы
+        english: (that) you should have sent
+      - greek: να στείλουν
+        russian: послали бы
+        english: (that) they should have sent
+    imperative_continuous_singular:
+      - greek: στέλνε
+        russian: посылай
+        english: keep sending (singular)
+    imperative_continuous_plural:
+      - greek: στέλνετε
+        russian: посылайте
+        english: keep sending (plural)
+    imperative_simple_singular:
+      - greek: στείλε
+        russian: пошли
+        english: send (singular)
+    imperative_simple_plural:
+      - greek: στείλτε
+        russian: пошлите
+        english: send (plural)
+    imperative_negation_singular:
+      - greek: μη στείλεις
+        russian: не посылай
+        english: do not send (singular)
+    imperative_negation_plural:
+      - greek: μη στείλετε
+        russian: не посылайте
+        english: do not send (plural)

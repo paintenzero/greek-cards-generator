@@ -1,0 +1,160 @@
+- verb: περπατάω/περπατώ
+  translation: to walk
+  tenses:
+    present_tense:
+      - greek: περπατάω/περπατώ
+        russian: хожу
+        english: I walk
+      - greek: περπατάς
+        russian: ходишь
+        english: you walk
+      - greek: περπατάει/περπατά
+        russian: ходит
+        english: he/she/it walks
+      - greek: περπατάμε
+        russian: ходим
+        english: we walk
+      - greek: περπατάτε
+        russian: ходите
+        english: you walk
+      - greek: περπατάνε/περπατούν
+        russian: ходят
+        english: they walk
+    future_continuous_tense:
+      - greek: θα περπατάω/θα περπατώ
+        russian: буду ходить
+        english: I will be walking
+      - greek: θα περπατάς
+        russian: будешь ходить
+        english: you will be walking
+      - greek: θα περπατάει/θα περπατά
+        russian: будет ходить
+        english: he/she/it will be walking
+      - greek: θα περπατάμε
+        russian: будем ходить
+        english: we will be walking
+      - greek: θα περπατάτε
+        russian: будете ходить
+        english: you will be walking
+      - greek: θα περπατάνε/θα περπατούν
+        russian: будут ходить
+        english: they will be walking
+    simple_future_tense:
+      - greek: θα περπατήσω
+        russian: пойду
+        english: I will walk
+      - greek: θα περπατήσεις
+        russian: пойдёшь
+        english: you will walk
+      - greek: θα περπατήσει
+        russian: пойдёт
+        english: he/she/it will walk
+      - greek: θα περπατήσουμε
+        russian: пойдём
+        english: we will walk
+      - greek: θα περπατήσετε
+        russian: пойдёте
+        english: you will walk
+      - greek: θα περπατήσουν
+        russian: пойдут
+        english: they will walk
+    imperfect_past_tense:
+      - greek: περπατούσα
+        russian: ходил
+        english: I was walking
+      - greek: περπατούσες
+        russian: ходил
+        english: you were walking
+      - greek: περπατούσε
+        russian: ходил
+        english: he/she/it was walking
+      - greek: περπατούσαμε
+        russian: ходили
+        english: we were walking
+      - greek: περπατούσατε
+        russian: ходили
+        english: you were walking
+      - greek: περπατούσαν
+        russian: ходили
+        english: they were walking
+    simple_past_tense:
+      - greek: περπάτησα
+        russian: пошёл
+        english: I walked
+      - greek: περπάτησες
+        russian: пошёл
+        english: you walked
+      - greek: περπάτησε
+        russian: пошёл
+        english: he/she/it walked
+      - greek: περπατήσαμε
+        russian: пошли
+        english: we walked
+      - greek: περπατήσατε
+        russian: пошли
+        english: you walked
+      - greek: περπάτησαν
+        russian: пошли
+        english: they walked
+    continuous_subjunctive_mood:
+      - greek: να περπατάω/να περπατώ
+        russian: ходил бы
+        english: (that) I should walk
+      - greek: να περπατάς
+        russian: ходил бы
+        english: (that) you should walk
+      - greek: να περπατάει/να περπατά
+        russian: ходил бы
+        english: (that) he/she/it should walk
+      - greek: να περπατάμε
+        russian: ходили бы
+        english: (that) we should walk
+      - greek: να περπατάτε
+        russian: ходили бы
+        english: (that) you should walk
+      - greek: να περπατάνε/να περπατούν
+        russian: ходили бы
+        english: (that) they should walk
+    simple_subjunctive_mood:
+      - greek: να περπατήσω
+        russian: пошёл бы
+        english: (that) I should have walked
+      - greek: να περπατήσεις
+        russian: пошёл бы
+        english: (that) you should have walked
+      - greek: να περπατήσει
+        russian: пошёл бы
+        english: (that) he/she/it should have walked
+      - greek: να περπατήσουμε
+        russian: пошли бы
+        english: (that) we should have walked
+      - greek: να περπατήσετε
+        russian: пошли бы
+        english: (that) you should have walked
+      - greek: να περπατήσουν
+        russian: пошли бы
+        english: (that) they should have walked
+    imperative_continuous_singular:
+      - greek: περπάτα
+        russian: ходи
+        english: keep walking (singular)
+    imperative_continuous_plural:
+      - greek: περπατάτε
+        russian: ходите
+        english: keep walking (plural)
+    imperative_simple_singular:
+      - greek: περπάτησε
+        russian: пойди
+        english: walk (singular)
+    imperative_simple_plural:
+      - greek: περπατήστε
+        russian: пойдите
+        english: walk (plural)
+    imperative_negation_singular:
+      - greek: μην περπατήσεις
+        russian: не ходи
+        english: do not walk (singular)
+    imperative_negation_plural:
+      - greek: μην περπατήσετε
+        russian: не ходите
+        english: do not walk (plural)

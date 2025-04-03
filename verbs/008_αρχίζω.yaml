@@ -1,0 +1,160 @@
+- verb: αρχίζω
+  translation: to begin/start
+  tenses:
+    present_tense:
+    - greek: αρχίζω
+      russian: начинаю
+      english: I begin
+    - greek: αρχίζεις
+      russian: начинаешь
+      english: you begin
+    - greek: αρχίζει
+      russian: начинает
+      english: he/she/it begins
+    - greek: αρχίζουμε
+      russian: начинаем
+      english: we begin
+    - greek: αρχίζετε
+      russian: начинаете
+      english: you begin
+    - greek: αρχίζουν
+      russian: начинают
+      english: they begin
+    future_continuous_tense:
+    - greek: θα αρχίζω
+      russian: буду начинать
+      english: I will be beginning
+    - greek: θα αρχίζεις
+      russian: будешь начинать
+      english: you will be beginning
+    - greek: θα αρχίζει
+      russian: будет начинать
+      english: he/she/it will be beginning
+    - greek: θα αρχίζουμε
+      russian: будем начинать
+      english: we will be beginning
+    - greek: θα αρχίζετε
+      russian: будете начинать
+      english: you will be beginning
+    - greek: θα αρχίζουν
+      russian: будут начинать
+      english: they will be beginning
+    simple_future_tense:
+    - greek: θα αρχίσω
+      russian: начну
+      english: I will begin
+    - greek: θα αρχίσεις
+      russian: начнёшь
+      english: you will begin
+    - greek: θα αρχίσει
+      russian: начнёт
+      english: he/she/it will begin
+    - greek: θα αρχίσουμε
+      russian: начнём
+      english: we will begin
+    - greek: θα αρχίσετε
+      russian: начнёте
+      english: you will begin
+    - greek: θα αρχίσουν
+      russian: начнут
+      english: they will begin
+    imperfect_past_tense:
+    - greek: άρχιζα
+      russian: начинал
+      english: I was beginning
+    - greek: άρχιζες
+      russian: начинал
+      english: you were beginning
+    - greek: άρχιζε
+      russian: начинал
+      english: he/she/it was beginning
+    - greek: αρχίζαμε
+      russian: начинали
+      english: we were beginning
+    - greek: αρχίζατε
+      russian: начинали
+      english: you were beginning
+    - greek: άρχιζαν
+      russian: начинали
+      english: they were beginning
+    simple_past_tense:
+    - greek: άρχισα
+      russian: начал
+      english: I began
+    - greek: άρχισες
+      russian: начал
+      english: you began
+    - greek: άρχισε
+      russian: начал
+      english: he/she/it began
+    - greek: αρχίσαμε
+      russian: начали
+      english: we began
+    - greek: αρχίσατε
+      russian: начали
+      english: you began
+    - greek: άρχισαν
+      russian: начали
+      english: they began
+    continuous_subjunctive_mood:
+    - greek: να αρχίζω
+      russian: начинал бы
+      english: (that) I should begin
+    - greek: να αρχίζεις
+      russian: начинал бы
+      english: (that) you should begin
+    - greek: να αρχίζει
+      russian: начинал бы
+      english: (that) he/she/it should begin
+    - greek: να αρχίζουμε
+      russian: начинали бы
+      english: (that) we should begin
+    - greek: να αρχίζετε
+      russian: начинали бы
+      english: (that) you should begin
+    - greek: να αρχίζουν
+      russian: начинали бы
+      english: (that) they should begin
+    simple_subjunctive_mood:
+    - greek: να αρχίσω
+      russian: начал бы
+      english: (that) I should have begun
+    - greek: να αρχίσεις
+      russian: начал бы
+      english: (that) you should have begun
+    - greek: να αρχίσει
+      russian: начал бы
+      english: (that) he/she/it should have begun
+    - greek: να αρχίσουμε
+      russian: начали бы
+      english: (that) we should have begun
+    - greek: να αρχίσετε
+      russian: начали бы
+      english: (that) you should have begun
+    - greek: να αρχίσουν
+      russian: начали бы
+      english: (that) they should have begun
+    imperative_continuous_singular:
+    - greek: άρχιζε
+      russian: начинай
+      english: keep beginning (singular)
+    imperative_continuous_plural:
+    - greek: αρχίζετε
+      russian: начинайте
+      english: keep beginning (plural)
+    imperative_simple_singular:
+    - greek: άρχισε
+      russian: начни
+      english: begin (singular)
+    imperative_simple_plural:
+    - greek: αρχίστε
+      russian: начните
+      english: begin (plural)
+    imperative_negation_singular:
+    - greek: μην αρχίσεις
+      russian: не начинай
+      english: do not begin (singular)
+    imperative_negation_plural:
+    - greek: μην αρχίσετε
+      russian: не начинайте
+      english: do not begin (plural)

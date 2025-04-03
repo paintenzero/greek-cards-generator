@@ -1,0 +1,160 @@
+- verb: μιλάω/μιλώ
+  translation: to speak
+  tenses:
+    present_tense:
+      - greek: μιλάω/μιλώ
+        russian: говорю
+        english: I speak
+      - greek: μιλάς
+        russian: говоришь
+        english: you speak
+      - greek: μιλάει/μιλά
+        russian: говорит
+        english: he/she/it speaks
+      - greek: μιλάμε
+        russian: говорим
+        english: we speak
+      - greek: μιλάτε
+        russian: говорите
+        english: you speak
+      - greek: μιλάνε/μιλούν
+        russian: говорят
+        english: they speak
+    future_continuous_tense:
+      - greek: θα μιλάω/θα μιλώ
+        russian: буду говорить
+        english: I will be speaking
+      - greek: θα μιλάς
+        russian: будешь говорить
+        english: you will be speaking
+      - greek: θα μιλάει/θα μιλά
+        russian: будет говорить
+        english: he/she/it will be speaking
+      - greek: θα μιλάμε
+        russian: будем говорить
+        english: we will be speaking
+      - greek: θα μιλάτε
+        russian: будете говорить
+        english: you will be speaking
+      - greek: θα μιλάνε/θα μιλούν
+        russian: будут говорить
+        english: they will be speaking
+    simple_future_tense:
+      - greek: θα μιλήσω
+        russian: поговорю
+        english: I will speak
+      - greek: θα μιλήσεις
+        russian: поговоришь
+        english: you will speak
+      - greek: θα μιλήσει
+        russian: поговорит
+        english: he/she/it will speak
+      - greek: θα μιλήσουμε
+        russian: поговорим
+        english: we will speak
+      - greek: θα μιλήσετε
+        russian: поговорите
+        english: you will speak
+      - greek: θα μιλήσουν
+        russian: поговорят
+        english: they will speak
+    imperfect_past_tense:
+      - greek: μιλούσα
+        russian: говорил
+        english: I was speaking
+      - greek: μιλούσες
+        russian: говорил
+        english: you were speaking
+      - greek: μιλούσε
+        russian: говорил
+        english: he/she/it was speaking
+      - greek: μιλούσαμε
+        russian: говорили
+        english: we were speaking
+      - greek: μιλούσατε
+        russian: говорили
+        english: you were speaking
+      - greek: μιλούσαν
+        russian: говорили
+        english: they were speaking
+    simple_past_tense:
+      - greek: μίλησα
+        russian: поговорил
+        english: I spoked
+      - greek: μίλησες
+        russian: поговорил
+        english: you spoked
+      - greek: μίλησε
+        russian: поговорил
+        english: he/she/it spoked
+      - greek: μιλήσαμε
+        russian: поговорили
+        english: we spoked
+      - greek: μιλήσατε
+        russian: поговорили
+        english: you spoked
+      - greek: μίλησαν
+        russian: поговорили
+        english: they spoked
+    continuous_subjunctive_mood:
+      - greek: να μιλάω/να μιλώ
+        russian: говорил бы
+        english: (that) I should speak
+      - greek: να μιλάς
+        russian: говорил бы
+        english: (that) you should speak
+      - greek: να μιλάει/να μιλά
+        russian: говорил бы
+        english: (that) he/she/it should speak
+      - greek: να μιλάμε
+        russian: говорили бы
+        english: (that) we should speak
+      - greek: να μιλάτε
+        russian: говорили бы
+        english: (that) you should speak
+      - greek: να μιλάνε/να μιλούν
+        russian: говорили бы
+        english: (that) they should speak
+    simple_subjunctive_mood:
+      - greek: να μιλήσω
+        russian: поговорил бы
+        english: (that) I should have spoken
+      - greek: να μιλήσεις
+        russian: поговорил бы
+        english: (that) you should have spoken
+      - greek: να μιλήσει
+        russian: поговорил бы
+        english: (that) he/she/it should have spoken
+      - greek: να μιλήσουμε
+        russian: поговорили бы
+        english: (that) we should have spoken
+      - greek: να μιλήσετε
+        russian: поговорили бы
+        english: (that) you should have spoken
+      - greek: να μιλήσουν
+        russian: поговорили бы
+        english: (that) they should have spoken
+    imperative_continuous_singular:
+      - greek: μίλα
+        russian: говори
+        english: keep talking (singular)
+    imperative_continuous_plural:
+      - greek: μιλάτε
+        russian: говорите
+        english: keep talking (plural)
+    imperative_simple_singular:
+      - greek: μίλησε
+        russian: поговори
+        english: talk (singular)
+    imperative_simple_plural:
+      - greek: μιλήστε
+        russian: поговорите
+        english: talk (plural)
+    imperative_negation_singular:
+      - greek: μη μιλήσεις
+        russian: не говори
+        english: do not talk (singular)
+    imperative_negation_plural:
+      - greek: μη μιλήσετε
+        russian: не говорите
+        english: do not talk (plural)

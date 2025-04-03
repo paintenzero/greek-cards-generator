@@ -1,0 +1,160 @@
+- verb: κρύβω
+  translation: to hide
+  tenses:
+    present_tense:
+      - greek: κρύβω
+        russian: прячу
+        english: I hide
+      - greek: κρύβεις
+        russian: прячешь
+        english: you hide
+      - greek: κρύβει
+        russian: прячет
+        english: he/she/it hides
+      - greek: κρύβουμε
+        russian: прячем
+        english: we hide
+      - greek: κρύβετε
+        russian: прячете
+        english: you (plural) hide
+      - greek: κρύβουν
+        russian: прячут
+        english: they hide
+    future_continuous_tense:
+      - greek: θα κρύβω
+        russian: буду прятать
+        english: I will be hiding
+      - greek: θα κρύβεις
+        russian: будешь прятать
+        english: you will be hiding
+      - greek: θα κρύβει
+        russian: будет прятать
+        english: he/she/it will be hiding
+      - greek: θα κρύβουμε
+        russian: будем прятать
+        english: we will be hiding
+      - greek: θα κρύβετε
+        russian: будете прятать
+        english: you (plural) will be hiding
+      - greek: θα κρύβουν
+        russian: будут прятать
+        english: they will be hiding
+    simple_future_tense:
+      - greek: θα κρύψω
+        russian: спрячу
+        english: I will hide
+      - greek: θα κρύψεις
+        russian: спрячешь
+        english: you will hide
+      - greek: θα κρύψει
+        russian: спрячет
+        english: he/she/it will hide
+      - greek: θα κρύψουμε
+        russian: спрячем
+        english: we will hide
+      - greek: θα κρύψετε
+        russian: спрячете
+        english: you (plural) will hide
+      - greek: θα κρύψουν
+        russian: спрячут
+        english: they will hide
+    imperfect_past_tense:
+      - greek: έκρυβα
+        russian: прятал
+        english: I was hiding
+      - greek: έκρυβες
+        russian: прятал
+        english: you were hiding
+      - greek: έκρυβε
+        russian: прятал
+        english: he/she/it was hiding
+      - greek: κρύβαμε
+        russian: прятали
+        english: we were hiding
+      - greek: κρύβατε
+        russian: прятали
+        english: you (plural) were hiding
+      - greek: έκρυβαν
+        russian: прятали
+        english: they were hiding
+    simple_past_tense:
+      - greek: έκρυψα
+        russian: спрятал
+        english: I hid
+      - greek: έκρυψες
+        russian: спрятал
+        english: you hid
+      - greek: έκρυψε
+        russian: спрятал
+        english: he/she/it hid
+      - greek: κρύψαμε
+        russian: спрятали
+        english: we hid
+      - greek: κρύψατε
+        russian: спрятали
+        english: you (plural) hid
+      - greek: έκρυψαν
+        russian: спрятали
+        english: they hid
+    continuous_subjunctive_mood:
+      - greek: να κρύβω
+        russian: прятал бы
+        english: (that) I should hide
+      - greek: να κρύβεις
+        russian: прятал бы
+        english: (that) you should hide
+      - greek: να κρύβει
+        russian: прятал бы
+        english: (that) he/she/it should hide
+      - greek: να κρύβουμε
+        russian: прятали бы
+        english: (that) we should hide
+      - greek: να κρύβετε
+        russian: прятали бы
+        english: (that) you should hide
+      - greek: να κρύβουν
+        russian: прятали бы
+        english: (that) they should hide
+    simple_subjunctive_mood:
+      - greek: να κρύψω
+        russian: спрятал бы
+        english: (that) I should have hidden
+      - greek: να κρύψεις
+        russian: спрятал бы
+        english: (that) you should have hidden
+      - greek: να κρύψει
+        russian: спрятал бы
+        english: (that) he/she/it should have hidden
+      - greek: να κρύψουμε
+        russian: спрятали бы
+        english: (that) we should have hidden
+      - greek: να κρύψετε
+        russian: спрятали бы
+        english: (that) you (plural) should have hidden
+      - greek: να κρύψουν
+        russian: спрятали бы
+        english: (that) they should have hidden
+    imperative_continuous_singular:
+      - greek: κρύβε
+        russian: прячь
+        english: keep hiding (singular)
+    imperative_continuous_plural:
+      - greek: κρύβετε
+        russian: прячьте
+        english: keep hiding (plural)
+    imperative_simple_singular:
+      - greek: κρύψε
+        russian: спрячь
+        english: hide (singular)
+    imperative_simple_plural:
+      - greek: κρύψτε
+        russian: спрячьте
+        english: hide (plural)
+    imperative_negation_singular:
+      - greek: μην κρύψεις
+        russian: не прячь
+        english: do not hide (singular)
+    imperative_negation_plural:
+      - greek: μην κρύψετε
+        russian: не прячьте
+        english: do not hide (plural)

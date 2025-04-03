@@ -1,0 +1,160 @@
+- verb: σπουδάζω
+  translation: to study
+  tenses:
+    present_tense:
+    - greek: σπουδάζω
+      russian: учусь
+      english: I study
+    - greek: σπουδάζεις
+      russian: учишься
+      english: you study
+    - greek: σπουδάζει
+      russian: учится
+      english: he/she/it studies
+    - greek: σπουδάζουμε
+      russian: учимся
+      english: we study
+    - greek: σπουδάζετε
+      russian: учитесь
+      english: you study
+    - greek: σπουδάζουν
+      russian: учатся
+      english: they study
+    future_continuous_tense:
+    - greek: θα σπουδάζω
+      russian: буду учиться
+      english: I will be studying
+    - greek: θα σπουδάζεις
+      russian: будешь учиться
+      english: you will be studying
+    - greek: θα σπουδάζει
+      russian: будет учиться
+      english: he/she/it will be studying
+    - greek: θα σπουδάζουμε
+      russian: будем учиться
+      english: we will be studying
+    - greek: θα σπουδάζετε
+      russian: будете учиться
+      english: you will be studying
+    - greek: θα σπουδάζουν
+      russian: будут учиться
+      english: they will be studying
+    simple_future_tense:
+    - greek: θα σπουδάσω
+      russian: выучусь
+      english: I will study
+    - greek: θα σπουδάσεις
+      russian: выучишься
+      english: you will study
+    - greek: θα σπουδάσει
+      russian: выучится
+      english: he/she/it will study
+    - greek: θα σπουδάσουμε
+      russian: выучимся
+      english: we will study
+    - greek: θα σπουδάσετε
+      russian: выучитесь
+      english: you will study
+    - greek: θα σπουδάσουν
+      russian: выучатся
+      english: they will study
+    imperfect_past_tense:
+    - greek: σπούδαζα
+      russian: учился
+      english: I was studying
+    - greek: σπούδαζες
+      russian: учился
+      english: you were studying
+    - greek: σπούδαζε
+      russian: учился
+      english: he/she/it was studying
+    - greek: σπουδάζαμε
+      russian: учились
+      english: we were studying
+    - greek: σπουδάζατε
+      russian: учились
+      english: you were studying
+    - greek: σπούδαζαν
+      russian: учились
+      english: they were studying
+    simple_past_tense:
+    - greek: σπούδασα
+      russian: выучился
+      english: I studied
+    - greek: σπούδασες
+      russian: выучился
+      english: you studied
+    - greek: σπούδασε
+      russian: выучился
+      english: he/she/it studied
+    - greek: σπουδάσαμε
+      russian: выучились
+      english: we studied
+    - greek: σπουδάσατε
+      russian: выучились
+      english: you studied
+    - greek: σπούδασαν
+      russian: выучились
+      english: they studied
+    continuous_subjunctive_mood:
+    - greek: να σπουδάζω
+      russian: учился бы
+      english: (that) I should study
+    - greek: να σπουδάζεις
+      russian: учился бы
+      english: (that) you should study
+    - greek: να σπουδάζει
+      russian: учился бы
+      english: (that) he/she/it should study
+    - greek: να σπουδάζουμε
+      russian: учились бы
+      english: (that) we should study
+    - greek: να σπουδάζετε
+      russian: учились бы
+      english: (that) you should study
+    - greek: να σπουδάζουν
+      russian: учились бы
+      english: (that) they should study
+    simple_subjunctive_mood:
+    - greek: να σπουδάσω
+      russian: выучился бы
+      english: (that) I should have studied
+    - greek: να σπουδάσεις
+      russian: выучился бы
+      english: (that) you should have studied
+    - greek: να σπουδάσει
+      russian: выучился бы
+      english: (that) he/she/it should have studied
+    - greek: να σπουδάσουμε
+      russian: выучились бы
+      english: (that) we should have studied
+    - greek: να σπουδάσετε
+      russian: выучились бы
+      english: (that) you should have studied
+    - greek: να σπουδάσουν
+      russian: выучились бы
+      english: (that) they should have studied
+    imperative_continuous_singular:
+    - greek: σπούδαζε
+      russian: учись
+      english: keep studying (singular)
+    imperative_continuous_plural:
+    - greek: σπουδάζετε
+      russian: учитесь
+      english: keep studying (plural)
+    imperative_simple_singular:
+    - greek: σπούδασε
+      russian: выучись
+      english: study (singular)
+    imperative_simple_plural:
+    - greek: σπουδάστε
+      russian: выучитесь
+      english: study (plural)
+    imperative_negation_singular:
+    - greek: μην σπουδάσεις
+      russian: не выучись
+      english: do not study (singular)
+    imperative_negation_plural:
+    - greek: μην σπουδάσετε
+      russian: не выучитесь
+      english: do not study (plural)

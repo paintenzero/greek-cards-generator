@@ -1,0 +1,160 @@
+- verb: γυρίζω
+  translation: to turn/return
+  tenses:
+    present_tense:
+    - greek: γυρίζω
+      russian: возвращаюсь
+      english: I return
+    - greek: γυρίζεις
+      russian: возвращаешься
+      english: you return
+    - greek: γυρίζει
+      russian: возвращается
+      english: he/she/it returns
+    - greek: γυρίζουμε
+      russian: возвращаемся
+      english: we return
+    - greek: γυρίζετε
+      russian: возвращаетесь
+      english: you return
+    - greek: γυρίζουν
+      russian: возвращаются
+      english: they return
+    future_continuous_tense:
+    - greek: θα γυρίζω
+      russian: буду возвращаться
+      english: I will be returning
+    - greek: θα γυρίζεις
+      russian: будешь возвращаться
+      english: you will be returning
+    - greek: θα γυρίζει
+      russian: будет возвращаться
+      english: he/she/it will be returning
+    - greek: θα γυρίζουμε
+      russian: будем возвращаться
+      english: we will be returning
+    - greek: θα γυρίζετε
+      russian: будете возвращаться
+      english: you will be returning
+    - greek: θα γυρίζουν
+      russian: будут возвращаться
+      english: they will be returning
+    simple_future_tense:
+    - greek: θα γυρίσω
+      russian: вернусь
+      english: I will return
+    - greek: θα γυρίσεις
+      russian: вернёшься
+      english: you will return
+    - greek: θα γυρίσει
+      russian: вернётся
+      english: he/she/it will return
+    - greek: θα γυρίσουμε
+      russian: вернёмся
+      english: we will return
+    - greek: θα γυρίσετε
+      russian: вернётесь
+      english: you will return
+    - greek: θα γυρίσουν
+      russian: вернутся
+      english: they will return
+    imperfect_past_tense:
+    - greek: γύριζα
+      russian: возвращался
+      english: I was returning
+    - greek: γύριζες
+      russian: возвращался
+      english: you were returning
+    - greek: γύριζε
+      russian: возвращался
+      english: he/she/it was returning
+    - greek: γυρίζαμε
+      russian: возвращались
+      english: we were returning
+    - greek: γυρίζατε
+      russian: возвращались
+      english: you were returning
+    - greek: γύριζαν
+      russian: возвращались
+      english: they were returning
+    simple_past_tense:
+    - greek: γύρισα
+      russian: вернулся
+      english: I returned
+    - greek: γύρισες
+      russian: вернулся
+      english: you returned
+    - greek: γύρισε
+      russian: вернулся
+      english: he/she/it returned
+    - greek: γυρίσαμε
+      russian: вернулись
+      english: we returned
+    - greek: γυρίσατε
+      russian: вернулись
+      english: you returned
+    - greek: γύρισαν
+      russian: вернулись
+      english: they returned
+    continuous_subjunctive_mood:
+    - greek: να γυρίζω
+      russian: возвращался бы
+      english: (that) I should return
+    - greek: να γυρίζεις
+      russian: возвращался бы
+      english: (that) you should return
+    - greek: να γυρίζει
+      russian: возвращался бы
+      english: (that) he/she/it should return
+    - greek: να γυρίζουμε
+      russian: возвращались бы
+      english: (that) we should return
+    - greek: να γυρίζετε
+      russian: возвращались бы
+      english: (that) you should return
+    - greek: να γυρίζουν
+      russian: возвращались бы
+      english: (that) they should return
+    simple_subjunctive_mood:
+    - greek: να γυρίσω
+      russian: вернулся бы
+      english: (that) I should have returned
+    - greek: να γυρίσεις
+      russian: вернулся бы
+      english: (that) you should have returned
+    - greek: να γυρίσει
+      russian: вернулся бы
+      english: (that) he/she/it should have returned
+    - greek: να γυρίσουμε
+      russian: вернулись бы
+      english: (that) we should have returned
+    - greek: να γυρίσετε
+      russian: вернулись бы
+      english: (that) you should have returned
+    - greek: να γυρίσουν
+      russian: вернулись бы
+      english: (that) they should have returned
+    imperative_continuous_singular:
+    - greek: γύριζε
+      russian: возвращайся
+      english: keep returning (singular)
+    imperative_continuous_plural:
+    - greek: γυρίζετε
+      russian: возвращайтесь
+      english: keep returning (plural)
+    imperative_simple_singular:
+    - greek: γύρισε
+      russian: вернись
+      english: return (singular)
+    imperative_simple_plural:
+    - greek: γυρίστε
+      russian: вернитесь
+      english: return (plural)
+    imperative_negation_singular:
+    - greek: μη γύρισεις
+      russian: не возвращайся
+      english: do not return (singular)
+    imperative_negation_plural:
+    - greek: μη γυρίσετε
+      russian: не возвращайтесь
+      english: do not return (plural)

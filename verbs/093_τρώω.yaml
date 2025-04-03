@@ -1,0 +1,160 @@
+- verb: τρώω
+  translation: to eat
+  tenses:
+    present_tense:
+      - greek: τρώω
+        russian: ем
+        english: I eat
+      - greek: τρως
+        russian: ешь
+        english: you eat
+      - greek: τρώει
+        russian: ест
+        english: he/she/it eats
+      - greek: τρώμε
+        russian: едим
+        english: we eat
+      - greek: τρώτε
+        russian: едите
+        english: you eat
+      - greek: τρώνε
+        russian: едят
+        english: they eat
+    future_continuous_tense:
+      - greek: θα τρώω
+        russian: буду есть
+        english: I will be eating
+      - greek: θα τρως
+        russian: будешь есть
+        english: you will be eating
+      - greek: θα τρώει
+        russian: будет есть
+        english: he/she/it will be eating
+      - greek: θα τρώμε
+        russian: будем есть
+        english: we will be eating
+      - greek: θα τρώτε
+        russian: будете есть
+        english: you will be eating
+      - greek: θα τρώνε
+        russian: будут есть
+        english: they will be eating
+    simple_future_tense:
+      - greek: θα φάω
+        russian: съем
+        english: I will eat
+      - greek: θα φας
+        russian: съешь
+        english: you will eat
+      - greek: θα φάει
+        russian: съест
+        english: he/she/it will eat
+      - greek: θα φάμε
+        russian: съедим
+        english: we will eat
+      - greek: θα φάτε
+        russian: съедите
+        english: you will eat
+      - greek: θα φάνε
+        russian: съедят
+        english: they will eat
+    imperfect_past_tense:
+      - greek: έτρωγα
+        russian: ел
+        english: I was eating
+      - greek: έτρωγες
+        russian: ел
+        english: you were eating
+      - greek: έτρωγε
+        russian: ел
+        english: he/she/it was eating
+      - greek: τρώγαμε
+        russian: ели
+        english: we were eating
+      - greek: τρώγατε
+        russian: ели
+        english: you were eating
+      - greek: έτρωγαν
+        russian: ели
+        english: they were eating
+    simple_past_tense:
+      - greek: έφαγα
+        russian: съел
+        english: I ate
+      - greek: έφαγες
+        russian: съел
+        english: you ate
+      - greek: έφαγε
+        russian: съел
+        english: he/she/it ate
+      - greek: φάγαμε
+        russian: съели
+        english: we ate
+      - greek: φάγατε
+        russian: съели
+        english: you ate
+      - greek: έφαγαν
+        russian: съели
+        english: they ate
+    continuous_subjunctive_mood:
+      - greek: να τρώω
+        russian: ел бы
+        english: (that) I should eat
+      - greek: να τρως
+        russian: ел бы
+        english: (that) you should eat
+      - greek: να τρώει
+        russian: ел бы
+        english: (that) he/she/it should eat
+      - greek: να τρώμε
+        russian: ели бы
+        english: (that) we should eat
+      - greek: να τρώτε
+        russian: ели бы
+        english: (that) you should eat
+      - greek: να τρώνε
+        russian: ели бы
+        english: (that) they should eat
+    simple_subjunctive_mood:
+      - greek: να φάω
+        russian: съел бы
+        english: (that) I should have eaten
+      - greek: να φας
+        russian: съел бы
+        english: (that) you should have eaten
+      - greek: να φάει
+        russian: съел бы
+        english: (that) he/she/it should have eaten
+      - greek: να φάμε
+        russian: съели бы
+        english: (that) we should have eaten
+      - greek: να φάτε
+        russian: съели бы
+        english: (that) you should have eaten
+      - greek: να φάνε
+        russian: съели бы
+        english: (that) they should have eaten
+    imperative_continuous_singular:
+      - greek: τρώγε
+        russian: ешь
+        english: keep eating (singular)
+    imperative_continuous_plural:
+      - greek: τρώτε
+        russian: ешьте
+        english: keep eating (plural)
+    imperative_simple_singular:
+      - greek: φάε
+        russian: съешь
+        english: eat (singular)
+    imperative_simple_plural:
+      - greek: φάτε
+        russian: съешьте
+        english: eat (plural)
+    imperative_negation_singular:
+      - greek: μη φας
+        russian: не ешь
+        english: do not eat (singular)
+    imperative_negation_plural:
+      - greek: μη φάτε
+        russian: не ешьте
+        english: do not eat (plural)

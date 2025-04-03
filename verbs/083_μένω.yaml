@@ -1,0 +1,160 @@
+- verb: μένω
+  translation: to stay/to live
+  tenses:
+    present_tense:
+      - greek: μένω
+        russian: живу
+        english: I live
+      - greek: μένεις
+        russian: живёшь
+        english: you live
+      - greek: μένει
+        russian: живёт
+        english: he/she/it lives
+      - greek: μένουμε
+        russian: живём
+        english: we live
+      - greek: μένετε
+        russian: живёте
+        english: you live
+      - greek: μένουν
+        russian: живут
+        english: they live
+    future_continuous_tense:
+      - greek: θα μένω
+        russian: буду жить
+        english: I will be living
+      - greek: θα μένεις
+        russian: будешь жить
+        english: you will be living
+      - greek: θα μένει
+        russian: будет жить
+        english: he/she/it will be living
+      - greek: θα μένουμε
+        russian: будем жить
+        english: we will be living
+      - greek: θα μένετε
+        russian: будете жить
+        english: you will be living
+      - greek: θα μένουν
+        russian: будут жить
+        english: they will be living
+    simple_future_tense:
+      - greek: θα μείνω
+        russian: поживу
+        english: I will live
+      - greek: θα μείνεις
+        russian: поживёшь
+        english: you will live
+      - greek: θα μείνει
+        russian: поживёт
+        english: he/she/it will live
+      - greek: θα μείνουμε
+        russian: поживём
+        english: we will live
+      - greek: θα μείνετε
+        russian: поживёте
+        english: you will live
+      - greek: θα μείνουν
+        russian: поживут
+        english: they will live
+    imperfect_past_tense:
+      - greek: έμενα
+        russian: жил
+        english: I was living
+      - greek: έμενες
+        russian: жил
+        english: you were living
+      - greek: έμενε
+        russian: жил
+        english: he/she/it was living
+      - greek: μέναμε
+        russian: жили
+        english: we were living
+      - greek: μένατε
+        russian: жили
+        english: you were living
+      - greek: έμεναν
+        russian: жили
+        english: they were living
+    simple_past_tense:
+      - greek: έμεινα
+        russian: пожил
+        english: I lived
+      - greek: έμεινες
+        russian: ты пожил
+        english: you lived
+      - greek: έμεινε
+        russian: он пожил
+        english: he/she/it lived
+      - greek: μείναμε
+        russian: они пожили
+        english: we lived
+      - greek: μείνατε
+        russian: вы пожили
+        english: you lived
+      - greek: έμειναν
+        russian: они пожили
+        english: they lived
+    continuous_subjunctive_mood:
+      - greek: να μένω
+        russian: жил бы
+        english: (that) I should live
+      - greek: να μένεις
+        russian: жил бы
+        english: (that) you should live
+      - greek: να μένει
+        russian: жил бы
+        english: (that) he/she/it should live
+      - greek: να μένουμε
+        russian: жили бы
+        english: (that) we should live
+      - greek: να μένετε
+        russian: жили бы
+        english: (that) you should live
+      - greek: να μένουν
+        russian: жили бы
+        english: (that) they should live
+    simple_subjunctive_mood:
+      - greek: να μείνω
+        russian: пожил бы
+        english: (that) I should have lived
+      - greek: να μείνεις
+        russian: пожил бы
+        english: (that) you should have lived
+      - greek: να μείνει
+        russian: пожил бы
+        english: (that) he/she/it should have lived
+      - greek: να μείνουμε
+        russian: пожили бы
+        english: (that) we should have lived
+      - greek: να μείνετε
+        russian: пожили бы
+        english: (that) you should have lived
+      - greek: να μείνουν
+        russian: пожили бы
+        english: (that) they should have lived
+    imperative_continuous_singular:
+      - greek: μένε
+        russian: живи/оставайся
+        english: keep living (singular)
+    imperative_continuous_plural:
+      - greek: μένετε
+        russian: живите/оставайтесь
+        english: keep living (plural)
+    imperative_simple_singular:
+      - greek: μείνε
+        russian: поживи/останься
+        english: stay (singular)
+    imperative_simple_plural:
+      - greek: μείνετε
+        russian: поживите/останьтесь
+        english: stay (plural)
+    imperative_negation_singular:
+      - greek: μη μείνεις
+        russian: не живи/не оставайся
+        english: do not stay (singular)
+    imperative_negation_plural:
+      - greek: μη μείνετε
+        russian: не живите/не оставайтесь
+        english: do not stay (plural)

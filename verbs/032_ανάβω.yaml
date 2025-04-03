@@ -1,0 +1,160 @@
+- verb: ανάβω
+  translation: to turn on
+  tenses:
+    present_tense:
+      - greek: ανάβω
+        russian: включаю
+        english: I turn on
+      - greek: ανάβεις
+        russian: включаешь
+        english: you turn on
+      - greek: ανάβει
+        russian: включает
+        english: he/she/it turns on
+      - greek: ανάβουμε
+        russian: включаем
+        english: we turn on
+      - greek: ανάβετε
+        russian: включаете
+        english: you turn on
+      - greek: ανάβουν
+        russian: включают
+        english: they turn on
+    future_continuous_tense:
+      - greek: θα ανάβω
+        russian: буду включать
+        english: I will be turning on
+      - greek: θα ανάβεις
+        russian: будешь включать
+        english: you will be turning on
+      - greek: θα ανάβει
+        russian: будет включать
+        english: he/she/it will be turning on
+      - greek: θα ανάβουμε
+        russian: будем включать
+        english: we will be turning on
+      - greek: θα ανάβετε
+        russian: будете включать
+        english: you will be turning on
+      - greek: θα ανάβουν
+        russian: будут включать
+        english: they will be turning on
+    simple_future_tense:
+      - greek: θα ανάψω
+        russian: включу
+        english: I will turn on
+      - greek: θα ανάψεις
+        russian: включишь
+        english: you will turn on
+      - greek: θα ανάψει
+        russian: включит
+        english: he/she/it will turn on
+      - greek: θα ανάψουμε
+        russian: включим
+        english: we will turn on
+      - greek: θα ανάψετε
+        russian: включите
+        english: you will turn on
+      - greek: θα ανάψουν
+        russian: включат
+        english: they will turn on
+    imperfect_past_tense:
+      - greek: άναβα
+        russian: включал
+        english: I was turning on
+      - greek: άναβες
+        russian: включал
+        english: you were turning on
+      - greek: άναβε
+        russian: включал
+        english: he/she/it was turning on
+      - greek: ανάβαμε
+        russian: включали
+        english: we were turning on
+      - greek: ανάβατε
+        russian: включали
+        english: you were turning on
+      - greek: άναβαν
+        russian: включали
+        english: they were turning on
+    simple_past_tense:
+      - greek: άναψα
+        russian: включил
+        english: I turned on
+      - greek: άναψες
+        russian: включил
+        english: you turned on
+      - greek: άναψε
+        russian: включил
+        english: he/she/it turned on
+      - greek: ανάψαμε
+        russian: включили
+        english: we turned on
+      - greek: ανάψατε
+        russian: включили
+        english: you turned on
+      - greek: άναψαν
+        russian: включили
+        english: they turned on
+    continuous_subjunctive_mood:
+      - greek: να ανάβω
+        russian: включал бы
+        english: (that) I should turn on
+      - greek: να ανάβεις
+        russian: включал бы
+        english: (that) you should turn on
+      - greek: να ανάβει
+        russian: включал бы
+        english: (that) he/she/it should turn on
+      - greek: να ανάβουμε
+        russian: включали бы
+        english: (that) we should turn on
+      - greek: να ανάβετε
+        russian: включали бы
+        english: (that) you should turn on
+      - greek: να ανάβουν
+        russian: включали бы
+        english: (that) they should turn on
+    simple_subjunctive_mood:
+      - greek: να ανάψω
+        russian: включил бы
+        english: (that) I should have turned on
+      - greek: να ανάψεις
+        russian: включил бы
+        english: (that) you should have turned on
+      - greek: να ανάψει
+        russian: включил бы
+        english: (that) he/she/it should have turned on
+      - greek: να ανάψουμε
+        russian: включили бы
+        english: (that) we should have turned on
+      - greek: να ανάψετε
+        russian: включили бы
+        english: (that) you should have turned on
+      - greek: να ανάψουν
+        russian: включили бы
+        english: (that) they should have turned on
+    imperative_continuous_singular:
+      - greek: άναβε
+        russian: включай
+        english: keep turning on (singular)
+    imperative_continuous_plural:
+      - greek: ανάβετε
+        russian: включайте
+        english: keep turning on (plural)
+    imperative_simple_singular:
+      - greek: άναψε
+        russian: включи
+        english: turn on (singular)
+    imperative_simple_plural:
+      - greek: ανάψτε
+        russian: включите
+        english: turn on (plural)
+    imperative_negation_singular:
+      - greek: μην ανάψεις
+        russian: не включай
+        english: do not turn on (singular)
+    imperative_negation_plural:
+      - greek: μην ανάψετε
+        russian: не включайте
+        english: do not turn on (plural)

@@ -1,0 +1,160 @@
+- verb: φεύγω
+  translation: to leave/go away
+  tenses:
+    present_tense:
+      - greek: φεύγω
+        russian: ухожу
+        english: I leave
+      - greek: φεύγεις
+        russian: уходишь
+        english: you leave
+      - greek: φεύγει
+        russian: уходит
+        english: he/she/it leaves
+      - greek: φεύγουμε
+        russian: уходим
+        english: we leave
+      - greek: φεύγετε
+        russian: уходите
+        english: you leave
+      - greek: φεύγουν
+        russian: уходят
+        english: they leave
+    future_continuous_tense:
+      - greek: θα φεύγω
+        russian: буду уходить
+        english: I will be leaving
+      - greek: θα φεύγεις
+        russian: будешь уходить
+        english: you will be leaving
+      - greek: θα φεύγει
+        russian: будет уходить
+        english: he/she/it will be leaving
+      - greek: θα φεύγουμε
+        russian: будем уходить
+        english: we will be leaving
+      - greek: θα φεύγετε
+        russian: будете уходить
+        english: you will be leaving
+      - greek: θα φεύγουν
+        russian: будут уходить
+        english: they will be leaving
+    simple_future_tense:
+      - greek: θα φύγω
+        russian: уйду
+        english: I will leave
+      - greek: θα φύγεις
+        russian: уйдёшь
+        english: you will leave
+      - greek: θα φύγει
+        russian: уйдёт
+        english: he/she/it will leave
+      - greek: θα φύγουμε
+        russian: уйдём
+        english: we will leave
+      - greek: θα φύγετε
+        russian: уйдёте
+        english: you will leave
+      - greek: θα φύγουν
+        russian: уйдут
+        english: they will leave
+    imperfect_past_tense:
+      - greek: έφευγα
+        russian: уходил
+        english: I was leaving
+      - greek: έφευγες
+        russian: уходил
+        english: you were leaving
+      - greek: έφευγε
+        russian: уходил
+        english: he/she/it was leaving
+      - greek: φεύγαμε
+        russian: уходили
+        english: we were leaving
+      - greek: φεύγατε
+        russian: уходили
+        english: you were leaving
+      - greek: έφευγαν
+        russian: уходили
+        english: they were leaving
+    simple_past_tense:
+      - greek: έφυγα
+        russian: ушёл
+        english: I left
+      - greek: έφυγες
+        russian: ушёл
+        english: you left
+      - greek: έφυγε
+        russian: ушёл
+        english: he/she/it left
+      - greek: φύγαμε
+        russian: ушли
+        english: we left
+      - greek: φύγατε
+        russian: ушли
+        english: you left
+      - greek: έφυγαν
+        russian: ушли
+        english: they left
+    continuous_subjunctive_mood:
+      - greek: να φεύγω
+        russian: уходил бы
+        english: (that) I should leave
+      - greek: να φεύγεις
+        russian: уходил бы
+        english: (that) you should leave
+      - greek: να φεύγει
+        russian: уходил бы
+        english: (that) he/she/it should leave
+      - greek: να φεύγουμε
+        russian: уходили бы
+        english: (that) we should leave
+      - greek: να φεύγετε
+        russian: уходили бы
+        english: (that) you should leave
+      - greek: να φεύγουν
+        russian: уходили бы
+        english: (that) they should leave
+    simple_subjunctive_mood:
+      - greek: να φύγω
+        russian: ушёл бы
+        english: (that) I should have left
+      - greek: να φύγεις
+        russian: ушёл бы
+        english: (that) you should have left
+      - greek: να φύγει
+        russian: ушёл бы
+        english: (that) he/she/it should have left
+      - greek: να φύγουμε
+        russian: ушли бы
+        english: (that) we should have left
+      - greek: να φύγετε
+        russian: ушли бы
+        english: (that) you should have left
+      - greek: να φύγουν
+        russian: ушли бы
+        english: (that) they should have left
+    imperative_continuous_singular:
+      - greek: φεύγε
+        russian: уходи
+        english: keep leaving (singular)
+    imperative_continuous_plural:
+      - greek: φεύγετε
+        russian: уходите
+        english: keep leaving (plural)
+    imperative_simple_singular:
+      - greek: φύγε
+        russian: уйди
+        english: leave (singular)
+    imperative_simple_plural:
+      - greek: φύγετε
+        russian: уйдите
+        english: leave (plural)
+    imperative_negation_singular:
+      - greek: μη φύγεις
+        russian: не уходи
+        english: do not leave (singular)
+    imperative_negation_plural:
+      - greek: μη φύγετε
+        russian: не уходите
+        english: do not leave (plural)

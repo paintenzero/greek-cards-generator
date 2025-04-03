@@ -1,0 +1,160 @@
+- verb: λέω
+  translation: to say/tell
+  tenses:
+    present_tense:
+      - greek: λέω
+        russian: говорю
+        english: I say
+      - greek: λες
+        russian: говоришь
+        english: you say
+      - greek: λέει
+        russian: говорит
+        english: he/she/it says
+      - greek: λέμε
+        russian: говорим
+        english: we say
+      - greek: λέτε
+        russian: говорите
+        english: you say
+      - greek: λένε
+        russian: говорят
+        english: they say
+    future_continuous_tense:
+      - greek: θα λέω
+        russian: буду говорить
+        english: I will be saying
+      - greek: θα λες
+        russian: будешь говорить
+        english: you will be saying
+      - greek: θα λέει
+        russian: будет говорить
+        english: he/she/it will be saying
+      - greek: θα λέμε
+        russian: будем говорить
+        english: we will be saying
+      - greek: θα λέτε
+        russian: будете говорить
+        english: you will be saying
+      - greek: θα λένε
+        russian: будут говорить
+        english: they will be saying
+    simple_future_tense:
+      - greek: θα πω
+        russian: скажу
+        english: I will say
+      - greek: θα πεις
+        russian: скажешь
+        english: you will say
+      - greek: θα πει
+        russian: скажет
+        english: he/she/it will say
+      - greek: θα πούμε
+        russian: скажем
+        english: we will say
+      - greek: θα πείτε
+        russian: скажете
+        english: you will say
+      - greek: θα πουν
+        russian: скажут
+        english: they will say
+    imperfect_past_tense:
+      - greek: έλεγα
+        russian: говорил
+        english: I was saying
+      - greek: έλεγες
+        russian: говорил
+        english: you were saying
+      - greek: έλεγε
+        russian: говорил
+        english: he/she/it was saying
+      - greek: λέγαμε
+        russian: говорили
+        english: we were saying
+      - greek: λέγατε
+        russian: говорили
+        english: you were saying
+      - greek: έλεγαν
+        russian: говорили
+        english: they were saying
+    simple_past_tense:
+      - greek: είπα
+        russian: сказал
+        english: I said
+      - greek: είπες
+        russian: сказал
+        english: you said
+      - greek: είπε
+        russian: сказал
+        english: he/she/it said
+      - greek: είπαμε
+        russian: сказали
+        english: we said
+      - greek: είπατε
+        russian: сказали
+        english: you said
+      - greek: είπαν
+        russian: сказали
+        english: they said
+    continuous_subjunctive_mood:
+      - greek: να λέω
+        russian: говорил бы
+        english: (that) I should say
+      - greek: να λες
+        russian: говорил бы
+        english: (that) you should say
+      - greek: να λέει
+        russian: говорил бы
+        english: (that) he/she/it should say
+      - greek: να λέμε
+        russian: говорили бы
+        english: (that) we should say
+      - greek: να λέτε
+        russian: говорили бы
+        english: (that) you should say
+      - greek: να λένε
+        russian: говорили бы
+        english: (that) they should say
+    simple_subjunctive_mood:
+      - greek: να πω
+        russian: сказал бы
+        english: (that) I should have said
+      - greek: να πεις
+        russian: сказал бы
+        english: (that) you should have said
+      - greek: να πει
+        russian: сказал бы
+        english: (that) he/she/it should have said
+      - greek: να πούμε
+        russian: сказали бы
+        english: (that) we should have said
+      - greek: να πείτε
+        russian: сказали бы
+        english: (that) you should have said
+      - greek: να πουν
+        russian: сказали бы
+        english: (that) they should have said
+    imperative_continuous_singular:
+      - greek: λέγε
+        russian: говори
+        english: keep saying (singular)
+    imperative_continuous_plural:
+      - greek: λέγετε
+        russian: говорите
+        english: keep saying (plural)
+    imperative_simple_singular:
+      - greek: πες
+        russian: скажи
+        english: say (singular)
+    imperative_simple_plural:
+      - greek: πείτε
+        russian: скажите
+        english: say (plural)
+    imperative_negation_singular:
+      - greek: μη πεις
+        russian: не говори
+        english: do not say (singular)
+    imperative_negation_plural:
+      - greek: μη πείτε
+        russian: не говорите
+        english: do not say (plural)

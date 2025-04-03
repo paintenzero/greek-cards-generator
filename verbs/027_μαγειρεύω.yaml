@@ -1,0 +1,160 @@
+- verb: μαγειρεύω
+  translation: to cook
+  tenses:
+    present_tense:
+      - greek: μαγειρεύω
+        russian: готовлю
+        english: I cook
+      - greek: μαγειρεύεις
+        russian: готовишь
+        english: you cook
+      - greek: μαγειρεύει
+        russian: готовит
+        english: he/she/it cooks
+      - greek: μαγειρεύουμε
+        russian: готовим
+        english: we cook
+      - greek: μαγειρεύετε
+        russian: готовите
+        english: you cook
+      - greek: μαγειρεύουν
+        russian: готовят
+        english: they cook
+    future_continuous_tense:
+      - greek: θα μαγειρεύω
+        russian: буду готовить
+        english: I will be cooking
+      - greek: θα μαγειρεύεις
+        russian: будешь готовить
+        english: you will be cooking
+      - greek: θα μαγειρεύει
+        russian: будет готовить
+        english: he/she/it will be cooking
+      - greek: θα μαγειρεύουμε
+        russian: будем готовить
+        english: we will be cooking
+      - greek: θα μαγειρεύετε
+        russian: будете готовить
+        english: you will be cooking
+      - greek: θα μαγειρεύουν
+        russian: будут готовить
+        english: they will be cooking
+    simple_future_tense:
+      - greek: θα μαγειρέψω
+        russian: приготовлю
+        english: I will cook
+      - greek: θα μαγειρέψεις
+        russian: приготовишь
+        english: you will cook
+      - greek: θα μαγειρέψει
+        russian: приготовит
+        english: he/she/it will cook
+      - greek: θα μαγειρέψουμε
+        russian: приготовим
+        english: we will cook
+      - greek: θα μαγειρέψετε
+        russian: приготовите
+        english: you will cook
+      - greek: θα μαγειρέψουν
+        russian: приготовят
+        english: they will cook
+    imperfect_past_tense:
+      - greek: μαγείρευα
+        russian: готовил
+        english: I was cooking
+      - greek: μαγείρευες
+        russian: готовил
+        english: you were cooking
+      - greek: μαγείρευε
+        russian: готовил
+        english: he/she/it was cooking
+      - greek: μαγειρεύαμε
+        russian: готовили
+        english: we were cooking
+      - greek: μαγειρεύατε
+        russian: готовили
+        english: you were cooking
+      - greek: μαγείρευαν
+        russian: готовили
+        english: they were cooking
+    simple_past_tense:
+      - greek: μαγείρεψα
+        russian: приготовил
+        english: I cooked
+      - greek: μαγείρεψες
+        russian: приготовил
+        english: you cooked
+      - greek: μαγείρεψε
+        russian: приготовил
+        english: he/she/it cooked
+      - greek: μαγειρέψαμε
+        russian: приготовили
+        english: we cooked
+      - greek: μαγειρέψατε
+        russian: приготовили
+        english: you cooked
+      - greek: μαγείρεψαν
+        russian: приготовили
+        english: they cooked
+    continuous_subjunctive_mood:
+      - greek: να μαγειρεύω
+        russian: готовил бы
+        english: (that) I should cook
+      - greek: να μαγειρεύεις
+        russian: готовил бы
+        english: (that) you should cook
+      - greek: να μαγειρεύει
+        russian: готовил бы
+        english: (that) he/she/it should cook
+      - greek: να μαγειρεύουμε
+        russian: готовили бы
+        english: (that) we should cook
+      - greek: να μαγειρεύετε
+        russian: готовили бы
+        english: (that) you should cook
+      - greek: να μαγειρεύουν
+        russian: готовили бы
+        english: (that) they should cook
+    simple_subjunctive_mood:
+      - greek: να μαγειρέψω
+        russian: приготовил бы
+        english: (that) I should have cooked
+      - greek: να μαγειρέψεις
+        russian: приготовил бы
+        english: (that) you should have cooked
+      - greek: να μαγειρέψει
+        russian: приготовил бы
+        english: (that) he/she/it should have cooked
+      - greek: να μαγειρέψουμε
+        russian: приготовили бы
+        english: (that) we should have cooked
+      - greek: να μαγειρέψετε
+        russian: приготовили бы
+        english: (that) you should have cooked
+      - greek: να μαγειρέψουν
+        russian: приготовили бы
+        english: (that) they should have cooked
+    imperative_continuous_singular:
+      - greek: μαγείρευε
+        russian: готовь
+        english: keep cooking (singular)
+    imperative_continuous_plural:
+      - greek: μαγειρεύετε
+        russian: готовьте
+        english: keep cooking (plural)
+    imperative_simple_singular:
+      - greek: μαγείρεψε
+        russian: приготовь
+        english: cook (singular)
+    imperative_simple_plural:
+      - greek: μαγειρέψτε
+        russian: приготовьте
+        english: cook (plural)
+    imperative_negation_singular:
+      - greek: μη μαγειρέψεις
+        russian: не готовь
+        english: do not cook (singular)
+    imperative_negation_plural:
+      - greek: μη μαγειρέψετε
+        russian: не готовьте
+        english: do not cook (plural)

@@ -1,0 +1,160 @@
+- verb: ξεχνάω/ξεχνώ
+  translation: to forget
+  tenses:
+    present_tense:
+      - greek: ξεχνάω/ξεχνώ
+        russian: забываю
+        english: I forget
+      - greek: ξεχνάς
+        russian: забываешь
+        english: you forget
+      - greek: ξεχνάει/ξεχνά
+        russian: забывает
+        english: he/she/it forgets
+      - greek: ξεχνάμε
+        russian: забываем
+        english: we forget
+      - greek: ξεχνάτε
+        russian: забываете
+        english: you forget
+      - greek: ξεχνάνε/ξεχνούν
+        russian: забывают
+        english: they forget
+    future_continuous_tense:
+      - greek: θα ξεχνάω/θα ξεχνώ
+        russian: буду забывать
+        english: I will be forgetting
+      - greek: θα ξεχνάς
+        russian: будешь забывать
+        english: you will be forgetting
+      - greek: θα ξεχνάει/θα ξεχνά
+        russian: будет забывать
+        english: he/she/it will be forgetting
+      - greek: θα ξεχνάμε
+        russian: будем забывать
+        english: we will be forgetting
+      - greek: θα ξεχνάτε
+        russian: будете забывать
+        english: you will be forgetting
+      - greek: θα ξεχνάνε/θα ξεχνούν
+        russian: будут забывать
+        english: they will be forgetting
+    simple_future_tense:
+      - greek: θα ξεχάσω
+        russian: забуду
+        english: I will forget
+      - greek: θα ξεχάσεις
+        russian: забудешь
+        english: you will forget
+      - greek: θα ξεχάσει
+        russian: забудет
+        english: he/she/it will forget
+      - greek: θα ξεχάσουμε
+        russian: забудем
+        english: we will forget
+      - greek: θα ξεχάσετε
+        russian: забудете
+        english: you will forget
+      - greek: θα ξεχάσουν
+        russian: забудут
+        english: they will forget
+    imperfect_past_tense:
+      - greek: ξεχνούσα
+        russian: забывал
+        english: I was forgetting
+      - greek: ξεχνούσες
+        russian: забывал
+        english: you were forgetting
+      - greek: ξεχνούσε
+        russian: забывал
+        english: he/she/it was forgetting
+      - greek: ξεχνούσαμε
+        russian: забывали
+        english: we were forgetting
+      - greek: ξεχνούσατε
+        russian: забывали
+        english: you were forgetting
+      - greek: ξεχνούσαν
+        russian: забывали
+        english: they were forgetting
+    simple_past_tense:
+      - greek: ξέχασα
+        russian: забыл
+        english: I forgot
+      - greek: ξέχασες
+        russian: забыл
+        english: you forgot
+      - greek: ξέχασε
+        russian: забыл
+        english: he/she/it forgot
+      - greek: ξεχάσαμε
+        russian: забыли
+        english: we forgot
+      - greek: ξεχάσατε
+        russian: забыли
+        english: you forgot
+      - greek: ξέχασαν
+        russian: забыли
+        english: they forgot
+    continuous_subjunctive_mood:
+      - greek: να ξεχνάω/να ξεχνώ
+        russian: забывал бы
+        english: (that) I should forget
+      - greek: να ξεχνάς
+        russian: забывал бы
+        english: (that) you should forget
+      - greek: να ξεχνάει/να ξεχνά
+        russian: забывал бы
+        english: (that) he/she/it should forget
+      - greek: να ξεχνάμε
+        russian: забывали бы
+        english: (that) we should forget
+      - greek: να ξεχνάτε
+        russian: забывали бы
+        english: (that) you should forget
+      - greek: να ξεχνάνε/να ξεχνούν
+        russian: забывали бы
+        english: (that) they should forget
+    simple_subjunctive_mood:
+      - greek: να ξεχάσω
+        russian: забыл бы
+        english: (that) I should have forgotten
+      - greek: να ξεχάσεις
+        russian: забыл бы
+        english: (that) you should have forgotten
+      - greek: να ξεχάσει
+        russian: забыл бы
+        english: (that) he/she/it should have forgotten
+      - greek: να ξεχάσουμε
+        russian: забыли бы
+        english: (that) we should have forgotten
+      - greek: να ξεχάσετε
+        russian: забыли бы
+        english: (that) you should have forgotten
+      - greek: να ξεχάσουν
+        russian: забыли бы
+        english: (that) they should have forgotten
+    imperative_continuous_singular:
+      - greek: ξέχνα
+        russian: забывай
+        english: keep forgetting (singular)
+    imperative_continuous_plural:
+      - greek: ξεχνάτε
+        russian: забывайте
+        english: keep forgetting (plural)
+    imperative_simple_singular:
+      - greek: ξέχασε
+        russian: забудь
+        english: forget (singular)
+    imperative_simple_plural:
+      - greek: ξεχάστε
+        russian: забудьте
+        english: forget (plural)
+    imperative_negation_singular:
+      - greek: μην ξεχάσεις
+        russian: не забывай
+        english: do not forget (singular)
+    imperative_negation_plural:
+      - greek: μην ξεχάσετε
+        russian: не забывайте
+        english: do not forget (plural)

@@ -1,0 +1,160 @@
+- verb: ρίχνω
+  translation: to throw
+  tenses:
+    present_tense:
+      - greek: ρίχνω
+        russian: бросаю
+        english: I throw
+      - greek: ρίχνεις
+        russian: бросаешь
+        english: you throw
+      - greek: ρίχνει
+        russian: бросает
+        english: he/she/it throws
+      - greek: ρίχνουμε
+        russian: бросаем
+        english: we throw
+      - greek: ρίχνετε
+        russian: бросаете
+        english: you (plural) throw
+      - greek: ρίχνουν
+        russian: бросают
+        english: they throw
+    future_continuous_tense:
+      - greek: θα ρίχνω
+        russian: буду бросать
+        english: I will be throwing
+      - greek: θα ρίχνεις
+        russian: будешь бросать
+        english: you will be throwing
+      - greek: θα ρίχνει
+        russian: будет бросать
+        english: he/she/it will be throwing
+      - greek: θα ρίχνουμε
+        russian: будем бросать
+        english: we will be throwing
+      - greek: θα ρίχνετε
+        russian: будете бросать
+        english: you (plural) will be throwing
+      - greek: θα ρίχνουν
+        russian: будут бросать
+        english: they will be throwing
+    simple_future_tense:
+      - greek: θα ρίξω
+        russian: брошу
+        english: I will throw
+      - greek: θα ρίξεις
+        russian: бросишь
+        english: you will throw
+      - greek: θα ρίξει
+        russian: бросит
+        english: he/she/it will throw
+      - greek: θα ρίξουμε
+        russian: бросим
+        english: we will throw
+      - greek: θα ρίξετε
+        russian: бросите
+        english: you (plural) will throw
+      - greek: θα ρίξουν
+        russian: бросят
+        english: they will throw
+    imperfect_past_tense:
+      - greek: έριχνα
+        russian: бросал
+        english: I was throwing
+      - greek: έριχνες
+        russian: бросал
+        english: you were throwing
+      - greek: έριχνε
+        russian: бросал
+        english: he/she/it was throwing
+      - greek: ρίχναμε
+        russian: бросали
+        english: we were throwing
+      - greek: ρίχνατε
+        russian: бросали
+        english: you (plural) were throwing
+      - greek: έριχναν
+        russian: бросали
+        english: they were throwing
+    simple_past_tense:
+      - greek: έριξα
+        russian: бросил
+        english: I threw
+      - greek: έριξες
+        russian: бросил
+        english: you threw
+      - greek: έριξε
+        russian: бросил
+        english: he/she/it threw
+      - greek: ρίξαμε
+        russian: бросили
+        english: we threw
+      - greek: ρίξατε
+        russian: бросили
+        english: you (plural) threw
+      - greek: έριξαν
+        russian: бросили
+        english: they threw
+    continuous_subjunctive_mood:
+      - greek: να ρίχνω
+        russian: бросал бы
+        english: (that) I should throw
+      - greek: να ρίχνεις
+        russian: бросал бы
+        english: (that) you should throw
+      - greek: να ρίχνει
+        russian: бросал бы
+        english: (that) he/she/it should throw
+      - greek: να ρίχνουμε
+        russian: бросали бы
+        english: (that) we should throw
+      - greek: να ρίχνετε
+        russian: бросали бы
+        english: (that) you should throw
+      - greek: να ρίχνουν
+        russian: бросали бы
+        english: (that) they should throw
+    simple_subjunctive_mood:
+      - greek: να ρίξω
+        russian: бросил бы
+        english: (that) I should have thrown
+      - greek: να ρίξεις
+        russian: бросил бы
+        english: (that) you should have thrown
+      - greek: να ρίξει
+        russian: бросил бы
+        english: (that) he/she/it should have thrown
+      - greek: να ρίξουμε
+        russian: бросили бы
+        english: (that) we should have thrown
+      - greek: να ρίξετε
+        russian: бросили бы
+        english: (that) you (plural) should have thrown
+      - greek: να ρίξουν
+        russian: бросили бы
+        english: (that) they should have thrown
+    imperative_continuous_singular:
+      - greek: ρίχνε
+        russian: бросай
+        english: keep throwing (singular)
+    imperative_continuous_plural:
+      - greek: ρίχνετε
+        russian: бросайте
+        english: keep throwing (plural)
+    imperative_simple_singular:
+      - greek: ρίξε
+        russian: брось
+        english: throw (singular)
+    imperative_simple_plural:
+      - greek: ρίξτε
+        russian: бросьте
+        english: throw (plural)
+    imperative_negation_singular:
+      - greek: μη ρίξεις
+        russian: не бросай
+        english: do not throw (singular)
+    imperative_negation_plural:
+      - greek: μη ρίξετε
+        russian: не бросайте
+        english: do not throw (plural)

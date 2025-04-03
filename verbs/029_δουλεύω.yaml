@@ -1,0 +1,160 @@
+- verb: δουλεύω
+  translation: to work
+  tenses:
+    present_tense:
+      - greek: δουλεύω
+        russian: работаю
+        english: I work
+      - greek: δουλεύεις
+        russian: работаешь
+        english: you work
+      - greek: δουλεύει
+        russian: работает
+        english: he/she/it works
+      - greek: δουλεύουμε
+        russian: работаем
+        english: we work
+      - greek: δουλεύετε
+        russian: работаете
+        english: you work
+      - greek: δουλεύουν
+        russian: работают
+        english: they work
+    future_continuous_tense:
+      - greek: θα δουλεύω
+        russian: буду работать
+        english: I will be working
+      - greek: θα δουλεύεις
+        russian: будешь работать
+        english: you will be working
+      - greek: θα δουλεύει
+        russian: будет работать
+        english: he/she/it will be working
+      - greek: θα δουλεύουμε
+        russian: будем работать
+        english: we will be working
+      - greek: θα δουλεύετε
+        russian: будете работать
+        english: you will be working
+      - greek: θα δουλεύουν
+        russian: будут работать
+        english: they will be working
+    simple_future_tense:
+      - greek: θα δουλέψω
+        russian: поработаю
+        english: I will work
+      - greek: θα δουλέψεις
+        russian: поработаешь
+        english: you will work
+      - greek: θα δουλέψει
+        russian: поработает
+        english: he/she/it will work
+      - greek: θα δουλέψουμε
+        russian: поработаем
+        english: we will work
+      - greek: θα δουλέψετε
+        russian: поработаете
+        english: you will work
+      - greek: θα δουλέψουν
+        russian: поработают
+        english: they will work
+    imperfect_past_tense:
+      - greek: δούλευα
+        russian: работал
+        english: I was working
+      - greek: δούλευες
+        russian: работал
+        english: you were working
+      - greek: δούλευε
+        russian: работал
+        english: he/she/it was working
+      - greek: δουλεύαμε
+        russian: работали
+        english: we were working
+      - greek: δουλεύατε
+        russian: работали
+        english: you were working
+      - greek: δούλευαν
+        russian: работали
+        english: they were working
+    simple_past_tense:
+      - greek: δούλεψα
+        russian: поработал
+        english: I worked
+      - greek: δούλεψες
+        russian: поработал
+        english: you worked
+      - greek: δούλεψε
+        russian: поработал
+        english: he/she/it worked
+      - greek: δουλέψαμε
+        russian: поработали
+        english: we worked
+      - greek: δουλέψατε
+        russian: поработали
+        english: you worked
+      - greek: δούλεψαν
+        russian: поработали
+        english: they worked
+    continuous_subjunctive_mood:
+      - greek: να δουλεύω
+        russian: работал бы
+        english: (that) I should work
+      - greek: να δουλεύεις
+        russian: работал бы
+        english: (that) you should work
+      - greek: να δουλεύει
+        russian: работал бы
+        english: (that) he/she/it should work
+      - greek: να δουλεύουμε
+        russian: работали бы
+        english: (that) we should work
+      - greek: να δουλεύετε
+        russian: работали бы
+        english: (that) you should work
+      - greek: να δουλεύουν
+        russian: работали бы
+        english: (that) they should work
+    simple_subjunctive_mood:
+      - greek: να δουλέψω
+        russian: поработал бы
+        english: (that) I should have worked
+      - greek: να δουλέψεις
+        russian: поработал бы
+        english: (that) you should have worked
+      - greek: να δουλέψει
+        russian: поработал бы
+        english: (that) he/she/it should have worked
+      - greek: να δουλέψουμε
+        russian: поработали бы
+        english: (that) we should have worked
+      - greek: να δουλέψετε
+        russian: поработали бы
+        english: (that) you should have worked
+      - greek: να δουλέψουν
+        russian: поработали бы
+        english: (that) they should have worked
+    imperative_continuous_singular:
+      - greek: δούλευε
+        russian: работай
+        english: keep working (singular)
+    imperative_continuous_plural:
+      - greek: δουλεύετε
+        russian: работайте
+        english: keep working (plural)
+    imperative_simple_singular:
+      - greek: δούλεψε
+        russian: поработай
+        english: work (singular)
+    imperative_simple_plural:
+      - greek: δουλέψτε
+        russian: поработайте
+        english: work (plural)
+    imperative_negation_singular:
+      - greek: μη δουλέψεις
+        russian: не работай
+        english: do not work (singular)
+    imperative_negation_plural:
+      - greek: μη δουλέψετε
+        russian: не работайте
+        english: do not work (plural)

@@ -1,0 +1,160 @@
+- verb: περιμένω
+  translation: to wait
+  tenses:
+    present_tense:
+      - greek: περιμένω
+        russian: жду
+        english: I wait
+      - greek: περιμένεις
+        russian: ждёшь
+        english: you wait
+      - greek: περιμένει
+        russian: ждёт
+        english: he/she/it waits
+      - greek: περιμένουμε
+        russian: ждём
+        english: we wait
+      - greek: περιμένετε
+        russian: ждёте
+        english: you wait
+      - greek: περιμένουν
+        russian: ждут
+        english: they wait
+    future_continuous_tense:
+      - greek: θα περιμένω
+        russian: буду ждать
+        english: I will be waiting
+      - greek: θα περιμένεις
+        russian: будешь ждать
+        english: you will be waiting
+      - greek: θα περιμένει
+        russian: будет ждать
+        english: he/she/it will be waiting
+      - greek: θα περιμένουμε
+        russian: будем ждать
+        english: we will be waiting
+      - greek: θα περιμένετε
+        russian: будете ждать
+        english: you will be waiting
+      - greek: θα περιμένουν
+        russian: будут ждать
+        english: they will be waiting
+    simple_future_tense:
+      - greek: θα περιμένω
+        russian: подожду
+        english: I will wait
+      - greek: θα περιμένεις
+        russian: подождёшь
+        english: you will wait
+      - greek: θα περιμένει
+        russian: подождёт
+        english: he/she/it will wait
+      - greek: θα περιμένουμε
+        russian: подождём
+        english: we will wait
+      - greek: θα περιμένετε
+        russian: подождёте
+        english: you will wait
+      - greek: θα περιμένουν
+        russian: подождут
+        english: they will wait
+    imperfect_past_tense:
+      - greek: περίμενα
+        russian: ждал
+        english: I was waiting
+      - greek: περίμενες
+        russian: ждал
+        english: you were waiting
+      - greek: περίμενε
+        russian: ждал
+        english: he/she/it was waiting
+      - greek: περιμέναμε
+        russian: ждали
+        english: we were waiting
+      - greek: περιμένατε
+        russian: ждали
+        english: you were waiting
+      - greek: περίμεναν
+        russian: ждали
+        english: they were waiting
+    simple_past_tense:
+      - greek: περίμενα
+        russian: подождал
+        english: I waited
+      - greek: περίμενες
+        russian: подождал
+        english: you waited
+      - greek: περίμενε
+        russian: подождал
+        english: he/she/it waited
+      - greek: περιμέναμε
+        russian: подождали
+        english: we waited
+      - greek: περιμένατε
+        russian: подождали
+        english: you waited
+      - greek: περίμεναν
+        russian: подождали
+        english: they waited
+    continuous_subjunctive_mood:
+      - greek: να περιμένω
+        russian: ждал бы
+        english: (that) I should wait
+      - greek: να περιμένεις
+        russian: ждал бы
+        english: (that) you should wait
+      - greek: να περιμένει
+        russian: ждал бы
+        english: (that) he/she/it should wait
+      - greek: να περιμένουμε
+        russian: ждали бы
+        english: (that) we should wait
+      - greek: να περιμένετε
+        russian: ждали бы
+        english: (that) you should wait
+      - greek: να περιμένουν
+        russian: ждали бы
+        english: (that) they should wait
+    simple_subjunctive_mood:
+      - greek: να περιμένω
+        russian: подождал бы
+        english: (that) I should have waited
+      - greek: να περιμένεις
+        russian: подождал бы
+        english: (that) you should have waited
+      - greek: να περιμένει
+        russian: подождал бы
+        english: (that) he/she/it should have waited
+      - greek: να περιμένουμε
+        russian: подождали бы
+        english: (that) we should have waited
+      - greek: να περιμένετε
+        russian: подождали бы
+        english: (that) you should have waited
+      - greek: να περιμένουν
+        russian: подождали бы
+        english: (that) they should have waited
+    imperative_continuous_singular:
+      - greek: περίμενε
+        russian: жди
+        english: keep waiting (singular)
+    imperative_continuous_plural:
+      - greek: περιμένετε
+        russian: ждите
+        english: keep waiting (plural)
+    imperative_simple_singular:
+      - greek: περίμενε
+        russian: подожди
+        english: wait (singular)
+    imperative_simple_plural:
+      - greek: περιμένετε
+        russian: подождите
+        english: wait (plural)
+    imperative_negation_singular:
+      - greek: μην περιμένεις
+        russian: не жди
+        english: do not wait (singular)
+    imperative_negation_plural:
+      - greek: μην περιμένετε
+        russian: не ждите
+        english: do not wait (plural)

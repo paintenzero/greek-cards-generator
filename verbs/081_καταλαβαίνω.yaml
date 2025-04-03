@@ -1,0 +1,160 @@
+- verb: καταλαβαίνω
+  translation: to understand
+  tenses:
+    present_tense:
+      - greek: καταλαβαίνω
+        russian: понимаю
+        english: I understand
+      - greek: καταλαβαίνεις
+        russian: понимаешь
+        english: you understand
+      - greek: καταλαβαίνει
+        russian: понимает
+        english: he/she/it understands
+      - greek: καταλαβαίνουμε
+        russian: понимаем
+        english: we understand
+      - greek: καταλαβαίνετε
+        russian: понимаете
+        english: you understand
+      - greek: καταλαβαίνουν
+        russian: понимают
+        english: they understand
+    future_continuous_tense:
+      - greek: θα καταλαβαίνω
+        russian: буду понимать
+        english: I will be understanding
+      - greek: θα καταλαβαίνεις
+        russian: будешь понимать
+        english: you will be understanding
+      - greek: θα καταλαβαίνει
+        russian: будет понимать
+        english: he/she/it will be understanding
+      - greek: θα καταλαβαίνουμε
+        russian: будем понимать
+        english: we will be understanding
+      - greek: θα καταλαβαίνετε
+        russian: будете понимать
+        english: you will be understanding
+      - greek: θα καταλαβαίνουν
+        russian: будут понимать
+        english: they will be understanding
+    simple_future_tense:
+      - greek: θα καταλάβω
+        russian: пойму
+        english: I will understand
+      - greek: θα καταλάβεις
+        russian: поймёшь
+        english: you will understand
+      - greek: θα καταλάβει
+        russian: поймёт
+        english: he/she/it will understand
+      - greek: θα καταλάβουμε
+        russian: поймём
+        english: we will understand
+      - greek: θα καταλάβετε
+        russian: поймёте
+        english: you will understand
+      - greek: θα καταλάβουν
+        russian: поймут
+        english: they will understand
+    imperfect_past_tense:
+      - greek: καταλάβαινα
+        russian: понимал
+        english: I was understanding
+      - greek: καταλάβαινες
+        russian: понимал
+        english: you were understanding
+      - greek: καταλάβαινε
+        russian: понимал
+        english: he/she/it was understanding
+      - greek: καταλαβαίναμε
+        russian: понимали
+        english: we were understanding
+      - greek: καταλαβαίνατε
+        russian: понимали
+        english: you were understanding
+      - greek: καταλάβαιναν
+        russian: понимали
+        english: they were understanding
+    simple_past_tense:
+      - greek: κατάλαβα
+        russian: понял
+        english: I understood
+      - greek: κατάλαβες
+        russian: понял
+        english: you understood
+      - greek: κατάλαβε
+        russian: понял
+        english: he/she/it understood
+      - greek: καταλάβαμε
+        russian: поняли
+        english: we understood
+      - greek: καταλάβατε
+        russian: поняли
+        english: you understood
+      - greek: κατάλαβαν
+        russian: поняли
+        english: they understood
+    continuous_subjunctive_mood:
+      - greek: να καταλαβαίνω
+        russian: понимал бы
+        english: (that) I should understand
+      - greek: να καταλαβαίνεις
+        russian: понимал бы
+        english: (that) you should understand
+      - greek: να καταλαβαίνει
+        russian: понимал бы
+        english: (that) he/she/it should understand
+      - greek: να καταλαβαίνουμε
+        russian: понимали бы
+        english: (that) we should understand
+      - greek: να καταλαβαίνετε
+        russian: понимали бы
+        english: (that) you should understand
+      - greek: να καταλαβαίνουν
+        russian: понимали бы
+        english: (that) they should understand
+    simple_subjunctive_mood:
+      - greek: να καταλάβω
+        russian: понял бы
+        english: (that) I should have understood
+      - greek: να καταλάβεις
+        russian: понял бы
+        english: (that) you should have understood
+      - greek: να καταλάβει
+        russian: понял бы
+        english: (that) he/she/it should have understood
+      - greek: να καταλάβουμε
+        russian: поняли бы
+        english: (that) we should have understood
+      - greek: να καταλάβετε
+        russian: поняли бы
+        english: (that) you should have understood
+      - greek: να καταλάβουν
+        russian: поняли бы
+        english: (that) they should have understood
+    imperative_continuous_singular:
+      - greek: καταλάβαινε
+        russian: понимай
+        english: keep understanding (singular)
+    imperative_continuous_plural:
+      - greek: καταλαβαίνετε
+        russian: понимайте
+        english: keep understanding (plural)
+    imperative_simple_singular:
+      - greek: κατάλαβε
+        russian: пойми
+        english: understand (singular)
+    imperative_simple_plural:
+      - greek: καταλάβετε
+        russian: поймите
+        english: understand (plural)
+    imperative_negation_singular:
+      - greek: μην καταλάβεις
+        russian: не понимай
+        english: do not understand (singular)
+    imperative_negation_plural:
+      - greek: μην καταλάβετε
+        russian: не понимайте
+        english: do not understand (plural)

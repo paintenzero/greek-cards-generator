@@ -1,0 +1,160 @@
+- verb: ανοίγω
+  translation: to open
+  tenses:
+    present_tense:
+      - greek: ανοίγω
+        russian: открываю
+        english: I open
+      - greek: ανοίγεις
+        russian: открываешь
+        english: you open
+      - greek: ανοίγει
+        russian: открывает
+        english: he/she/it opens
+      - greek: ανοίγουμε
+        russian: открываем
+        english: we open
+      - greek: ανοίγετε
+        russian: открываете
+        english: you open
+      - greek: ανοίγουν
+        russian: открывают
+        english: they open
+    future_continuous_tense:
+      - greek: θα ανοίγω
+        russian: буду открывать
+        english: I will be opening
+      - greek: θα ανοίγεις
+        russian: будешь открывать
+        english: you will be opening
+      - greek: θα ανοίγει
+        russian: будет открывать
+        english: he/she/it will be opening
+      - greek: θα ανοίγουμε
+        russian: будем открывать
+        english: we will be opening
+      - greek: θα ανοίγετε
+        russian: будете открывать
+        english: you will be opening
+      - greek: θα ανοίγουν
+        russian: будут открывать
+        english: they will be opening
+    simple_future_tense:
+      - greek: θα ανοίξω
+        russian: открою
+        english: I will open
+      - greek: θα ανοίξεις
+        russian: откроешь
+        english: you will open
+      - greek: θα ανοίξει
+        russian: откроет
+        english: he/she/it will open
+      - greek: θα ανοίξουμε
+        russian: откроем
+        english: we will open
+      - greek: θα ανοίξετε
+        russian: откроете
+        english: you will open
+      - greek: θα ανοίξουν
+        russian: откроют
+        english: they will open
+    imperfect_past_tense:
+      - greek: άνοιγα
+        russian: открывал
+        english: I was opening
+      - greek: άνοιγες
+        russian: открывал
+        english: you were opening
+      - greek: άνοιγε
+        russian: открывал
+        english: he/she/it was opening
+      - greek: ανοίγαμε
+        russian: открывали
+        english: we were opening
+      - greek: ανοίγατε
+        russian: открывали
+        english: you were opening
+      - greek: άνοιγαν
+        russian: открывали
+        english: they were opening
+    simple_past_tense:
+      - greek: άνοιξα
+        russian: открыл
+        english: I opened
+      - greek: άνοιξες
+        russian: открыл
+        english: you opened
+      - greek: άνοιξε
+        russian: открыл
+        english: he/she/it opened
+      - greek: ανοίξαμε
+        russian: открыли
+        english: we opened
+      - greek: ανοίξατε
+        russian: открыли
+        english: you opened
+      - greek: άνοιξαν
+        russian: открыли
+        english: they opened
+    continuous_subjunctive_mood:
+      - greek: να ανοίγω
+        russian: открывал бы
+        english: (that) I should open
+      - greek: να ανοίγεις
+        russian: открывал бы
+        english: (that) you should open
+      - greek: να ανοίγει
+        russian: открывал бы
+        english: (that) he/she/it should open
+      - greek: να ανοίγουμε
+        russian: открывали бы
+        english: (that) we should open
+      - greek: να ανοίγετε
+        russian: открывали бы
+        english: (that) you should open
+      - greek: να ανοίγουν
+        russian: открывали бы
+        english: (that) they should open
+    simple_subjunctive_mood:
+      - greek: να ανοίξω
+        russian: открыл бы
+        english: (that) I should have opened
+      - greek: να ανοίξεις
+        russian: открыл бы
+        english: (that) you should have opened
+      - greek: να ανοίξει
+        russian: открыл бы
+        english: (that) he/she/it should have opened
+      - greek: να ανοίξουμε
+        russian: открыли бы
+        english: (that) we should have opened
+      - greek: να ανοίξετε
+        russian: открыли бы
+        english: (that) you should have opened
+      - greek: να ανοίξουν
+        russian: открыли бы
+        english: (that) they should have opened
+    imperative_continuous_singular:
+      - greek: άνοιγε
+        russian: открывай
+        english: keep opening (singular)
+    imperative_continuous_plural:
+      - greek: ανοίγετε
+        russian: открывайте
+        english: keep opening (plural)
+    imperative_simple_singular:
+      - greek: άνοιξε
+        russian: открой
+        english: open (singular)
+    imperative_simple_plural:
+      - greek: ανοίξτε
+        russian: откройте
+        english: open (plural)
+    imperative_negation_singular:
+      - greek: μην ανοίξεις
+        russian: не открывай
+        english: do not open (singular)
+    imperative_negation_plural:
+      - greek: μην ανοίξετε
+        russian: не открывайте
+        english: do not open (plural)

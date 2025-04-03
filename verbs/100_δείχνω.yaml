@@ -1,0 +1,160 @@
+- verb: δείχνω
+  translation: to show
+  tenses:
+    present_tense:
+      - greek: δείχνω
+        russian: показываю
+        english: I show
+      - greek: δείχνεις
+        russian: показываешь
+        english: you show
+      - greek: δείχνει
+        russian: показывает
+        english: he/she/it shows
+      - greek: δείχνουμε
+        russian: показываем
+        english: we show
+      - greek: δείχνετε
+        russian: показываете
+        english: you (plural) show
+      - greek: δείχνουν
+        russian: показывают
+        english: they show
+    future_continuous_tense:
+      - greek: θα δείχνω
+        russian: буду показывать
+        english: I will be showing
+      - greek: θα δείχνεις
+        russian: будешь показывать
+        english: you will be showing
+      - greek: θα δείχνει
+        russian: будет показывать
+        english: he/she/it will be showing
+      - greek: θα δείχνουμε
+        russian: будем показывать
+        english: we will be showing
+      - greek: θα δείχνετε
+        russian: будете показывать
+        english: you (plural) will be showing
+      - greek: θα δείχνουν
+        russian: будут показывать
+        english: they will be showing
+    simple_future_tense:
+      - greek: θα δείξω
+        russian: покажу
+        english: I will show
+      - greek: θα δείξεις
+        russian: покажешь
+        english: you will show
+      - greek: θα δείξει
+        russian: покажет
+        english: he/she/it will show
+      - greek: θα δείξουμε
+        russian: покажем
+        english: we will show
+      - greek: θα δείξετε
+        russian: покажете
+        english: you (plural) will show
+      - greek: θα δείξουν
+        russian: покажут
+        english: they will show
+    imperfect_past_tense:
+      - greek: έδειχνα
+        russian: показывал
+        english: I was showing
+      - greek: έδειχνες
+        russian: показывал
+        english: you were showing
+      - greek: έδειχνε
+        russian: показывал
+        english: he/she/it was showing
+      - greek: δείχναμε
+        russian: показывали
+        english: we were showing
+      - greek: δείχνατε
+        russian: показывали
+        english: you (plural) were showing
+      - greek: έδειχναν
+        russian: показывали
+        english: they were showing
+    simple_past_tense:
+      - greek: έδειξα
+        russian: показал
+        english: I showed
+      - greek: έδειξες
+        russian: показал
+        english: you showed
+      - greek: έδειξε
+        russian: показал
+        english: he/she/it showed
+      - greek: δείξαμε
+        russian: показали
+        english: we showed
+      - greek: δείξατε
+        russian: показали
+        english: you (plural) showed
+      - greek: έδειξαν
+        russian: показали
+        english: they showed
+    continuous_subjunctive_mood:
+      - greek: να δείχνω
+        russian: показывал бы
+        english: (that) I should show
+      - greek: να δείχνεις
+        russian: показывал бы
+        english: (that) you should show
+      - greek: να δείχνει
+        russian: показывал бы
+        english: (that) he/she/it should show
+      - greek: να δείχνουμε
+        russian: показывали бы
+        english: (that) we should show
+      - greek: να δείχνετε
+        russian: показывали бы
+        english: (that) you should show
+      - greek: να δείχνουν
+        russian: показывали бы
+        english: (that) they should show
+    simple_subjunctive_mood:
+      - greek: να δείξω
+        russian: показал бы
+        english: (that) I should have shown
+      - greek: να δείξεις
+        russian: показал бы
+        english: (that) you should have shown
+      - greek: να δείξει
+        russian: показал бы
+        english: (that) he/she/it should have shown
+      - greek: να δείξουμε
+        russian: показали бы
+        english: (that) we should have shown
+      - greek: να δείξετε
+        russian: показали бы
+        english: (that) you (plural) should have shown
+      - greek: να δείξουν
+        russian: показали бы
+        english: (that) they should have shown
+    imperative_continuous_singular:
+      - greek: δείχνε
+        russian: показывай
+        english: keep showing (singular)
+    imperative_continuous_plural:
+      - greek: δείχνετε
+        russian: показывайте
+        english: keep showing (plural)
+    imperative_simple_singular:
+      - greek: δείξε
+        russian: покажи
+        english: show (singular)
+    imperative_simple_plural:
+      - greek: δείξτε
+        russian: покажите
+        english: show (plural)
+    imperative_negation_singular:
+      - greek: μη δείξεις
+        russian: не показывай
+        english: do not show (singular)
+    imperative_negation_plural:
+      - greek: μη δείξετε
+        russian: не показывайте
+        english: do not show (plural)

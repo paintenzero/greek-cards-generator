@@ -1,0 +1,160 @@
+- verb: πηγαίνω
+  translation: to go
+  tenses:
+    present_tense:
+      - greek: πηγαίνω
+        russian: иду
+        english: I go
+      - greek: πηγαίνεις
+        russian: идёшь
+        english: you go
+      - greek: πηγαίνει
+        russian: идёт
+        english: he/she/it goes
+      - greek: πηγαίνουμε
+        russian: идём
+        english: we go
+      - greek: πηγαίνετε
+        russian: идёте
+        english: you go
+      - greek: πηγαίνουν
+        russian: идут
+        english: they go
+    future_continuous_tense:
+      - greek: θα πηγαίνω
+        russian: буду идти
+        english: I will be going
+      - greek: θα πηγαίνεις
+        russian: будешь идти
+        english: you will be going
+      - greek: θα πηγαίνει
+        russian: будет идти
+        english: he/she/it will be going
+      - greek: θα πηγαίνουμε
+        russian: будем идти
+        english: we will be going
+      - greek: θα πηγαίνετε
+        russian: будете идти
+        english: you will be going
+      - greek: θα πηγαίνουν
+        russian: будут идти
+        english: they will be going
+    simple_future_tense:
+      - greek: θα πάω
+        russian: пойду
+        english: I will go
+      - greek: θα πας
+        russian: пойдёшь
+        english: you will go
+      - greek: θα πάει
+        russian: пойдёт
+        english: he/she/it will go
+      - greek: θα πάμε
+        russian: пойдём
+        english: we will go
+      - greek: θα πάτε
+        russian: пойдёте
+        english: you will go
+      - greek: θα πάνε
+        russian: пойдут
+        english: they will go
+    imperfect_past_tense:
+      - greek: πήγαινα
+        russian: шёл
+        english: I was going
+      - greek: πήγαινες
+        russian: шёл
+        english: you were going
+      - greek: πήγαινε
+        russian: шёл
+        english: he/she/it was going
+      - greek: πηγαίναμε
+        russian: шли
+        english: we were going
+      - greek: πηγαίνατε
+        russian: шли
+        english: you were going
+      - greek: πήγαιναν
+        russian: шли
+        english: they were going
+    simple_past_tense:
+      - greek: πήγα
+        russian: пошёл
+        english: I went
+      - greek: πήγες
+        russian: пошёл
+        english: you went
+      - greek: πήγε
+        russian: пошёл
+        english: he/she/it went
+      - greek: πήγαμε
+        russian: пошли
+        english: we went
+      - greek: πήγατε
+        russian: пошли
+        english: you went
+      - greek: πήγαν
+        russian: пошли
+        english: they went
+    continuous_subjunctive_mood:
+      - greek: να πηγαίνω
+        russian: шёл бы
+        english: (that) I should go
+      - greek: να πηγαίνεις
+        russian: шёл бы
+        english: (that) you should go
+      - greek: να πηγαίνει
+        russian: шёл бы
+        english: (that) he/she/it should go
+      - greek: να πηγαίνουμε
+        russian: шли бы
+        english: (that) we should go
+      - greek: να πηγαίνετε
+        russian: шли бы
+        english: (that) you should go
+      - greek: να πηγαίνουν
+        russian: шли бы
+        english: (that) they should go
+    simple_subjunctive_mood:
+      - greek: να πάω
+        russian: пошёл бы
+        english: (that) I should have gone
+      - greek: να πας
+        russian: пошёл бы
+        english: (that) you should have gone
+      - greek: να πάει
+        russian: пошёл бы
+        english: (that) he/she/it should have gone
+      - greek: να πάμε
+        russian: пошли бы
+        english: (that) we should have gone
+      - greek: να πάτε
+        russian: пошли бы
+        english: (that) you should have gone
+      - greek: να πάνε
+        russian: пошли бы
+        english: (that) they should have gone
+    imperative_continuous_singular:
+      - greek: πήγαινε
+        russian: иди
+        english: keep going (singular)
+    imperative_continuous_plural:
+      - greek: πηγαίνετε
+        russian: идите
+        english: keep going (plural)
+    imperative_simple_singular:
+      - greek: πήγαινε/πάνε
+        russian: пойди
+        english: go (singular)
+    imperative_simple_plural:
+      - greek: πηγαίνετε/πάτε
+        russian: пойдите
+        english: go (plural)
+    imperative_negation_singular:
+      - greek: μην πηγαίνεις/μην πάς
+        russian: не иди
+        english: do not go (singular)
+    imperative_negation_plural:
+      - greek: μην πηγαίνετε/μην πάτε
+        russian: не идите
+        english: do not go (plural)

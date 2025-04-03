@@ -1,0 +1,160 @@
+- verb: έχω
+  translation: to have
+  tenses:
+    present_tense:
+      - greek: έχω
+        russian: имею
+        english: I have
+      - greek: έχεις
+        russian: имеешь
+        english: you have
+      - greek: έχει
+        russian: имеет
+        english: he/she/it has
+      - greek: έχουμε
+        russian: имеем
+        english: we have
+      - greek: έχετε
+        russian: имеете
+        english: you have
+      - greek: έχουν
+        russian: имеют
+        english: they have
+    future_continuous_tense:
+      - greek: θα έχω
+        russian: буду иметь
+        english: I will be having
+      - greek: θα έχεις
+        russian: будешь иметь
+        english: you will be having
+      - greek: θα έχει
+        russian: будет иметь
+        english: he/she/it will be having
+      - greek: θα έχουμε
+        russian: будем иметь
+        english: we will be having
+      - greek: θα έχετε
+        russian: будете иметь
+        english: you will be having
+      - greek: θα έχουν
+        russian: будут иметь
+        english: they will be having
+    simple_future_tense:
+      - greek: θα έχω
+        russian: буду иметь
+        english: I will have
+      - greek: θα έχεις
+        russian: будешь иметь
+        english: you will have
+      - greek: θα έχει
+        russian: будет иметь
+        english: he/she/it will have
+      - greek: θα έχουμε
+        russian: будем иметь
+        english: we will have
+      - greek: θα έχετε
+        russian: будете иметь
+        english: you will have
+      - greek: θα έχουν
+        russian: будут иметь
+        english: they will have
+    imperfect_past_tense:
+      - greek: είχα
+        russian: имел
+        english: I had
+      - greek: είχες
+        russian: имел
+        english: you had
+      - greek: είχε
+        russian: имел
+        english: he/she/it had
+      - greek: είχαμε
+        russian: имели
+        english: we had
+      - greek: είχατε
+        russian: имели
+        english: you had
+      - greek: είχαν
+        russian: имели
+        english: they had
+    simple_past_tense:
+      - greek: είχα
+        russian: имел
+        english: I had
+      - greek: είχες
+        russian: имел
+        english: you had
+      - greek: είχε
+        russian: имел
+        english: he/she/it had
+      - greek: είχαμε
+        russian: имели
+        english: we had
+      - greek: είχατε
+        russian: имели
+        english: you had
+      - greek: είχαν
+        russian: имели
+        english: they had
+    continuous_subjunctive_mood:
+      - greek: να έχω
+        russian: имел бы
+        english: (that) I should have
+      - greek: να έχεις
+        russian: имел бы
+        english: (that) you should have
+      - greek: να έχει
+        russian: имел бы
+        english: (that) he/she/it should have
+      - greek: να έχουμε
+        russian: имели бы
+        english: (that) we should have
+      - greek: να έχετε
+        russian: имели бы
+        english: (that) you should have
+      - greek: να έχουν
+        russian: имели бы
+        english: (that) they should have
+    simple_subjunctive_mood:
+      - greek: να έχω
+        russian: имел бы
+        english: (that) I should have had
+      - greek: να έχεις
+        russian: имел бы
+        english: (that) you should have had
+      - greek: να έχει
+        russian: имел бы
+        english: (that) he/she/it should have had
+      - greek: να έχουμε
+        russian: имели бы
+        english: (that) we should have had
+      - greek: να έχετε
+        russian: имели бы
+        english: (that) you should have had
+      - greek: να έχουν
+        russian: имели бы
+        english: (that) they should have had
+    imperative_continuous_singular:
+      - greek: έχε
+        russian: имей
+        english: have (singular)
+    imperative_continuous_plural:
+      - greek: έχετε
+        russian: имейте
+        english: have (plural)
+    imperative_simple_singular:
+      - greek: έχε
+        russian: имей
+        english: have (singular)
+    imperative_simple_plural:
+      - greek: έχετε
+        russian: имейте
+        english: have (plural)
+    imperative_negation_singular:
+      - greek: μην έχεις
+        russian: не имей
+        english: do not have (singular)
+    imperative_negation_plural:
+      - greek: μην έχετε
+        russian: не имейте
+        english: do not have (plural)

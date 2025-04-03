@@ -1,0 +1,160 @@
+- verb: ταξιδεύω
+  translation: to travel
+  tenses:
+    present_tense:
+      - greek: ταξιδεύω
+        russian: путешествую
+        english: I travel
+      - greek: ταξιδεύεις
+        russian: путешествуешь
+        english: you travel
+      - greek: ταξιδεύει
+        russian: путешествует
+        english: he/she/it travels
+      - greek: ταξιδεύουμε
+        russian: путешествуем
+        english: we travel
+      - greek: ταξιδεύετε
+        russian: путешествуете
+        english: you travel
+      - greek: ταξιδεύουν
+        russian: путешествуют
+        english: they travel
+    future_continuous_tense:
+      - greek: θα ταξιδεύω
+        russian: буду путешествовать
+        english: I will be traveling
+      - greek: θα ταξιδεύεις
+        russian: будешь путешествовать
+        english: you will be traveling
+      - greek: θα ταξιδεύει
+        russian: будет путешествовать
+        english: he/she/it will be traveling
+      - greek: θα ταξιδεύουμε
+        russian: будем путешествовать
+        english: we will be traveling
+      - greek: θα ταξιδεύετε
+        russian: будете путешествовать
+        english: you will be traveling
+      - greek: θα ταξιδεύουν
+        russian: будут путешествовать
+        english: they will be traveling
+    simple_future_tense:
+      - greek: θα ταξιδέψω
+        russian: поеду путешествовать
+        english: I will travel
+      - greek: θα ταξιδέψεις
+        russian: поедешь путешествовать
+        english: you will travel
+      - greek: θα ταξιδέψει
+        russian: поедет путешествовать
+        english: he/she/it will travel
+      - greek: θα ταξιδέψουμε
+        russian: поедем путешествовать
+        english: we will travel
+      - greek: θα ταξιδέψετε
+        russian: поедете путешествовать
+        english: you will travel
+      - greek: θα ταξιδέψουν
+        russian: поедут путешествовать
+        english: they will travel
+    imperfect_past_tense:
+      - greek: ταξίδευα
+        russian: путешествовал
+        english: I was traveling
+      - greek: ταξίδευες
+        russian: путешествовал
+        english: you were traveling
+      - greek: ταξίδευε
+        russian: путешествовал
+        english: he/she/it was traveling
+      - greek: ταξιδεύαμε
+        russian: путешествовали
+        english: we were traveling
+      - greek: ταξιδεύατε
+        russian: путешествовали
+        english: you were traveling
+      - greek: ταξίδευαν
+        russian: путешествовали
+        english: they were traveling
+    simple_past_tense:
+      - greek: ταξίδεψα
+        russian: путешествовал
+        english: I traveled
+      - greek: ταξίδεψες
+        russian: путешествовал
+        english: you traveled
+      - greek: ταξίδεψε
+        russian: путешествовал
+        english: he/she/it traveled
+      - greek: ταξιδέψαμε
+        russian: путешествовали
+        english: we traveled
+      - greek: ταξιδέψατε
+        russian: путешествовали
+        english: you traveled
+      - greek: ταξίδεψαν
+        russian: путешествовали
+        english: they traveled
+    continuous_subjunctive_mood:
+      - greek: να ταξιδεύω
+        russian: путешествовал бы
+        english: (that) I should travel
+      - greek: να ταξιδεύεις
+        russian: путешествовал бы
+        english: (that) you should travel
+      - greek: να ταξιδεύει
+        russian: путешествовал бы
+        english: (that) he/she/it should travel
+      - greek: να ταξιδεύουμε
+        russian: путешествовали бы
+        english: (that) we should travel
+      - greek: να ταξιδεύετε
+        russian: путешествовали бы
+        english: (that) you should travel
+      - greek: να ταξιδεύουν
+        russian: путешествовали бы
+        english: (that) they should travel
+    simple_subjunctive_mood:
+      - greek: να ταξιδέψω
+        russian: путешествовал бы
+        english: (that) I should have traveled
+      - greek: να ταξιδέψεις
+        russian: путешествовал бы
+        english: (that) you should have traveled
+      - greek: να ταξιδέψει
+        russian: путешествовал бы
+        english: (that) he/she/it should have traveled
+      - greek: να ταξιδέψουμε
+        russian: путешествовали бы
+        english: (that) we should have traveled
+      - greek: να ταξιδέψετε
+        russian: путешествовали бы
+        english: (that) you should have traveled
+      - greek: να ταξιδέψουν
+        russian: путешествовали бы
+        english: (that) they should have traveled
+    imperative_continuous_singular:
+      - greek: ταξίδευε
+        russian: путешествуй
+        english: keep traveling (singular)
+    imperative_continuous_plural:
+      - greek: ταξιδεύετε
+        russian: путешествуйте
+        english: keep traveling (plural)
+    imperative_simple_singular:
+      - greek: ταξίδεψε
+        russian: путешествуй
+        english: travel (singular)
+    imperative_simple_plural:
+      - greek: ταξιδέψτε
+        russian: путешествуйте
+        english: travel (plural)
+    imperative_negation_singular:
+      - greek: μην ταξιδέψεις
+        russian: не путешествуй
+        english: do not travel (singular)
+    imperative_negation_plural:
+      - greek: μην ταξιδέψετε
+        russian: не путешествуйте
+        english: do not travel (plural)

@@ -1,0 +1,160 @@
+- verb: φέρνω
+  translation: to bring
+  tenses:
+    present_tense:
+      - greek: φέρνω
+        russian: приношу
+        english: I bring
+      - greek: φέρνεις
+        russian: приносишь
+        english: you bring
+      - greek: φέρνει
+        russian: приносит
+        english: he/she/it brings
+      - greek: φέρνουμε
+        russian: приносим
+        english: we bring
+      - greek: φέρνετε
+        russian: приносите
+        english: you bring
+      - greek: φέρνουν
+        russian: приносят
+        english: they bring
+    future_continuous_tense:
+      - greek: θα φέρνω
+        russian: буду приносить
+        english: I will be bringing
+      - greek: θα φέρνεις
+        russian: будешь приносить
+        english: you will be bringing
+      - greek: θα φέρνει
+        russian: будет приносить
+        english: he/she/it will be bringing
+      - greek: θα φέρνουμε
+        russian: будем приносить
+        english: we will be bringing
+      - greek: θα φέρνετε
+        russian: будете приносить
+        english: you will be bringing
+      - greek: θα φέρνουν
+        russian: будут приносить
+        english: they will be bringing
+    simple_future_tense:
+      - greek: θα φέρω
+        russian: принесу
+        english: I will bring
+      - greek: θα φέρεις
+        russian: принесёшь
+        english: you will bring
+      - greek: θα φέρει
+        russian: принесёт
+        english: he/she/it will bring
+      - greek: θα φέρουμε
+        russian: принесём
+        english: we will bring
+      - greek: θα φέρετε
+        russian: принесёте
+        english: you will bring
+      - greek: θα φέρουν
+        russian: принесут
+        english: they will bring
+    imperfect_past_tense:
+      - greek: έφερνα
+        russian: приносил
+        english: I was bringing
+      - greek: έφερνες
+        russian: приносил
+        english: you were bringing
+      - greek: έφερνε
+        russian: приносил
+        english: he/she/it was bringing
+      - greek: φέρναμε
+        russian: приносили
+        english: we were bringing
+      - greek: φέρνατε
+        russian: приносили
+        english: you were bringing
+      - greek: έφερναν
+        russian: приносили
+        english: they were bringing
+    simple_past_tense:
+      - greek: έφερα
+        russian: принёс
+        english: I brought
+      - greek: έφερες
+        russian: принёс
+        english: you brought
+      - greek: έφερε
+        russian: принёс
+        english: he/she/it brought
+      - greek: φέραμε
+        russian: принесли
+        english: we brought
+      - greek: φέρατε
+        russian: принесли
+        english: you brought
+      - greek: έφεραν
+        russian: принесли
+        english: they brought
+    continuous_subjunctive_mood:
+      - greek: να φέρνω
+        russian: приносил бы
+        english: (that) I should bring
+      - greek: να φέρνεις
+        russian: приносил бы
+        english: (that) you should bring
+      - greek: να φέρνει
+        russian: приносил бы
+        english: (that) he/she/it should bring
+      - greek: να φέρνουμε
+        russian: приносили бы
+        english: (that) we should bring
+      - greek: να φέρνετε
+        russian: приносили бы
+        english: (that) you should bring
+      - greek: να φέρνουν
+        russian: приносили бы
+        english: (that) they should bring
+    simple_subjunctive_mood:
+      - greek: να φέρω
+        russian: принёс бы
+        english: (that) I should have brought
+      - greek: να φέρεις
+        russian: принёс бы
+        english: (that) you should have brought
+      - greek: να φέρει
+        russian: принёс бы
+        english: (that) he/she/it should have brought
+      - greek: να φέρουμε
+        russian: принесли бы
+        english: (that) we should have brought
+      - greek: να φέρετε
+        russian: принесли бы
+        english: (that) you should have brought
+      - greek: να φέρουν
+        russian: принесли бы
+        english: (that) they should have brought
+    imperative_continuous_singular:
+      - greek: φέρνε
+        russian: приноси
+        english: keep bringing (singular)
+    imperative_continuous_plural:
+      - greek: φέρνετε
+        russian: приносите
+        english: keep bringing (plural)
+    imperative_simple_singular:
+      - greek: φέρε
+        russian: принеси
+        english: bring (singular)
+    imperative_simple_plural:
+      - greek: φέρτε
+        russian: принесите
+        english: bring (plural)
+    imperative_negation_singular:
+      - greek: μη φέρεις
+        russian: не приноси
+        english: do not bring (singular)
+    imperative_negation_plural:
+      - greek: μη φέρετε
+        russian: не приносите
+        english: do not bring (plural)

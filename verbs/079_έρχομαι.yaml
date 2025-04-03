@@ -1,0 +1,160 @@
+- verb: έρχομαι
+  translation: to come
+  tenses:
+    present_tense:
+      - greek: έρχομαι
+        russian: прихожу
+        english: I come
+      - greek: έρχεσαι
+        russian: приходишь
+        english: you come
+      - greek: έρχεται
+        russian: приходит
+        english: he/she/it comes
+      - greek: ερχόμαστε
+        russian: приходим
+        english: we come
+      - greek: έρχεστε
+        russian: приходите
+        english: you come
+      - greek: έρχονται
+        russian: приходят
+        english: they come
+    future_continuous_tense:
+      - greek: θα έρχομαι
+        russian: буду приходить
+        english: I will be coming
+      - greek: θα έρχεσαι
+        russian: будешь приходить
+        english: you will be coming
+      - greek: θα έρχεται
+        russian: будет приходить
+        english: he/she/it will be coming
+      - greek: θα ερχόμαστε
+        russian: будем приходить
+        english: we will be coming
+      - greek: θα έρχεστε
+        russian: будете приходить
+        english: you will be coming
+      - greek: θα έρχονται
+        russian: будут приходить
+        english: they will be coming
+    simple_future_tense:
+      - greek: θα έρθω
+        russian: приду
+        english: I will come
+      - greek: θα έρθεις
+        russian: придёшь
+        english: you will come
+      - greek: θα έρθει
+        russian: придёт
+        english: he/she/it will come
+      - greek: θα έρθουμε
+        russian: придём
+        english: we will come
+      - greek: θα έρθετε
+        russian: придёте
+        english: you will come
+      - greek: θα έρθουν
+        russian: придут
+        english: they will come
+    imperfect_past_tense:
+      - greek: ερχόμουν
+        russian: приходил
+        english: I was coming
+      - greek: ερχόσουν
+        russian: приходил
+        english: you were coming
+      - greek: ερχόταν
+        russian: приходил
+        english: he/she/it was coming
+      - greek: ερχόμασταν
+        russian: приходили
+        english: we were coming
+      - greek: ερχόσασταν
+        russian: приходили
+        english: you were coming
+      - greek: έρχονταν
+        russian: приходили
+        english: they were coming
+    simple_past_tense:
+      - greek: ήρθα
+        russian: пришёл
+        english: I came
+      - greek: ήρθες
+        russian: пришёл
+        english: you came
+      - greek: ήρθε
+        russian: пришёл
+        english: he/she/it came
+      - greek: ήρθαμε
+        russian: пришли
+        english: we came
+      - greek: ήρθατε
+        russian: пришли
+        english: you came
+      - greek: ήρθαν
+        russian: пришли
+        english: they came
+    continuous_subjunctive_mood:
+      - greek: να έρχομαι
+        russian: приходил бы
+        english: (that) I should come
+      - greek: να έρχεσαι
+        russian: приходил бы
+        english: (that) you should come
+      - greek: να έρχεται
+        russian: приходил бы
+        english: (that) he/she/it should come
+      - greek: να ερχόμαστε
+        russian: приходили бы
+        english: (that) we should come
+      - greek: να έρχεστε
+        russian: приходили бы
+        english: (that) you should come
+      - greek: να έρχονται
+        russian: приходили бы
+        english: (that) they should come
+    simple_subjunctive_mood:
+      - greek: να έρθω
+        russian: пришёл бы
+        english: (that) I should have come
+      - greek: να έρθεις
+        russian: пришёл бы
+        english: (that) you should have come
+      - greek: να έρθει
+        russian: пришёл бы
+        english: (that) he/she/it should have come
+      - greek: να έρθουμε
+        russian: пришли бы
+        english: (that) we should have come
+      - greek: να έρθετε
+        russian: пришли бы
+        english: (that) you should have come
+      - greek: να έρθουν
+        russian: пришли бы
+        english: (that) they should have come
+    imperative_continuous_singular:
+      - greek: έρχου
+        russian: приходи
+        english: keep coming (singular)
+    imperative_continuous_plural:
+      - greek: έρχεστε
+        russian: приходите
+        english: keep coming (plural)
+    imperative_simple_singular:
+      - greek: έλα
+        russian: приди
+        english: come (singular)
+    imperative_simple_plural:
+      - greek: ελάτε
+        russian: придите
+        english: come (plural)
+    imperative_negation_singular:
+      - greek: μην έρθεις
+        russian: не приходи
+        english: do not come (singular)
+    imperative_negation_plural:
+      - greek: μην έρθετε
+        russian: не приходите
+        english: do not come (plural)

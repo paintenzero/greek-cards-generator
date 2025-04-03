@@ -1,0 +1,160 @@
+- verb:  
+  translation: to go down/descend
+  tenses:
+    present_tense:
+      - greek: κατεβαίνω
+        russian: спускаюсь
+        english: I go down
+      - greek: κατεβαίνεις
+        russian: спускаешься
+        english: you go down
+      - greek: κατεβαίνει
+        russian: спускается
+        english: he/she/it goes down
+      - greek: κατεβαίνουμε
+        russian: спускаемся
+        english: we go down
+      - greek: κατεβαίνετε
+        russian: спускаетесь
+        english: you go down
+      - greek: κατεβαίνουν
+        russian: спускаются
+        english: they go down
+    future_continuous_tense:
+      - greek: θα κατεβαίνω
+        russian: буду спускаться
+        english: I will be going down
+      - greek: θα κατεβαίνεις
+        russian: будешь спускаться
+        english: you will be going down
+      - greek: θα κατεβαίνει
+        russian: будет спускаться
+        english: he/she/it will be going down
+      - greek: θα κατεβαίνουμε
+        russian: будем спускаться
+        english: we will be going down
+      - greek: θα κατεβαίνετε
+        russian: будете спускаться
+        english: you will be going down
+      - greek: θα κατεβαίνουν
+        russian: будут спускаться
+        english: they will be going down
+    simple_future_tense:
+      - greek: θα κατέβω
+        russian: спущусь
+        english: I will go down
+      - greek: θα κατέβεις
+        russian: спустишься
+        english: you will go down
+      - greek: θα κατέβει
+        russian: спустится
+        english: he/she/it will go down
+      - greek: θα κατέβουμε
+        russian: спустимся
+        english: we will go down
+      - greek: θα κατέβετε
+        russian: спуститесь
+        english: you will go down
+      - greek: θα κατέβουν
+        russian: спустятся
+        english: they will go down
+    imperfect_past_tense:
+      - greek: κατέβαινα
+        russian: спускался
+        english: I was going down
+      - greek: κατέβαινες
+        russian: спускался
+        english: you were going down
+      - greek: κατέβαινε
+        russian: спускался
+        english: he/she/it was going down
+      - greek: κατεβαίναμε
+        russian: спускались
+        english: we were going down
+      - greek: κατεβαίνατε
+        russian: спускались
+        english: you were going down
+      - greek: κατέβαιναν
+        russian: спускались
+        english: they were going down
+    simple_past_tense:
+      - greek: κατέβηκα
+        russian: спустился
+        english: I went down
+      - greek: κατέβηκες
+        russian: спустился
+        english: you went down
+      - greek: κατέβηκε
+        russian: спустился
+        english: he/she/it went down
+      - greek: κατεβήκαμε
+        russian: спустились
+        english: we went down
+      - greek: κατεβήκατε
+        russian: спустились
+        english: you went down
+      - greek: κατέβηκαν
+        russian: спустились
+        english: they went down
+    continuous_subjunctive_mood:
+      - greek: να κατεβαίνω
+        russian: спускался бы
+        english: (that) I should go down
+      - greek: να κατεβαίνεις
+        russian: спускался бы
+        english: (that) you should go down
+      - greek: να κατεβαίνει
+        russian: спускался бы
+        english: (that) he/she/it should go down
+      - greek: να κατεβαίνουμε
+        russian: спускались бы
+        english: (that) we should go down
+      - greek: να κατεβαίνετε
+        russian: спускались бы
+        english: (that) you should go down
+      - greek: να κατεβαίνουν
+        russian: спускались бы
+        english: (that) they should go down
+    simple_subjunctive_mood:
+      - greek: να κατέβω
+        russian: спустился бы
+        english: (that) I should have gone down
+      - greek: να κατέβεις
+        russian: спустился бы
+        english: (that) you should have gone down
+      - greek: να κατέβει
+        russian: спустился бы
+        english: (that) he/she/it should have gone down
+      - greek: να κατέβουμε
+        russian: спустились бы
+        english: (that) we should have gone down
+      - greek: να κατέβετε
+        russian: спустились бы
+        english: (that) you should have gone down
+      - greek: να κατέβουν
+        russian: спустились бы
+        english: (that) they should have gone down
+    imperative_continuous_singular:
+      - greek: κατέβαινε
+        russian: спускайся
+        english: keep going down (singular)
+    imperative_continuous_plural:
+      - greek: κατεβαίνετε
+        russian: спускайтесь
+        english: keep going down (plural)
+    imperative_simple_singular:
+      - greek: κατέβα
+        russian: спустись
+        english: go down (singular)
+    imperative_simple_plural:
+      - greek: κατεβείτε
+        russian: спуститесь
+        english: go down (plural)
+    imperative_negation_singular:
+      - greek: μην κατέβεις
+        russian: не спускайся
+        english: do not go down (singular)
+    imperative_negation_plural:
+      - greek: μην κατέβετε
+        russian: не спускайтесь
+        english: do not go down (plural)

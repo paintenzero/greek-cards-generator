@@ -1,0 +1,160 @@
+- verb: βγάζω
+  translation: to take out/remove
+  tenses:
+    present_tense:
+      - greek: βγάζω
+        russian: вынимаю
+        english: I take out
+      - greek: βγάζεις
+        russian: вынимаешь
+        english: you take out
+      - greek: βγάζει
+        russian: вынимает
+        english: he/she/it takes out
+      - greek: βγάζουμε
+        russian: вынимаем
+        english: we take out
+      - greek: βγάζετε
+        russian: вынимаете
+        english: you take out
+      - greek: βγάζουν
+        russian: вынимают
+        english: they take out
+    future_continuous_tense:
+      - greek: θα βγάζω
+        russian: буду вынимать
+        english: I will be taking out
+      - greek: θα βγάζεις
+        russian: будешь вынимать
+        english: you will be taking out
+      - greek: θα βγάζει
+        russian: будет вынимать
+        english: he/she/it will be taking out
+      - greek: θα βγάζουμε
+        russian: будем вынимать
+        english: we will be taking out
+      - greek: θα βγάζετε
+        russian: будете вынимать
+        english: you will be taking out
+      - greek: θα βγάζουν
+        russian: будут вынимать
+        english: they will be taking out
+    simple_future_tense:
+      - greek: θα βγάλω
+        russian: выну
+        english: I will take out
+      - greek: θα βγάλεις
+        russian: вынешь
+        english: you will take out
+      - greek: θα βγάλει
+        russian: вынет
+        english: he/she/it will take out
+      - greek: θα βγάλουμε
+        russian: вынем
+        english: we will take out
+      - greek: θα βγάλετε
+        russian: вынете
+        english: you will take out
+      - greek: θα βγάλουν
+        russian: вынут
+        english: they will take out
+    imperfect_past_tense:
+      - greek: έβγαζα
+        russian: вынимал
+        english: I was taking out
+      - greek: έβγαζες
+        russian: вынимал
+        english: you were taking out
+      - greek: έβγαζε
+        russian: вынимал
+        english: he/she/it was taking out
+      - greek: βγάζαμε
+        russian: вынимали
+        english: we were taking out
+      - greek: βγάζατε
+        russian: вынимали
+        english: you were taking out
+      - greek: έβγαζαν
+        russian: вынимали
+        english: they were taking out
+    simple_past_tense:
+      - greek: έβγαλα
+        russian: вынул
+        english: I took out
+      - greek: έβγαλες
+        russian: вынул
+        english: you took out
+      - greek: έβγαλε
+        russian: вынул
+        english: he/she/it took out
+      - greek: βγάλαμε
+        russian: вынули
+        english: we took out
+      - greek: βγάλατε
+        russian: вынули
+        english: you took out
+      - greek: έβγαλαν
+        russian: вынули
+        english: they took out
+    continuous_subjunctive_mood:
+      - greek: να βγάζω
+        russian: вынимал бы
+        english: (that) I should take out
+      - greek: να βγάζεις
+        russian: вынимал бы
+        english: (that) you should take out
+      - greek: να βγάζει
+        russian: вынимал бы
+        english: (that) he/she/it should take out
+      - greek: να βγάζουμε
+        russian: вынимали бы
+        english: (that) we should take out
+      - greek: να βγάζετε
+        russian: вынимали бы
+        english: (that) you should take out
+      - greek: να βγάζουν
+        russian: вынимали бы
+        english: (that) they should take out
+    simple_subjunctive_mood:
+      - greek: να βγάλω
+        russian: вынул бы
+        english: (that) I should have taken out
+      - greek: να βγάλεις
+        russian: вынул бы
+        english: (that) you should have taken out
+      - greek: να βγάλει
+        russian: вынул бы
+        english: (that) he/she/it should have taken out
+      - greek: να βγάλουμε
+        russian: вынули бы
+        english: (that) we should have taken out
+      - greek: να βγάλετε
+        russian: вынули бы
+        english: (that) you should have taken out
+      - greek: να βγάλουν
+        russian: вынули бы
+        english: (that) they should have taken out
+    imperative_continuous_singular:
+      - greek: βγάζε
+        russian: вынимай
+        english: keep taking out (singular)
+    imperative_continuous_plural:
+      - greek: βγάζετε
+        russian: вынимайте
+        english: keep taking out (plural)
+    imperative_simple_singular:
+      - greek: βγάλε
+        russian: вынь
+        english: take out (singular)
+    imperative_simple_plural:
+      - greek: βγάλτε
+        russian: выньте
+        english: take out (plural)
+    imperative_negation_singular:
+      - greek: μη βγάλεις
+        russian: не вынимай
+        english: do not take out (singular)
+    imperative_negation_plural:
+      - greek: μη βγάλετε
+        russian: не вынимайте
+        english: do not take out (plural)

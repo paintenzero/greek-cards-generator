@@ -1,0 +1,160 @@
+- verb: παίρνω
+  translation: to take
+  tenses:
+    present_tense:
+      - greek: παίρνω
+        russian: беру
+        english: I take
+      - greek: παίρνεις
+        russian: берёшь
+        english: you take
+      - greek: παίρνει
+        russian: берёт
+        english: he/she/it takes/
+      - greek: παίρνουμε
+        russian: берём
+        english: we take
+      - greek: παίρνετε
+        russian: берёте
+        english: you take
+      - greek: παίρνουν
+        russian: берут
+        english: they take
+    future_continuous_tense:
+      - greek: θα παίρνω
+        russian: буду брать
+        english: I will be taking
+      - greek: θα παίρνεις
+        russian: будешь брать
+        english: you will be taking
+      - greek: θα παίρνει
+        russian: будет брать
+        english: he/she/it will be taking
+      - greek: θα παίρνουμε
+        russian: будем брать
+        english: we will be taking
+      - greek: θα παίρνετε
+        russian: будете брать
+        english: you will be taking
+      - greek: θα παίρνουν
+        russian: будут брать
+        english: they will be taking
+    simple_future_tense:
+      - greek: θα πάρω
+        russian: возьму
+        english: I will take
+      - greek: θα πάρεις
+        russian: возьмёшь
+        english: you will take
+      - greek: θα πάρει
+        russian: возьмёт
+        english: he/she/it will take
+      - greek: θα πάρουμε
+        russian: возьмём
+        english: we will take
+      - greek: θα πάρετε
+        russian: возьмёте
+        english: you will take
+      - greek: θα πάρουν
+        russian: возьмут
+        english: they will take
+    imperfect_past_tense:
+      - greek: έπαιρνα
+        russian: брал
+        english: I was taking
+      - greek: έπαιρνες
+        russian: брал
+        english: you were taking
+      - greek: έπαιρνε
+        russian: брал
+        english: he/she/it was taking
+      - greek: παίρναμε
+        russian: брали
+        english: we were taking
+      - greek: παίρνατε
+        russian: брали
+        english: you were taking
+      - greek: έπαιρναν
+        russian: брали
+        english: they were taking
+    simple_past_tense:
+      - greek: πήρα
+        russian: взял
+        english: I took
+      - greek: πήρες
+        russian: взял
+        english: you took
+      - greek: πήρε
+        russian: взял
+        english: he/she/it took
+      - greek: πήραμε
+        russian: взяли
+        english: we took
+      - greek: πήρατε
+        russian: взяли
+        english: you took
+      - greek: πήραν
+        russian: взяли
+        english: they took
+    continuous_subjunctive_mood:
+      - greek: να παίρνω
+        russian: брал бы
+        english: (that) I should take
+      - greek: να παίρνεις
+        russian: брал бы
+        english: (that) you should take
+      - greek: να παίρνει
+        russian: брал бы
+        english: (that) he/she/it should take
+      - greek: να παίρνουμε
+        russian: брали бы
+        english: (that) we should take
+      - greek: να παίρνετε
+        russian: брали бы
+        english: (that) you should take
+      - greek: να παίρνουν
+        russian: брали бы
+        english: (that) they should take
+    simple_subjunctive_mood:
+      - greek: να πάρω
+        russian: взял бы
+        english: (that) I should have takenten
+      - greek: να πάρεις
+        russian: взял бы
+        english: (that) you should have takenten
+      - greek: να πάρει
+        russian: взял бы
+        english: (that) he/she/it should have takenten
+      - greek: να πάρουμε
+        russian: взяли бы
+        english: (that) we should have takenten
+      - greek: να πάρετε
+        russian: взяли бы
+        english: (that) you should have takenten
+      - greek: να πάρουν
+        russian: взяли бы
+        english: (that) they should have takenten
+    imperative_continuous_singular:
+      - greek: παίρνε
+        russian: бери
+        english: keep taking (singular)
+    imperative_continuous_plural:
+      - greek: παίρνετε
+        russian: берите
+        english: keep taking (plural)
+    imperative_simple_singular:
+      - greek: πάρε
+        russian: возьми
+        english: take (singular)
+    imperative_simple_plural:
+      - greek: πάρτε
+        russian: возьмите
+        english: take (plural)
+    imperative_negation_singular:
+      - greek: μην πάρεις
+        russian: не бери
+        english: do not take (singular)
+    imperative_negation_plural:
+      - greek: μην πάρετε
+        russian: не берите
+        english: do not take (plural)

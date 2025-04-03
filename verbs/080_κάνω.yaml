@@ -1,0 +1,160 @@
+- verb: κάνω
+  translation: to do/make
+  tenses:
+    present_tense:
+      - greek: κάνω
+        russian: делаю
+        english: I do
+      - greek: κάνεις
+        russian: делаешь
+        english: you do
+      - greek: κάνει
+        russian: делает
+        english: he/she/it does
+      - greek: κάνουμε
+        russian: делаем
+        english: we do
+      - greek: κάνετε
+        russian: делаете
+        english: you do
+      - greek: κάνουν
+        russian: делают
+        english: they do
+    future_continuous_tense:
+      - greek: θα κάνω
+        russian: буду делать
+        english: I will be doing
+      - greek: θα κάνεις
+        russian: будешь делать
+        english: you will be doing
+      - greek: θα κάνει
+        russian: будет делать
+        english: he/she/it will be doing
+      - greek: θα κάνουμε
+        russian: будем делать
+        english: we will be doing
+      - greek: θα κάνετε
+        russian: будете делать
+        english: you will be doing
+      - greek: θα κάνουν
+        russian: будут делать
+        english: they will be doing
+    simple_future_tense:
+      - greek: θα κάνω
+        russian: сделаю
+        english: I will do
+      - greek: θα κάνεις
+        russian: сделаешь
+        english: you will do
+      - greek: θα κάνει
+        russian: сделает
+        english: he/she/it will do
+      - greek: θα κάνουμε
+        russian: сделаем
+        english: we will do
+      - greek: θα κάνετε
+        russian: сделаете
+        english: you will do
+      - greek: θα κάνουν
+        russian: сделают
+        english: they will do
+    imperfect_past_tense:
+      - greek: έκανα
+        russian: делал
+        english: I was doing
+      - greek: έκανες
+        russian: делал
+        english: you were doing
+      - greek: έκανε
+        russian: делал
+        english: he/she/it was doing
+      - greek: κάναμε
+        russian: делали
+        english: we were doing
+      - greek: κάνατε
+        russian: делали
+        english: you were doing
+      - greek: έκαναν
+        russian: делали
+        english: they were doing
+    simple_past_tense:
+      - greek: έκανα
+        russian: сделал
+        english: I did
+      - greek: έκανες
+        russian: сделал
+        english: you did
+      - greek: έκανε
+        russian: сделал
+        english: he/she/it did
+      - greek: κάναμε
+        russian: сделали
+        english: we did
+      - greek: κάνατε
+        russian: сделали
+        english: you did
+      - greek: έκαναν
+        russian: сделали
+        english: they did
+    continuous_subjunctive_mood:
+      - greek: να κάνω
+        russian: делал бы
+        english: (that) I should do
+      - greek: να κάνεις
+        russian: делал бы
+        english: (that) you should do
+      - greek: να κάνει
+        russian: делал бы
+        english: (that) he/she/it should do
+      - greek: να κάνουμε
+        russian: делали бы
+        english: (that) we should do
+      - greek: να κάνετε
+        russian: делали бы
+        english: (that) you should do
+      - greek: να κάνουν
+        russian: делали бы
+        english: (that) they should do
+    simple_subjunctive_mood:
+      - greek: να κάνω
+        russian: сделал бы
+        english: (that) I should have done
+      - greek: να κάνεις
+        russian: сделал бы
+        english: (that) you should have done
+      - greek: να κάνει
+        russian: сделал бы
+        english: (that) he/she/it should have done
+      - greek: να κάνουμε
+        russian: сделали бы
+        english: (that) we should have done
+      - greek: να κάνετε
+        russian: сделали бы
+        english: (that) you should have done
+      - greek: να κάνουν
+        russian: сделали бы
+        english: (that) they should have done
+    imperative_continuous_singular:
+      - greek: κάνε
+        russian: делай
+        english: keep doing (singular)
+    imperative_continuous_plural:
+      - greek: κάνετε
+        russian: делайте
+        english: keep doing (plural)
+    imperative_simple_singular:
+      - greek: κάνε
+        russian: сделай
+        english: do (singular)
+    imperative_simple_plural:
+      - greek: κάνετε
+        russian: сделайте
+        english: do (plural)
+    imperative_negation_singular:
+      - greek: μην κάνεις
+        russian: не делай
+        english: do not do (singular)
+    imperative_negation_plural:
+      - greek: μην κάνετε
+        russian: не делайте
+        english: do not do (plural)

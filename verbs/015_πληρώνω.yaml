@@ -1,0 +1,160 @@
+- verb: πληρώνω
+  translation: to pay
+  tenses:
+    present_tense:
+    - greek: πληρώνω
+      russian: плачу
+      english: I pay
+    - greek: πληρώνεις
+      russian: платишь
+      english: you pay
+    - greek: πληρώνει
+      russian: платит
+      english: he/she/it pays
+    - greek: πληρώνουμε
+      russian: платим
+      english: we pay
+    - greek: πληρώνετε
+      russian: платите
+      english: you pay
+    - greek: πληρώνουν
+      russian: платят
+      english: they pay
+    future_continuous_tense:
+    - greek: θα πληρώνω
+      russian: буду платить
+      english: I will be paying
+    - greek: θα πληρώνεις
+      russian: будешь платить
+      english: you will be paying
+    - greek: θα πληρώνει
+      russian: будет платить
+      english: he/she/it will be paying
+    - greek: θα πληρώνουμε
+      russian: будем платить
+      english: we will be paying
+    - greek: θα πληρώνετε
+      russian: будете платить
+      english: you will be paying
+    - greek: θα πληρώνουν
+      russian: будут платить
+      english: they will be paying
+    simple_future_tense:
+    - greek: θα πληρώσω
+      russian: заплачу
+      english: I will pay
+    - greek: θα πληρώσεις
+      russian: заплатишь
+      english: you will pay
+    - greek: θα πληρώσει
+      russian: заплатит
+      english: he/she/it will pay
+    - greek: θα πληρώσουμε
+      russian: заплатим
+      english: we will pay
+    - greek: θα πληρώσετε
+      russian: заплатите
+      english: you will pay
+    - greek: θα πληρώσουν
+      russian: заплатят
+      english: they will pay
+    imperfect_past_tense:
+    - greek: πλήρωνα
+      russian: платил
+      english: I was paying
+    - greek: πλήρωνες
+      russian: платил
+      english: you were paying
+    - greek: πλήρωνε
+      russian: платил
+      english: he/she/it was paying
+    - greek: πληρώναμε
+      russian: платили
+      english: we were paying
+    - greek: πληρώνατε
+      russian: платили
+      english: you were paying
+    - greek: πλήρωναν
+      russian: платили
+      english: they were paying
+    simple_past_tense:
+    - greek: πλήρωσα
+      russian: заплатил
+      english: I paid
+    - greek: πλήρωσες
+      russian: заплатил
+      english: you paid
+    - greek: πλήρωσε
+      russian: заплатил
+      english: he/she/it paid
+    - greek: πληρώσαμε
+      russian: заплатили
+      english: we paid
+    - greek: πληρώσατε
+      russian: заплатили
+      english: you paid
+    - greek: πλήρωσαν
+      russian: заплатили
+      english: they paid
+    continuous_subjunctive_mood:
+    - greek: να πληρώνω
+      russian: платил бы
+      english: (that) I should pay
+    - greek: να πληρώνεις
+      russian: платил бы
+      english: (that) you should pay
+    - greek: να πληρώνει
+      russian: платил бы
+      english: (that) he/she/it should pay
+    - greek: να πληρώνουμε
+      russian: платили бы
+      english: (that) we should pay
+    - greek: να πληρώνετε
+      russian: платили бы
+      english: (that) you should pay
+    - greek: να πληρώνουν
+      russian: платили бы
+      english: (that) they should pay
+    simple_subjunctive_mood:
+    - greek: να πληρώσω
+      russian: заплатил бы
+      english: (that) I should have paid
+    - greek: να πληρώσεις
+      russian: заплатил бы
+      english: (that) you should have paid
+    - greek: να πληρώσει
+      russian: заплатил бы
+      english: (that) he/she/it should have paid
+    - greek: να πληρώσουμε
+      russian: заплатили бы
+      english: (that) we should have paid
+    - greek: να πληρώσετε
+      russian: заплатили бы
+      english: (that) you should have paid
+    - greek: να πληρώσουν
+      russian: заплатили бы
+      english: (that) they should have paid
+    imperative_continuous_singular:
+    - greek: πλήρωνε
+      russian: плати
+      english: keep paying (singular)
+    imperative_continuous_plural:
+    - greek: πληρώνετε
+      russian: платите
+      english: keep paying (plural)
+    imperative_simple_singular:
+    - greek: πλήρωσε
+      russian: заплати
+      english: pay (singular)
+    imperative_simple_plural:
+    - greek: πληρώστε
+      russian: заплатите
+      english: pay (plural)
+    imperative_negation_singular:
+    - greek: μην πληρώσεις
+      russian: не плати
+      english: do not pay (singular)
+    imperative_negation_plural:
+    - greek: μην πληρώσετε
+      russian: не платите
+      english: do not pay (plural)

@@ -1,0 +1,160 @@
+- verb: αγαπάω
+  translation: to love
+  tenses:
+    present_tense:
+      - greek: αγαπάω
+        russian: люблю
+        english: I love
+      - greek: αγαπάς
+        russian: любишь
+        english: you love
+      - greek: αγαπά
+        russian: любит
+        english: he/she/it loves
+      - greek: αγαπάμε
+        russian: любим
+        english: we love
+      - greek: αγαπάτε
+        russian: любите
+        english: you (plural) love
+      - greek: αγαπάνε
+        russian: любят
+        english: they love
+    future_continuous_tense:
+      - greek: θα αγαπάω
+        russian: буду любить
+        english: I will be loving
+      - greek: θα αγαπάς
+        russian: будешь любить
+        english: you will be loving
+      - greek: θα αγαπά
+        russian: будет любить
+        english: he/she/it will be loving
+      - greek: θα αγαπάμε
+        russian: будем любить
+        english: we will be loving
+      - greek: θα αγαπάτε
+        russian: будете любить
+        english: you (plural) will be loving
+      - greek: θα αγαπάνε
+        russian: будут любить
+        english: they will be loving
+    simple_future_tense:
+      - greek: θα αγαπήσω
+        russian: полюблю
+        english: I will love
+      - greek: θα αγαπήσεις
+        russian: полюбишь
+        english: you will love
+      - greek: θα αγαπήσει
+        russian: полюбит
+        english: he/she/it will love
+      - greek: θα αγαπήσουμε
+        russian: полюбим
+        english: we will love
+      - greek: θα αγαπήσετε
+        russian: полюбите
+        english: you (plural) will love
+      - greek: θα αγαπήσουν
+        russian: полюбят
+        english: they will love
+    imperfect_past_tense:
+      - greek: αγαπούσα
+        russian: любил
+        english: I was loving
+      - greek: αγαπούσες
+        russian: любил
+        english: you were loving
+      - greek: αγαπούσε
+        russian: любил
+        english: he/she/it was loving
+      - greek: αγαπούσαμε
+        russian: любили
+        english: we were loving
+      - greek: αγαπούσατε
+        russian: любили
+        english: you (plural) were loving
+      - greek: αγαπούσαν
+        russian: любили
+        english: they were loving
+    simple_past_tense:
+      - greek: αγάπησα
+        russian: полюбил
+        english: I loved
+      - greek: αγάπησες
+        russian: полюбил
+        english: you loved
+      - greek: αγάπησε
+        russian: полюбил
+        english: he/she/it loved
+      - greek: αγαπήσαμε
+        russian: полюбили
+        english: we loved
+      - greek: αγαπήσατε
+        russian: полюбили
+        english: you (plural) loved
+      - greek: αγάπησαν
+        russian: полюбили
+        english: they loved
+    continuous_subjunctive_mood:
+      - greek: να αγαπάω
+        russian: любил бы
+        english: (that) I should love
+      - greek: να αγαπάς
+        russian: любил бы
+        english: (that) you should love
+      - greek: να αγαπά
+        russian: любил бы
+        english: (that) he/she/it should love
+      - greek: να αγαπάμε
+        russian: любили бы
+        english: (that) we should love
+      - greek: να αγαπάτε
+        russian: любили бы
+        english: (that) you should love
+      - greek: να αγαπάνе
+        russian: любили бы
+        english: (that) they should love
+    simple_subjunctive_mood:
+      - greek: να αγαπήσω
+        russian: полюбил бы
+        english: (that) I should have loved
+      - greek: να αγαπήσεις
+        russian: полюбил бы
+        english: (that) you should have loved
+      - greek: να αγαπήσει
+        russian: полюбил бы
+        english: (that) he/she/it should have loved
+      - greek: να αγαπήσουμε
+        russian: полюбили бы
+        english: (that) we should have loved
+      - greek: να αγαπήσετε
+        russian: полюбили бы
+        english: (that) you (plural) should have loved
+      - greek: να αγαπήσουν
+        russian: полюбили бы
+        english: (that) they should have loved
+    imperative_continuous_singular:
+      - greek: αγάπα
+        russian: люби
+        english: keep loving (singular)
+    imperative_continuous_plural:
+      - greek: αγαπάτε
+        russian: любите
+        english: keep loving (plural)
+    imperative_simple_singular:
+      - greek: αγάπησε
+        russian: полюби
+        english: love (singular)
+    imperative_simple_plural:
+      - greek: αγαπήστε
+        russian: полюбите
+        english: love (plural)
+    imperative_negation_singular:
+      - greek: μην αγαπύσεις
+        russian: не люби
+        english: do not love (singular)
+    imperative_negation_plural:
+      - greek: μην αγαπήσετε
+        russian: не любите
+        english: do not love (plural)

@@ -1,0 +1,160 @@
+- verb: βάφω
+  translation: to paint/dye
+  tenses:
+    present_tense:
+      - greek: βάφω
+        russian: крашу
+        english: I paint
+      - greek: βάφεις
+        russian: красишь
+        english: you paint
+      - greek: βάφει
+        russian: красит
+        english: he/she/it paints
+      - greek: βάφουμε
+        russian: красим
+        english: we paint
+      - greek: βάφετε
+        russian: красите
+        english: you paint
+      - greek: βάφουν
+        russian: красят
+        english: they paint
+    future_continuous_tense:
+      - greek: θα βάφω
+        russian: буду красить
+        english: I will be painting
+      - greek: θα βάφεις
+        russian: будешь красить
+        english: you will be painting
+      - greek: θα βάφει
+        russian: будет красить
+        english: he/she/it will be painting
+      - greek: θα βάφουμε
+        russian: будем красить
+        english: we will be painting
+      - greek: θα βάφετε
+        russian: будете красить
+        english: you will be painting
+      - greek: θα βάφουν
+        russian: будут красить
+        english: they will be painting
+    simple_future_tense:
+      - greek: θα βάψω
+        russian: покрашу
+        english: I will paint
+      - greek: θα βάψεις
+        russian: покрасишь
+        english: you will paint
+      - greek: θα βάψει
+        russian: покрасит
+        english: he/she/it will paint
+      - greek: θα βάψουμε
+        russian: покрасим
+        english: we will paint
+      - greek: θα βάψετε
+        russian: покрасите
+        english: you will paint
+      - greek: θα βάψουν
+        russian: покрасят
+        english: they will paint
+    imperfect_past_tense:
+      - greek: έβαφα
+        russian: красил
+        english: I was painting
+      - greek: έβαφες
+        russian: красил
+        english: you were painting
+      - greek: έβαφε
+        russian: красил
+        english: he/she/it was painting
+      - greek: βάφαμε
+        russian: красили
+        english: we were painting
+      - greek: βάφατε
+        russian: красили
+        english: you were painting
+      - greek: έβαφαν
+        russian: красили
+        english: they were painting
+    simple_past_tense:
+      - greek: έβαψα
+        russian: покрасил
+        english: I painted
+      - greek: έβαψες
+        russian: покрасил
+        english: you painted
+      - greek: έβαψε
+        russian: покрасил
+        english: he/she/it painted
+      - greek: βάψαμε
+        russian: покрасили
+        english: we painted
+      - greek: βάψατε
+        russian: покрасили
+        english: you painted
+      - greek: έβαψαν
+        russian: покрасили
+        english: they painted
+    continuous_subjunctive_mood:
+      - greek: να βάφω
+        russian: красил бы
+        english: (that) I should paint
+      - greek: να βάφεις
+        russian: красил бы
+        english: (that) you should paint
+      - greek: να βάφει
+        russian: красил бы
+        english: (that) he/she/it should paint
+      - greek: να βάφουμε
+        russian: красили бы
+        english: (that) we should paint
+      - greek: να βάφετε
+        russian: красили бы
+        english: (that) you should paint
+      - greek: να βάφουν
+        russian: красили бы
+        english: (that) they should paint
+    simple_subjunctive_mood:
+      - greek: να βάψω
+        russian: покрасил бы
+        english: (that) I should have painted
+      - greek: να βάψεις
+        russian: покрасил бы
+        english: (that) you should have painted
+      - greek: να βάψει
+        russian: покрасил бы
+        english: (that) he/she/it should have painted
+      - greek: να βάψουμε
+        russian: покрасили бы
+        english: (that) we should have painted
+      - greek: να βάψετε
+        russian: покрасили бы
+        english: (that) you should have painted
+      - greek: να βάψουν
+        russian: покрасили бы
+        english: (that) they should have painted
+    imperative_continuous_singular:
+      - greek: βάφε
+        russian: краси
+        english: keep painting (singular)
+    imperative_continuous_plural:
+      - greek: βάφετε
+        russian: красите
+        english: keep painting (plural)
+    imperative_simple_singular:
+      - greek: βάψε
+        russian: покраси
+        english: paint (singular)
+    imperative_simple_plural:
+      - greek: βάψτε
+        russian: покрасите
+        english: paint (plural)
+    imperative_negation_singular:
+      - greek: μη βάψεις
+        russian: не краси
+        english: do not paint (singular)
+    imperative_negation_plural:
+      - greek: μη βάψετε
+        russian: не красите
+        english: do not paint (plural)

@@ -1,0 +1,160 @@
+- verb: κρεμάω
+  translation: to hang
+  tenses:
+    present_tense:
+      - greek: κρεμάω
+        russian: вешаю
+        english: I hang
+      - greek: κρεμάς
+        russian: вешаешь
+        english: you hang
+      - greek: κρεμά
+        russian: вешает
+        english: he/she/it hangs
+      - greek: κρεμάμε
+        russian: вешаем
+        english: we hang
+      - greek: κρεμάτε
+        russian: вешаете
+        english: you (plural) hang
+      - greek: κρεμάνε
+        russian: вешают
+        english: they hang
+    future_continuous_tense:
+      - greek: θα κρεμάω
+        russian: буду вешать
+        english: I will be hanging
+      - greek: θα κρεμάς
+        russian: будешь вешать
+        english: you will be hanging
+      - greek: θα κρεμά
+        russian: будет вешать
+        english: he/she/it will be hanging
+      - greek: θα κρεμάμε
+        russian: будем вешать
+        english: we will be hanging
+      - greek: θα κρεμάτε
+        russian: будете вешать
+        english: you (plural) will be hanging
+      - greek: θα κρεμάνε
+        russian: будут вешать
+        english: they will be hanging
+    simple_future_tense:
+      - greek: θα κρεμάσω
+        russian: повешу
+        english: I will hang
+      - greek: θα κρεμάσεις
+        russian: повесишь
+        english: you will hang
+      - greek: θα κρεμάσει
+        russian: повесит
+        english: he/she/it will hang
+      - greek: θα κρεμάσουμε
+        russian: повесим
+        english: we will hang
+      - greek: θα κρεμάσετε
+        russian: повесите
+        english: you (plural) will hang
+      - greek: θα κρεμάσουν
+        russian: повесят
+        english: they will hang
+    imperfect_past_tense:
+      - greek: κρεμούσα
+        russian: вешал
+        english: I was hanging
+      - greek: κρεμούσες
+        russian: вешал
+        english: you were hanging
+      - greek: κρεμούσε
+        russian: вешал
+        english: he/she/it was hanging
+      - greek: κρεμούσαμε
+        russian: вешали
+        english: we were hanging
+      - greek: κρεμούσατε
+        russian: вешали
+        english: you (plural) were hanging
+      - greek: κρεμούσαν
+        russian: вешали
+        english: they were hanging
+    simple_past_tense:
+      - greek: κρέμασα
+        russian: повесил
+        english: I hung
+      - greek: κρέμασες
+        russian: повесил
+        english: you hung
+      - greek: κρέμασε
+        russian: повесил
+        english: he/she/it hung
+      - greek: κρεμάσαμε
+        russian: повесили
+        english: we hung
+      - greek: κρεμάσατε
+        russian: повесили
+        english: you (plural) hung
+      - greek: κρέμασαν
+        russian: повесили
+        english: they hung
+    continuous_subjunctive_mood:
+      - greek: να κρεμάω
+        russian: вешал бы
+        english: (that) I should hang
+      - greek: να κρεμάς
+        russian: вешал бы
+        english: (that) you should hang
+      - greek: να κρεμά
+        russian: вешал бы
+        english: (that) he/she/it should hang
+      - greek: να κρεμάμε
+        russian: вешали бы
+        english: (that) we should hang
+      - greek: να κρεμάτε
+        russian: вешали бы
+        english: (that) you should hang
+      - greek: να κρεμάνε
+        russian: вешали бы
+        english: (that) they should hang
+    simple_subjunctive_mood:
+      - greek: να κρεμάσω
+        russian: повесил бы
+        english: (that) I should have hung
+      - greek: να κρεμάσεις
+        russian: повесил бы
+        english: (that) you should have hung
+      - greek: να κρεμάσει
+        russian: повесил бы
+        english: (that) he/she/it should have hung
+      - greek: να κρεμάσουμε
+        russian: повесили бы
+        english: (that) we should have hung
+      - greek: να κρεμάσετε
+        russian: повесили бы
+        english: (that) you (plural) should have hung
+      - greek: να κρεμάσουν
+        russian: повесили бы
+        english: (that) they should have hung
+    imperative_continuous_singular:
+      - greek: κρέμα
+        russian: вешай
+        english: keep hanging (singular)
+    imperative_continuous_plural:
+      - greek: κρεμάτε
+        russian: вешайте
+        english: keep hanging (plural)
+    imperative_simple_singular:
+      - greek: κρέμασε
+        russian: повесь
+        english: hang (singular)
+    imperative_simple_plural:
+      - greek: κρεμάστε
+        russian: повесьте
+        english: hang (plural)
+    imperative_negation_singular:
+      - greek: μην κρεμάσεις
+        russian: не вешай
+        english: do not hang (singular)
+    imperative_negation_plural:
+      - greek: μην κρεμάσετε
+        russian: не вешайте
+        english: do not hang (plural)

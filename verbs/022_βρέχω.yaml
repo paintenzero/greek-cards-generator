@@ -1,0 +1,160 @@
+- verb: βρέχω
+  translation: to wet
+  tenses:
+    present_tense:
+      - greek: βρέχω
+        russian: мочу
+        english: I wet
+      - greek: βρέχεις
+        russian: мочишь
+        english: you wet
+      - greek: βρέχει
+        russian: мочит
+        english: he/she/it wets/it is raining
+      - greek: βρέχουμε
+        russian: мочим
+        english: we wet
+      - greek: βρέχετε
+        russian: мочите
+        english: you wet
+      - greek: βρέχουν
+        russian: мочат
+        english: they wet
+    future_continuous_tense:
+      - greek: θα βρέχω
+        russian: буду мочить
+        english: I will be wetting
+      - greek: θα βρέχεις
+        russian: будешь мочить
+        english: you will be wetting
+      - greek: θα βρέχει
+        russian: будет мочить
+        english: he/she/it will be wetting
+      - greek: θα βρέχουμε
+        russian: будем мочить
+        english: we will be wetting
+      - greek: θα βρέχετε
+        russian: будете мочить
+        english: you will be wetting
+      - greek: θα βρέχουν
+        russian: будут мочить
+        english: they will be wetting
+    simple_future_tense:
+      - greek: θα βρέξω
+        russian: намочу
+        english: I will wet
+      - greek: θα βρέξεις
+        russian: намочишь
+        english: you will wet
+      - greek: θα βρέξει
+        russian: намочит
+        english: he/she/it will wet
+      - greek: θα βρέξουμε
+        russian: намочим
+        english: we will wet
+      - greek: θα βρέξετε
+        russian: намочите
+        english: you will wet
+      - greek: θα βρέξουν
+        russian: намочат
+        english: they will wet
+    imperfect_past_tense:
+      - greek: έβρεχα
+        russian: мочил
+        english: I was wetting
+      - greek: έβρεχες
+        russian: мочил
+        english: you were wetting
+      - greek: έβρεχε
+        russian: мочил
+        english: he/she/it was wetting
+      - greek: βρέχαμε
+        russian: мочили
+        english: we were wetting
+      - greek: βρέχατε
+        russian: мочили
+        english: you were wetting
+      - greek: έβρεχαν
+        russian: мочили
+        english: they were wetting
+    simple_past_tense:
+      - greek: έβρεξα
+        russian: намочил
+        english: I wet
+      - greek: έβρεξες
+        russian: намочил
+        english: you wet
+      - greek: έβρεξε
+        russian: намочил
+        english: he/she/it wet
+      - greek: βρέξαμε
+        russian: намочили
+        english: we wet
+      - greek: βρέξατε
+        russian: намочили
+        english: you wet
+      - greek: έβρεξαν
+        russian: намочили
+        english: they wet
+    continuous_subjunctive_mood:
+      - greek: να βρέχω
+        russian: мочил бы
+        english: (that) I should wet
+      - greek: να βρέχεις
+        russian: мочил бы
+        english: (that) you should wet
+      - greek: να βρέχει
+        russian: мочил бы
+        english: (that) he/she/it should wet
+      - greek: να βρέχουμε
+        russian: мочили бы
+        english: (that) we should wet
+      - greek: να βρέχετε
+        russian: мочили бы
+        english: (that) you should wet
+      - greek: να βρέχουν
+        russian: мочили бы
+        english: (that) they should wet
+    simple_subjunctive_mood:
+      - greek: να βρέξω
+        russian: намочил бы
+        english: (that) I should have wet
+      - greek: να βρέξεις
+        russian: намочил бы
+        english: (that) you should have wet
+      - greek: να βρέξει
+        russian: намочил бы
+        english: (that) he/she/it should have wet
+      - greek: να βρέξουμε
+        russian: намочили бы
+        english: (that) we should have wet
+      - greek: να βρέξετε
+        russian: намочили бы
+        english: (that) you should have wet
+      - greek: να βρέξουν
+        russian: намочили бы
+        english: (that) they should have wet
+    imperative_continuous_singular:
+      - greek: βρέχε
+        russian: мочи
+        english: keep wetting (singular)
+    imperative_continuous_plural:
+      - greek: βρέχετε
+        russian: мочите
+        english: keep wetting (plural)
+    imperative_simple_singular:
+      - greek: βρέξε
+        russian: намочи
+        english: wet (singular)
+    imperative_simple_plural:
+      - greek: βρέξτε
+        russian: намочите
+        english: wet (plural)
+    imperative_negation_singular:
+      - greek: μη βρέξεις
+        russian: не мочи
+        english: do not wet (singular)
+    imperative_negation_plural:
+      - greek: μη βρέξετε
+        russian: не мочите
+        english: do not wet (plural) wet (plural)

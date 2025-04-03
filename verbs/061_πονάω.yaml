@@ -1,0 +1,160 @@
+- verb: πονάω/πονώ
+  translation: to hurt/to be in pain
+  tenses:
+    present_tense:
+      - greek: πονάω/πονώ
+        russian: болит
+        english: I am hurting
+      - greek: πονάς
+        russian: болит
+        english: you are hurting
+      - greek: πονάει/πονά
+        russian: болит
+        english: he/she/it is hurting
+      - greek: πονάμε
+        russian: болит
+        english: we are hurting
+      - greek: πονάτε
+        russian: болит
+        english: you are hurting
+      - greek: πονάνε/πονούν
+        russian: болит
+        english: they are hurting
+    future_continuous_tense:
+      - greek: θα πονάω/θα πονώ
+        russian: будет болеть
+        english: I will be hurting
+      - greek: θα πονάς
+        russian: будет болеть
+        english: you will be hurting
+      - greek: θα πονάει/θα πονά
+        russian: будет болеть
+        english: he/she/it will be hurting
+      - greek: θα πονάμε
+        russian: будет болеть
+        english: we will be hurting
+      - greek: θα πονάτε
+        russian: будет болеть
+        english: you will be hurting
+      - greek: θα πονάνε/θα πονούν
+        russian: будет болеть
+        english: they will be hurting
+    simple_future_tense:
+      - greek: θα πονέσω
+        russian: заболит
+        english: I will hurt
+      - greek: θα πονέσεις
+        russian: заболит
+        english: you will hurt
+      - greek: θα πονέσει
+        russian: заболит
+        english: he/she/it will hurt
+      - greek: θα πονέσουμε
+        russian: заболит
+        english: we will hurt
+      - greek: θα πονέσετε
+        russian: заболит
+        english: you will hurt
+      - greek: θα πονέσουν
+        russian: заболит
+        english: they will hurt
+    imperfect_past_tense:
+      - greek: πονούσα
+        russian: болело
+        english: I was hurting
+      - greek: πονούσες
+        russian: болело
+        english: you were hurting
+      - greek: πονούσε
+        russian: болело
+        english: he/she/it was hurting
+      - greek: πονούσαμε
+        russian: болело
+        english: we were hurting
+      - greek: πονούσατε
+        russian: болело
+        english: you were hurting
+      - greek: πονούσαν
+        russian: болело
+        english: they were hurting
+    simple_past_tense:
+      - greek: πόνεσα
+        russian: заболело
+        english: I hurt
+      - greek: πόνεσες
+        russian: заболело
+        english: you hurt
+      - greek: πόνεσε
+        russian: заболело
+        english: he/she/it hurt
+      - greek: πονέσαμε
+        russian: заболело
+        english: we hurt
+      - greek: πονέσατε
+        russian: заболело
+        english: you hurt
+      - greek: πόνεσαν
+        russian: заболело
+        english: they hurt
+    continuous_subjunctive_mood:
+      - greek: να πονάω/να πονώ
+        russian: болело бы
+        english: (that) I should hurt
+      - greek: να πονάς
+        russian: болело бы
+        english: (that) you should hurt
+      - greek: να πονάει/να πονά
+        russian: болело бы
+        english: (that) he/she/it should hurt
+      - greek: να πονάμε
+        russian: болело бы
+        english: (that) we should hurt
+      - greek: να πονάτε
+        russian: болело бы
+        english: (that) you should hurt
+      - greek: να πονάνε/να πονούν
+        russian: болело бы
+        english: (that) they should hurt
+    simple_subjunctive_mood:
+      - greek: να πονέσω
+        russian: заболело бы
+        english: (that) I should have hurt
+      - greek: να πονέσεις
+        russian: заболело бы
+        english: (that) you should have hurt
+      - greek: να πονέσει
+        russian: заболело бы
+        english: (that) he/she/it should have hurt
+      - greek: να πονέσουμε
+        russian: заболело бы
+        english: (that) we should have hurt
+      - greek: να πονέσετε
+        russian: заболело бы
+        english: (that) you should have hurt
+      - greek: να πονέσουν
+        russian: заболело бы
+        english: (that) they should have hurt
+    imperative_continuous_singular:
+      - greek: πόνα
+        russian: боли
+        english: keep hurting (singular)
+    imperative_continuous_plural:
+      - greek: πονάτε
+        russian: болите
+        english: keep hurting (plural)
+    imperative_simple_singular:
+      - greek: πόνεσε
+        russian: заболи
+        english: hurt (singular)
+    imperative_simple_plural:
+      - greek: πονέστε
+        russian: заболите
+        english: hurt (plural)
+    imperative_negation_singular:
+      - greek: μην πονέσεις
+        russian: не боли
+        english: do not hurt (singular)
+    imperative_negation_plural:
+      - greek: μην πονέσετε
+        russian: не болите
+        english: do not hurt (plural)

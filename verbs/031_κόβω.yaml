@@ -1,0 +1,160 @@
+- verb: κόβω
+  translation: to cut
+  tenses:
+    present_tense:
+      - greek: κόβω
+        russian: режу
+        english: I cut
+      - greek: κόβεις
+        russian: режешь
+        english: you cut
+      - greek: κόβει
+        russian: режет
+        english: he/she/it cuts
+      - greek: κόβουμε
+        russian: режем
+        english: we cut
+      - greek: κόβετε
+        russian: режете
+        english: you cut
+      - greek: κόβουν
+        russian: режут
+        english: they cut
+    future_continuous_tense:
+      - greek: θα κόβω
+        russian: буду резать
+        english: I will be cutting
+      - greek: θα κόβεις
+        russian: будешь резать
+        english: you will be cutting
+      - greek: θα κόβει
+        russian: будет резать
+        english: he/she/it will be cutting
+      - greek: θα κόβουμε
+        russian: будем резать
+        english: we will be cutting
+      - greek: θα κόβετε
+        russian: будете резать
+        english: you will be cutting
+      - greek: θα κόβουν
+        russian: будут резать
+        english: they will be cutting
+    simple_future_tense:
+      - greek: θα κόψω
+        russian: порежу
+        english: I will cut
+      - greek: θα κόψεις
+        russian: порежешь
+        english: you will cut
+      - greek: θα κόψει
+        russian: порежет
+        english: he/she/it will cut
+      - greek: θα κόψουμε
+        russian: порежем
+        english: we will cut
+      - greek: θα κόψετε
+        russian: порежете
+        english: you will cut
+      - greek: θα κόψουν
+        russian: порежут
+        english: they will cut
+    imperfect_past_tense:
+      - greek: έκοβα
+        russian: резал
+        english: I was cutting
+      - greek: έκοβες
+        russian: резал
+        english: you were cutting
+      - greek: έκοβε
+        russian: резал
+        english: he/she/it was cutting
+      - greek: κόβαμε
+        russian: резали
+        english: we were cutting
+      - greek: κόβατε
+        russian: резали
+        english: you were cutting
+      - greek: έκοβαν
+        russian: резали
+        english: they were cutting
+    simple_past_tense:
+      - greek: έκοψα
+        russian: порезал
+        english: I cut
+      - greek: έκοψες
+        russian: порезал
+        english: you cut
+      - greek: έκοψε
+        russian: порезал
+        english: he/she/it cut
+      - greek: κόψαμε
+        russian: порезали
+        english: we cut
+      - greek: κόψατε
+        russian: порезали
+        english: you cut
+      - greek: έκοψαν
+        russian: порезали
+        english: they cut
+    continuous_subjunctive_mood:
+      - greek: να κόβω
+        russian: резал бы
+        english: (that) I should cut
+      - greek: να κόβεις
+        russian: резал бы
+        english: (that) you should cut
+      - greek: να κόβει
+        russian: резал бы
+        english: (that) he/she/it should cut
+      - greek: να κόβουμε
+        russian: резали бы
+        english: (that) we should cut
+      - greek: να κόβετε
+        russian: резали бы
+        english: (that) you should cut
+      - greek: να κόβουν
+        russian: резали бы
+        english: (that) they should cut
+    simple_subjunctive_mood:
+      - greek: να κόψω
+        russian: порезал бы
+        english: (that) I should have cut
+      - greek: να κόψεις
+        russian: порезал бы
+        english: (that) you should have cut
+      - greek: να κόψει
+        russian: порезал бы
+        english: (that) he/she/it should have cut
+      - greek: να κόψουμε
+        russian: порезали бы
+        english: (that) we should have cut
+      - greek: να κόψετε
+        russian: порезали бы
+        english: (that) you should have cut
+      - greek: να κόψουν
+        russian: порезали бы
+        english: (that) they should have cut
+    imperative_continuous_singular:
+      - greek: κόβε
+        russian: режь
+        english: keep cutting (singular)
+    imperative_continuous_plural:
+      - greek: κόβετε
+        russian: режьте
+        english: keep cutting (plural)
+    imperative_simple_singular:
+      - greek: κόψε
+        russian: порежь
+        english: cut (singular)
+    imperative_simple_plural:
+      - greek: κόψτε
+        russian: порежьте
+        english: cut (plural)
+    imperative_negation_singular:
+      - greek: μην κόψεις
+        russian: не режь
+        english: do not cut (singular)
+    imperative_negation_plural:
+      - greek: μην κόψετε
+        russian: не режьте
+        english: do not cut (plural)

@@ -1,0 +1,160 @@
+- verb: παίζω
+  translation: to play
+  tenses:
+    present_tense:
+      - greek: παίζω
+        russian: играю
+        english: I play
+      - greek: παίζεις
+        russian: играешь
+        english: you play
+      - greek: παίζει
+        russian: играет
+        english: he/she/it plays
+      - greek: παίζουμε
+        russian: играем
+        english: we play
+      - greek: παίζετε
+        russian: играете
+        english: you play
+      - greek: παίζουν
+        russian: играют
+        english: they play
+    future_continuous_tense:
+      - greek: θα παίζω
+        russian: буду играть
+        english: I will be playing
+      - greek: θα παίζεις
+        russian: будешь играть
+        english: you will be playing
+      - greek: θα παίζει
+        russian: будет играть
+        english: he/she/it will be playing
+      - greek: θα παίζουμε
+        russian: будем играть
+        english: we will be playing
+      - greek: θα παίζετε
+        russian: будете играть
+        english: you will be playing
+      - greek: θα παίζουν
+        russian: будут играть
+        english: they will be playing
+    simple_future_tense:
+      - greek: θα παίξω
+        russian: поиграю
+        english: I will play
+      - greek: θα παίξεις
+        russian: поиграешь
+        english: you will play
+      - greek: θα παίξει
+        russian: поиграет
+        english: he/she/it will play
+      - greek: θα παίξουμε
+        russian: поиграем
+        english: we will play
+      - greek: θα παίξετε
+        russian: поиграете
+        english: you will play
+      - greek: θα παίξουν
+        russian: поиграют
+        english: they will play
+    imperfect_past_tense:
+      - greek: έπαιζα
+        russian: играл
+        english: I was playing
+      - greek: έπαιζες
+        russian: играл
+        english: you were playing
+      - greek: έπαιζε
+        russian: играл
+        english: he/she/it was playing
+      - greek: παίζαμε
+        russian: играли
+        english: we were playing
+      - greek: παίζατε
+        russian: играли
+        english: you were playing
+      - greek: έπαιζαν
+        russian: играли
+        english: they were playing
+    simple_past_tense:
+      - greek: έπαιξα
+        russian: поиграл
+        english: I played
+      - greek: έπαιξες
+        russian: поиграл
+        english: you played
+      - greek: έπαιξε
+        russian: поиграл
+        english: he/she/it played
+      - greek: παίξαμε
+        russian: поиграли
+        english: we played
+      - greek: παίξατε
+        russian: поиграли
+        english: you played
+      - greek: έπαιξαν
+        russian: поиграли
+        english: they played
+    continuous_subjunctive_mood:
+      - greek: να παίζω
+        russian: играл бы
+        english: (that) I should play
+      - greek: να παίζεις
+        russian: играл бы
+        english: (that) you should play
+      - greek: να παίζει
+        russian: играл бы
+        english: (that) he/she/it should play
+      - greek: να παίζουμε
+        russian: играли бы
+        english: (that) we should play
+      - greek: να παίζετε
+        russian: играли бы
+        english: (that) you should play
+      - greek: να παίζουν
+        russian: играли бы
+        english: (that) they should play
+    simple_subjunctive_mood:
+      - greek: να παίξω
+        russian: поиграл бы
+        english: (that) I should have played
+      - greek: να παίξεις
+        russian: поиграл бы
+        english: (that) you should have played
+      - greek: να παίξει
+        russian: поиграл бы
+        english: (that) he/she/it should have played
+      - greek: να παίξουμε
+        russian: поиграли бы
+        english: (that) we should have played
+      - greek: να παίξετε
+        russian: поиграли бы
+        english: (that) you should have played
+      - greek: να παίξουν
+        russian: поиграли бы
+        english: (that) they should have played
+    imperative_continuous_singular:
+      - greek: παίζε
+        russian: играй
+        english: keep playing (singular)
+    imperative_continuous_plural:
+      - greek: παίζετε
+        russian: играйте
+        english: keep playing (plural)
+    imperative_simple_singular:
+      - greek: παίξε
+        russian: поиграй
+        english: play (singular)
+    imperative_simple_plural:
+      - greek: παίξτε
+        russian: поиграйте
+        english: play (plural)
+    imperative_negation_singular:
+      - greek: μην παίξεις
+        russian: не играй
+        english: do not play (singular)
+    imperative_negation_plural:
+      - greek: μην παίξετε
+        russian: не играйте
+        english: do not play (plural)

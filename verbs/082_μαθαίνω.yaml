@@ -1,0 +1,160 @@
+- verb: μαθαίνω
+  translation: to learn
+  tenses:
+    present_tense:
+      - greek: μαθαίνω
+        russian: учу
+        english: I learn
+      - greek: μαθαίνεις
+        russian: учишь
+        english: you learn
+      - greek: μαθαίνει
+        russian: учит
+        english: he/she/it learns
+      - greek: μαθαίνουμε
+        russian: учим
+        english: we learn
+      - greek: μαθαίνετε
+        russian: учите
+        english: you learn
+      - greek: μαθαίνουν
+        russian: учат
+        english: they learn
+    future_continuous_tense:
+      - greek: θα μαθαίνω
+        russian: буду учить
+        english: I will be learning
+      - greek: θα μαθαίνεις
+        russian: будешь учить
+        english: you will be learning
+      - greek: θα μαθαίνει
+        russian: будет учить
+        english: he/she/it will be learning
+      - greek: θα μαθαίνουμε
+        russian: будем учить
+        english: we will be learning
+      - greek: θα μαθαίνετε
+        russian: будете учить
+        english: you will be learning
+      - greek: θα μαθαίνουν
+        russian: будут учить
+        english: they will be learning
+    simple_future_tense:
+      - greek: θα μάθω
+        russian: выучу
+        english: I will learn
+      - greek: θα μάθεις
+        russian: выучишь
+        english: you will learn
+      - greek: θα μάθει
+        russian: выучит
+        english: he/she/it will learn
+      - greek: θα μάθουμε
+        russian: выучим
+        english: we will learn
+      - greek: θα μάθετε
+        russian: выучите
+        english: you will learn
+      - greek: θα μάθουν
+        russian: выучат
+        english: they will learn
+    imperfect_past_tense:
+      - greek: μάθαινα
+        russian: учил
+        english: I was learning
+      - greek: μάθαινες
+        russian: учил
+        english: you were learning
+      - greek: μάθαινε
+        russian: учил
+        english: he/she/it was learning
+      - greek: μαθαίναμε
+        russian: учили
+        english: we were learning
+      - greek: μαθαίνατε
+        russian: учили
+        english: you were learning
+      - greek: μάθαιναν
+        russian: учили
+        english: they were learning
+    simple_past_tense:
+      - greek: έμαθα
+        russian: выучил
+        english: I learned
+      - greek: έμαθες
+        russian: выучил
+        english: you learned
+      - greek: έμαθε
+        russian: выучил
+        english: he/she/it learned
+      - greek: μάθαμε
+        russian: выучили
+        english: we learned
+      - greek: μάθατε
+        russian: выучили
+        english: you learned
+      - greek: έμαθαν
+        russian: выучили
+        english: they learned
+    continuous_subjunctive_mood:
+      - greek: να μαθαίνω
+        russian: учил бы
+        english: (that) I should learn
+      - greek: να μαθαίνεις
+        russian: учил бы
+        english: (that) you should learn
+      - greek: να μαθαίνει
+        russian: учил бы
+        english: (that) he/she/it should learn
+      - greek: να μαθαίνουμε
+        russian: учили бы
+        english: (that) we should learn
+      - greek: να μαθαίνετε
+        russian: учили бы
+        english: (that) you should learn
+      - greek: να μαθαίνουν
+        russian: учили бы
+        english: (that) they should learn
+    simple_subjunctive_mood:
+      - greek: να μάθω
+        russian: выучил бы
+        english: (that) I should have learned
+      - greek: να μάθεις
+        russian: выучил бы
+        english: (that) you should have learned
+      - greek: να μάθει
+        russian: выучил бы
+        english: (that) he/she/it should have learned
+      - greek: να μάθουμε
+        russian: выучили бы
+        english: (that) we should have learned
+      - greek: να μάθετε
+        russian: выучили бы
+        english: (that) you should have learned
+      - greek: να μάθουν
+        russian: выучили бы
+        english: (that) they should have learned
+    imperative_continuous_singular:
+      - greek: μάθαινε
+        russian: учи
+        english: keep learning (singular)
+    imperative_continuous_plural:
+      - greek: μαθαίνετε
+        russian: учите
+        english: keep learning (plural)
+    imperative_simple_singular:
+      - greek: μάθε
+        russian: выучи
+        english: learn (singular)
+    imperative_simple_plural:
+      - greek: μάθετε
+        russian: выучите
+        english: learn (plural)
+    imperative_negation_singular:
+      - greek: μη μάθεις
+        russian: не учи
+        english: do not learn (singular)
+    imperative_negation_plural:
+      - greek: μη μάθετε
+        russian: не учите
+        english: do not learn (plural)

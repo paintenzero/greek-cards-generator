@@ -1,0 +1,160 @@
+- verb: τραγουδάω/τραγουδώ
+  translation: to sing
+  tenses:
+    present_tense:
+      - greek: τραγουδάω/τραγουδώ
+        russian: пою
+        english: I sing
+      - greek: τραγουδάς
+        russian: поёшь
+        english: you sing
+      - greek: τραγουδάει/τραγουδά
+        russian: поёт
+        english: he/she/it sings
+      - greek: τραγουδάμε
+        russian: поём
+        english: we sing
+      - greek: τραγουδάτε
+        russian: поёте
+        english: you sing
+      - greek: τραγουδάνε/τραγουδούν
+        russian: поют
+        english: they sing
+    future_continuous_tense:
+      - greek: θα τραγουδάω/θα τραγουδώ
+        russian: буду петь
+        english: I will be singing
+      - greek: θα τραγουδάς
+        russian: будешь петь
+        english: you will be singing
+      - greek: θα τραγουδάει/θα τραγουδά
+        russian: будет петь
+        english: he/she/it will be singing
+      - greek: θα τραγουδάμε
+        russian: будем петь
+        english: we will be singing
+      - greek: θα τραγουδάτε
+        russian: будете петь
+        english: you will be singing
+      - greek: θα τραγουδάνε/θα τραγουδούν
+        russian: будут петь
+        english: they will be singing
+    simple_future_tense:
+      - greek: θα τραγουδήσω
+        russian: спою
+        english: I will sing
+      - greek: θα τραγουδήσεις
+        russian: споёшь
+        english: you will sing
+      - greek: θα τραγουδήσει
+        russian: споёт
+        english: he/she/it will sing
+      - greek: θα τραγουδήσουμε
+        russian: споём
+        english: we will sing
+      - greek: θα τραγουδήσετε
+        russian: споёте
+        english: you will sing
+      - greek: θα τραγουδήσουν
+        russian: споют
+        english: they will sing
+    imperfect_past_tense:
+      - greek: τραγουδούσα
+        russian: пел
+        english: I was singing
+      - greek: τραγουδούσες
+        russian: пел
+        english: you were singing
+      - greek: τραγουδούσε
+        russian: пел
+        english: he/she/it was singing
+      - greek: τραγουδούσαμε
+        russian: пели
+        english: we were singing
+      - greek: τραγουδούσατε
+        russian: пели
+        english: you were singing
+      - greek: τραγουδούσαν
+        russian: пели
+        english: they were singing
+    simple_past_tense:
+      - greek: τραγούδησα
+        russian: спел
+        english: I sang
+      - greek: τραγούδησες
+        russian: спел
+        english: you sang
+      - greek: τραγούδησε
+        russian: спел
+        english: he/she/it sang
+      - greek: τραγουδήσαμε
+        russian: спели
+        english: we sang
+      - greek: τραγουδήσατε
+        russian: спели
+        english: you sang
+      - greek: τραγούδησαν
+        russian: спели
+        english: they sang
+    continuous_subjunctive_mood:
+      - greek: να τραγουδάω/να τραγουδώ
+        russian: пел бы
+        english: (that) I should sing
+      - greek: να τραγουδάς
+        russian: пел бы
+        english: (that) you should sing
+      - greek: να τραγουδάει/να τραγουδά
+        russian: пел бы
+        english: (that) he/she/it should sing
+      - greek: να τραγουδάμε
+        russian: пели бы
+        english: (that) we should sing
+      - greek: να τραγουδάτε
+        russian: пели бы
+        english: (that) you should sing
+      - greek: να τραγουδάνε/να τραγουδούν
+        russian: пели бы
+        english: (that) they should sing
+    simple_subjunctive_mood:
+      - greek: να τραγουδήσω
+        russian: спел бы
+        english: (that) I should have sung
+      - greek: να τραγουδήσεις
+        russian: спел бы
+        english: (that) you should have sung
+      - greek: να τραγουδήσει
+        russian: спел бы
+        english: (that) he/she/it should have sung
+      - greek: να τραγουδήσουμε
+        russian: спели бы
+        english: (that) we should have sung
+      - greek: να τραγουδήσετε
+        russian: спели бы
+        english: (that) you should have sung
+      - greek: να τραγουδήσουν
+        russian: спели бы
+        english: (that) they should have sung
+    imperative_continuous_singular:
+      - greek: τραγούδα
+        russian: пой
+        english: keep singing (singular)
+    imperative_continuous_plural:
+      - greek: τραγουδάτε
+        russian: пойте
+        english: keep singing (plural)
+    imperative_simple_singular:
+      - greek: τραγούδησε
+        russian: спой
+        english: sing (singular)
+    imperative_simple_plural:
+      - greek: τραγουδήστε
+        russian: спойте
+        english: sing (plural)
+    imperative_negation_singular:
+      - greek: μην τραγουδήσεις
+        russian: не пой
+        english: do not sing (singular)
+    imperative_negation_plural:
+      - greek: μην τραγουδήσετε
+        russian: не пойте
+        english: do not sing (plural)

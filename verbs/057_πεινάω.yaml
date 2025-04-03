@@ -1,0 +1,160 @@
+- verb: πεινάω/πεινώ
+  translation: to be hungry
+  tenses:
+    present_tense:
+      - greek: πεινάω/πεινώ
+        russian: хочу есть
+        english: I am hungry
+      - greek: πεινάς
+        russian: хочешь есть
+        english: you are hungry
+      - greek: πεινάει/πεινά
+        russian: хочет есть
+        english: he/she/it is hungry
+      - greek: πεινάμε
+        russian: хотим есть
+        english: we are hungry
+      - greek: πεινάτε
+        russian: хотите есть
+        english: you are hungry
+      - greek: πεινάνε/πεινούν
+        russian: хотят есть
+        english: they are hungry
+    future_continuous_tense:
+      - greek: θα πεινάω/θα πεινώ
+        russian: буду хотеть есть
+        english: I will be hungry
+      - greek: θα πεινάς
+        russian: будешь хотеть есть
+        english: you will be hungry
+      - greek: θα πεινάει/θα πεινά
+        russian: будет хотеть есть
+        english: he/she/it will be hungry
+      - greek: θα πεινάμε
+        russian: будем хотеть есть
+        english: we will be hungry
+      - greek: θα πεινάτε
+        russian: будете хотеть есть
+        english: you will be hungry
+      - greek: θα πεινάνε/θα πεινούν
+        russian: будут хотеть есть
+        english: they will be hungry
+    simple_future_tense:
+      - greek: θα πεινάσω
+        russian: захочу есть
+        english: I will get hungry
+      - greek: θα πεινάσεις
+        russian: захочешь есть
+        english: you will get hungry
+      - greek: θα πεινάσει
+        russian: захочет есть
+        english: he/she/it will get hungry
+      - greek: θα πεινάσουμε
+        russian: захотим есть
+        english: we will get hungry
+      - greek: θα πεινάσετε
+        russian: захотите есть
+        english: you will get hungry
+      - greek: θα πεινάσουν
+        russian: захотят есть
+        english: they will get hungry
+    imperfect_past_tense:
+      - greek: πεινούσα
+        russian: хотел есть
+        english: I was hungry
+      - greek: πεινούσες
+        russian: хотел есть
+        english: you were hungry
+      - greek: πεινούσε
+        russian: хотел есть
+        english: he/she/it was hungry
+      - greek: πεινούσαμε
+        russian: хотели есть
+        english: we were hungry
+      - greek: πεινούσατε
+        russian: хотели есть
+        english: you were hungry
+      - greek: πεινούσαν
+        russian: хотели есть
+        english: they were hungry
+    simple_past_tense:
+      - greek: πείνασα
+        russian: захотел есть
+        english: I got hungry
+      - greek: πείνασες
+        russian: захотел есть
+        english: you got hungry
+      - greek: πείνασε
+        russian: захотел есть
+        english: he/she/it got hungry
+      - greek: πεινάσαμε
+        russian: захотели есть
+        english: we got hungry
+      - greek: πεινάσατε
+        russian: захотели есть
+        english: you got hungry
+      - greek: πείνασαν
+        russian: захотели есть
+        english: they got hungry
+    continuous_subjunctive_mood:
+      - greek: να πεινάω/να πεινώ
+        russian: хотел бы есть
+        english: (that) I should be hungry
+      - greek: να πεινάς
+        russian: хотел бы есть
+        english: (that) you should be hungry
+      - greek: να πεινάει/να πεινά
+        russian: хотел бы есть
+        english: (that) he/she/it should be hungry
+      - greek: να πεινάμε
+        russian: хотели бы есть
+        english: (that) we should be hungry
+      - greek: να πεινάτε
+        russian: хотели бы есть
+        english: (that) you should be hungry
+      - greek: να πεινάνε/να πεινούν
+        russian: хотели бы есть
+        english: (that) they should be hungry
+    simple_subjunctive_mood:
+      - greek: να πεινάσω
+        russian: захотел бы есть
+        english: (that) I should have gotten hungry
+      - greek: να πεινάσεις
+        russian: захотел бы есть
+        english: (that) you should have gotten hungry
+      - greek: να πεινάσει
+        russian: захотел бы есть
+        english: (that) he/she/it should have gotten hungry
+      - greek: να πεινάσουμε
+        russian: захотели бы есть
+        english: (that) we should have gotten hungry
+      - greek: να πεινάσετε
+        russian: захотели бы есть
+        english: (that) you should have gotten hungry
+      - greek: να πεινάσουν
+        russian: захотели бы есть
+        english: (that) they should have gotten hungry
+    imperative_continuous_singular:
+      - greek: πείνα
+        russian: хоти есть
+        english: be hungry (singular)
+    imperative_continuous_plural:
+      - greek: πεινάτε
+        russian: хотите есть
+        english: be hungry (plural)
+    imperative_simple_singular:
+      - greek: πείνασε
+        russian: захоти есть
+        english: get hungry (singular)
+    imperative_simple_plural:
+      - greek: πεινάστε
+        russian: захотите есть
+        english: get hungry (plural)
+    imperative_negation_singular:
+      - greek: μην πεινάσεις
+        russian: не хоти есть
+        english: do not be hungry (singular)
+    imperative_negation_plural:
+      - greek: μην πεινάσετε
+        russian: не хотите есть
+        english: do not be hungry (plural)

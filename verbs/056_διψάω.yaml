@@ -1,0 +1,160 @@
+- verb: διψάω/διψώ
+  translation: to be thirsty
+  tenses:
+    present_tense:
+      - greek: διψάω/διψώ
+        russian: хочу пить
+        english: I am thirsty
+      - greek: διψάς
+        russian: хочешь пить
+        english: you are thirsty
+      - greek: διψάει/διψά
+        russian: хочет пить
+        english: he/she/it is thirsty
+      - greek: διψάμε
+        russian: хотим пить
+        english: we are thirsty
+      - greek: διψάτε
+        russian: хотите пить
+        english: you are thirsty
+      - greek: διψάνε/διψούν
+        russian: хотят пить
+        english: they are thirsty
+    future_continuous_tense:
+      - greek: θα διψάω/θα διψώ
+        russian: буду хотеть пить
+        english: I will be thirsty
+      - greek: θα διψάς
+        russian: будешь хотеть пить
+        english: you will be thirsty
+      - greek: θα διψάει/θα διψά
+        russian: будет хотеть пить
+        english: he/she/it will be thirsty
+      - greek: θα διψάμε
+        russian: будем хотеть пить
+        english: we will be thirsty
+      - greek: θα διψάτε
+        russian: будете хотеть пить
+        english: you will be thirsty
+      - greek: θα διψάνε/θα διψούν
+        russian: будут хотеть пить
+        english: they will be thirsty
+    simple_future_tense:
+      - greek: θα διψάσω
+        russian: захочу пить
+        english: I will get thirsty
+      - greek: θα διψάσεις
+        russian: захочешь пить
+        english: you will get thirsty
+      - greek: θα διψάσει
+        russian: захочет пить
+        english: he/she/it will get thirsty
+      - greek: θα διψάσουμε
+        russian: захотим пить
+        english: we will get thirsty
+      - greek: θα διψάσετε
+        russian: захотите пить
+        english: you will get thirsty
+      - greek: θα διψάσουν
+        russian: захотят пить
+        english: they will get thirsty
+    imperfect_past_tense:
+      - greek: διψούσα
+        russian: хотел пить
+        english: I was thirsty
+      - greek: διψούσες
+        russian: хотел пить
+        english: you were thirsty
+      - greek: διψούσε
+        russian: хотел пить
+        english: he/she/it was thirsty
+      - greek: διψούσαμε
+        russian: хотели пить
+        english: we were thirsty
+      - greek: διψούσατε
+        russian: хотели пить
+        english: you were thirsty
+      - greek: διψούσαν
+        russian: хотели пить
+        english: they were thirsty
+    simple_past_tense:
+      - greek: δίψασα
+        russian: захотел пить
+        english: I got thirsty
+      - greek: δίψασες
+        russian: захотел пить
+        english: you got thirsty
+      - greek: δίψασε
+        russian: захотел пить
+        english: he/she/it got thirsty
+      - greek: διψάσαμε
+        russian: захотели пить
+        english: we got thirsty
+      - greek: διψάσατε
+        russian: захотели пить
+        english: you got thirsty
+      - greek: δίψασαν
+        russian: захотели пить
+        english: they got thirsty
+    continuous_subjunctive_mood:
+      - greek: να διψάω/να διψώ
+        russian: хотел бы пить
+        english: (that) I should be thirsty
+      - greek: να διψάς
+        russian: хотел бы пить
+        english: (that) you should be thirsty
+      - greek: να διψάει/να διψά
+        russian: хотел бы пить
+        english: (that) he/she/it should be thirsty
+      - greek: να διψάμε
+        russian: хотели бы пить
+        english: (that) we should be thirsty
+      - greek: να διψάτε
+        russian: хотели бы пить
+        english: (that) you should be thirsty
+      - greek: να διψάνε/να διψούν
+        russian: хотели бы пить
+        english: (that) they should be thirsty
+    simple_subjunctive_mood:
+      - greek: να διψάσω
+        russian: захотел бы пить
+        english: (that) I should have gotten thirsty
+      - greek: να διψάσεις
+        russian: захотел бы пить
+        english: (that) you should have gotten thirsty
+      - greek: να διψάσει
+        russian: захотел бы пить
+        english: (that) he/she/it should have gotten thirsty
+      - greek: να διψάσουμε
+        russian: захотели бы пить
+        english: (that) we should have gotten thirsty
+      - greek: να διψάσετε
+        russian: захотели бы пить
+        english: (that) you should have gotten thirsty
+      - greek: να διψάσουν
+        russian: захотели бы пить
+        english: (that) they should have gotten thirsty
+    imperative_continuous_singular:
+      - greek: δίψα
+        russian: хоти пить
+        english: be thirsty (singular)
+    imperative_continuous_plural:
+      - greek: διψάτε
+        russian: хотите пить
+        english: be thirsty (plural)
+    imperative_simple_singular:
+      - greek: δίψασε
+        russian: захоти пить
+        english: get thirsty (singular)
+    imperative_simple_plural:
+      - greek: διψάστε
+        russian: захотите пить
+        english: get thirsty (plural)
+    imperative_negation_singular:
+      - greek: μη διψάσεις
+        russian: не хоти пить
+        english: do not be thirsty (singular)
+    imperative_negation_plural:
+      - greek: μη διψάσετε
+        russian: не хотите пить
+        english: do not be thirsty (plural)

@@ -1,0 +1,160 @@
+- verb: δίνω
+  translation: to give
+  tenses:
+    present_tense:
+      - greek: δίνω
+        russian: даю
+        english: I give
+      - greek: δίνεις
+        russian: даёшь
+        english: you give
+      - greek: δίνει
+        russian: даёт
+        english: he/she/it gives
+      - greek: δίνουμε
+        russian: даём
+        english: we give
+      - greek: δίνετε
+        russian: даёте
+        english: you give
+      - greek: δίνουν
+        russian: дают
+        english: they give
+    future_continuous_tense:
+      - greek: θα δίνω
+        russian: буду давать
+        english: I will be giving
+      - greek: θα δίνεις
+        russian: будешь давать
+        english: you will be giving
+      - greek: θα δίνει
+        russian: будет давать
+        english: he/she/it will be giving
+      - greek: θα δίνουμε
+        russian: будем давать
+        english: we will be giving
+      - greek: θα δίνετε
+        russian: будете давать
+        english: you will be giving
+      - greek: θα δίνουν
+        russian: будут давать
+        english: they will be giving
+    simple_future_tense:
+      - greek: θα δώσω
+        russian: дам
+        english: I will give
+      - greek: θα δώσεις
+        russian: дашь
+        english: you will give
+      - greek: θα δώσει
+        russian: даст
+        english: he/she/it will give
+      - greek: θα δώσουμε
+        russian: дадим
+        english: we will give
+      - greek: θα δώσετε
+        russian: дадите
+        english: you will give
+      - greek: θα δώσουν
+        russian: дадут
+        english: they will give
+    imperfect_past_tense:
+      - greek: έδινα
+        russian: давал
+        english: I was giving
+      - greek: έδινες
+        russian: давал
+        english: you were giving
+      - greek: έδινε
+        russian: давал
+        english: he/she/it was giving
+      - greek: δίναμε
+        russian: давали
+        english: we were giving
+      - greek: δίνατε
+        russian: давали
+        english: you were giving
+      - greek: έδιναν
+        russian: давали
+        english: they were giving
+    simple_past_tense:
+      - greek: έδωσα
+        russian: дал
+        english: I gave
+      - greek: έδωσες
+        russian: дал
+        english: you gave
+      - greek: έδωσε
+        russian: дал
+        english: he/she/it gave
+      - greek: δώσαμε
+        russian: дали
+        english: we gave
+      - greek: δώσατε
+        russian: дали
+        english: you gave
+      - greek: έδωσαν
+        russian: дали
+        english: they gave
+    continuous_subjunctive_mood:
+      - greek: να δίνω
+        russian: давал бы
+        english: (that) I should give
+      - greek: να δίνεις
+        russian: давал бы
+        english: (that) you should give
+      - greek: να δίνει
+        russian: давал бы
+        english: (that) he/she/it should give
+      - greek: να δίνουμε
+        russian: давали бы
+        english: (that) we should give
+      - greek: να δίνετε
+        russian: давали бы
+        english: (that) you should give
+      - greek: να δίνουν
+        russian: давали бы
+        english: (that) they should give
+    simple_subjunctive_mood:
+      - greek: να δώσω
+        russian: дал бы
+        english: (that) I should have given
+      - greek: να δώσεις
+        russian: дал бы
+        english: (that) you should have given
+      - greek: να δώσει
+        russian: дал бы
+        english: (that) he/she/it should have given
+      - greek: να δώσουμε
+        russian: дали бы
+        english: (that) we should have given
+      - greek: να δώσετε
+        russian: дали бы
+        english: (that) you should have given
+      - greek: να δώσουν
+        russian: дали бы
+        english: (that) they should have given
+    imperative_continuous_singular:
+      - greek: δίνε
+        russian: давай
+        english: keep giving (singular)
+    imperative_continuous_plural:
+      - greek: δίνετε
+        russian: давайте
+        english: keep giving (plural)
+    imperative_simple_singular:
+      - greek: δώσε
+        russian: дай
+        english: give (singular)
+    imperative_simple_plural:
+      - greek: δώστε
+        russian: дайте
+        english: give (plural)
+    imperative_negation_singular:
+      - greek: μη δώσεις
+        russian: не давай
+        english: do not give (singular)
+    imperative_negation_plural:
+      - greek: μη δώσετε
+        russian: не давайте
+        english: do not give (plural)

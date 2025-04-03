@@ -1,0 +1,160 @@
+- verb: φοράω/φορώ
+  translation: to wear
+  tenses:
+    present_tense:
+      - greek: φοράω/φορώ
+        russian: ношу
+        english: I wear
+      - greek: φοράς
+        russian: носишь
+        english: you wear
+      - greek: φοράει/φορά
+        russian: носит
+        english: he/she/it wears
+      - greek: φοράμε
+        russian: носим
+        english: we wear
+      - greek: φοράτε
+        russian: носите
+        english: you wear
+      - greek: φοράνε/φορούν
+        russian: носят
+        english: they wear
+    future_continuous_tense:
+      - greek: θα φοράω/θα φορώ
+        russian: буду носить
+        english: I will be wearing
+      - greek: θα φοράς
+        russian: будешь носить
+        english: you will be wearing
+      - greek: θα φοράει/θα φορά
+        russian: будет носить
+        english: he/she/it will be wearing
+      - greek: θα φοράμε
+        russian: будем носить
+        english: we will be wearing
+      - greek: θα φοράτε
+        russian: будете носить
+        english: you will be wearing
+      - greek: θα φοράνε/θα φορούν
+        russian: будут носить
+        english: they will be wearing
+    simple_future_tense:
+      - greek: θα φορέσω
+        russian: надену
+        english: I will wear
+      - greek: θα φορέσεις
+        russian: наденешь
+        english: you will wear
+      - greek: θα φορέσει
+        russian: наденет
+        english: he/she/it will wear
+      - greek: θα φορέσουμε
+        russian: наденем
+        english: we will wear
+      - greek: θα φορέσετε
+        russian: наденете
+        english: you will wear
+      - greek: θα φορέσουν
+        russian: наденут
+        english: they will wear
+    imperfect_past_tense:
+      - greek: φορούσα
+        russian: носил
+        english: I was wearing
+      - greek: φορούσες
+        russian: носил
+        english: you were wearing
+      - greek: φορούσε
+        russian: носил
+        english: he/she/it was wearing
+      - greek: φορούσαμε
+        russian: носили
+        english: we were wearing
+      - greek: φορούσατε
+        russian: носили
+        english: you were wearing
+      - greek: φορούσαν
+        russian: носили
+        english: they were wearing
+    simple_past_tense:
+      - greek: φόρεσα
+        russian: надел
+        english: I wore
+      - greek: φόρεσες
+        russian: надел
+        english: you wore
+      - greek: φόρεσε
+        russian: надел
+        english: he/she/it wore
+      - greek: φορέσαμε
+        russian: надели
+        english: we wore
+      - greek: φορέσατε
+        russian: надели
+        english: you wore
+      - greek: φόρεσαν
+        russian: надели
+        english: they wore
+    continuous_subjunctive_mood:
+      - greek: να φοράω/να φορώ
+        russian: носил бы
+        english: (that) I should wear
+      - greek: να φοράς
+        russian: носил бы
+        english: (that) you should wear
+      - greek: να φοράει/να φορά
+        russian: носил бы
+        english: (that) he/she/it should wear
+      - greek: να φοράμε
+        russian: носили бы
+        english: (that) we should wear
+      - greek: να φοράτε
+        russian: носили бы
+        english: (that) you should wear
+      - greek: να φοράνε/να φορούν
+        russian: носили бы
+        english: (that) they should wear
+    simple_subjunctive_mood:
+      - greek: να φορέσω
+        russian: надел бы
+        english: (that) I should have worn
+      - greek: να φορέσεις
+        russian: надел бы
+        english: (that) you should have worn
+      - greek: να φορέσει
+        russian: надел бы
+        english: (that) he/she/it should have worn
+      - greek: να φορέσουμε
+        russian: надели бы
+        english: (that) we should have worn
+      - greek: να φορέσετε
+        russian: надели бы
+        english: (that) you should have worn
+      - greek: να φορέσουν
+        russian: надели бы
+        english: (that) they should have worn
+    imperative_continuous_singular:
+      - greek: φόρα
+        russian: носи
+        english: keep wearing (singular)
+    imperative_continuous_plural:
+      - greek: φοράτε
+        russian: носите
+        english: keep wearing (plural)
+    imperative_simple_singular:
+      - greek: φόρεσε
+        russian: надень
+        english: wear (singular)
+    imperative_simple_plural:
+      - greek: φορέστε
+        russian: наденьте
+        english: wear (plural)
+    imperative_negation_singular:
+      - greek: μη φορέσεις
+        russian: не носи
+        english: do not wear (singular)
+    imperative_negation_plural:
+      - greek: μη φορέσετε
+        russian: не носите
+        english: do not wear (plural)

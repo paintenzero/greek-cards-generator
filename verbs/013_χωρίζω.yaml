@@ -1,0 +1,160 @@
+- verb: χωρίζω
+  translation: to divide
+  tenses:
+    present_tense:
+    - greek: χωρίζω
+      russian: разделяю
+      english: I divide
+    - greek: χωρίζεις
+      russian: разделяешь
+      english: you divide
+    - greek: χωρίζει
+      russian: разделяет
+      english: he/she/it divides
+    - greek: χωρίζουμε
+      russian: разделяем
+      english: we divide
+    - greek: χωρίζετε
+      russian: разделяете
+      english: you divide
+    - greek: χωρίζουν
+      russian: разделяют
+      english: they divide
+    future_continuous_tense:
+    - greek: θα χωρίζω
+      russian: буду разделять
+      english: I will be dividing
+    - greek: θα χωρίζεις
+      russian: будешь разделять
+      english: you will be dividing
+    - greek: θα χωρίζει
+      russian: будет разделять
+      english: he/she/it will be dividing
+    - greek: θα χωρίζουμε
+      russian: будем разделять
+      english: we will be dividing
+    - greek: θα χωρίζετε
+      russian: будете разделять
+      english: you will be dividing
+    - greek: θα χωρίζουν
+      russian: будут разделять
+      english: they will be dividing
+    simple_future_tense:
+    - greek: θα χωρίσω
+      russian: разделю
+      english: I will divide
+    - greek: θα χωρίσεις
+      russian: разделишь
+      english: you will divide
+    - greek: θα χωρίσει
+      russian: разделит
+      english: he/she/it will divide
+    - greek: θα χωρίσουμε
+      russian: разделим
+      english: we will divide
+    - greek: θα χωρίσετε
+      russian: разделите
+      english: you will divide
+    - greek: θα χωρίσουν
+      russian: разделят
+      english: they will divide
+    imperfect_past_tense:
+    - greek: χώριζα
+      russian: разделял
+      english: I was dividing
+    - greek: χώριζες
+      russian: разделял
+      english: you were dividing
+    - greek: χώριζε
+      russian: разделял
+      english: he/she/it was dividing
+    - greek: χωρίζαμε
+      russian: разделяли
+      english: we were dividing
+    - greek: χωρίζατε
+      russian: разделяли
+      english: you were dividing
+    - greek: χώριζαν
+      russian: разделяли
+      english: they were dividing
+    simple_past_tense:
+    - greek: χώρισα
+      russian: разделил
+      english: I divided
+    - greek: χώρισες
+      russian: разделил
+      english: you divided
+    - greek: χώρισε
+      russian: разделил
+      english: he/she/it divided
+    - greek: χωρίσαμε
+      russian: разделили
+      english: we divided
+    - greek: χωρίσατε
+      russian: разделили
+      english: you divided
+    - greek: χώρισαν
+      russian: разделили
+      english: they divided
+    continuous_subjunctive_mood:
+    - greek: να χωρίζω
+      russian: разделял бы
+      english: (that) I should divide
+    - greek: να χωρίζεις
+      russian: разделял бы
+      english: (that) you should divide
+    - greek: να χωρίζει
+      russian: разделял бы
+      english: (that) he/she/it should divide
+    - greek: να χωρίζουμε
+      russian: разделяли бы
+      english: (that) we should divide
+    - greek: να χωρίζετε
+      russian: разделяли бы
+      english: (that) you should divide
+    - greek: να χωρίζουν
+      russian: разделяли бы
+      english: (that) they should divide
+    simple_subjunctive_mood:
+    - greek: να χωρίσω
+      russian: разделил бы
+      english: (that) I should have divided
+    - greek: να χωρίσεις
+      russian: разделил бы
+      english: (that) you should have divided
+    - greek: να χωρίσει
+      russian: разделил бы
+      english: (that) he/she/it should have divided
+    - greek: να χωρίσουμε
+      russian: разделили бы
+      english: (that) we should have divided
+    - greek: να χωρίσετε
+      russian: разделили бы
+      english: (that) you should have divided
+    - greek: να χωρίσουν
+      russian: разделили бы
+      english: (that) they should have divided
+    imperative_continuous_singular:
+    - greek: χώριζε
+      russian: разделяй
+      english: keep dividing (singular)
+    imperative_continuous_plural:
+    - greek: χωρίζετε
+      russian: разделяйте
+      english: keep dividing (plural)
+    imperative_simple_singular:
+    - greek: χώρισε
+      russian: раздели
+      english: divide (singular)
+    imperative_simple_plural:
+    - greek: χωρίστε
+      russian: разделите
+      english: divide (plural)
+    imperative_negation_singular:
+    - greek: μη χωρίσεις
+      russian: не разделяй
+      english: do not divide (singular)
+    imperative_negation_plural:
+    - greek: μη χωρίσετε
+      russian: не разделяйте
+      english: do not divide (plural)

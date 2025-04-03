@@ -1,0 +1,143 @@
+- verb: αρέσω
+  translation: to like
+  tenses:
+    present_tense:
+      - greek: αρέσω
+        russian: нравлюсь
+        english: I like
+      - greek: αρέσεις
+        russian: нравишься
+        english: you like
+      - greek: αρέσει
+        russian: нравится
+        english: he/she/it likes
+      - greek: αρέσουμε
+        russian: нравимся
+        english: we like
+      - greek: αρέσετε
+        russian: нравитесь
+        english: you like
+      - greek: αρέσουν
+        russian: нравятся
+        english: they like
+
+    future_continuous_tense:
+      - greek: θα αρέσω
+        russian: буду нравиться
+        english: I will be liking
+      - greek: θα αρέσεις
+        russian: будешь нравиться
+        english: you will be liking
+      - greek: θα αρέσει
+        russian: будет нравиться
+        english: he/she/it will be liking
+      - greek: θα αρέσουμε
+        russian: будем нравиться
+        english: we will be liking
+      - greek: θα αρέσετε
+        russian: будете нравиться
+        english: you will be liking
+      - greek: θα αρέσουν
+        russian: будут нравиться
+        english: they will be liking
+
+    simple_future_tense:
+      - greek: θα αρέσω
+        russian: понравлюсь
+        english: I will like
+      - greek: θα αρέσεις
+        russian: понравишься
+        english: you will like
+      - greek: θα αρέσει
+        russian: понравится
+        english: he/she/it will like
+      - greek: θα αρέσουμε
+        russian: понравимся
+        english: we will like
+      - greek: θα αρέσετε
+        russian: понравитесь
+        english: you will like
+      - greek: θα αρέσουν
+        russian: понравятся
+        english: they will like
+
+    imperfect_past_tense:
+      - greek: άρεσα
+        russian: нравился
+        english: I was liking
+      - greek: άρεσες
+        russian: нравился
+        english: you were liking
+      - greek: άρεσε
+        russian: нравился
+        english: he/she/it was liking
+      - greek: αρέσαμε
+        russian: нравились
+        english: we were liking
+      - greek: αρέσατε
+        russian: нравились
+        english: you were liking
+      - greek: άρεσαν
+        russian: нравились
+        english: they were liking
+
+    simple_past_tense:
+      - greek: άρεσα
+        russian: понравился
+        english: I liked
+      - greek: άρεσες
+        russian: понравился
+        english: you liked
+      - greek: άρεσε
+        russian: понравился
+        english: he/she/it liked
+      - greek: αρέσαμε
+        russian: понравились
+        english: we liked
+      - greek: αρέσατε
+        russian: понравились
+        english: you liked
+      - greek: άρεσαν
+        russian: понравились
+        english: they liked
+
+    continuous_subjunctive_mood:
+      - greek: να αρέσω
+        russian: нравился бы
+        english: (that) I should like
+      - greek: να αρέσεις
+        russian: нравился бы
+        english: (that) you should like
+      - greek: να αρέσει
+        russian: нравился бы
+        english: (that) he/she/it should like
+      - greek: να αρέσουμε
+        russian: нравились бы
+        english: (that) we should like
+      - greek: να αρέσετε
+        russian: нравились бы
+        english: (that) you should like
+      - greek: να αρέσουν
+        russian: нравились бы
+        english: (that) they should like
+
+    simple_subjunctive_mood:
+      - greek: να αρέσω
+        russian: понравился бы
+        english: (that) I should have liked
+      - greek: να αρέσεις
+        russian: понравился бы
+        english: (that) you should have liked
+      - greek: να αρέσει
+        russian: понравился бы
+        english: (that) he/she/it should have liked
+      - greek: να αρέσουμε
+        russian: понравились бы
+        english: (that) we should have liked
+      - greek: να αρέσετε
+        russian: понравились бы
+        english: (that) you should have liked
+      - greek: να αρέσουν
+        russian: понравились бы
+        english: (that) they should have liked
+

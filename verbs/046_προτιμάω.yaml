@@ -1,0 +1,160 @@
+- verb: προτιμάω/προτιμώ
+  translation: to prefer
+  tenses:
+    present_tense:
+      - greek: προτιμάω/προτιμώ
+        russian: предпочитаю
+        english: I prefer
+      - greek: προτιμάς
+        russian: предпочитаешь
+        english: you prefer
+      - greek: προτιμάει/προτιμά
+        russian: предпочитает
+        english: he/she/it prefers
+      - greek: προτιμάμε
+        russian: предпочитаем
+        english: we prefer
+      - greek: προτιμάτε
+        russian: предпочитаете
+        english: you prefer
+      - greek: προτιμάνε/προτιμούν
+        russian: предпочитают
+        english: they prefer
+    future_continuous_tense:
+      - greek: θα προτιμάω/θα προτιμώ
+        russian: буду предпочитать
+        english: I will be preferring
+      - greek: θα προτιμάς
+        russian: будешь предпочитать
+        english: you will be preferring
+      - greek: θα προτιμάει/θα προτιμά
+        russian: будет предпочитать
+        english: he/she/it will be preferring
+      - greek: θα προτιμάμε
+        russian: будем предпочитать
+        english: we will be preferring
+      - greek: θα προτιμάτε
+        russian: будете предпочитать
+        english: you will be preferring
+      - greek: θα προτιμάνε/θα προτιμούν
+        russian: будут предпочитать
+        english: they will be preferring
+    simple_future_tense:
+      - greek: θα προτιμήσω
+        russian: предпочту
+        english: I will prefer
+      - greek: θα προτιμήσεις
+        russian: предпочтёшь
+        english: you will prefer
+      - greek: θα προτιμήσει
+        russian: предпочтёт
+        english: he/she/it will prefer
+      - greek: θα προτιμήσουμε
+        russian: предпочтём
+        english: we will prefer
+      - greek: θα προτιμήσετε
+        russian: предпочтёте
+        english: you will prefer
+      - greek: θα προτιμήσουν
+        russian: предпочтут
+        english: they will prefer
+    imperfect_past_tense:
+      - greek: προτιμούσα
+        russian: предпочитал
+        english: I was preferring
+      - greek: προτιμούσες
+        russian: предпочитал
+        english: you were preferring
+      - greek: προτιμούσε
+        russian: предпочитал
+        english: he/she/it was preferring
+      - greek: προτιμούσαμε
+        russian: предпочитали
+        english: we were preferring
+      - greek: προτιμούσατε
+        russian: предпочитали
+        english: you were preferring
+      - greek: προτιμούσαν
+        russian: предпочитали
+        english: they were preferring
+    simple_past_tense:
+      - greek: προτίμησα
+        russian: предпочёл
+        english: I preferred
+      - greek: προτίμησες
+        russian: предпочёл
+        english: you preferred
+      - greek: προτίμησε
+        russian: предпочёл
+        english: he/she/it preferred
+      - greek: προτιμήσαμε
+        russian: предпочли
+        english: we preferred
+      - greek: προτιμήσατε
+        russian: предпочли
+        english: you preferred
+      - greek: προτίμησαν
+        russian: предпочли
+        english: they preferred
+    continuous_subjunctive_mood:
+      - greek: να προτιμάω/να προτιμώ
+        russian: предпочитал бы
+        english: (that) I should prefer
+      - greek: να προτιμάς
+        russian: предпочитал бы
+        english: (that) you should prefer
+      - greek: να προτιμάει/να προτιμά
+        russian: предпочитал бы
+        english: (that) he/she/it should prefer
+      - greek: να προτιμάμε
+        russian: предпочитали бы
+        english: (that) we should prefer
+      - greek: να προτιμάτε
+        russian: предпочитали бы
+        english: (that) you should prefer
+      - greek: να προτιμάνε/να προτιμούν
+        russian: предпочитали бы
+        english: (that) they should prefer
+    simple_subjunctive_mood:
+      - greek: να προτιμήσω
+        russian: предпочёл бы
+        english: (that) I should have preferred
+      - greek: να προτιμήσεις
+        russian: предпочёл бы
+        english: (that) you should have preferred
+      - greek: να προτιμήσει
+        russian: предпочёл бы
+        english: (that) he/she/it should have preferred
+      - greek: να προτιμήσουμε
+        russian: предпочли бы
+        english: (that) we should have preferred
+      - greek: να προτιμήσετε
+        russian: предпочли бы
+        english: (that) you should have preferred
+      - greek: να προτιμήσουν
+        russian: предпочли бы
+        english: (that) they should have preferred
+    imperative_continuous_singular:
+      - greek: προτίμα
+        russian: предпочитай
+        english: keep preferring (singular)
+    imperative_continuous_plural:
+      - greek: προτιμάτε
+        russian: предпочитайте
+        english: keep preferring (plural)
+    imperative_simple_singular:
+      - greek: προτίμησε
+        russian: предпочти
+        english: prefer (singular)
+    imperative_simple_plural:
+      - greek: προτιμήστε
+        russian: предпочтите
+        english: prefer (plural)
+    imperative_negation_singular:
+      - greek: μην προτιμήσεις
+        russian: не предпочитай
+        english: do not prefer (singular)
+    imperative_negation_plural:
+      - greek: μην προτιμήσετε
+        russian: не предпочитайте
+        english: do not prefer (plural)

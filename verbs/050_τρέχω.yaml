@@ -1,0 +1,172 @@
+- verb: Τρέχω
+  translation: to run
+  tenses:
+    present_tense:
+      - greek: τρέχω
+        russian: бегаю
+        english: I run
+      - greek: τρέχεις
+        russian: бегаешь
+        english: you run
+      - greek: τρέχει
+        russian: бегает
+        english: he/she/it runs
+      - greek: τρέχουμε
+        russian: бегаем
+        english: we run
+      - greek: τρέχετε
+        russian: бегаете
+        english: you run
+      - greek: τρέχουν
+        russian: бегают
+        english: they run
+
+    future_continuous_tense:
+      - greek: θα τρέχω
+        russian: буду бегать
+        english: I will be running
+      - greek: θα τρέχεις
+        russian: будешь бегать
+        english: you will be running
+      - greek: θα τρέχει
+        russian: будет бегать
+        english: he/she/it will be running
+      - greek: θα τρέχουμε
+        russian: будем бегать
+        english: we will be running
+      - greek: θα τρέχετε
+        russian: будете бегать
+        english: you will be running
+      - greek: θα τρέχουν
+        russian: будут бегать
+        english: they will be running
+
+    simple_future_tense:
+      - greek: θα τρέξω
+        russian: пробегу
+        english: I will run
+      - greek: θα τρέξεις
+        russian: пробежишь
+        english: you will run
+      - greek: θα τρέξει
+        russian: пробежит
+        english: he/she/it will run
+      - greek: θα τρέξουμε
+        russian: пробежим
+        english: we will run
+      - greek: θα τρέξετε
+        russian: пробежите
+        english: you will run
+      - greek: θα τρέξουν
+        russian: пробегут
+        english: they will run
+
+    imperfect_past_tense:
+      - greek: έτρεχα
+        russian: бегал
+        english: I was running
+      - greek: έτρεχες
+        russian: бегал
+        english: you were running
+      - greek: έτρεχε
+        russian: бегал
+        english: he/she/it was running
+      - greek: τρέχαμε
+        russian: бегали
+        english: we were running
+      - greek: τρέχατε
+        russian: бегали
+        english: you (plural) were running
+      - greek: έτρεχαν
+        russian: бегали
+        english: they were running
+
+    simple_past_tense:
+      - greek: έτρεξα
+        russian: пробежал
+        english: I ran
+      - greek: έτρεξες
+        russian: пробежал
+        english: you ran
+      - greek: έτρεξε
+        russian: пробежал
+        english: he/she/it ran
+      - greek: τρέξαμε
+        russian: пробежали
+        english: we ran
+      - greek: τρέξατε
+        russian: пробежали
+        english: you ran
+      - greek: έτρεξαν
+        russian: пробежали
+        english: they ran
+
+    continuous_subjunctive_mood:
+      - greek: να τρέχω
+        russian: бегал бы
+        english: (that) I should run
+      - greek: να τρέχεις
+        russian: бегал бы
+        english: (that) you should run
+      - greek: να τρέχει
+        russian: бегал бы
+        english: (that) he/she/it should run
+      - greek: να τρέχουμε
+        russian: бегали бы
+        english: (that) we should run
+      - greek: να τρέχετε
+        russian: бегали бы
+        english: (that) you should run
+      - greek: να τρέχουν
+        russian: бегали бы
+        english: (that) they should run
+
+    simple_subjunctive_mood:
+      - greek: να τρέξω
+        russian: пробежал бы
+        english: (that) I should have run
+      - greek: να τρέξεις
+        russian: пробежал бы
+        english: (that) you should have run
+      - greek: να τρέξει
+        russian: пробежал бы
+        english: (that) he/she/it should have run
+      - greek: να τρέξουμε
+        russian: пробежали бы
+        english: (that) we should have run
+      - greek: να τρέξετε
+        russian: пробежали бы
+        english: (that) you (plural) should have run
+      - greek: να τρέξουν
+        russian: пробежали бы
+        english: (that) they should have run
+
+    imperative_continuous_singular:
+      - greek: τρέχε
+        russian: беги
+        english: keep running (singular)
+
+    imperative_continuous_plural:
+      - greek: τρέχετε
+        russian: бегите
+        english: keep running (plural)
+
+    imperative_simple_singular:
+      - greek: τρέξε
+        russian: пробеги
+        english: run (singular)
+
+    imperative_simple_plural:
+      - greek: τρέξτε
+        russian: пробегите
+        english: run (plural)
+
+    imperative_negation_singular:
+      - greek: μην τρέξεις
+        russian: не беги
+        english: do not run (singular)
+
+    imperative_negation_plural:
+      - greek: μην τρέξετε
+        russian: не бегайте
+        english: do not run (plural)

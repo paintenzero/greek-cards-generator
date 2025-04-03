@@ -1,0 +1,160 @@
+- verb: ξυπνάω/ξυπνώ
+  translation: to wake up
+  tenses:
+    present_tense:
+      - greek: ξυπνάω/ξυπνώ
+        russian: просыпаюсь
+        english: I wake up
+      - greek: ξυπνάς
+        russian: просыпаешься
+        english: you wake up
+      - greek: ξυπνάει/ξυπνά
+        russian: просыпается
+        english: he/she/it wakes up
+      - greek: ξυπνάμε
+        russian: просыпаемся
+        english: we wake up
+      - greek: ξυπνάτε
+        russian: просыпаетесь
+        english: you wake up
+      - greek: ξυπνάνε/ξυπνούν
+        russian: просыпаются
+        english: they wake up
+    future_continuous_tense:
+      - greek: θα ξυπνάω/θα ξυπνώ
+        russian: буду просыпаться
+        english: I will be waking up
+      - greek: θα ξυπνάς
+        russian: будешь просыпаться
+        english: you will be waking up
+      - greek: θα ξυπνάει/θα ξυπνά
+        russian: будет просыпаться
+        english: he/she/it will be waking up
+      - greek: θα ξυπνάμε
+        russian: будем просыпаться
+        english: we will be waking up
+      - greek: θα ξυπνάτε
+        russian: будете просыпаться
+        english: you will be waking up
+      - greek: θα ξυπνάνε/θα ξυπνούν
+        russian: будут просыпаться
+        english: they will be waking up
+    simple_future_tense:
+      - greek: θα ξυπνήσω
+        russian: проснусь
+        english: I will wake up
+      - greek: θα ξυπνήσεις
+        russian: проснёшься
+        english: you will wake up
+      - greek: θα ξυπνήσει
+        russian: проснётся
+        english: he/she/it will wake up
+      - greek: θα ξυπνήσουμε
+        russian: проснёмся
+        english: we will wake up
+      - greek: θα ξυπνήσετε
+        russian: проснётесь
+        english: you will wake up
+      - greek: θα ξυπνήσουν
+        russian: проснутся
+        english: they will wake up
+    imperfect_past_tense:
+      - greek: ξυπνούσα
+        russian: просыпался
+        english: I was waking up
+      - greek: ξυπνούσες
+        russian: просыпался
+        english: you were waking up
+      - greek: ξυπνούσε
+        russian: просыпался
+        english: he/she/it was waking up
+      - greek: ξυπνούσαμε
+        russian: просыпались
+        english: we were waking up
+      - greek: ξυπνούσατε
+        russian: просыпались
+        english: you were waking up
+      - greek: ξυπνούσαν
+        russian: просыпались
+        english: they were waking up
+    simple_past_tense:
+      - greek: ξύπνησα
+        russian: проснулся
+        english: I woke up
+      - greek: ξύπνησες
+        russian: проснулся
+        english: you woke up
+      - greek: ξύπνησε
+        russian: проснулся
+        english: he/she/it woke up
+      - greek: ξυπνήσαμε
+        russian: проснулись
+        english: we woke up
+      - greek: ξυπνήσατε
+        russian: проснулись
+        english: you woke up
+      - greek: ξύπνησαν
+        russian: проснулись
+        english: they woke up
+    continuous_subjunctive_mood:
+      - greek: να ξυπνάω/να ξυπνώ
+        russian: просыпался бы
+        english: (that) I should wake up
+      - greek: να ξυπνάς
+        russian: просыпался бы
+        english: (that) you should wake up
+      - greek: να ξυπνάει/να ξυπνά
+        russian: просыпался бы
+        english: (that) he/she/it should wake up
+      - greek: να ξυπνάμε
+        russian: просыпались бы
+        english: (that) we should wake up
+      - greek: να ξυπνάτε
+        russian: просыпались бы
+        english: (that) you should wake up
+      - greek: να ξυπνάνε/να ξυπνούν
+        russian: просыпались бы
+        english: (that) they should wake up
+    simple_subjunctive_mood:
+      - greek: να ξυπνήσω
+        russian: проснулся бы
+        english: (that) I should have woken up
+      - greek: να ξυπνήσεις
+        russian: проснулся бы
+        english: (that) you should have woken up
+      - greek: να ξυπνήσει
+        russian: проснулся бы
+        english: (that) he/she/it should have woken up
+      - greek: να ξυπνήσουμε
+        russian: проснулись бы
+        english: (that) we should have woken up
+      - greek: να ξυπνήσετε
+        russian: проснулись бы
+        english: (that) you should have woken up
+      - greek: να ξυπνήσουν
+        russian: проснулись бы
+        english: (that) they should have woken up
+    imperative_continuous_singular:
+      - greek: ξύπνα
+        russian: просыпайся
+        english: keep waking up (singular)
+    imperative_continuous_plural:
+      - greek: ξυπνάτε
+        russian: просыпайтесь
+        english: keep waking up (plural)
+    imperative_simple_singular:
+      - greek: ξύπνησε
+        russian: проснись
+        english: wake up (singular)
+    imperative_simple_plural:
+      - greek: ξυπνήστε
+        russian: проснитесь
+        english: wake up (plural)
+    imperative_negation_singular:
+      - greek: μην ξυπνήσεις
+        russian: не просыпайся
+        english: do not wake up (singular)
+    imperative_negation_plural:
+      - greek: μην ξυπνήσετε
+        russian: не просыпайтесь
+        english: do not wake up (plural)

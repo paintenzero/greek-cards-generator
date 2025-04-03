@@ -1,0 +1,160 @@
+- verb: νοικιάζω
+  translation: to rent
+  tenses:
+    present_tense:
+    - greek: νοικιάζω
+      russian: арендую
+      english: I rent
+    - greek: νοικιάζεις
+      russian: арендуешь
+      english: you rent
+    - greek: νοικιάζει
+      russian: арендует
+      english: he/she/it rents
+    - greek: νοικιάζουμε
+      russian: арендуем
+      english: we rent
+    - greek: νοικιάζετε
+      russian: арендуете
+      english: you rent
+    - greek: νοικιάζουν
+      russian: арендуют
+      english: they rent
+    future_continuous_tense:
+    - greek: θα νοικιάζω
+      russian: буду арендовать
+      english: I will be renting
+    - greek: θα νοικιάζεις
+      russian: будешь арендовать
+      english: you will be renting
+    - greek: θα νοικιάζει
+      russian: будет арендовать
+      english: he/she/it will be renting
+    - greek: θα νοικιάζουμε
+      russian: будем арендовать
+      english: we will be renting
+    - greek: θα νοικιάζετε
+      russian: будете арендовать
+      english: you will be renting
+    - greek: θα νοικιάζουν
+      russian: будут арендовать
+      english: they will be renting
+    simple_future_tense:
+    - greek: θα νοικιάσω
+      russian: арендую
+      english: I will rent
+    - greek: θα νοικιάσεις
+      russian: арендуешь
+      english: you will rent
+    - greek: θα νοικιάσει
+      russian: арендует
+      english: he/she/it will rent
+    - greek: θα νοικιάσουμε
+      russian: арендуем
+      english: we will rent
+    - greek: θα νοικιάσετε
+      russian: арендуете
+      english: you will rent
+    - greek: θα νοικιάσουν
+      russian: арендуют
+      english: they will rent
+    imperfect_past_tense:
+    - greek: νοίκιαζα
+      russian: арендовал
+      english: I was renting
+    - greek: νοίκιαζες
+      russian: арендовал
+      english: you were renting
+    - greek: νοίκιαζε
+      russian: арендовал
+      english: he/she/it was renting
+    - greek: νοικιάζαμε
+      russian: арендовали
+      english: we were renting
+    - greek: νοικιάζατε
+      russian: арендовали
+      english: you were renting
+    - greek: νοίκιαζαν
+      russian: арендовали
+      english: they were renting
+    simple_past_tense:
+    - greek: νοίκιασα
+      russian: арендовал
+      english: I rented
+    - greek: νοίκιασες
+      russian: арендовал
+      english: you rented
+    - greek: νοίκιασε
+      russian: арендовал
+      english: he/she/it rented
+    - greek: νοικιάσαμε
+      russian: арендовали
+      english: we rented
+    - greek: νοικιάσατε
+      russian: арендовали
+      english: you rented
+    - greek: νοίκιασαν
+      russian: арендовали
+      english: they rented
+    continuous_subjunctive_mood:
+    - greek: να νοικιάζω
+      russian: арендовал бы
+      english: (that) I should rent
+    - greek: να νοικιάζεις
+      russian: арендовал бы
+      english: (that) you should rent
+    - greek: να νοικιάζει
+      russian: арендовал бы
+      english: (that) he/she/it should rent
+    - greek: να νοικιάζουμε
+      russian: арендовали бы
+      english: (that) we should rent
+    - greek: να νοικιάζετε
+      russian: арендовали бы
+      english: (that) you should rent
+    - greek: να νοικιάζουν
+      russian: арендовали бы
+      english: (that) they should rent
+    simple_subjunctive_mood:
+    - greek: να νοικιάσω
+      russian: арендовал бы
+      english: (that) I should have rented
+    - greek: να νοικιάσεις
+      russian: арендовал бы
+      english: (that) you should have rented
+    - greek: να νοικιάσει
+      russian: арендовал бы
+      english: (that) he/she/it should have rented
+    - greek: να νοικιάσουμε
+      russian: арендовали бы
+      english: (that) we should have rented
+    - greek: να νοικιάσετε
+      russian: арендовали бы
+      english: (that) you should have rented
+    - greek: να νοικιάσουν
+      russian: арендовали бы
+      english: (that) they should have rented
+    imperative_continuous_singular:
+    - greek: νοίκιαζε
+      russian: арендуй
+      english: keep renting (singular)
+    imperative_continuous_plural:
+    - greek: νοικιάζετε
+      russian: арендуйте
+      english: keep renting (plural)
+    imperative_simple_singular:
+    - greek: νοίκιασε
+      russian: арендуй
+      english: rent (singular)
+    imperative_simple_plural:
+    - greek: νοικιάστε
+      russian: арендуйте
+      english: rent (plural)
+    imperative_negation_singular:
+    - greek: μη νοικιάσεις
+      russian: не арендуй
+      english: do not rent (singular)
+    imperative_negation_plural:
+    - greek: μη νοικιάσετε
+      russian: не арендуйте
+      english: do not rent (plural)

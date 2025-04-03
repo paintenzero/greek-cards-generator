@@ -1,0 +1,160 @@
+- verb: χαίρομαι
+  translation: to be happy
+  tenses:
+    present_tense:
+      - greek: χαίρομαι
+        russian: радуюсь
+        english: I am happy
+      - greek: χαίρεσαι
+        russian: радуешься
+        english: you are happy
+      - greek: χαίρεται
+        russian: радуется
+        english: he/she/it is happy
+      - greek: χαίρεστε
+        russian: радуетесь
+        english: we are happy
+      - greek: χαίρεστε
+        russian: радуетесь
+        english: you (plural) are happy
+      - greek: χαίρονται
+        russian: радуются
+        english: they are happy
+    future_continuous_tense:
+      - greek: θα χαίρομαι
+        russian: буду радоваться
+        english: I will be happy
+      - greek: θα χαίρεσαι
+        russian: будешь радоваться
+        english: you will be happy
+      - greek: θα χαίρεται
+        russian: будет радоваться
+        english: he/she/it will be happy
+      - greek: θα χαίρεστε
+        russian: будем радоваться
+        english: we will be happy
+      - greek: θα χαίρεστε
+        russian: будете радоваться
+        english: you (plural) will be happy
+      - greek: θα χαίρονται
+        russian: будут радоваться
+        english: they will be happy
+    simple_future_tense:
+      - greek: θα χαρώ
+        russian: порадуюсь
+        english: I will be happy
+      - greek: θα χαθείς
+        russian: порадуешься
+        english: you will be happy
+      - greek: θα χαθεί
+        russian: порадуется
+        english: he/she/it will be happy
+      - greek: θα χαρούμε
+        russian: порадуемся
+        english: we will be happy
+      - greek: θα χαθείτε
+        russian: порадуетесь
+        english: you (plural) will be happy
+      - greek: θα χαθούν
+        russian: порадуются
+        english: they will be happy
+    imperfect_past_tense:
+      - greek: χαίρομουν
+        russian: радовался
+        english: I was happy
+      - greek: χαίροσουν
+        russian: радовался
+        english: you were happy
+      - greek: χαίροταν
+        russian: радовался
+        english: he/she/it was happy
+      - greek: χαίρομαστε
+        russian: радовались
+        english: we were happy
+      - greek: χαίροσαστε
+        russian: радовались
+        english: you (plural) were happy
+      - greek: χαίρονταν
+        russian: радовались
+        english: they were happy
+    simple_past_tense:
+      - greek: χάρηκα
+        russian: порадовался
+        english: I was happy
+      - greek: χάρηκες
+        russian: порадовался
+        english: you were happy
+      - greek: χάρηκε
+        russian: порадовался
+        english: he/she/it was happy
+      - greek: χαρίκαμε
+        russian: порадовались
+        english: we were happy
+      - greek: χαρίκατε
+        russian: порадовались
+        english: you (plural) were happy
+      - greek: χάρηκαν
+        russian: порадовались
+        english: they were happy
+    continuous_subjunctive_mood:
+      - greek: να χαίρομαι
+        russian: радовался бы
+        english: (that) I should be happy
+      - greek: να χαίρεσαι
+        russian: радовался бы
+        english: (that) you should be happy
+      - greek: να χαίρεται
+        russian: радовался бы
+        english: (that) he/she/it should be happy
+      - greek: να χαίρεστε
+        russian: радовались бы
+        english: (that) we should be happy
+      - greek: να χαίρεστε
+        russian: радовались бы
+        english: (that) you should be happy
+      - greek: να χαίρονται
+        russian: радовались бы
+        english: (that) they should be happy
+    simple_subjunctive_mood:
+      - greek: να χαρώ
+        russian: порадовался бы
+        english: (that) I should have been happy
+      - greek: να χαθείς
+        russian: порадовался бы
+        english: (that) you should have been happy
+      - greek: να χαθεί
+        russian: порадовался бы
+        english: (that) he/she/it should have been happy
+      - greek: να χαρούμε
+        russian: порадовались бы
+        english: (that) we should have been happy
+      - greek: να χαθείτε
+        russian: порадовались бы
+        english: (that) you (plural) should have been happy
+      - greek: να χαθούν
+        russian: порадовались бы
+        english: (that) they should have been happy
+    imperative_continuous_singular:
+      - greek: χαίρεσαι
+        russian: радуйся
+        english: be happy (singular)
+    imperative_continuous_plural:
+      - greek: χαίρεστε
+        russian: радуйтесь
+        english: be happy (plural)
+    imperative_simple_singular:
+      - greek: χάρηκε
+        russian: порадуйся
+        english: be happy (singular)
+    imperative_simple_plural:
+      - greek: χαθείτε
+        russian: порадуйтесь
+        english: be happy (plural)
+    imperative_negation_singular:
+      - greek: μη χαθείς
+        russian: не радуйся
+        english: do not be happy (singular)
+    imperative_negation_plural:
+      - greek: μη χαθείτε
+        russian: не радуйтесь
+        english: do not be happy (plural)

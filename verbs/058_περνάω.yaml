@@ -1,0 +1,160 @@
+- verb: περνάω/περνώ
+  translation: to pass/spend time
+  tenses:
+    present_tense:
+      - greek: περνάω/περνώ
+        russian: провожу
+        english: I pass/spend
+      - greek: περνάς
+        russian: проводишь
+        english: you pass/spend
+      - greek: περνάει/περνά
+        russian: проводит
+        english: he/she/it passes/spends
+      - greek: περνάμε
+        russian: проводим
+        english: we pass/spend
+      - greek: περνάτε
+        russian: проводите
+        english: you pass/spend
+      - greek: περνάνε/περνούν
+        russian: проводят
+        english: they pass/spend
+    future_continuous_tense:
+      - greek: θα περνάω/θα περνώ
+        russian: буду проводить
+        english: I will be passing/spending
+      - greek: θα περνάς
+        russian: будешь проводить
+        english: you will be passing/spending
+      - greek: θα περνάει/θα περνά
+        russian: будет проводить
+        english: he/she/it will be passing/spending
+      - greek: θα περνάμε
+        russian: будем проводить
+        english: we will be passing/spending
+      - greek: θα περνάτε
+        russian: будете проводить
+        english: you will be passing/spending
+      - greek: θα περνάνε/θα περνούν
+        russian: будут проводить
+        english: they will be passing/spending
+    simple_future_tense:
+      - greek: θα περάσω
+        russian: проведу
+        english: I will pass/spend
+      - greek: θα περάσεις
+        russian: проведёшь
+        english: you will pass/spend
+      - greek: θα περάσει
+        russian: проведёт
+        english: he/she/it will pass/spend
+      - greek: θα περάσουμε
+        russian: проведём
+        english: we will pass/spend
+      - greek: θα περάσετε
+        russian: проведёте
+        english: you will pass/spend
+      - greek: θα περάσουν
+        russian: проведут
+        english: they will pass/spend
+    imperfect_past_tense:
+      - greek: περνούσα
+        russian: проводил
+        english: I was passing/spending
+      - greek: περνούσες
+        russian: проводил
+        english: you were passing/spending
+      - greek: περνούσε
+        russian: проводил
+        english: he/she/it was passing/spending
+      - greek: περνούσαμε
+        russian: проводили
+        english: we were passing/spending
+      - greek: περνούσατε
+        russian: проводили
+        english: you were passing/spending
+      - greek: περνούσαν
+        russian: проводили
+        english: they were passing/spending
+    simple_past_tense:
+      - greek: πέρασα
+        russian: провёл
+        english: I passed/spent
+      - greek: πέρασες
+        russian: провёл
+        english: you passed/spent
+      - greek: πέρασε
+        russian: провёл
+        english: he/she/it passed/spent
+      - greek: περάσαμε
+        russian: провели
+        english: we passed/spent
+      - greek: περάσατε
+        russian: провели
+        english: you passed/spent
+      - greek: πέρασαν
+        russian: провели
+        english: they passed/spent
+    continuous_subjunctive_mood:
+      - greek: να περνάω/να περνώ
+        russian: проводил бы
+        english: (that) I should pass/spend
+      - greek: να περνάς
+        russian: проводил бы
+        english: (that) you should pass/spend
+      - greek: να περνάει/να περνά
+        russian: проводил бы
+        english: (that) he/she/it should pass/spend
+      - greek: να περνάμε
+        russian: проводили бы
+        english: (that) we should pass/spend
+      - greek: να περνάτε
+        russian: проводили бы
+        english: (that) you should pass/spend
+      - greek: να περνάνε/να περνούν
+        russian: проводили бы
+        english: (that) they should pass/spend
+    simple_subjunctive_mood:
+      - greek: να περάσω
+        russian: провёл бы
+        english: (that) I should have passed/spent
+      - greek: να περάσεις
+        russian: провёл бы
+        english: (that) you should have passed/spent
+      - greek: να περάσει
+        russian: провёл бы
+        english: (that) he/she/it should have passed/spent
+      - greek: να περάσουμε
+        russian: провели бы
+        english: (that) we should have passed/spent
+      - greek: να περάσετε
+        russian: провели бы
+        english: (that) you should have passed/spent
+      - greek: να περάσουν
+        russian: провели бы
+        english: (that) they should have passed/spent
+    imperative_continuous_singular:
+      - greek: πέρνα
+        russian: проводи
+        english: keep passing/spending (singular)
+    imperative_continuous_plural:
+      - greek: περνάτε
+        russian: проводите
+        english: keep passing/spending (plural)
+    imperative_simple_singular:
+      - greek: πέρασε
+        russian: проведи
+        english: pass/spend (singular)
+    imperative_simple_plural:
+      - greek: περάστε
+        russian: проведите
+        english: pass/spend (plural)
+    imperative_negation_singular:
+      - greek: μην περνάσεις
+        russian: не проводи
+        english: do not pass/spend (singular)
+    imperative_negation_plural:
+      - greek: μην περνάσετε
+        russian: не проводите
+        english: do not pass/spend (plural)

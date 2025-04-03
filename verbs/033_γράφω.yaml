@@ -1,0 +1,160 @@
+- verb: γράφω
+  translation: to write
+  tenses:
+    present_tense:
+      - greek: γράφω
+        russian: пишу
+        english: I write
+      - greek: γράφεις
+        russian: пишешь
+        english: you write
+      - greek: γράφει
+        russian: пишет
+        english: he/she/it writes
+      - greek: γράφουμε
+        russian: пишем
+        english: we write
+      - greek: γράφετε
+        russian: пишете
+        english: you write
+      - greek: γράφουν
+        russian: пишут
+        english: they write
+    future_continuous_tense:
+      - greek: θα γράφω
+        russian: буду писать
+        english: I will be writing
+      - greek: θα γράφεις
+        russian: будешь писать
+        english: you will be writing
+      - greek: θα γράφει
+        russian: будет писать
+        english: he/she/it will be writing
+      - greek: θα γράφουμε
+        russian: будем писать
+        english: we will be writing
+      - greek: θα γράφετε
+        russian: будете писать
+        english: you will be writing
+      - greek: θα γράφουν
+        russian: будут писать
+        english: they will be writing
+    simple_future_tense:
+      - greek: θα γράψω
+        russian: напишу
+        english: I will write
+      - greek: θα γράψεις
+        russian: напишешь
+        english: you will write
+      - greek: θα γράψει
+        russian: напишет
+        english: he/she/it will write
+      - greek: θα γράψουμε
+        russian: напишем
+        english: we will write
+      - greek: θα γράψετε
+        russian: напишете
+        english: you will write
+      - greek: θα γράψουν
+        russian: напишут
+        english: they will write
+    imperfect_past_tense:
+      - greek: έγραφα
+        russian: писал
+        english: I was writing
+      - greek: έγραφες
+        russian: писал
+        english: you were writing
+      - greek: έγραφε
+        russian: писал
+        english: he/she/it was writing
+      - greek: γράφαμε
+        russian: писали
+        english: we were writing
+      - greek: γράφατε
+        russian: писали
+        english: you were writing
+      - greek: έγραφαν
+        russian: писали
+        english: they were writing
+    simple_past_tense:
+      - greek: έγραψα
+        russian: написал
+        english: I wrote
+      - greek: έγραψες
+        russian: написал
+        english: you wrote
+      - greek: έγραψε
+        russian: написал
+        english: he/she/it wrote
+      - greek: γράψαμε
+        russian: написали
+        english: we wrote
+      - greek: γράψατε
+        russian: написали
+        english: you wrote
+      - greek: έγραψαν
+        russian: написали
+        english: they wrote
+    continuous_subjunctive_mood:
+      - greek: να γράφω
+        russian: писал бы
+        english: (that) I should write
+      - greek: να γράφεις
+        russian: писал бы
+        english: (that) you should write
+      - greek: να γράφει
+        russian: писал бы
+        english: (that) he/she/it should write
+      - greek: να γράφουμε
+        russian: писали бы
+        english: (that) we should write
+      - greek: να γράφετε
+        russian: писали бы
+        english: (that) you should write
+      - greek: να γράφουν
+        russian: писали бы
+        english: (that) they should write
+    simple_subjunctive_mood:
+      - greek: να γράψω
+        russian: написал бы
+        english: (that) I should have written
+      - greek: να γράψεις
+        russian: написал бы
+        english: (that) you should have written
+      - greek: να γράψει
+        russian: написал бы
+        english: (that) he/she/it should have written
+      - greek: να γράψουμε
+        russian: написали бы
+        english: (that) we should have written
+      - greek: να γράψετε
+        russian: написали бы
+        english: (that) you should have written
+      - greek: να γράψουν
+        russian: написали бы
+        english: (that) they should have written
+    imperative_continuous_singular:
+      - greek: γράφε
+        russian: пиши
+        english: keep writing (singular)
+    imperative_continuous_plural:
+      - greek: γράφετε
+        russian: пишите
+        english: keep writing (plural)
+    imperative_simple_singular:
+      - greek: γράψε
+        russian: напиши
+        english: write (singular)
+    imperative_simple_plural:
+      - greek: γράψτε
+        russian: напишите
+        english: write (plural)
+    imperative_negation_singular:
+      - greek: μη γράψεις
+        russian: не пиши
+        english: do not write (singular)
+    imperative_negation_plural:
+      - greek: μη γράψετε
+        russian: не пишите
+        english: do not write (plural)

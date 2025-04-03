@@ -1,0 +1,160 @@
+- verb: ξεκινάω/ξεκινώ
+  translation: to start/begin
+  tenses:
+    present_tense:
+      - greek: ξεκινάω/ξεκινώ
+        russian: начинаю
+        english: I start
+      - greek: ξεκινάς
+        russian: начинаешь
+        english: you start
+      - greek: ξεκινάει/ξεκινά
+        russian: начинает
+        english: he/she/it starts
+      - greek: ξεκινάμε
+        russian: начинаем
+        english: we start
+      - greek: ξεκινάτε
+        russian: начинаете
+        english: you start
+      - greek: ξεκινάνε/ξεκινούν
+        russian: начинают
+        english: they start
+    future_continuous_tense:
+      - greek: θα ξεκινάω/θα ξεκινώ
+        russian: буду начинать
+        english: I will be starting
+      - greek: θα ξεκινάς
+        russian: будешь начинать
+        english: you will be starting
+      - greek: θα ξεκινάει/θα ξεκινά
+        russian: будет начинать
+        english: he/she/it will be starting
+      - greek: θα ξεκινάμε
+        russian: будем начинать
+        english: we will be starting
+      - greek: θα ξεκινάτε
+        russian: будете начинать
+        english: you will be starting
+      - greek: θα ξεκινάνε/θα ξεκινούν
+        russian: будут начинать
+        english: they will be starting
+    simple_future_tense:
+      - greek: θα ξεκινήσω
+        russian: начну
+        english: I will start
+      - greek: θα ξεκινήσεις
+        russian: начнёшь
+        english: you will start
+      - greek: θα ξεκινήσει
+        russian: начнёт
+        english: he/she/it will start
+      - greek: θα ξεκινήσουμε
+        russian: начнём
+        english: we will start
+      - greek: θα ξεκινήσετε
+        russian: начнёте
+        english: you will start
+      - greek: θα ξεκινήσουν
+        russian: начнут
+        english: they will start
+    imperfect_past_tense:
+      - greek: ξεκινούσα
+        russian: начинал
+        english: I was starting
+      - greek: ξεκινούσες
+        russian: начинал
+        english: you were starting
+      - greek: ξεκινούσε
+        russian: начинал
+        english: he/she/it was starting
+      - greek: ξεκινούσαμε
+        russian: начинали
+        english: we were starting
+      - greek: ξεκινούσατε
+        russian: начинали
+        english: you were starting
+      - greek: ξεκινούσαν
+        russian: начинали
+        english: they were starting
+    simple_past_tense:
+      - greek: ξεκίνησα
+        russian: начал
+        english: I started
+      - greek: ξεκίνησες
+        russian: начал
+        english: you started
+      - greek: ξεκίνησε
+        russian: начал
+        english: he/she/it started
+      - greek: ξεκινήσαμε
+        russian: начали
+        english: we started
+      - greek: ξεκινήσατε
+        russian: начали
+        english: you started
+      - greek: ξεκίνησαν
+        russian: начали
+        english: they started
+    continuous_subjunctive_mood:
+      - greek: να ξεκινάω/να ξεκινώ
+        russian: начинал бы
+        english: (that) I should start
+      - greek: να ξεκινάς
+        russian: начинал бы
+        english: (that) you should start
+      - greek: να ξεκινάει/να ξεκινά
+        russian: начинал бы
+        english: (that) he/she/it should start
+      - greek: να ξεκινάμε
+        russian: начинали бы
+        english: (that) we should start
+      - greek: να ξεκινάτε
+        russian: начинали бы
+        english: (that) you should start
+      - greek: να ξεκινάνε/να ξεκινούν
+        russian: начинали бы
+        english: (that) they should start
+    simple_subjunctive_mood:
+      - greek: να ξεκινήσω
+        russian: начал бы
+        english: (that) I should have started
+      - greek: να ξεκινήσεις
+        russian: начал бы
+        english: (that) you should have started
+      - greek: να ξεκινήσει
+        russian: начал бы
+        english: (that) he/she/it should have started
+      - greek: να ξεκινήσουμε
+        russian: начали бы
+        english: (that) we should have started
+      - greek: να ξεκινήσετε
+        russian: начали бы
+        english: (that) you should have started
+      - greek: να ξεκινήσουν
+        russian: начали бы
+        english: (that) they should have started
+    imperative_continuous_singular:
+      - greek: ξεκίνα
+        russian: начинай
+        english: keep starting (singular)
+    imperative_continuous_plural:
+      - greek: ξεκινάτε
+        russian: начинайте
+        english: keep starting (plural)
+    imperative_simple_singular:
+      - greek: ξεκίνησε
+        russian: начни
+        english: start (singular)
+    imperative_simple_plural:
+      - greek: ξεκινήστε
+        russian: начните
+        english: start (plural)
+    imperative_negation_singular:
+      - greek: μην ξεκινήσεις
+        russian: не начинай
+        english: do not start (singular)
+    imperative_negation_plural:
+      - greek: μην ξεκινήσετε
+        russian: не начинайте
+        english: do not start (plural)

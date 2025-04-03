@@ -1,0 +1,160 @@
+- verb: καθαρίζω
+  translation: to clean
+  tenses:
+    present_tense:
+    - greek: καθαρίζω
+      russian: чищу
+      english: I clean
+    - greek: καθαρίζεις
+      russian: чистишь
+      english: you clean
+    - greek: καθαρίζει
+      russian: чистит
+      english: he/she/it cleans
+    - greek: καθαρίζουμε
+      russian: чистим
+      english: we clean
+    - greek: καθαρίζετε
+      russian: чистите
+      english: you clean
+    - greek: καθαρίζουν
+      russian: чистят
+      english: they clean
+    future_continuous_tense:
+    - greek: θα καθαρίζω
+      russian: буду чистить
+      english: I will be cleaning
+    - greek: θα καθαρίζεις
+      russian: будешь чистить
+      english: you will be cleaning
+    - greek: θα καθαρίζει
+      russian: будет чистить
+      english: he/she/it will be cleaning
+    - greek: θα καθαρίζουμε
+      russian: будем чистить
+      english: we will be cleaning
+    - greek: θα καθαρίζετε
+      russian: будете чистить
+      english: you will be cleaning
+    - greek: θα καθαρίζουν
+      russian: будут чистить
+      english: they will be cleaning
+    simple_future_tense:
+    - greek: θα καθαρίσω
+      russian: почищу
+      english: I will clean
+    - greek: θα καθαρίσεις
+      russian: почистишь
+      english: you will clean
+    - greek: θα καθαρίσει
+      russian: почистит
+      english: he/she/it will clean
+    - greek: θα καθαρίσουμε
+      russian: почистим
+      english: we will clean
+    - greek: θα καθαρίσετε
+      russian: почистите
+      english: you will clean
+    - greek: θα καθαρίσουν
+      russian: почистят
+      english: they will clean
+    imperfect_past_tense:
+    - greek: καθάριζα
+      russian: чистил
+      english: I was cleaning
+    - greek: καθάριζες
+      russian: чистил
+      english: you were cleaning
+    - greek: καθάριζε
+      russian: чистил
+      english: he/she/it was cleaning
+    - greek: καθαρίζαμε
+      russian: чистили
+      english: we were cleaning
+    - greek: καθαρίζατε
+      russian: чистили
+      english: you were cleaning
+    - greek: καθάριζαν
+      russian: чистили
+      english: they were cleaning
+    simple_past_tense:
+    - greek: καθάρισα
+      russian: почистил
+      english: I cleaned
+    - greek: καθάρισες
+      russian: почистил
+      english: you cleaned
+    - greek: καθάρισε
+      russian: почистил
+      english: he/she/it cleaned
+    - greek: καθαρίσαμε
+      russian: почистили
+      english: we cleaned
+    - greek: καθαρίσατε
+      russian: почистили
+      english: you cleaned
+    - greek: καθάρισαν
+      russian: почистили
+      english: they cleaned
+    continuous_subjunctive_mood:
+    - greek: να καθαρίζω
+      russian: чистил бы
+      english: (that) I should clean
+    - greek: να καθαρίζεις
+      russian: чистил бы
+      english: (that) you should clean
+    - greek: να καθαρίζει
+      russian: чистил бы
+      english: (that) he/she/it should clean
+    - greek: να καθαρίζουμε
+      russian: чистили бы
+      english: (that) we should clean
+    - greek: να καθαρίζετε
+      russian: чистили бы
+      english: (that) you should clean
+    - greek: να καθαρίζουν
+      russian: чистили бы
+      english: (that) they should clean
+    simple_subjunctive_mood:
+    - greek: να καθαρίσω
+      russian: почистил бы
+      english: (that) I should have cleaned
+    - greek: να καθαρίσεις
+      russian: почистил бы
+      english: (that) you should have cleaned
+    - greek: να καθαρίσει
+      russian: почистил бы
+      english: (that) he/she/it should have cleaned
+    - greek: να καθαρίσουμε
+      russian: почистили бы
+      english: (that) we should have cleaned
+    - greek: να καθαρίσετε
+      russian: почистили бы
+      english: (that) you should have cleaned
+    - greek: να καθαρίσουν
+      russian: почистили бы
+      english: (that) they should have cleaned
+    imperative_continuous_singular:
+    - greek: καθάριζε
+      russian: чисти
+      english: keep cleaning (singular)
+    imperative_continuous_plural:
+    - greek: καθαρίζετε
+      russian: чистите
+      english: keep cleaning (plural)
+    imperative_simple_singular:
+    - greek: καθάρισε
+      russian: почисти
+      english: clean (singular)
+    imperative_simple_plural:
+    - greek: καθαρίστε
+      russian: почистите
+      english: clean (plural)
+    imperative_negation_singular:
+    - greek: μην καθαρίσεις
+      russian: не чисти
+      english: do not clean (singular)
+    imperative_negation_plural:
+    - greek: μην καθαρίσετε
+      russian: не чистите
+      english: do not clean (plural)

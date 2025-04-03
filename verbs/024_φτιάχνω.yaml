@@ -1,0 +1,160 @@
+- verb: φτιάχνω
+  translation: to make/fix
+  tenses:
+    present_tense:
+      - greek: φτιάχνω
+        russian: делаю/чиню
+        english: I make/fix
+      - greek: φτιάχνεις
+        russian: делаешь/чинишь
+        english: you make/fix
+      - greek: φτιάχνει
+        russian: делает/чинит
+        english: he/she/it makes/fixes
+      - greek: φτιάχνουμε
+        russian: делаем/чиним
+        english: we make/fix
+      - greek: φτιάχνετε
+        russian: делаете/чините
+        english: you make/fix
+      - greek: φτιάχνουν
+        russian: делают/чинят
+        english: they make/fix
+    future_continuous_tense:
+      - greek: θα φτιάχνω
+        russian: буду делать/чинить
+        english: I will be making/fixing
+      - greek: θα φτιάχνεις
+        russian: будешь делать/чинить
+        english: you will be making/fixing
+      - greek: θα φτιάχνει
+        russian: будет делать/чинить
+        english: he/she/it will be making/fixing
+      - greek: θα φτιάχνουμε
+        russian: будем делать/чинить
+        english: we will be making/fixing
+      - greek: θα φτιάχνετε
+        russian: будете делать/чинить
+        english: you will be making/fixing
+      - greek: θα φτιάχνουν
+        russian: будут делать/чинить
+        english: they will be making/fixing
+    simple_future_tense:
+      - greek: θα φτιάξω
+        russian: сделаю/починю
+        english: I will make/fix
+      - greek: θα φτιάξεις
+        russian: сделаешь/починишь
+        english: you will make/fix
+      - greek: θα φτιάξει
+        russian: сделает/починит
+        english: he/she/it will make/fix
+      - greek: θα φτιάξουμε
+        russian: сделаем/починим
+        english: we will make/fix
+      - greek: θα φτιάξετε
+        russian: сделаете/почините
+        english: you will make/fix
+      - greek: θα φτιάξουν
+        russian: сделают/починят
+        english: they will make/fix
+    imperfect_past_tense:
+      - greek: έφτιαχνα
+        russian: делал/чинил
+        english: I was making/fixing
+      - greek: έφτιαχνες
+        russian: делал/чинил
+        english: you were making/fixing
+      - greek: έφτιαχνε
+        russian: делал/чинил
+        english: he/she/it was making/fixing
+      - greek: φτιάχναμε
+        russian: делали/чинили
+        english: we were making/fixing
+      - greek: φτιάχνατε
+        russian: делали/чинили
+        english: you were making/fixing
+      - greek: έφτιαχναν
+        russian: делали/чинили
+        english: they were making/fixing
+    simple_past_tense:
+      - greek: έφτιαξα
+        russian: сделал/починил
+        english: I made/fixed
+      - greek: έφτιαξες
+        russian: сделал/починил
+        english: you made/fixed
+      - greek: έφτιαξε
+        russian: сделал/починил
+        english: he/she/it made/fixed
+      - greek: φτιάξαμε
+        russian: сделали/починили
+        english: we made/fixed
+      - greek: φτιάξατε
+        russian: сделали/починили
+        english: you made/fixed
+      - greek: έφτιαξαν
+        russian: сделали/починили
+        english: they made/fixed
+    continuous_subjunctive_mood:
+      - greek: να φτιάχνω
+        russian: делал бы/чинил бы
+        english: (that) I should make/fix
+      - greek: να φτιάχνεις
+        russian: делал бы/чинил бы
+        english: (that) you should make/fix
+      - greek: να φτιάχνει
+        russian: делал бы/чинил бы
+        english: (that) he/she/it should make/fix
+      - greek: να φτιάχνουμε
+        russian: делали бы/чинили бы
+        english: (that) we should make/fix
+      - greek: να φτιάχνετε
+        russian: делали бы/чинили бы
+        english: (that) you should make/fix
+      - greek: να φτιάχνουν
+        russian: делали бы/чинили бы
+        english: (that) they should make/fix
+    simple_subjunctive_mood:
+      - greek: να φτιάξω
+        russian: сделал бы/починил бы
+        english: (that) I should have made/fixed
+      - greek: να φτιάξεις
+        russian: сделал бы/починил бы
+        english: (that) you should have made/fixed
+      - greek: να φτιάξει
+        russian: сделал бы/починил бы
+        english: (that) he/she/it should have made/fixed
+      - greek: να φτιάξουμε
+        russian: сделали бы/починили бы
+        english: (that) we should have made/fixed
+      - greek: να φτιάξετε
+        russian: сделали бы/починили бы
+        english: (that) you should have made/fixed
+      - greek: να φτιάξουν
+        russian: сделали бы/починили бы
+        english: (that) they should have made/fixed
+    imperative_continuous_singular:
+      - greek: φτιάχνε
+        russian: делай/чини
+        english: keep making/fixing (singular)
+    imperative_continuous_plural:
+      - greek: φτιάχνετε
+        russian: делайте/чините
+        english: keep making/fixing (plural)
+    imperative_simple_singular:
+      - greek: φτιάξε
+        russian: сделай/почини
+        english: make/fix (singular)
+    imperative_simple_plural:
+      - greek: φτιάξτε
+        russian: сделайте/почините
+        english: make/fix (plural)
+    imperative_negation_singular:
+      - greek: μη φτιάξεις
+        russian: не делай/не чини
+        english: do not make/fix (singular)
+    imperative_negation_plural:
+      - greek: μη φτιάξετε
+        russian: не делайте/не чините
+        english: do not make/fix (plural)

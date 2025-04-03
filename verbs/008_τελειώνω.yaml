@@ -1,0 +1,160 @@
+- verb: τελειώνω
+  translation: to finish
+  tenses:
+    present_tense:
+    - greek: τελειώνω
+      russian: заканчиваю
+      english: I finish
+    - greek: τελειώνεις
+      russian: заканчиваешь
+      english: you finish
+    - greek: τελειώνει
+      russian: заканчивает
+      english: he/she/it finishes
+    - greek: τελειώνουμε
+      russian: заканчиваем
+      english: we finish
+    - greek: τελειώνετε
+      russian: заканчиваете
+      english: you (plural) finish
+    - greek: τελειώνουν
+      russian: заканчивают
+      english: they finish
+    future_continuous_tense:
+    - greek: θα τελειώνω
+      russian: буду заканчивать
+      english: I will be finishing
+    - greek: θα τελειώνεις
+      russian: будешь заканчивать
+      english: you will be finishing
+    - greek: θα τελειώνει
+      russian: будет заканчивать
+      english: he/she/it will be finishing
+    - greek: θα τελειώνουμε
+      russian: будем заканчивать
+      english: we will be finishing
+    - greek: θα τελειώνετε
+      russian: будете заканчивать
+      english: you (plural) will be finishing
+    - greek: θα τελειώνουν
+      russian: будут заканчивать
+      english: they will be finishing
+    simple_future_tense:
+    - greek: θα τελειώσω
+      russian: закончу
+      english: I will finish
+    - greek: θα τελειώσεις
+      russian: закончишь
+      english: you will finish
+    - greek: θα τελειώσει
+      russian: закончит
+      english: he/she/it will finish
+    - greek: θα τελειώσουμε
+      russian: закончим
+      english: we will finish
+    - greek: θα τελειώσετε
+      russian: закончите
+      english: you (plural) will finish
+    - greek: θα τελειώσουν
+      russian: закончат
+      english: they will finish
+    imperfect_past_tense:
+    - greek: τελείωνα
+      russian: заканчивал
+      english: I was finishing
+    - greek: τελείωνες
+      russian: заканчивал
+      english: you were finishing
+    - greek: τελείωνε
+      russian: заканчивал
+      english: he/she/it was finishing
+    - greek: τελειώναμε
+      russian: заканчивали
+      english: we were finishing
+    - greek: τελειώνατε
+      russian: заканчивали
+      english: you (plural) were finishing
+    - greek: τελείωναν
+      russian: заканчивали
+      english: they were finishing
+    simple_past_tense:
+    - greek: τελείωσα
+      russian: закончил
+      english: I finished
+    - greek: τελείωσες
+      russian: закончил
+      english: you finished
+    - greek: τελείωσε
+      russian: закончил
+      english: he/she/it finished
+    - greek: τελειώσαμε
+      russian: закончили
+      english: we finished
+    - greek: τελειώσατε
+      russian: закончили
+      english: you (plural) finished
+    - greek: τελείωσαν
+      russian: закончили
+      english: they finished
+    continuous_subjunctive_mood:
+    - greek: να τελειώνω
+      russian: заканчивал бы
+      english: (that) I should finish
+    - greek: να τελειώνεις
+      russian: заканчивал бы
+      english: (that) you should finish
+    - greek: να τελειώνει
+      russian: заканчивал бы
+      english: (that) he/she/it should finish
+    - greek: να τελειώνουμε
+      russian: заканчивали бы
+      english: (that) we should finish
+    - greek: να τελειώνετε
+      russian: заканчивали бы
+      english: (that) you should finish
+    - greek: να τελειώνουν
+      russian: заканчивали бы
+      english: (that) they should finish
+    simple_subjunctive_mood:
+    - greek: να τελειώσω
+      russian: закончил бы
+      english: (that) I should have finished
+    - greek: να τελειώσεις
+      russian: закончил бы
+      english: (that) you should have finished
+    - greek: να τελειώσει
+      russian: закончил бы
+      english: (that) he/she/it should have finished
+    - greek: να τελειώσουμε
+      russian: закончили бы
+      english: (that) we should have finished
+    - greek: να τελειώσετε
+      russian: закончили бы
+      english: (that) you (plural) should have finished
+    - greek: να τελειώσουν
+      russian: закончили бы
+      english: (that) they should have finished
+    imperative_continuous_singular:
+    - greek: τελείωνε
+      russian: заканчивай
+      english: keep finishing (singular)
+    imperative_continuous_plural:
+    - greek: τελειώνετε
+      russian: заканчивайте
+      english: keep finishing (plural)
+    imperative_simple_singular:
+    - greek: τελείωσε
+      russian: закончи
+      english: finish (singular)
+    imperative_simple_plural:
+    - greek: τελειώστε
+      russian: закончите
+      english: finish (plural)
+    imperative_negation_singular:
+    - greek: μην τελειώσεις
+      russian: не заканчивай
+      english: do not finish (singular)
+    imperative_negation_plural:
+    - greek: μην τελειώσετε
+      russian: не заканчивайте
+      english: do not finish (plural)

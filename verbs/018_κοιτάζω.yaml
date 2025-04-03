@@ -1,0 +1,172 @@
+- verb: κοιτάζω
+  translation: to look
+  tenses:
+    present_tense:
+      - greek: κοιτάζω
+        russian: смотрю
+        english: I look
+      - greek: κοιτάζεις
+        russian: смотришь
+        english: you look
+      - greek: κοιτάζει
+        russian: смотрит
+        english: he/she/it looks
+      - greek: κοιτάζουμε
+        russian: смотрим
+        english: we look
+      - greek: κοιτάζετε
+        russian: смотрите
+        english: you look
+      - greek: κοιτάζουν
+        russian: смотрят
+        english: they look
+
+    future_continuous_tense:
+      - greek: θα κοιτάζω
+        russian: буду смотреть
+        english: I will be looking
+      - greek: θα κοιτάζεις
+        russian: будешь смотреть
+        english: you will be looking
+      - greek: θα κοιτάζει
+        russian: будет смотреть
+        english: he/she/it will be looking
+      - greek: θα κοιτάζουμε
+        russian: будем смотреть
+        english: we will be looking
+      - greek: θα κοιτάζετε
+        russian: будете смотреть
+        english: you will be looking
+      - greek: θα κοιτάζουν
+        russian: будут смотреть
+        english: they will be looking
+
+    simple_future_tense:
+      - greek: θα κοιτάξω
+        russian: посмотрю
+        english: I will look
+      - greek: θα κοιτάξεις
+        russian: посмотришь
+        english: you will look
+      - greek: θα κοιτάξει
+        russian: посмотрит
+        english: he/she/it will look
+      - greek: θα κοιτάξουμε
+        russian: посмотрим
+        english: we will look
+      - greek: θα κοιτάξετε
+        russian: посмотрите
+        english: you will look
+      - greek: θα κοιτάξουν
+        russian: посмотрят
+        english: they will look
+
+    imperfect_past_tense:
+      - greek: κοίταζα
+        russian: смотрел
+        english: I was looking
+      - greek: κοίταζες
+        russian: смотрел
+        english: you were looking
+      - greek: κοίταζε
+        russian: смотрел
+        english: he/she/it was looking
+      - greek: κοιτάζαμε
+        russian: смотрели
+        english: we were looking
+      - greek: κοιτάζατε
+        russian: смотрели
+        english: you were looking
+      - greek: κοίταζαν
+        russian: смотрели
+        english: they were looking
+
+    simple_past_tense:
+      - greek: κοίταξα
+        russian: посмотрел
+        english: I looked
+      - greek: κοίταξες
+        russian: посмотрел
+        english: you looked
+      - greek: κοίταξε
+        russian: посмотрел
+        english: he/she/it looked
+      - greek: κοιτάξαμε
+        russian: посмотрели
+        english: we looked
+      - greek: κοιτάξατε
+        russian: посмотрели
+        english: you looked
+      - greek: κοίταξαν
+        russian: посмотрели
+        english: they looked
+
+    continuous_subjunctive_mood:
+      - greek: να κοιτάζω
+        russian: смотрел бы
+        english: (that) I should look
+      - greek: να κοιτάζεις
+        russian: смотрел бы
+        english: (that) you should look
+      - greek: να κοιτάζει
+        russian: смотрел бы
+        english: (that) he/she/it should look
+      - greek: να κοιτάζουμε
+        russian: смотрели бы
+        english: (that) we should look
+      - greek: να κοιτάζετε
+        russian: смотрели бы
+        english: (that) you should look
+      - greek: να κοιτάζουν
+        russian: смотрели бы
+        english: (that) they should look
+
+    simple_subjunctive_mood:
+      - greek: να κοιτάξω
+        russian: посмотрел бы
+        english: (that) I should have looked
+      - greek: να κοιτάξεις
+        russian: посмотрел бы
+        english: (that) you should have looked
+      - greek: να κοιτάξει
+        russian: посмотрел бы
+        english: (that) he/she/it should have looked
+      - greek: να κοιτάξουμε
+        russian: посмотрели бы
+        english: (that) we should have looked
+      - greek: να κοιτάξετε
+        russian: посмотрели бы
+        english: (that) you should have looked
+      - greek: να κοιτάξουν
+        russian: посмотрели бы
+        english: (that) they should have looked
+
+    imperative_continuous_singular:
+      - greek: κοίταζε
+        russian: смотри
+        english: keep looking (singular)
+
+    imperative_continuous_plural:
+      - greek: κοιτάζετε
+        russian: смотрите
+        english: keep looking (plural)
+
+    imperative_simple_singular:
+      - greek: κοίταξε
+        russian: посмотри
+        english: look (singular)
+
+    imperative_simple_plural:
+      - greek: κοιτάξτε
+        russian: посмотрите
+        english: look (plural)
+
+    imperative_negation_singular:
+      - greek: μην κοιτάξεις
+        russian: не смотри
+        english: do not look (singular)
+
+    imperative_negation_plural:
+      - greek: μην κοιτάξετε
+        russian: не смотрите
+        english: do not look (plural)

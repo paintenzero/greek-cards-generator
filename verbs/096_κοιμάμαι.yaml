@@ -1,0 +1,160 @@
+- verb: κοιμάμαι
+  translation: to sleep
+  tenses:
+    present_tense:
+      - greek: κοιμάμαι
+        russian: сплю
+        english: I sleep
+      - greek: κοιμάσαι
+        russian: спишь
+        english: you sleep
+      - greek: κοιμάται
+        russian: спит
+        english: he/she/it sleeps
+      - greek: κοιμόμαστε
+        russian: спим
+        english: we sleep
+      - greek: κοιμάστε
+        russian: спите
+        english: you (plural) sleep
+      - greek: κοιμούνται
+        russian: спят
+        english: they sleep
+    future_continuous_tense:
+      - greek: θα κοιμάμαι
+        russian: буду спать
+        english: I will be sleeping
+      - greek: θα κοιμάσαι
+        russian: будешь спать
+        english: you will be sleeping
+      - greek: θα κοιμάται
+        russian: будет спать
+        english: he/she/it will be sleeping
+      - greek: θα κοιμόμαστε
+        russian: будем спать
+        english: we will be sleeping
+      - greek: θα κοιμάστε
+        russian: будете спать
+        english: you (plural) will be sleeping
+      - greek: θα κοιμούνται
+        russian: будут спать
+        english: they will be sleeping
+    simple_future_tense:
+      - greek: θα κοιμηθώ
+        russian: посплю
+        english: I will sleep
+      - greek: θα κοιμηθείς
+        russian: поспишь
+        english: you will sleep
+      - greek: θα κοιμηθεί
+        russian: поспит
+        english: he/she/it will sleep
+      - greek: θα κοιμηθούμε
+        russian: поспим
+        english: we will sleep
+      - greek: θα κοιμηθείτε
+        russian: поспите
+        english: you (plural) will sleep
+      - greek: θα κοιμηθούν
+        russian: поспят
+        english: they will sleep
+    imperfect_past_tense:
+      - greek: κοιμόμουν
+        russian: спал
+        english: I was sleeping
+      - greek: κοιμόσουν
+        russian: спал
+        english: you were sleeping
+      - greek: κοιμόταν
+        russian: спал
+        english: he/she/it was sleeping
+      - greek: κοιμόμαστε
+        russian: спали
+        english: we were sleeping
+      - greek: κοιμόσαστε
+        russian: спали
+        english: you (plural) were sleeping
+      - greek: κοιμόταν
+        russian: спали
+        english: they were sleeping
+    simple_past_tense:
+      - greek: κοιμήθηκα
+        russian: поспал
+        english: I slept
+      - greek: κοιμήθηκες
+        russian: поспал
+        english: you slept
+      - greek: κοιμήθηκε
+        russian: поспал
+        english: he/she/it slept
+      - greek: κοιμηθήκαμε
+        russian: поспали
+        english: we slept
+      - greek: κοιμηθήκατε
+        russian: поспали
+        english: you (plural) slept
+      - greek: κοιμήθηκαν
+        russian: поспали
+        english: they slept
+    continuous_subjunctive_mood:
+      - greek: να κοιμάμαι
+        russian: спал бы
+        english: (that) I should sleep
+      - greek: να κοιμάσαι
+        russian: спал бы
+        english: (that) you should sleep
+      - greek: να κοιμάται
+        russian: спал бы
+        english: (that) he/she/it should sleep
+      - greek: να κοιμόμαστε
+        russian: спали бы
+        english: (that) we should sleep
+      - greek: να κοιμάστε
+        russian: спали бы
+        english: (that) you should sleep
+      - greek: να κοιμούνται
+        russian: спали бы
+        english: (that) they should sleep
+    simple_subjunctive_mood:
+      - greek: να κοιμηθώ
+        russian: поспал бы
+        english: (that) I should have slept
+      - greek: να κοιμηθείς
+        russian: поспал бы
+        english: (that) you should have slept
+      - greek: να κοιμηθεί
+        russian: поспал бы
+        english: (that) he/she/it should have slept
+      - greek: να κοιμηθούμε
+        russian: поспали бы
+        english: (that) we should have slept
+      - greek: να κοιμηθείτε
+        russian: поспали бы
+        english: (that) you (plural) should have slept
+      - greek: να κοιμηθούν
+        russian: поспали бы
+        english: (that) they should have slept
+    imperative_continuous_singular:
+      - greek: κοιμάσου
+        russian: спи
+        english: sleep (singular)
+    imperative_continuous_plural:
+      - greek: κοιμάστε
+        russian: спите
+        english: sleep (plural)
+    imperative_simple_singular:
+      - greek: κοιμήσου
+        russian: поспи
+        english: sleep (singular)
+    imperative_simple_plural:
+      - greek: κοιμηθείτε
+        russian: поспите
+        english: sleep (plural)
+    imperative_negation_singular:
+      - greek: μην κοιμηθείς
+        russian: не спи
+        english: do not sleep (singular)
+    imperative_negation_plural:
+      - greek: μην κοιμηθείτε
+        russian: не спите
+        english: do not sleep (plural)

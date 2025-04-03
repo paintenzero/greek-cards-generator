@@ -1,0 +1,160 @@
+- verb: ανεβαίνω
+  translation: to go up/ascend
+  tenses:
+    present_tense:
+      - greek: ανεβαίνω
+        russian: поднимаюсь
+        english: I go up
+      - greek: ανεβαίνεις
+        russian: поднимаешься
+        english: you go up
+      - greek: ανεβαίνει
+        russian: поднимается
+        english: he/she/it goes up
+      - greek: ανεβαίνουμε
+        russian: поднимаемся
+        english: we go up
+      - greek: ανεβαίνετε
+        russian: поднимаетесь
+        english: you go up
+      - greek: ανεβαίνουν
+        russian: поднимаются
+        english: they go up
+    future_continuous_tense:
+      - greek: θα ανεβαίνω
+        russian: буду подниматься
+        english: I will be going up
+      - greek: θα ανεβαίνεις
+        russian: будешь подниматься
+        english: you will be going up
+      - greek: θα ανεβαίνει
+        russian: будет подниматься
+        english: he/she/it will be going up
+      - greek: θα ανεβαίνουμε
+        russian: будем подниматься
+        english: we will be going up
+      - greek: θα ανεβαίνετε
+        russian: будете подниматься
+        english: you will be going up
+      - greek: θα ανεβαίνουν
+        russian: будут подниматься
+        english: they will be going up
+    simple_future_tense:
+      - greek: θα ανέβω
+        russian: поднимусь
+        english: I will go up
+      - greek: θα ανέβεις
+        russian: поднимешься
+        english: you will go up
+      - greek: θα ανέβει
+        russian: поднимется
+        english: he/she/it will go up
+      - greek: θα ανέβουμε
+        russian: поднимемся
+        english: we will go up
+      - greek: θα ανέβετε
+        russian: подниметесь
+        english: you will go up
+      - greek: θα ανέβουν
+        russian: поднимутся
+        english: they will go up
+    imperfect_past_tense:
+      - greek: ανέβαινα
+        russian: поднимался
+        english: I was going up
+      - greek: ανέβαινες
+        russian: поднимался
+        english: you were going up
+      - greek: ανέβαινε
+        russian: поднимался
+        english: he/she/it was going up
+      - greek: ανεβαίναμε
+        russian: поднимались
+        english: we were going up
+      - greek: ανεβαίνατε
+        russian: поднимались
+        english: you were going up
+      - greek: ανέβαιναν
+        russian: поднимались
+        english: they were going up
+    simple_past_tense:
+      - greek: ανέβηκα
+        russian: поднялся
+        english: I went up
+      - greek: ανέβηκες
+        russian: поднялся
+        english: you went up
+      - greek: ανέβηκε
+        russian: поднялся
+        english: he/she/it went up
+      - greek: ανεβήκαμε
+        russian: поднялись
+        english: we went up
+      - greek: ανεβήκατε
+        russian: поднялись
+        english: you went up
+      - greek: ανέβηκαν
+        russian: поднялись
+        english: they went up
+    continuous_subjunctive_mood:
+      - greek: να ανεβαίνω
+        russian: поднимался бы
+        english: (that) I should go up
+      - greek: να ανεβαίνεις
+        russian: поднимался бы
+        english: (that) you should go up
+      - greek: να ανεβαίνει
+        russian: поднимался бы
+        english: (that) he/she/it should go up
+      - greek: να ανεβαίνουμε
+        russian: поднимались бы
+        english: (that) we should go up
+      - greek: να ανεβαίνετε
+        russian: поднимались бы
+        english: (that) you should go up
+      - greek: να ανεβαίνουν
+        russian: поднимались бы
+        english: (that) they should go up
+    simple_subjunctive_mood:
+      - greek: να ανέβω
+        russian: поднялся бы
+        english: (that) I should have gone up
+      - greek: να ανέβεις
+        russian: поднялся бы
+        english: (that) you should have gone up
+      - greek: να ανέβει
+        russian: поднялся бы
+        english: (that) he/she/it should have gone up
+      - greek: να ανέβουμε
+        russian: поднялись бы
+        english: (that) we should have gone up
+      - greek: να ανέβετε
+        russian: поднялись бы
+        english: (that) you should have gone up
+      - greek: να ανέβουν
+        russian: поднялись бы
+        english: (that) they should have gone up
+    imperative_continuous_singular:
+      - greek: ανέβαινε
+        russian: поднимайся
+        english: keep going up (singular)
+    imperative_continuous_plural:
+      - greek: ανεβαίνετε
+        russian: поднимайтесь
+        english: keep going up (plural)
+    imperative_simple_singular:
+      - greek: ανέβα
+        russian: поднимись
+        english: go up (singular)
+    imperative_simple_plural:
+      - greek: ανεβείτε
+        russian: поднимитесь
+        english: go up (plural)
+    imperative_negation_singular:
+      - greek: μην ανέβεις
+        russian: не поднимайся
+        english: do not go up (singular)
+    imperative_negation_plural:
+      - greek: μην ανέβετε
+        russian: не поднимайтесь
+        english: do not go up (plural)

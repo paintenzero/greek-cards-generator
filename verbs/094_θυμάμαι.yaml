@@ -1,0 +1,160 @@
+- verb: θυμάμαι
+  translation: to remember
+  tenses:
+    present_tense:
+      - greek: θυμάμαι
+        russian: помню
+        english: I remember
+      - greek: θυμάσαι
+        russian: помнишь
+        english: you remember
+      - greek: θυμάται
+        russian: помнит
+        english: he/she/it remembers
+      - greek: θυμόμαστε
+        russian: помним
+        english: we remember
+      - greek: θυμάστε
+        russian: помните
+        english: you (plural) remember
+      - greek: θυμούνται
+        russian: помнят
+        english: they remember
+    future_continuous_tense:
+      - greek: θα θυμάμαι
+        russian: буду помнить
+        english: I will be remembering
+      - greek: θα θυμάσαι
+        russian: будешь помнить
+        english: you will be remembering
+      - greek: θα θυμάται
+        russian: будет помнить
+        english: he/she/it will be remembering
+      - greek: θα θυμόμαστε
+        russian: будем помнить
+        english: we will be remembering
+      - greek: θα θυμάστε
+        russian: будете помнить
+        english: you (plural) will be remembering
+      - greek: θα θυμούνται
+        russian: будут помнить
+        english: they will be remembering
+    simple_future_tense:
+      - greek: θα θυμηθώ
+        russian: вспомню
+        english: I will remember
+      - greek: θα θυμηθείς
+        russian: вспомнишь
+        english: you will remember
+      - greek: θα θυμηθεί
+        russian: вспомнит
+        english: he/she/it will remember
+      - greek: θα θυμηθούμε
+        russian: вспомним
+        english: we will remember
+      - greek: θα θυμηθείτε
+        russian: вспомните
+        english: you (plural) will remember
+      - greek: θα θυμηθούν
+        russian: вспомнят
+        english: they will remember
+    imperfect_past_tense:
+      - greek: θυμόμουν
+        russian: помнил
+        english: I was remembering
+      - greek: θυμόσουν
+        russian: помнил
+        english: you were remembering
+      - greek: θυμόταν
+        russian: помнил
+        english: he/she/it was remembering
+      - greek: θυμόμασταν
+        russian: помнили
+        english: we were remembering
+      - greek: θυμόσασταν
+        russian: помнили
+        english: you (plural) were remembering
+      - greek: θυμόντουσαν
+        russian: помнили
+        english: they were remembering
+    simple_past_tense:
+      - greek: θυμήθηκα
+        russian: вспомнил
+        english: I remembered
+      - greek: θυμήθηκες
+        russian: вспомнил
+        english: you remembered
+      - greek: θυμήθηκε
+        russian: вспомнил
+        english: he/she/it remembered
+      - greek: θυμηθήκαμε
+        russian: вспомнили
+        english: we remembered
+      - greek: θυμηθήκατε
+        russian: вспомнили
+        english: you (plural) remembered
+      - greek: θυμήθηκαν
+        russian: вспомнили
+        english: they remembered
+    continuous_subjunctive_mood:
+      - greek: να θυμάμαι
+        russian: помнил бы
+        english: (that) I should remember
+      - greek: να θυμάσαι
+        russian: помнил бы
+        english: (that) you should remember
+      - greek: να θυμάται
+        russian: помнил бы
+        english: (that) he/she/it should remember
+      - greek: να θυμόμαστε
+        russian: помнили бы
+        english: (that) we should remember
+      - greek: να θυμάστε
+        russian: помнили бы
+        english: (that) you (plural) should remember
+      - greek: να θυμούνται
+        russian: помнили бы
+        english: (that) they should remember
+    simple_subjunctive_mood:
+      - greek: να θυμηθώ
+        russian: вспомнил бы
+        english: (that) I should have remembered
+      - greek: να θυμηθείς
+        russian: вспомнил бы
+        english: (that) you should have remembered
+      - greek: να θυμηθεί
+        russian: вспомнил бы
+        english: (that) he/she/it should have remembered
+      - greek: να θυμηθούμε
+        russian: вспомнили бы
+        english: (that) we should have remembered
+      - greek: να θυμηθείτε
+        russian: вспомнили бы
+        english: (that) you (plural) should have remembered
+      - greek: να θυμηθούν
+        russian: вспомнили бы
+        english: (that) they should have remembered
+    imperative_continuous_singular:
+      - greek: θυμόσου
+        russian: помни
+        english: keep remembering (singular)
+    imperative_continuous_plural:
+      - greek: θυμάστε
+        russian: помните
+        english: keep remembering (plural)
+    imperative_simple_singular:
+      - greek: θυμήσου
+        russian: вспомни
+        english: remember (singular)
+    imperative_simple_plural:
+      - greek: θυμηθείτε
+        russian: вспомните
+        english: remember (plural)
+    imperative_negation_singular:
+      - greek: μη θυμηθείς
+        russian: не помни
+        english: do not remember (singular)
+    imperative_negation_plural:
+      - greek: μη θυμηθείτε
+        russian: не помните
+        english: do not remember (plural)

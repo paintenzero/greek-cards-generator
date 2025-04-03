@@ -1,0 +1,160 @@
+- verb: βάζω
+  translation: to put
+  tenses:
+    present_tense:
+    - greek: βάζω
+      russian: кладу
+      english: I put
+    - greek: βάζεις
+      russian: кладёшь
+      english: you put
+    - greek: βάζει
+      russian: кладёт
+      english: he/she/it puts
+    - greek: βάζουμε
+      russian: кладём
+      english: we put
+    - greek: βάζετε
+      russian: кладёте
+      english: you put
+    - greek: βάζουν
+      russian: кладут
+      english: they put
+    future_continuous_tense:
+    - greek: θα βάζω
+      russian: буду класть
+      english: I will be putting
+    - greek: θα βάζεις
+      russian: будешь класть
+      english: you will be putting
+    - greek: θα βάζει
+      russian: будет класть
+      english: he/she/it will be putting
+    - greek: θα βάζουμε
+      russian: будем класть
+      english: we will be putting
+    - greek: θα βάζετε
+      russian: будете класть
+      english: you will be putting
+    - greek: θα βάζουν
+      russian: будут класть
+      english: they will be putting
+    simple_future_tense:
+    - greek: θα βάλω
+      russian: положу
+      english: I will put
+    - greek: θα βάλεις
+      russian: положишь
+      english: you will put
+    - greek: θα βάλει
+      russian: положит
+      english: he/she/it will put
+    - greek: θα βάλουμε
+      russian: положим
+      english: we will put
+    - greek: θα βάλετε
+      russian: положите
+      english: you will put
+    - greek: θα βάλουν
+      russian: положат
+      english: they will put
+    imperfect_past_tense:
+    - greek: έβαζα
+      russian: клал
+      english: I was putting
+    - greek: έβαζες
+      russian: клал
+      english: you were putting
+    - greek: έβαζε
+      russian: клал
+      english: he/she/it was putting
+    - greek: βάζαμε
+      russian: клали
+      english: we were putting
+    - greek: βάζατε
+      russian: клали
+      english: you were putting
+    - greek: έβαζαν
+      russian: клали
+      english: they were putting
+    simple_past_tense:
+    - greek: έβαλα
+      russian: положил
+      english: I put
+    - greek: έβαλες
+      russian: положил
+      english: you put
+    - greek: έβαλε
+      russian: положил
+      english: he/she/it put
+    - greek: βάλαμε
+      russian: положили
+      english: we put
+    - greek: βάλατε
+      russian: положили
+      english: you put
+    - greek: έβαλαν
+      russian: положили
+      english: they put
+    continuous_subjunctive_mood:
+    - greek: να βάζω
+      russian: клал бы
+      english: (that) I should put
+    - greek: να βάζεις
+      russian: клал бы
+      english: (that) you should put
+    - greek: να βάζει
+      russian: клал бы
+      english: (that) he/she/it should put
+    - greek: να βάζουμε
+      russian: клали бы
+      english: (that) we should put
+    - greek: να βάζετε
+      russian: клали бы
+      english: (that) you should put
+    - greek: να βάζουν
+      russian: клали бы
+      english: (that) they should put
+    simple_subjunctive_mood:
+    - greek: να βάλω
+      russian: положил бы
+      english: (that) I should have put
+    - greek: να βάλεις
+      russian: положил бы
+      english: (that) you should have put
+    - greek: να βάλει
+      russian: положил бы
+      english: (that) he/she/it should have put
+    - greek: να βάλουμε
+      russian: положили бы
+      english: (that) we should have put
+    - greek: να βάλετε
+      russian: положили бы
+      english: (that) you should have put
+    - greek: να βάλουν
+      russian: положили бы
+      english: (that) they should have put
+    imperative_continuous_singular:
+    - greek: βάζε
+      russian: клади
+      english: keep putting (singular)
+    imperative_continuous_plural:
+    - greek: βάζετε
+      russian: кладите
+      english: keep putting (plural)
+    imperative_simple_singular:
+    - greek: βάλε
+      russian: положи
+      english: put (singular)
+    imperative_simple_plural:
+    - greek: βάλτε
+      russian: положите
+      english: put (plural)
+    imperative_negation_singular:
+    - greek: μη βάλεις
+      russian: не клади
+      english: do not put (singular)
+    imperative_negation_plural:
+    - greek: μη βάλετε
+      russian: не кладите
+      english: do not put (plural)

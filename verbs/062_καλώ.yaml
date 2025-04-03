@@ -1,0 +1,160 @@
+- verb: καλώ
+  translation: to call/to invite
+  tenses:
+    present_tense:
+      - greek: καλώ
+        russian: зову
+        english: I call
+      - greek: καλείς
+        russian: зовёшь
+        english: you call
+      - greek: καλεί
+        russian: зовёт
+        english: he/she/it calls
+      - greek: καλούμε
+        russian: зовём
+        english: we call
+      - greek: καλείτε
+        russian: зовёте
+        english: you call
+      - greek: καλούν
+        russian: зовут
+        english: they call
+    future_continuous_tense:
+      - greek: θα καλώ
+        russian: буду звать
+        english: I will be calling
+      - greek: θα καλείς
+        russian: будешь звать
+        english: you will be calling
+      - greek: θα καλεί
+        russian: будет звать
+        english: he/she/it will be calling
+      - greek: θα καλούμε
+        russian: будем звать
+        english: we will be calling
+      - greek: θα καλείτε
+        russian: будете звать
+        english: you will be calling
+      - greek: θα καλούν
+        russian: будут звать
+        english: they will be calling
+    simple_future_tense:
+      - greek: θα καλέσω
+        russian: позову
+        english: I will call
+      - greek: θα καλέσεις
+        russian: позовёшь
+        english: you will call
+      - greek: θα καλέσει
+        russian: позовёт
+        english: he/she/it will call
+      - greek: θα καλέσουμε
+        russian: позовём
+        english: we will call
+      - greek: θα καλέσετε
+        russian: позовёте
+        english: you will call
+      - greek: θα καλέσουν
+        russian: позовут
+        english: they will call
+    imperfect_past_tense:
+      - greek: καλούσα
+        russian: звал
+        english: I was calling
+      - greek: καλούσες
+        russian: звал
+        english: you were calling
+      - greek: καλούσε
+        russian: звал
+        english: he/she/it was calling
+      - greek: καλούσαμε
+        russian: звали
+        english: we were calling
+      - greek: καλούσατε
+        russian: звали
+        english: you were calling
+      - greek: καλούσαν
+        russian: звали
+        english: they were calling
+    simple_past_tense:
+      - greek: κάλεσα
+        russian: позвал
+        english: I called
+      - greek: κάλεσες
+        russian: позвал
+        english: you called
+      - greek: κάλεσε
+        russian: позвал
+        english: he/she/it called
+      - greek: καλέσαμε
+        russian: позвали
+        english: we called
+      - greek: καλέσατε
+        russian: позвали
+        english: you called
+      - greek: κάλεσαν
+        russian: позвали
+        english: they called
+    continuous_subjunctive_mood:
+      - greek: να καλώ
+        russian: звал бы
+        english: (that) I should call
+      - greek: να καλείς
+        russian: звал бы
+        english: (that) you should call
+      - greek: να καλεί
+        russian: звал бы
+        english: (that) he/she/it should call
+      - greek: να καλούμε
+        russian: звали бы
+        english: (that) we should call
+      - greek: να καλείτε
+        russian: звали бы
+        english: (that) you should call
+      - greek: να καλούν
+        russian: звали бы
+        english: (that) they should call
+    simple_subjunctive_mood:
+      - greek: να καλέσω
+        russian: позвал бы
+        english: (that) I should have called
+      - greek: να καλέσεις
+        russian: позвал бы
+        english: (that) you should have called
+      - greek: να καλέσει
+        russian: позвал бы
+        english: (that) he/she/it should have called
+      - greek: να καλέσουμε
+        russian: позвали бы
+        english: (that) we should have called
+      - greek: να καλέσετε
+        russian: позвали бы
+        english: (that) you should have called
+      - greek: να καλέσουν
+        russian: позвали бы
+        english: (that) they should have called
+    imperative_continuous_singular:
+      - greek: κάλει
+        russian: зови
+        english: keep calling (singular)
+    imperative_continuous_plural:
+      - greek: καλείτε
+        russian: зовите
+        english: keep calling (plural)
+    imperative_simple_singular:
+      - greek: κάλεσε
+        russian: позови
+        english: call (singular)
+    imperative_simple_plural:
+      - greek: καλέστε
+        russian: позовите
+        english: call (plural)
+    imperative_negation_singular:
+      - greek: μην καλέσεις
+        russian: не зови
+        english: do not call (singular)
+    imperative_negation_plural:
+      - greek: μην καλέσετε
+        russian: не зовите
+        english: do not call (plural)

@@ -1,0 +1,160 @@
+- verb: πουλάω/πουλώ
+  translation: to sell
+  tenses:
+    present_tense:
+      - greek: πουλάω/πουλώ
+        russian: продаю
+        english: I sell
+      - greek: πουλάς
+        russian: продаёшь
+        english: you sell
+      - greek: πουλάει/πουλά
+        russian: продаёт
+        english: he/she/it sells
+      - greek: πουλάμε
+        russian: продаём
+        english: we sell
+      - greek: πουλάτε
+        russian: продаёте
+        english: you sell
+      - greek: πουλάνε/πουλούν
+        russian: продают
+        english: they sell
+    future_continuous_tense:
+      - greek: θα πουλάω/θα πουλώ
+        russian: буду продавать
+        english: I will be selling
+      - greek: θα πουλάς
+        russian: будешь продавать
+        english: you will be selling
+      - greek: θα πουλάει/θα πουλά
+        russian: будет продавать
+        english: he/she/it will be selling
+      - greek: θα πουλάμε
+        russian: будем продавать
+        english: we will be selling
+      - greek: θα πουλάτε
+        russian: будете продавать
+        english: you will be selling
+      - greek: θα πουλάνε/θα πουλούν
+        russian: будут продавать
+        english: they will be selling
+    simple_future_tense:
+      - greek: θα πουλήσω
+        russian: продам
+        english: I will sell
+      - greek: θα πουλήσεις
+        russian: продашь
+        english: you will sell
+      - greek: θα πουλήσει
+        russian: продаст
+        english: he/she/it will sell
+      - greek: θα πουλήσουμε
+        russian: продадим
+        english: we will sell
+      - greek: θα πουλήσετε
+        russian: продадите
+        english: you will sell
+      - greek: θα πουλήσουν
+        russian: продадут
+        english: they will sell
+    imperfect_past_tense:
+      - greek: πουλούσα
+        russian: продавал
+        english: I was selling
+      - greek: πουλούσες
+        russian: продавал
+        english: you were selling
+      - greek: πουλούσε
+        russian: продавал
+        english: he/she/it was selling
+      - greek: πουλούσαμε
+        russian: продавали
+        english: we were selling
+      - greek: πουλούσατε
+        russian: продавали
+        english: you were selling
+      - greek: πουλούσαν
+        russian: продавали
+        english: they were selling
+    simple_past_tense:
+      - greek: πούλησα
+        russian: продал
+        english: I sold
+      - greek: πούλησες
+        russian: продал
+        english: you sold
+      - greek: πούλησε
+        russian: продал
+        english: he/she/it sold
+      - greek: πουλήσαμε
+        russian: продали
+        english: we sold
+      - greek: πουλήσατε
+        russian: продали
+        english: you sold
+      - greek: πούλησαν
+        russian: продали
+        english: they sold
+    continuous_subjunctive_mood:
+      - greek: να πουλάω/να πουλώ
+        russian: продавал бы
+        english: (that) I should sell
+      - greek: να πουλάς
+        russian: продавал бы
+        english: (that) you should sell
+      - greek: να πουλάει/να πουλά
+        russian: продавал бы
+        english: (that) he/she/it should sell
+      - greek: να πουλάμε
+        russian: продавали бы
+        english: (that) we should sell
+      - greek: να πουλάτε
+        russian: продавали бы
+        english: (that) you should sell
+      - greek: να πουλάνε/να πουλούν
+        russian: продавали бы
+        english: (that) they should sell
+    simple_subjunctive_mood:
+      - greek: να πουλήσω
+        russian: продал бы
+        english: (that) I should have sold
+      - greek: να πουλήσεις
+        russian: продал бы
+        english: (that) you should have sold
+      - greek: να πουλήσει
+        russian: продал бы
+        english: (that) he/she/it should have sold
+      - greek: να πουλήσουμε
+        russian: продали бы
+        english: (that) we should have sold
+      - greek: να πουλήσετε
+        russian: продали бы
+        english: (that) you should have sold
+      - greek: να πουλήσουν
+        russian: продали бы
+        english: (that) they should have sold
+    imperative_continuous_singular:
+      - greek: πούλα
+        russian: продавай
+        english: keep selling (singular)
+    imperative_continuous_plural:
+      - greek: πουλάτε
+        russian: продавайте
+        english: keep selling (plural)
+    imperative_simple_singular:
+      - greek: πούλησε
+        russian: продай
+        english: sell (singular)
+    imperative_simple_plural:
+      - greek: πουλήστε
+        russian: продайте
+        english: sell (plural)
+    imperative_negation_singular:
+      - greek: μην πουλήσεις
+        russian: не продавай
+        english: do not sell (singular)
+    imperative_negation_plural:
+      - greek: μην πουλήσετε
+        russian: не продавайте
+        english: do not sell (plural)

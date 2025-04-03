@@ -1,0 +1,160 @@
+- verb: ετοιμάζω
+  translation: to prepare
+  tenses:
+    present_tense:
+    - greek: ετοιμάζω
+      russian: готовлю
+      english: I prepare
+    - greek: ετοιμάζεις
+      russian: готовишь
+      english: you prepare
+    - greek: ετοιμάζει
+      russian: готовит
+      english: he/she/it prepares
+    - greek: ετοιμάζουμε
+      russian: готовим
+      english: we prepare
+    - greek: ετοιμάζετε
+      russian: готовите
+      english: you prepare
+    - greek: ετοιμάζουν
+      russian: готовят
+      english: they prepare
+    future_continuous_tense:
+    - greek: θα ετοιμάζω
+      russian: буду готовить
+      english: I will be preparing
+    - greek: θα ετοιμάζεις
+      russian: будешь готовить
+      english: you will be preparing
+    - greek: θα ετοιμάζει
+      russian: будет готовить
+      english: he/she/it will be preparing
+    - greek: θα ετοιμάζουμε
+      russian: будем готовить
+      english: we will be preparing
+    - greek: θα ετοιμάζετε
+      russian: будете готовить
+      english: you will be preparing
+    - greek: θα ετοιμάζουν
+      russian: будут готовить
+      english: they will be preparing
+    simple_future_tense:
+    - greek: θα ετοιμάσω
+      russian: приготовлю
+      english: I will prepare
+    - greek: θα ετοιμάσεις
+      russian: приготовишь
+      english: you will prepare
+    - greek: θα ετοιμάσει
+      russian: приготовит
+      english: he/she/it will prepare
+    - greek: θα ετοιμάσουμε
+      russian: приготовим
+      english: we will prepare
+    - greek: θα ετοιμάσετε
+      russian: приготовите
+      english: you will prepare
+    - greek: θα ετοιμάσουν
+      russian: приготовят
+      english: they will prepare
+    imperfect_past_tense:
+    - greek: ετοίμαζα
+      russian: готовил
+      english: I was preparing
+    - greek: ετοίμαζες
+      russian: готовил
+      english: you were preparing
+    - greek: ετοίμαζε
+      russian: готовил
+      english: he/she/it was preparing
+    - greek: ετοιμάζαμε
+      russian: готовили
+      english: we were preparing
+    - greek: ετοιμάζατε
+      russian: готовили
+      english: you were preparing
+    - greek: ετοίμαζαν
+      russian: готовили
+      english: they were preparing
+    simple_past_tense:
+    - greek: ετοίμασα
+      russian: приготовил
+      english: I prepared
+    - greek: ετοίμασες
+      russian: приготовил
+      english: you prepared
+    - greek: ετοίμασε
+      russian: приготовил
+      english: he/she/it prepared
+    - greek: ετοιμάσαμε
+      russian: приготовили
+      english: we prepared
+    - greek: ετοιμάσατε
+      russian: приготовили
+      english: you prepared
+    - greek: ετοίμασαν
+      russian: приготовили
+      english: they prepared
+    continuous_subjunctive_mood:
+    - greek: να ετοιμάζω
+      russian: готовил бы
+      english: (that) I should prepare
+    - greek: να ετοιμάζεις
+      russian: готовил бы
+      english: (that) you should prepare
+    - greek: να ετοιμάζει
+      russian: готовил бы
+      english: (that) he/she/it should prepare
+    - greek: να ετοιμάζουμε
+      russian: готовили бы
+      english: (that) we should prepare
+    - greek: να ετοιμάζετε
+      russian: готовили бы
+      english: (that) you should prepare
+    - greek: να ετοιμάζουν
+      russian: готовили бы
+      english: (that) they should prepare
+    simple_subjunctive_mood:
+    - greek: να ετοιμάσω
+      russian: приготовил бы
+      english: (that) I should have prepared
+    - greek: να ετοιμάσεις
+      russian: приготовил бы
+      english: (that) you should have prepared
+    - greek: να ετοιμάσει
+      russian: приготовил бы
+      english: (that) he/she/it should have prepared
+    - greek: να ετοιμάσουμε
+      russian: приготовили бы
+      english: (that) we should have prepared
+    - greek: να ετοιμάσετε
+      russian: приготовили бы
+      english: (that) you should have prepared
+    - greek: να ετοιμάσουν
+      russian: приготовили бы
+      english: (that) they should have prepared
+    imperative_continuous_singular:
+    - greek: ετοίμαζε
+      russian: готовь
+      english: keep preparing (singular)
+    imperative_continuous_plural:
+    - greek: ετοιμάζετε
+      russian: готовьте
+      english: keep preparing (plural)
+    imperative_simple_singular:
+    - greek: ετοίμασε
+      russian: приготовь
+      english: prepare (singular)
+    imperative_simple_plural:
+    - greek: ετοιμάστε
+      russian: приготовьте
+      english: prepare (plural)
+    imperative_negation_singular:
+    - greek: μην ετοιμάσεις
+      russian: не готовь
+      english: do not prepare (singular)
+    imperative_negation_plural:
+    - greek: μην ετοιμάσετε
+      russian: не готовьте
+      english: do not prepare (plural)

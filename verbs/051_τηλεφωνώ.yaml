@@ -1,0 +1,160 @@
+- verb: τηλεφωνώ
+  translation: to telephone/to call
+  tenses:
+    present_tense:
+      - greek: τηλεφωνώ
+        russian: звоню
+        english: I call
+      - greek: τηλεφωνείς
+        russian: звонишь
+        english: you call
+      - greek: τηλεφωνεί
+        russian: звонит
+        english: he/she/it calls
+      - greek: τηλεφωνούμε
+        russian: звоним
+        english: we call
+      - greek: τηλεφωνείτε
+        russian: звоните
+        english: you call
+      - greek: τηλεφωνούν
+        russian: звонят
+        english: they call
+    future_continuous_tense:
+      - greek: θα τηλεφωνώ
+        russian: буду звонить
+        english: I will be calling
+      - greek: θα τηλεφωνείς
+        russian: будешь звонить
+        english: you will be calling
+      - greek: θα τηλεφωνεί
+        russian: будет звонить
+        english: he/she/it will be calling
+      - greek: θα τηλεφωνούμε
+        russian: будем звонить
+        english: we will be calling
+      - greek: θα τηλεφωνείτε
+        russian: будете звонить
+        english: you will be calling
+      - greek: θα τηλεφωνούν
+        russian: будут звонить
+        english: they will be calling
+    simple_future_tense:
+      - greek: θα τηλεφωνήσω
+        russian: позвоню
+        english: I will call
+      - greek: θα τηλεφωνήσεις
+        russian: позвонишь
+        english: you will call
+      - greek: θα τηλεφωνήσει
+        russian: позвонит
+        english: he/she/it will call
+      - greek: θα τηλεφωνήσουμε
+        russian: позвоним
+        english: we will call
+      - greek: θα τηλεφωνήσετε
+        russian: позвоните
+        english: you will call
+      - greek: θα τηλεφωνήσουν
+        russian: позвонят
+        english: they will call
+    imperfect_past_tense:
+      - greek: τηλεφωνούσα
+        russian: звонил
+        english: I was calling
+      - greek: τηλεφωνούσες
+        russian: звонил
+        english: you were calling
+      - greek: τηλεφωνούσε
+        russian: звонил
+        english: he/she/it was calling
+      - greek: τηλεφωνούσαμε
+        russian: звонили
+        english: we were calling
+      - greek: τηλεφωνούσατε
+        russian: звонили
+        english: you were calling
+      - greek: τηλεφωνούσαν
+        russian: звонили
+        english: they were calling
+    simple_past_tense:
+      - greek: τηλεφώνησα
+        russian: позвонил
+        english: I called
+      - greek: τηλεφώνησες
+        russian: позвонил
+        english: you called
+      - greek: τηλεφώνησε
+        russian: позвонил
+        english: he/she/it called
+      - greek: τηλεφωνήσαμε
+        russian: позвонили
+        english: we called
+      - greek: τηλεφωνήσατε
+        russian: позвонили
+        english: you called
+      - greek: τηλεφώνησαν
+        russian: позвонили
+        english: they called
+    continuous_subjunctive_mood:
+      - greek: να τηλεφωνώ
+        russian: звонил бы
+        english: (that) I should call
+      - greek: να τηλεφωνείς
+        russian: звонил бы
+        english: (that) you should call
+      - greek: να τηλεφωνεί
+        russian: звонил бы
+        english: (that) he/she/it should call
+      - greek: να τηλεφωνούμε
+        russian: звонили бы
+        english: (that) we should call
+      - greek: να τηλεφωνείτε
+        russian: звонили бы
+        english: (that) you should call
+      - greek: να τηλεφωνούν
+        russian: звонили бы
+        english: (that) they should call
+    simple_subjunctive_mood:
+      - greek: να τηλεφωνήσω
+        russian: позвонил бы
+        english: (that) I should have called
+      - greek: να τηλεφωνήσεις
+        russian: позвонил бы
+        english: (that) you should have called
+      - greek: να τηλεφωνήσει
+        russian: позвонил бы
+        english: (that) he/she/it should have called
+      - greek: να τηλεφωνήσουμε
+        russian: позвонили бы
+        english: (that) we should have called
+      - greek: να τηλεφωνήσετε
+        russian: позвонили бы
+        english: (that) you should have called
+      - greek: να τηλεφωνήσουν
+        russian: позвонили бы
+        english: (that) they should have called
+    imperative_continuous_singular:
+      - greek: τηλεφώνει
+        russian: звони
+        english: keep calling (singular)
+    imperative_continuous_plural:
+      - greek: τηλεφωνείτε
+        russian: звоните
+        english: keep calling (plural)
+    imperative_simple_singular:
+      - greek: τηλεφώνησε
+        russian: позвони
+        english: call (singular)
+    imperative_simple_plural:
+      - greek: τηλεφωνήστε
+        russian: позвоните
+        english: call (plural)
+    imperative_negation_singular:
+      - greek: μην τηλεφωνήσεις
+        russian: не звони
+        english: do not call (singular)
+    imperative_negation_plural:
+      - greek: μην τηλεφωνήσετε
+        russian: не звоните
+        english: do not call (plural)

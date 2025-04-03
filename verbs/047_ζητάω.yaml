@@ -1,0 +1,160 @@
+- verb: ζητάω/ζητώ
+  translation: to ask for/request
+  tenses:
+    present_tense:
+      - greek: ζητάω/ζητώ
+        russian: прошу
+        english: I am asking for
+      - greek: ζητάς
+        russian: просишь
+        english: you are asking for
+      - greek: ζητάει/ζητά
+        russian: просит
+        english: he/she/it is asking for
+      - greek: ζητάμε
+        russian: просим
+        english: we are asking for
+      - greek: ζητάτε
+        russian: просите
+        english: you are asking for
+      - greek: ζητάνε/ζητούν
+        russian: просят
+        english: they are asking for
+    future_continuous_tense:
+      - greek: θα ζητάω/θα ζητώ
+        russian: буду просить
+        english: I will be asking for
+      - greek: θα ζητάς
+        russian: будешь просить
+        english: you will be asking for
+      - greek: θα ζητάει/θα ζητά
+        russian: будет просить
+        english: he/she/it will be asking for
+      - greek: θα ζητάμε
+        russian: будем просить
+        english: we will be asking for
+      - greek: θα ζητάτε
+        russian: будете просить
+        english: you will be asking for
+      - greek: θα ζητάνε/θα ζητούν
+        russian: будут просить
+        english: they will be asking for
+    simple_future_tense:
+      - greek: θα ζητήσω
+        russian: попрошу
+        english: I will ask for
+      - greek: θα ζητήσεις
+        russian: попросишь
+        english: you will ask for
+      - greek: θα ζητήσει
+        russian: попросит
+        english: he/she/it will ask for
+      - greek: θα ζητήσουμε
+        russian: попросим
+        english: we will ask for
+      - greek: θα ζητήσετε
+        russian: попросите
+        english: you will ask for
+      - greek: θα ζητήσουν
+        russian: попросят
+        english: they will ask for
+    imperfect_past_tense:
+      - greek: ζητούσα
+        russian: просил
+        english: I was asking for
+      - greek: ζητούσες
+        russian: просил
+        english: you were asking for
+      - greek: ζητούσε
+        russian: просил
+        english: he/she/it was asking for
+      - greek: ζητούσαμε
+        russian: просили
+        english: we were asking for
+      - greek: ζητούσατε
+        russian: просили
+        english: you were asking for
+      - greek: ζητούσαν
+        russian: просили
+        english: they were asking for
+    simple_past_tense:
+      - greek: ζήτησα
+        russian: попросил
+        english: I asked for
+      - greek: ζήτησες
+        russian: попросил
+        english: you asked for
+      - greek: ζήτησε
+        russian: попросил
+        english: he/she/it asked for
+      - greek: ζητήσαμε
+        russian: попросили
+        english: we asked for
+      - greek: ζητήσατε
+        russian: попросили
+        english: you asked for
+      - greek: ζήτησαν
+        russian: попросили
+        english: they asked for
+    continuous_subjunctive_mood:
+      - greek: να ζητάω/να ζητώ
+        russian: просил бы
+        english: (that) I should ask for
+      - greek: να ζητάς
+        russian: просил бы
+        english: (that) you should ask for
+      - greek: να ζητάει/να ζητά
+        russian: просил бы
+        english: (that) he/she/it should ask for
+      - greek: να ζητάμε
+        russian: просили бы
+        english: (that) we should ask for
+      - greek: να ζητάτε
+        russian: просили бы
+        english: (that) you should ask for
+      - greek: να ζητάνε/να ζητούν
+        russian: просили бы
+        english: (that) they should ask for
+    simple_subjunctive_mood:
+      - greek: να ζητήσω
+        russian: попросил бы
+        english: (that) I should have asked for
+      - greek: να ζητήσεις
+        russian: попросил бы
+        english: (that) you should have asked for
+      - greek: να ζητήσει
+        russian: попросил бы
+        english: (that) he/she/it should have asked for
+      - greek: να ζητήσουμε
+        russian: попросили бы
+        english: (that) we should have asked for
+      - greek: να ζητήσετε
+        russian: попросили бы
+        english: (that) you should have asked for
+      - greek: να ζητήσουν
+        russian: попросили бы
+        english: (that) they should have asked for
+    imperative_continuous_singular:
+      - greek: ζήτα
+        russian: проси
+        english: keep asking for (singular)
+    imperative_continuous_plural:
+      - greek: ζητάτε
+        russian: просите
+        english: keep asking for (plural)
+    imperative_simple_singular:
+      - greek: ζήτησε
+        russian: попроси
+        english: ask for (singular)
+    imperative_simple_plural:
+      - greek: ζητήστε
+        russian: попросите
+        english: ask for (plural)
+    imperative_negation_singular:
+      - greek: μη ζητήσεις
+        russian: не проси
+        english: do not ask for (singular)
+    imperative_negation_plural:
+      - greek: μη ζητήσετε
+        russian: не просите
+        english: do not ask for (plural)

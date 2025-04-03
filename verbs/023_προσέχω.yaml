@@ -1,0 +1,160 @@
+- verb: προσέχω
+  translation: to watch out
+  tenses:
+    present_tense:
+      - greek: προσέχω
+        russian: остерегаюсь
+        english: I am watching out
+      - greek: προσέχεις
+        russian: остерегаешься
+        english: you are watching out
+      - greek: προσέχει
+        russian: остерегается
+        english: he/she/it is watching out
+      - greek: προσέχουμε
+        russian: остерегаемся
+        english: we are watching out
+      - greek: προσέχετε
+        russian: остерегаетесь
+        english: you are watching out
+      - greek: προσέχουν
+        russian: остерегаются
+        english: they are watching out
+    future_continuous_tense:
+      - greek: θα προσέχω
+        russian: буду остерегаться
+        english: I will be watching out
+      - greek: θα προσέχεις
+        russian: будешь остерегаться
+        english: you will be watching out
+      - greek: θα προσέχει
+        russian: будет остерегаться
+        english: he/she/it will be watching out
+      - greek: θα προσέχουμε
+        russian: будем остерегаться
+        english: we will be watching out
+      - greek: θα προσέχετε
+        russian: будете остерегаться
+        english: you will be watching out
+      - greek: θα προσέχουν
+        russian: будут остерегаться
+        english: they will be watching out
+    simple_future_tense:
+      - greek: θα προσέξω
+        russian: остерегусь
+        english: I will watch out
+      - greek: θα προσέξεις
+        russian: остережешься
+        english: you will watch out
+      - greek: θα προσέξει
+        russian: остережется
+        english: he/she/it will watch out
+      - greek: θα προσέξουμε
+        russian: остережемся
+        english: we will watch out
+      - greek: θα προσέξετε
+        russian: остережетесь
+        english: you will watch out
+      - greek: θα προσέξουν
+        russian: остерегутся
+        english: they will watch out
+    imperfect_past_tense:
+      - greek: πρόσεχα
+        russian: остерегался
+        english: I was watching out
+      - greek: πρόσεχες
+        russian: остерегался
+        english: you were watching out
+      - greek: πρόσεχε
+        russian: остерегался
+        english: he/she/it was watching out
+      - greek: προσέχαμε
+        russian: остерегались
+        english: we were watching out
+      - greek: προσέχατε
+        russian: остерегались
+        english: you were watching out
+      - greek: πρόσεχαν
+        russian: остерегались
+        english: they were watching out
+    simple_past_tense:
+      - greek: πρόσεξα
+        russian: остерегся
+        english: I watched out
+      - greek: πρόσεξες
+        russian: остерегся
+        english: you watched out
+      - greek: πρόσεξε
+        russian: остерегся
+        english: he/she/it watched out
+      - greek: προσέξαμε
+        russian: остереглись
+        english: we watched out
+      - greek: προσέξατε
+        russian: остереглись
+        english: you watched out
+      - greek: πρόσεξαν
+        russian: остереглись
+        english: they watched out
+    continuous_subjunctive_mood:
+      - greek: να προσέχω
+        russian: остерегался бы
+        english: (that) I should watch out
+      - greek: να προσέχεις
+        russian: остерегался бы
+        english: (that) you should watch out
+      - greek: να προσέχει
+        russian: остерегался бы
+        english: (that) he/she/it should watch out
+      - greek: να προσέχουμε
+        russian: остерегались бы
+        english: (that) we should watch out
+      - greek: να προσέχετε
+        russian: остерегались бы
+        english: (that) you should watch out
+      - greek: να προσέχουν
+        russian: остерегались бы
+        english: (that) they should watch out
+    simple_subjunctive_mood:
+      - greek: να προσέξω
+        russian: остерегся бы
+        english: (that) I should have watched out
+      - greek: να προσέξεις
+        russian: остерегся бы
+        english: (that) you should have watched out
+      - greek: να προσέξει
+        russian: остерегся бы
+        english: (that) he/she/it should have watched out
+      - greek: να προσέξουμε
+        russian: остереглись бы
+        english: (that) we should have watched out
+      - greek: να προσέξετε
+        russian: остереглись бы
+        english: (that) you should have watched out
+      - greek: να προσέξουν
+        russian: остереглись бы
+        english: (that) they should have watched out
+    imperative_continuous_singular:
+      - greek: πρόσεχε
+        russian: остерегайся
+        english: keep watching out (singular)
+    imperative_continuous_plural:
+      - greek: προσέχετε
+        russian: остерегайтесь
+        english: keep watching out (plural)
+    imperative_simple_singular:
+      - greek: πρόσεξε
+        russian: остерегись
+        english: watch out (singular)
+    imperative_simple_plural:
+      - greek: προσέξτε
+        russian: остерегитесь
+        english: watch out (plural)
+    imperative_negation_singular:
+      - greek: μην προσέξεις
+        russian: не остерегайся
+        english: do not watch out (singular)
+    imperative_negation_plural:
+      - greek: μην προσέξετε
+        russian: не остерегайтесь
+        english: do not watch out (plural)

@@ -1,0 +1,160 @@
+- verb: γεννάω/γεννώ
+  translation: to give birth/to be born
+  tenses:
+    present_tense:
+      - greek: γεννάω/γεννώ
+        russian: рожаю
+        english: I am giving birth
+      - greek: γεννάς
+        russian: рожаешь
+        english: you are giving birth
+      - greek: γεννάει/γεννά
+        russian: рожает
+        english: he/she/it is giving birth
+      - greek: γεννάμε
+        russian: рожаем
+        english: we are giving birth
+      - greek: γεννάτε
+        russian: рожаете
+        english: you are giving birth
+      - greek: γεννάνε/γεννούν
+        russian: рожают
+        english: they are giving birth
+    future_continuous_tense:
+      - greek: θα γεννάω/θα γεννώ
+        russian: буду рожать
+        english: I will be giving birth
+      - greek: θα γεννάς
+        russian: будешь рожать
+        english: you will be giving birth
+      - greek: θα γεννάει/θα γεννά
+        russian: будет рожать
+        english: he/she/it will be giving birth
+      - greek: θα γεννάμε
+        russian: будем рожать
+        english: we will be giving birth
+      - greek: θα γεννάτε
+        russian: будете рожать
+        english: you will be giving birth
+      - greek: θα γεννάνε/θα γεννούν
+        russian: будут рожать
+        english: they will be giving birth
+    simple_future_tense:
+      - greek: θα γεννήσω
+        russian: рожу
+        english: I will give birth
+      - greek: θα γεννήσεις
+        russian: родишь
+        english: you will give birth
+      - greek: θα γεννήσει
+        russian: родит
+        english: he/she/it will give birth
+      - greek: θα γεννήσουμε
+        russian: родим
+        english: we will give birth
+      - greek: θα γεννήσετε
+        russian: родите
+        english: you will give birth
+      - greek: θα γεννήσουν
+        russian: родят
+        english: they will give birth
+    imperfect_past_tense:
+      - greek: γεννούσα
+        russian: рожал
+        english: I was giving birth
+      - greek: γεννούσες
+        russian: рожал
+        english: you were giving birth
+      - greek: γεννούσε
+        russian: рожал
+        english: he/she/it was giving birth
+      - greek: γεννούσαμε
+        russian: рожали
+        english: we were giving birth
+      - greek: γεννούσατε
+        russian: рожали
+        english: you were giving birth
+      - greek: γεννούσαν
+        russian: рожали
+        english: they were giving birth
+    simple_past_tense:
+      - greek: γέννησα
+        russian: родил
+        english: I gave birth
+      - greek: γέννησες
+        russian: родил
+        english: you gave birth
+      - greek: γέννησε
+        russian: родил
+        english: he/she/it gave birth
+      - greek: γεννήσαμε
+        russian: родили
+        english: we gave birth
+      - greek: γεννήσατε
+        russian: родили
+        english: you gave birth
+      - greek: γέννησαν
+        russian: родили
+        english: they gave birth
+    continuous_subjunctive_mood:
+      - greek: να γεννάω/να γεννώ
+        russian: рожал бы
+        english: (that) I should give birth
+      - greek: να γεννάς
+        russian: рожал бы
+        english: (that) you should give birth
+      - greek: να γεννάει/να γεννά
+        russian: рожал бы
+        english: (that) he/she/it should give birth
+      - greek: να γεννάμε
+        russian: рожали бы
+        english: (that) we should give birth
+      - greek: να γεννάτε
+        russian: рожали бы
+        english: (that) you should give birth
+      - greek: να γεννάνε/να γεννούν
+        russian: рожали бы
+        english: (that) they should give birth
+    simple_subjunctive_mood:
+      - greek: να γεννήσω
+        russian: родил бы
+        english: (that) I should have given birth
+      - greek: να γεννήσεις
+        russian: родил бы
+        english: (that) you should have given birth
+      - greek: να γεννήσει
+        russian: родил бы
+        english: (that) he/she/it should have given birth
+      - greek: να γεννήσουμε
+        russian: родили бы
+        english: (that) we should have given birth
+      - greek: να γεννήσετε
+        russian: родили бы
+        english: (that) you should have given birth
+      - greek: να γεννήσουν
+        russian: родили бы
+        english: (that) they should have given birth
+    imperative_continuous_singular:
+      - greek: γέννα
+        russian: рожай
+        english: keep giving birth (singular)
+    imperative_continuous_plural:
+      - greek: γεννάτε
+        russian: рожайте
+        english: keep giving birth (plural)
+    imperative_simple_singular:
+      - greek: γέννησε
+        russian: роди
+        english: give birth (singular)
+    imperative_simple_plural:
+      - greek: γεννήστε
+        russian: родите
+        english: give birth (plural)
+    imperative_negation_singular:
+      - greek: μη γεννήσεις
+        russian: не рожай
+        english: do not give birth (singular)
+    imperative_negation_plural:
+      - greek: μη γεννήσετε
+        russian: не рожайте
+        english: do not give birth (plural)

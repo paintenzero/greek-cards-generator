@@ -1,0 +1,160 @@
+- verb: χρησιμοποιώ
+  translation: to use
+  tenses:
+    present_tense:
+      - greek: χρησιμοποιώ
+        russian: использую
+        english: I use
+      - greek: χρησιμοποιείς
+        russian: используешь
+        english: you use
+      - greek: χρησιμοποιεί
+        russian: использует
+        english: he/she/it uses
+      - greek: χρησιμοποιούμε
+        russian: используем
+        english: we use
+      - greek: χρησιμοποιείτε
+        russian: используете
+        english: you use
+      - greek: χρησιμοποιούν
+        russian: используют
+        english: they use
+    future_continuous_tense:
+      - greek: θα χρησιμοποιώ
+        russian: буду использовать
+        english: I will be using
+      - greek: θα χρησιμοποιείς
+        russian: будешь использовать
+        english: you will be using
+      - greek: θα χρησιμοποιεί
+        russian: будет использовать
+        english: he/she/it will be using
+      - greek: θα χρησιμοποιούμε
+        russian: будем использовать
+        english: we will be using
+      - greek: θα χρησιμοποιείτε
+        russian: будете использовать
+        english: you will be using
+      - greek: θα χρησιμοποιούν
+        russian: будут использовать
+        english: they will be using
+    simple_future_tense:
+      - greek: θα χρησιμοποιήσω
+        russian: использую
+        english: I will use
+      - greek: θα χρησιμοποιήσεις
+        russian: используешь
+        english: you will use
+      - greek: θα χρησιμοποιήσει
+        russian: использует
+        english: he/she/it will use
+      - greek: θα χρησιμοποιήσουμε
+        russian: используем
+        english: we will use
+      - greek: θα χρησιμοποιήσετε
+        russian: используете
+        english: you will use
+      - greek: θα χρησιμοποιήσουν
+        russian: используют
+        english: they will use
+    imperfect_past_tense:
+      - greek: χρησιμοποιούσα
+        russian: использовал
+        english: I was using
+      - greek: χρησιμοποιούσες
+        russian: использовал
+        english: you were using
+      - greek: χρησιμοποιούσε
+        russian: использовал
+        english: he/she/it was using
+      - greek: χρησιμοποιούσαμε
+        russian: использовали
+        english: we were using
+      - greek: χρησιμοποιούσατε
+        russian: использовали
+        english: you were using
+      - greek: χρησιμοποιούσαν
+        russian: использовали
+        english: they were using
+    simple_past_tense:
+      - greek: χρησιμοποίησα
+        russian: использовал
+        english: I used
+      - greek: χρησιμοποίησες
+        russian: использовал
+        english: you used
+      - greek: χρησιμοποίησε
+        russian: использовал
+        english: he/she/it used
+      - greek: χρησιμοποιήσαμε
+        russian: использовали
+        english: we used
+      - greek: χρησιμοποιήσατε
+        russian: использовали
+        english: you used
+      - greek: χρησιμοποίησαν
+        russian: использовали
+        english: they used
+    continuous_subjunctive_mood:
+      - greek: να χρησιμοποιώ
+        russian: использовал бы
+        english: (that) I should use
+      - greek: να χρησιμοποιείς
+        russian: использовал бы
+        english: (that) you should use
+      - greek: να χρησιμοποιεί
+        russian: использовал бы
+        english: (that) he/she/it should use
+      - greek: να χρησιμοποιούμε
+        russian: использовали бы
+        english: (that) we should use
+      - greek: να χρησιμοποιείτε
+        russian: использовали бы
+        english: (that) you should use
+      - greek: να χρησιμοποιούν
+        russian: использовали бы
+        english: (that) they should use
+    simple_subjunctive_mood:
+      - greek: να χρησιμοποιήσω
+        russian: использовал бы
+        english: (that) I should have used
+      - greek: να χρησιμοποιήσεις
+        russian: использовал бы
+        english: (that) you should have used
+      - greek: να χρησιμοποιήσει
+        russian: использовал бы
+        english: (that) he/she/it should have used
+      - greek: να χρησιμοποιήσουμε
+        russian: использовали бы
+        english: (that) we should have used
+      - greek: να χρησιμοποιήσετε
+        russian: использовали бы
+        english: (that) you should have used
+      - greek: να χρησιμοποιήσουν
+        russian: использовали бы
+        english: (that) they should have used
+    imperative_continuous_singular:
+      - greek: χρησιμοποίει
+        russian: используй
+        english: keep using (singular)
+    imperative_continuous_plural:
+      - greek: χρησιμοποιείτε
+        russian: используйте
+        english: keep using (plural)
+    imperative_simple_singular:
+      - greek: χρησιμοποίησε
+        russian: используй
+        english: use (singular)
+    imperative_simple_plural:
+      - greek: χρησιμοποιήστε
+        russian: используйте
+        english: use (plural)
+    imperative_negation_singular:
+      - greek: μη χρησιμοποιήσεις
+        russian: не используй
+        english: do not use (singular)
+    imperative_negation_plural:
+      - greek: μη χρησιμοποιήσετε
+        russian: не используйте
+        english: do not use (plural)

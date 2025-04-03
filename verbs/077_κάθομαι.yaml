@@ -1,0 +1,160 @@
+- verb: κάθομαι
+  translation: to sit
+  tenses:
+    present_tense:
+      - greek: κάθομαι
+        russian: сижу
+        english: I sit
+      - greek: κάθεσαι
+        russian: сидишь
+        english: you sit
+      - greek: κάθεται
+        russian: сидит
+        english: he/she/it sits
+      - greek: καθόμαστε
+        russian: сидим
+        english: we sit
+      - greek: κάθεστε
+        russian: сидите
+        english: you sit
+      - greek: κάθονται
+        russian: сидят
+        english: they sit
+    future_continuous_tense:
+      - greek: θα κάθομαι
+        russian: буду сидеть
+        english: I will be sitting
+      - greek: θα κάθεσαι
+        russian: будешь сидеть
+        english: you will be sitting
+      - greek: θα κάθεται
+        russian: будет сидеть
+        english: he/she/it will be sitting
+      - greek: θα καθόμαστε
+        russian: будем сидеть
+        english: we will be sitting
+      - greek: θα κάθεστε
+        russian: будете сидеть
+        english: you will be sitting
+      - greek: θα κάθονται
+        russian: будут сидеть
+        english: they will be sitting
+    simple_future_tense:
+      - greek: θα καθίσω
+        russian: сяду
+        english: I will sit
+      - greek: θα καθίσεις
+        russian: сядешь
+        english: you will sit
+      - greek: θα καθίσει
+        russian: сядет
+        english: he/she/it will sit
+      - greek: θα καθίσουμε
+        russian: сядем
+        english: we will sit
+      - greek: θα καθίσετε
+        russian: сядете
+        english: you will sit
+      - greek: θα καθίσουν
+        russian: сядут
+        english: they will sit
+    imperfect_past_tense:
+      - greek: καθόμουν
+        russian: сидел
+        english: I was sitting
+      - greek: καθόσουν
+        russian: сидел
+        english: you were sitting
+      - greek: καθόταν
+        russian: сидел
+        english: he/she/it was sitting
+      - greek: καθόμασταν
+        russian: сидели
+        english: we were sitting
+      - greek: καθόσασταν
+        russian: сидели
+        english: you were sitting
+      - greek: κάθονταν
+        russian: сидели
+        english: they were sitting
+    simple_past_tense:
+      - greek: κάθισα
+        russian: сел
+        english: I sat
+      - greek: κάθισες
+        russian: сел
+        english: you sat
+      - greek: κάθισε
+        russian: сел
+        english: he/she/it sat
+      - greek: καθίσαμε
+        russian: сели
+        english: we sat
+      - greek: καθίσατε
+        russian: сели
+        english: you sat
+      - greek: κάθισαν
+        russian: сели
+        english: they sat
+    continuous_subjunctive_mood:
+      - greek: να κάθομαι
+        russian: сидел бы
+        english: (that) I should sit
+      - greek: να κάθεσαι
+        russian: сидел бы
+        english: (that) you should sit
+      - greek: να κάθεται
+        russian: сидел бы
+        english: (that) he/she/it should sit
+      - greek: να καθόμαστε
+        russian: сидели бы
+        english: (that) we should sit
+      - greek: να κάθεστε
+        russian: сидели бы
+        english: (that) you should sit
+      - greek: να κάθονται
+        russian: сидели бы
+        english: (that) they should sit
+    simple_subjunctive_mood:
+      - greek: να καθίσω
+        russian: сел бы
+        english: (that) I should have sat
+      - greek: να καθίσεις
+        russian: сел бы
+        english: (that) you should have sat
+      - greek: να καθίσει
+        russian: сел бы
+        english: (that) he/she/it should have sat
+      - greek: να καθίσουμε
+        russian: сели бы
+        english: (that) we should have sat
+      - greek: να καθίσετε
+        russian: сели бы
+        english: (that) you should have sat
+      - greek: να καθίσουν
+        russian: сели бы
+        english: (that) they should have sat
+    imperative_continuous_singular:
+      - greek: κάθου
+        russian: сиди
+        english: keep sitting (singular)
+    imperative_continuous_plural:
+      - greek: καθόσαστε
+        russian: сидите
+        english: keep sitting (plural)
+    imperative_simple_singular:
+      - greek: κάτσε
+        russian: сядь
+        english: sit (singular)
+    imperative_simple_plural:
+      - greek: καθίστε
+        russian: сядьте
+        english: sit (plural)
+    imperative_negation_singular:
+      - greek: μην καθίσεις
+        russian: не сиди
+        english: do not sit (singular)
+    imperative_negation_plural:
+      - greek: μην καθίσετε
+        russian: не сидите
+        english: do not sit (plural)

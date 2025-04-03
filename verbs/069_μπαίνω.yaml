@@ -1,0 +1,160 @@
+- verb: μπαίνω
+  translation: to enter/go in
+  tenses:
+    present_tense:
+      - greek: μπαίνω
+        russian: вхожу
+        english: I enter
+      - greek: μπαίνεις
+        russian: входишь
+        english: you enter
+      - greek: μπαίνει
+        russian: входит
+        english: he/she/it enters
+      - greek: μπαίνουμε
+        russian: входим
+        english: we enter
+      - greek: μπαίνετε
+        russian: входите
+        english: you enter
+      - greek: μπαίνουν
+        russian: входят
+        english: they enter
+    future_continuous_tense:
+      - greek: θα μπαίνω
+        russian: буду входить
+        english: I will be entering
+      - greek: θα μπαίνεις
+        russian: будешь входить
+        english: you will be entering
+      - greek: θα μπαίνει
+        russian: будет входить
+        english: he/she/it will be entering
+      - greek: θα μπαίνουμε
+        russian: будем входить
+        english: we will be entering
+      - greek: θα μπαίνετε
+        russian: будете входить
+        english: you will be entering
+      - greek: θα μπαίνουν
+        russian: будут входить
+        english: they will be entering
+    simple_future_tense:
+      - greek: θα μπω
+        russian: войду
+        english: I will enter
+      - greek: θα μπεις
+        russian: войдёшь
+        english: you will enter
+      - greek: θα μπει
+        russian: войдёт
+        english: he/she/it will enter
+      - greek: θα μπούμε
+        russian: войдём
+        english: we will enter
+      - greek: θα μπείτε
+        russian: войдёте
+        english: you will enter
+      - greek: θα μπουν
+        russian: войдут
+        english: they will enter
+    imperfect_past_tense:
+      - greek: έμπαινα
+        russian: входил
+        english: I was entering
+      - greek: έμπαινες
+        russian: входил
+        english: you were entering
+      - greek: έμπαινε
+        russian: входил
+        english: he/she/it was entering
+      - greek: μπαίναμε
+        russian: входили
+        english: we were entering
+      - greek: μπαίνατε
+        russian: входили
+        english: you were entering
+      - greek: έμπαιναν
+        russian: входили
+        english: they were entering
+    simple_past_tense:
+      - greek: μπήκα
+        russian: вошёл
+        english: I entered
+      - greek: μπήκες
+        russian: вошёл
+        english: you entered
+      - greek: μπήκε
+        russian: вошёл
+        english: he/she/it entered
+      - greek: μπήκαμε
+        russian: вошли
+        english: we entered
+      - greek: μπήκατε
+        russian: вошли
+        english: you entered
+      - greek: μπήκαν
+        russian: вошли
+        english: they entered
+    continuous_subjunctive_mood:
+      - greek: να μπαίνω
+        russian: входил бы
+        english: (that) I should enter
+      - greek: να μπαίνεις
+        russian: входил бы
+        english: (that) you should enter
+      - greek: να μπαίνει
+        russian: входил бы
+        english: (that) he/she/it should enter
+      - greek: να μπαίνουμε
+        russian: входили бы
+        english: (that) we should enter
+      - greek: να μπαίνετε
+        russian: входили бы
+        english: (that) you should enter
+      - greek: να μπαίνουν
+        russian: входили бы
+        english: (that) they should enter
+    simple_subjunctive_mood:
+      - greek: να μπω
+        russian: вошёл бы
+        english: (that) I should have entered
+      - greek: να μπεις
+        russian: вошёл бы
+        english: (that) you should have entered
+      - greek: να μπει
+        russian: вошёл бы
+        english: (that) he/she/it should have entered
+      - greek: να μπούμε
+        russian: вошли бы
+        english: (that) we should have entered
+      - greek: να μπείτε
+        russian: вошли бы
+        english: (that) you should have entered
+      - greek: να μπουν
+        russian: вошли бы
+        english: (that) they should have entered
+    imperative_continuous_singular:
+      - greek: μπαίνε
+        russian: входи
+        english: keep entering (singular)
+    imperative_continuous_plural:
+      - greek: μπαίνετε
+        russian: входите
+        english: keep entering (plural)
+    imperative_simple_singular:
+      - greek: μπες
+        russian: войди
+        english: enter (singular)
+    imperative_simple_plural:
+      - greek: μπείτε
+        russian: войдите
+        english: enter (plural)
+    imperative_negation_singular:
+      - greek: μην μπεις
+        russian: не входи
+        english: do not enter (singular)
+    imperative_negation_plural:
+      - greek: μην μπείτε
+        russian: не входите
+        english: do not enter (plural)

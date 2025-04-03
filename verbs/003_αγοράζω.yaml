@@ -1,0 +1,160 @@
+- verb: αγοράζω
+  translation: to buy
+  tenses:
+    present_tense:
+    - greek: αγοράζω
+      russian: покупаю
+      english: I buy
+    - greek: αγοράζεις
+      russian: покупаешь
+      english: you buy
+    - greek: αγοράζει
+      russian: покупает
+      english: he/she/it buys
+    - greek: αγοράζουμε
+      russian: покупаем
+      english: we buy
+    - greek: αγοράζετε
+      russian: покупаете
+      english: you buy
+    - greek: αγοράζουν
+      russian: покупают
+      english: they buy
+    future_continuous_tense:
+    - greek: θα αγοράζω
+      russian: буду покупать
+      english: I will be buying
+    - greek: θα αγοράζεις
+      russian: будешь покупать
+      english: you will be buying
+    - greek: θα αγοράζει
+      russian: будет покупать
+      english: he/she/it will be buying
+    - greek: θα αγοράζουμε
+      russian: будем покупать
+      english: we will be buying
+    - greek: θα αγοράζετε
+      russian: будете покупать
+      english: you will be buying
+    - greek: θα αγοράζουν
+      russian: будут покупать
+      english: they will be buying
+    simple_future_tense:
+    - greek: θα αγοράσω
+      russian: куплю
+      english: I will buy
+    - greek: θα αγοράσεις
+      russian: купишь
+      english: you will buy
+    - greek: θα αγοράσει
+      russian: купит
+      english: he/she/it will buy
+    - greek: θα αγοράσουμε
+      russian: купим
+      english: we will buy
+    - greek: θα αγοράσετε
+      russian: купите
+      english: you will buy
+    - greek: θα αγοράσουν
+      russian: купят
+      english: they will buy
+    imperfect_past_tense:
+    - greek: αγόραζα
+      russian: покупал
+      english: I was buying
+    - greek: αγόραζες
+      russian: покупал
+      english: you were buying
+    - greek: αγόραζε
+      russian: покупал
+      english: he/she/it was buying
+    - greek: αγοράζαμε
+      russian: покупали
+      english: we were buying
+    - greek: αγοράζατε
+      russian: покупали
+      english: you were buying
+    - greek: αγόραζαν
+      russian: покупали
+      english: they were buying
+    simple_past_tense:
+    - greek: αγόρασα
+      russian: купил
+      english: I bought
+    - greek: αγόρασες
+      russian: купил
+      english: you bought
+    - greek: αγόρασε
+      russian: купил
+      english: he/she/it bought
+    - greek: αγοράσαμε
+      russian: купили
+      english: we bought
+    - greek: αγοράσατε
+      russian: купили
+      english: you bought
+    - greek: αγόρασαν
+      russian: купили
+      english: they bought
+    continuous_subjunctive_mood:
+    - greek: να αγοράζω
+      russian: покупал бы
+      english: (that) I should buy
+    - greek: να αγοράζεις
+      russian: покупал бы
+      english: (that) you should buy
+    - greek: να αγοράζει
+      russian: покупал бы
+      english: (that) he/she/it should buy
+    - greek: να αγοράζουμε
+      russian: покупали бы
+      english: (that) we should buy
+    - greek: να αγοράζετε
+      russian: покупали бы
+      english: (that) you should buy
+    - greek: να αγοράζουν
+      russian: покупали бы
+      english: (that) they should buy
+    simple_subjunctive_mood:
+    - greek: να αγοράσω
+      russian: купил бы
+      english: (that) I should have bought
+    - greek: να αγοράσεις
+      russian: купил бы
+      english: (that) you should have bought
+    - greek: να αγοράσει
+      russian: купил бы
+      english: (that) he/she/it should have bought
+    - greek: να αγοράσουμε
+      russian: купили бы
+      english: (that) we should have bought
+    - greek: να αγοράσετε
+      russian: купили бы
+      english: (that) you should have bought
+    - greek: να αγοράσουν
+      russian: купили бы
+      english: (that) they should have bought
+    imperative_continuous_singular:
+    - greek: αγόραζε
+      russian: покупай
+      english: keep buying (singular)
+    imperative_continuous_plural:
+    - greek: αγοράζετε
+      russian: покупайте
+      english: keep buying (plural)
+    imperative_simple_singular:
+    - greek: αγόρασε
+      russian: купи
+      english: buy (singular)
+    imperative_simple_plural:
+    - greek: αγοράστε
+      russian: купите
+      english: buy (plural)
+    imperative_negation_singular:
+    - greek: μην αγοράδεις
+      russian: не покупай
+      english: do not buy (singular)
+    imperative_negation_plural:
+    - greek: μην αγοράδετε
+      russian: не покупайте
+      english: do not buy (plural)

@@ -1,0 +1,160 @@
+- verb: χάνω
+  translation: to lose
+  tenses:
+    present_tense:
+    - greek: χάνω
+      russian: теряю
+      english: I lose
+    - greek: χάνεις
+      russian: теряешь
+      english: you lose
+    - greek: χάνει
+      russian: теряет
+      english: he/she/it loses
+    - greek: χάνουμε
+      russian: теряем
+      english: we lose
+    - greek: χάνετε
+      russian: теряете
+      english: you lose
+    - greek: χάνουν
+      russian: теряют
+      english: they lose
+    future_continuous_tense:
+    - greek: θα χάνω
+      russian: буду терять
+      english: I will be losing
+    - greek: θα χάνεις
+      russian: будешь терять
+      english: you will be losing
+    - greek: θα χάνει
+      russian: будет терять
+      english: he/she/it will be losing
+    - greek: θα χάνουμε
+      russian: будем терять
+      english: we will be losing
+    - greek: θα χάνετε
+      russian: будете терять
+      english: you will be losing
+    - greek: θα χάνουν
+      russian: будут терять
+      english: they will be losing
+    simple_future_tense:
+    - greek: θα χάσω
+      russian: потеряю
+      english: I will lose
+    - greek: θα χάσεις
+      russian: потеряешь
+      english: you will lose
+    - greek: θα χάσει
+      russian: потеряет
+      english: he/she/it will lose
+    - greek: θα χάσουμε
+      russian: потеряем
+      english: we will lose
+    - greek: θα χάσετε
+      russian: потеряете
+      english: you will lose
+    - greek: θα χάσουν
+      russian: потеряют
+      english: they will lose
+    imperfect_past_tense:
+    - greek: έχανα
+      russian: терял
+      english: I was losing
+    - greek: έχανες
+      russian: терял
+      english: you were losing
+    - greek: έχανε
+      russian: терял
+      english: he/she/it was losing
+    - greek: χάναμε
+      russian: теряли
+      english: we were losing
+    - greek: χάνατε
+      russian: теряли
+      english: you were losing
+    - greek: έχαναν
+      russian: теряли
+      english: they were losing
+    simple_past_tense:
+    - greek: έχασα
+      russian: потерял
+      english: I lost
+    - greek: έχασες
+      russian: потерял
+      english: you lost
+    - greek: έχασε
+      russian: потерял
+      english: he/she/it lost
+    - greek: χάσαμε
+      russian: потеряли
+      english: we lost
+    - greek: χάσατε
+      russian: потеряли
+      english: you lost
+    - greek: έχασαν
+      russian: потеряли
+      english: they lost
+    continuous_subjunctive_mood:
+    - greek: να χάνω
+      russian: терял бы
+      english: (that) I should lose
+    - greek: να χάνεις
+      russian: терял бы
+      english: (that) you should lose
+    - greek: να χάνει
+      russian: терял бы
+      english: (that) he/she/it should lose
+    - greek: να χάνουμε
+      russian: теряли бы
+      english: (that) we should lose
+    - greek: να χάνετε
+      russian: теряли бы
+      english: (that) you should lose
+    - greek: να χάνουν
+      russian: теряли бы
+      english: (that) they should lose
+    simple_subjunctive_mood:
+    - greek: να χάσω
+      russian: потерял бы
+      english: (that) I should have lost
+    - greek: να χάσεις
+      russian: потерял бы
+      english: (that) you should have lost
+    - greek: να χάσει
+      russian: потерял бы
+      english: (that) he/she/it should have lost
+    - greek: να χάσουμε
+      russian: потеряли бы
+      english: (that) we should have lost
+    - greek: να χάσετε
+      russian: потеряли бы
+      english: (that) you should have lost
+    - greek: να χάσουν
+      russian: потеряли бы
+      english: (that) they should have lost
+    imperative_continuous_singular:
+    - greek: χάνε
+      russian: теряй
+      english: keep losing (singular)
+    imperative_continuous_plural:
+    - greek: χάνετε
+      russian: теряйте
+      english: keep losing (plural)
+    imperative_simple_singular:
+    - greek: χάσε
+      russian: потеряй
+      english: lose (singular)
+    imperative_simple_plural:
+    - greek: χάστε
+      russian: потеряйте
+      english: lose (plural)
+    imperative_negation_singular:
+    - greek: μη χάσεις
+      russian: не теряй
+      english: do not lose (singular)
+    imperative_negation_plural:
+    - greek: μη χάσετε
+      russian: не теряйте
+      english: do not lose (plural)

@@ -1,0 +1,160 @@
+- verb: ρωτάω/ρωτώ
+  translation: to ask
+  tenses:
+    present_tense:
+      - greek: ρωτάω/ρωτώ
+        russian: спрашиваю
+        english: I ask
+      - greek: ρωτάς
+        russian: спрашиваешь
+        english: you ask
+      - greek: ρωτάει/ρωτά
+        russian: спрашивает
+        english: he/she/it asks
+      - greek: ρωτάμε
+        russian: спрашиваем
+        english: we ask
+      - greek: ρωτάτε
+        russian: спрашиваете
+        english: you ask
+      - greek: ρωτάνε/ρωτούν
+        russian: спрашивают
+        english: they ask
+    future_continuous_tense:
+      - greek: θα ρωτάω/θα ρωτώ
+        russian: буду спрашивать
+        english: I will be asking
+      - greek: θα ρωτάς
+        russian: будешь спрашивать
+        english: you will be asking
+      - greek: θα ρωτάει/θα ρωτά
+        russian: будет спрашивать
+        english: he/she/it will be asking
+      - greek: θα ρωτάμε
+        russian: будем спрашивать
+        english: we will be asking
+      - greek: θα ρωτάτε
+        russian: будете спрашивать
+        english: you will be asking
+      - greek: θα ρωτάνε/θα ρωτούν
+        russian: будут спрашивать
+        english: they will be asking
+    simple_future_tense:
+      - greek: θα ρωτήσω
+        russian: спрошу
+        english: I will ask
+      - greek: θα ρωτήσεις
+        russian: спросишь
+        english: you will ask
+      - greek: θα ρωτήσει
+        russian: спросит
+        english: he/she/it will ask
+      - greek: θα ρωτήσουμε
+        russian: спросим
+        english: we will ask
+      - greek: θα ρωτήσετε
+        russian: спросите
+        english: you will ask
+      - greek: θα ρωτήσουν
+        russian: спросят
+        english: they will ask
+    imperfect_past_tense:
+      - greek: ρωτούσα
+        russian: спрашивал
+        english: I was asking
+      - greek: ρωτούσες
+        russian: спрашивал
+        english: you were asking
+      - greek: ρωτούσε
+        russian: спрашивал
+        english: he/she/it was asking
+      - greek: ρωτούσαμε
+        russian: спрашивали
+        english: we were asking
+      - greek: ρωτούσατε
+        russian: спрашивали
+        english: you were asking
+      - greek: ρωτούσαν
+        russian: спрашивали
+        english: they were asking
+    simple_past_tense:
+      - greek: ρώτησα
+        russian: спросил
+        english: I asked
+      - greek: ρώτησες
+        russian: спросил
+        english: you asked
+      - greek: ρώτησε
+        russian: спросил
+        english: he/she/it asked
+      - greek: ρωτήσαμε
+        russian: спросили
+        english: we asked
+      - greek: ρωτήσατε
+        russian: спросили
+        english: you asked
+      - greek: ρώτησαν
+        russian: спросили
+        english: they asked
+    continuous_subjunctive_mood:
+      - greek: να ρωτάω/να ρωτώ
+        russian: спрашивал бы
+        english: (that) I should ask
+      - greek: να ρωτάς
+        russian: спрашивал бы
+        english: (that) you should ask
+      - greek: να ρωτάει/να ρωτά
+        russian: спрашивал бы
+        english: (that) he/she/it should ask
+      - greek: να ρωτάμε
+        russian: спрашивали бы
+        english: (that) we should ask
+      - greek: να ρωτάτε
+        russian: спрашивали бы
+        english: (that) you should ask
+      - greek: να ρωτάνε/να ρωτούν
+        russian: спрашивали бы
+        english: (that) they should ask
+    simple_subjunctive_mood:
+      - greek: να ρωτήσω
+        russian: спросил бы
+        english: (that) I should have asked
+      - greek: να ρωτήσεις
+        russian: спросил бы
+        english: (that) you should have asked
+      - greek: να ρωτήσει
+        russian: спросил бы
+        english: (that) he/she/it should have asked
+      - greek: να ρωτήσουμε
+        russian: спросили бы
+        english: (that) we should have asked
+      - greek: να ρωτήσετε
+        russian: спросили бы
+        english: (that) you should have asked
+      - greek: να ρωτήσουν
+        russian: спросили бы
+        english: (that) they should have asked
+    imperative_continuous_singular:
+      - greek: ρώτα
+        russian: спрашивай
+        english: keep asking (singular)
+    imperative_continuous_plural:
+      - greek: ρωτάτε
+        russian: спрашивайте
+        english: keep asking (plural)
+    imperative_simple_singular:
+      - greek: ρώτησε
+        russian: спроси
+        english: ask (singular)
+    imperative_simple_plural:
+      - greek: ρωτήστε
+        russian: спросите
+        english: ask (plural)
+    imperative_negation_singular:
+      - greek: μη ρωτήσεις
+        russian: не спрашивай
+        english: do not ask (singular)
+    imperative_negation_plural:
+      - greek: μη ρωτήσετε
+        russian: не спрашивайте
+        english: do not ask (plural)

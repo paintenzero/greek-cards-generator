@@ -1,0 +1,160 @@
+- verb: βοηθάω/βοηθώ
+  translation: to help
+  tenses:
+    present_tense:
+      - greek: βοηθάω/βοηθώ
+        russian: помогаю
+        english: I help
+      - greek: βοηθάς
+        russian: помогаешь
+        english: you help
+      - greek: βοηθάει/βοηθά
+        russian: помогает
+        english: he/she/it helps
+      - greek: βοηθάμε
+        russian: помогаем
+        english: we help
+      - greek: βοηθάτε
+        russian: помогаете
+        english: you help
+      - greek: βοηθάνε/βοηθούν
+        russian: помогают
+        english: they help
+    future_continuous_tense:
+      - greek: θα βοηθάω/θα βοηθώ
+        russian: буду помогать
+        english: I will be helping
+      - greek: θα βοηθάς
+        russian: будешь помогать
+        english: you will be helping
+      - greek: θα βοηθάει/θα βοηθά
+        russian: будет помогать
+        english: he/she/it will be helping
+      - greek: θα βοηθάμε
+        russian: будем помогать
+        english: we will be helping
+      - greek: θα βοηθάτε
+        russian: будете помогать
+        english: you will be helping
+      - greek: θα βοηθάνε/θα βοηθούν
+        russian: будут помогать
+        english: they will be helping
+    simple_future_tense:
+      - greek: θα βοηθήσω
+        russian: помогу
+        english: I will help
+      - greek: θα βοηθήσεις
+        russian: поможешь
+        english: you will help
+      - greek: θα βοηθήσει
+        russian: поможет
+        english: he/she/it will help
+      - greek: θα βοηθήσουμε
+        russian: поможем
+        english: we will help
+      - greek: θα βοηθήσετε
+        russian: поможете
+        english: you will help
+      - greek: θα βοηθήσουν
+        russian: помогут
+        english: they will help
+    imperfect_past_tense:
+      - greek: βοηθούσα
+        russian: помогал
+        english: I was helping
+      - greek: βοηθούσες
+        russian: помогал
+        english: you were helping
+      - greek: βοηθούσε
+        russian: помогал
+        english: he/she/it was helping
+      - greek: βοηθούσαμε
+        russian: помогали
+        english: we were helping
+      - greek: βοηθούσατε
+        russian: помогали
+        english: you were helping
+      - greek: βοηθούσαν
+        russian: помогали
+        english: they were helping
+    simple_past_tense:
+      - greek: βοήθησα
+        russian: помог
+        english: I helped
+      - greek: βοήθησες
+        russian: помог
+        english: you helped
+      - greek: βοήθησε
+        russian: помог
+        english: he/she/it helped
+      - greek: βοηθήσαμε
+        russian: помогли
+        english: we helped
+      - greek: βοηθήσατε
+        russian: помогли
+        english: you helped
+      - greek: βοήθησαν
+        russian: помогли
+        english: they helped
+    continuous_subjunctive_mood:
+      - greek: να βοηθάω/να βοηθώ
+        russian: помогал бы
+        english: (that) I should help
+      - greek: να βοηθάς
+        russian: помогал бы
+        english: (that) you should help
+      - greek: να βοηθάει/να βοηθά
+        russian: помогал бы
+        english: (that) he/she/it should help
+      - greek: να βοηθάμε
+        russian: помогали бы
+        english: (that) we should help
+      - greek: να βοηθάτε
+        russian: помогали бы
+        english: (that) you should help
+      - greek: να βοηθάνε/να βοηθούν
+        russian: помогали бы
+        english: (that) they should help
+    simple_subjunctive_mood:
+      - greek: να βοηθήσω
+        russian: помог бы
+        english: (that) I should have helped
+      - greek: να βοηθήσεις
+        russian: помог бы
+        english: (that) you should have helped
+      - greek: να βοηθήσει
+        russian: помог бы
+        english: (that) he/she/it should have helped
+      - greek: να βοηθήσουμε
+        russian: помогли бы
+        english: (that) we should have helped
+      - greek: να βοηθήσετε
+        russian: помогли бы
+        english: (that) you should have helped
+      - greek: να βοηθήσουν
+        russian: помогли бы
+        english: (that) they should have helped
+    imperative_continuous_singular:
+      - greek: βοήθα
+        russian: помогай
+        english: keep helping (singular)
+    imperative_continuous_plural:
+      - greek: βοηθάτε
+        russian: помогайте
+        english: keep helping (plural)
+    imperative_simple_singular:
+      - greek: βοήθησε
+        russian: помоги
+        english: help (singular)
+    imperative_simple_plural:
+      - greek: βοηθήστε
+        russian: помогите
+        english: help (plural)
+    imperative_negation_singular:
+      - greek: μη βοηθήσεις
+        russian: не помогай
+        english: do not help (singular)
+    imperative_negation_plural:
+      - greek: μη βοηθήσετε
+        russian: не помогайте
+        english: do not help (plural)

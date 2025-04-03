@@ -1,0 +1,160 @@
+- verb: δημιουργώ
+  translation: to create
+  tenses:
+    present_tense:
+      - greek: δημιουργώ
+        russian: создаю
+        english: I create
+      - greek: δημιουργείς
+        russian: создаёшь
+        english: you create
+      - greek: δημιουργεί
+        russian: создаёт
+        english: he/she/it creates
+      - greek: δημιουργούμε
+        russian: создаём
+        english: we create
+      - greek: δημιουργείτε
+        russian: создаёте
+        english: you (plural) create
+      - greek: δημιουργούν
+        russian: создают
+        english: they create
+    future_continuous_tense:
+      - greek: θα δημιουργώ
+        russian: буду создавать
+        english: I will be creating
+      - greek: θα δημιουργείς
+        russian: будешь создавать
+        english: you will be creating
+      - greek: θα δημιουργεί
+        russian: будет создавать
+        english: he/she/it will be creating
+      - greek: θα δημιουργούμε
+        russian: будем создавать
+        english: we will be creating
+      - greek: θα δημιουργείτε
+        russian: будете создавать
+        english: you (plural) will be creating
+      - greek: θα δημιουργούν
+        russian: будут создавать
+        english: they will be creating
+    simple_future_tense:
+      - greek: θα δημιουργήσω
+        russian: создам
+        english: I will create
+      - greek: θα δημιουργήσεις
+        russian: создашь
+        english: you will create
+      - greek: θα δημιουργήσει
+        russian: создаст
+        english: he/she/it will create
+      - greek: θα δημιουργήσουμε
+        russian: создадим
+        english: we will create
+      - greek: θα δημιουργήσετε
+        russian: создадите
+        english: you (plural) will create
+      - greek: θα δημιουργήσουν
+        russian: создадут
+        english: they will create
+    imperfect_past_tense:
+      - greek: δημιουργούσα
+        russian: создавал
+        english: I was creating
+      - greek: δημιουργούσες
+        russian: создавал
+        english: you were creating
+      - greek: δημιουργούσε
+        russian: создавал
+        english: he/she/it was creating
+      - greek: δημιουργούσαμε
+        russian: создавали
+        english: we were creating
+      - greek: δημιουργούσατε
+        russian: создавали
+        english: you (plural) were creating
+      - greek: δημιουργούσαν
+        russian: создавали
+        english: they were creating
+    simple_past_tense:
+      - greek: δημιούργησα
+        russian: создал
+        english: I created
+      - greek: δημιούργησες
+        russian: создал
+        english: you created
+      - greek: δημιούργησε
+        russian: создал
+        english: he/she/it created
+      - greek: δημιουργήσαμε
+        russian: создали
+        english: we created
+      - greek: δημιουργήσατε
+        russian: создали
+        english: you (plural) created
+      - greek: δημιούργησαν
+        russian: создали
+        english: they created
+    continuous_subjunctive_mood:
+      - greek: να δημιουργώ
+        russian: создавал бы
+        english: (that) I should create
+      - greek: να δημιουργείς
+        russian: создавал бы
+        english: (that) you should create
+      - greek: να δημιουργεί
+        russian: создавал бы
+        english: (that) he/she/it should create
+      - greek: να δημιουργούμε
+        russian: создавали бы
+        english: (that) we should create
+      - greek: να δημιουργείτε
+        russian: создавали бы
+        english: (that) you should create
+      - greek: να δημιουργούν
+        russian: создавали бы
+        english: (that) they should create
+    simple_subjunctive_mood:
+      - greek: να δημιουργήσω
+        russian: создал бы
+        english: (that) I should have created
+      - greek: να δημιουργήσεις
+        russian: создал бы
+        english: (that) you should have created
+      - greek: να δημιουργήσει
+        russian: создал бы
+        english: (that) he/she/it should have created
+      - greek: να δημιουργήσουμε
+        russian: создали бы
+        english: (that) we should have created
+      - greek: να δημιουργήσετε
+        russian: создали бы
+        english: (that) you (plural) should have created
+      - greek: να δημιουργήσουν
+        russian: создали бы
+        english: (that) they should have created
+    imperative_continuous_singular:
+      - greek: δημιουργούσε
+        russian: создавай
+        english: keep creating (singular)
+    imperative_continuous_plural:
+      - greek: δημιουργείτε
+        russian: создавайте
+        english: keep creating (plural)
+    imperative_simple_singular:
+      - greek: δημιούργησε
+        russian: создай
+        english: create (singular)
+    imperative_simple_plural:
+      - greek: δημιουργήστε
+        russian: создайте
+        english: create (plural)
+    imperative_negation_singular:
+      - greek: μη δημιουργήσεις
+        russian: не создавай
+        english: do not create (singular)
+    imperative_negation_plural:
+      - greek: μη δημιουργήσετε
+        russian: не создавайте
+        english: do not create (plural)

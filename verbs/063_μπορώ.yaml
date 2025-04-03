@@ -1,0 +1,160 @@
+- verb: μπορώ
+  translation: to be able/can
+  tenses:
+    present_tense:
+      - greek: μπορώ
+        russian: могу
+        english: I can/am able
+      - greek: μπορείς
+        russian: можешь
+        english: you can/are able
+      - greek: μπορεί
+        russian: может
+        english: he/she/it can/is able
+      - greek: μπορούμε
+        russian: можем
+        english: we can/are able
+      - greek: μπορείτε
+        russian: можете
+        english: you can/are able
+      - greek: μπορούν
+        russian: могут
+        english: they can/are able
+    future_continuous_tense:
+      - greek: θα μπορώ
+        russian: буду мочь
+        english: I will be able
+      - greek: θα μπορείς
+        russian: будешь мочь
+        english: you will be able
+      - greek: θα μπορεί
+        russian: будет мочь
+        english: he/she/it will be able
+      - greek: θα μπορούμε
+        russian: будем мочь
+        english: we will be able
+      - greek: θα μπορείτε
+        russian: будете мочь
+        english: you will be able
+      - greek: θα μπορούν
+        russian: будут мочь
+        english: they will be able
+    simple_future_tense:
+      - greek: θα μπορέσω
+        russian: смогу
+        english: I will be able
+      - greek: θα μπορέσεις
+        russian: сможешь
+        english: you will be able
+      - greek: θα μπορέσει
+        russian: сможет
+        english: he/she/it will be able
+      - greek: θα μπορέσουμε
+        russian: сможем
+        english: we will be able
+      - greek: θα μπορέσετε
+        russian: сможете
+        english: you will be able
+      - greek: θα μπορέσουν
+        russian: смогут
+        english: they will be able
+    imperfect_past_tense:
+      - greek: μπορούσα
+        russian: мог
+        english: I was able
+      - greek: μπορούσες
+        russian: мог
+        english: you were able
+      - greek: μπορούσε
+        russian: мог
+        english: he/she/it was able
+      - greek: μπορούσαμε
+        russian: могли
+        english: we were able
+      - greek: μπορούσατε
+        russian: могли
+        english: you were able
+      - greek: μπορούσαν
+        russian: могли
+        english: they were able
+    simple_past_tense:
+      - greek: μπόρεσα
+        russian: смог
+        english: I was able
+      - greek: μπόρεσες
+        russian: смог
+        english: you were able
+      - greek: μπόρεσε
+        russian: смог
+        english: he/she/it was able
+      - greek: μπορέσαμε
+        russian: смогли
+        english: we were able
+      - greek: μπορέσατε
+        russian: смогли
+        english: you were able
+      - greek: μπόρεσαν
+        russian: смогли
+        english: they were able
+    continuous_subjunctive_mood:
+      - greek: να μπορώ
+        russian: мог бы
+        english: (that) I should be able
+      - greek: να μπορείς
+        russian: мог бы
+        english: (that) you should be able
+      - greek: να μπορεί
+        russian: мог бы
+        english: (that) he/she/it should be able
+      - greek: να μπορούμε
+        russian: могли бы
+        english: (that) we should be able
+      - greek: να μπορείτε
+        russian: могли бы
+        english: (that) you should be able
+      - greek: να μπορούν
+        russian: могли бы
+        english: (that) they should be able
+    simple_subjunctive_mood:
+      - greek: να μπορέσω
+        russian: смог бы
+        english: (that) I should have been able
+      - greek: να μπορέσεις
+        russian: смог бы
+        english: (that) you should have been able
+      - greek: να μπορέσει
+        russian: смог бы
+        english: (that) he/she/it should have been able
+      - greek: να μπορέσουμε
+        russian: смогли бы
+        english: (that) we should have been able
+      - greek: να μπορέσετε
+        russian: смогли бы
+        english: (that) you should have been able
+      - greek: να μπορέσουν
+        russian: смогли бы
+        english: (that) they should have been able
+    imperative_continuous_singular:
+      - greek: μπόρει
+        russian: моги
+        english: be able (singular)
+    imperative_continuous_plural:
+      - greek: μπορείτε
+        russian: могите
+        english: be able (plural)
+    imperative_simple_singular:
+      - greek: μπόρεσε
+        russian: смоги
+        english: be able (singular)
+    imperative_simple_plural:
+      - greek: μπορέστε
+        russian: смогите
+        english: be able (plural)
+    imperative_negation_singular:
+      - greek: μην μπορέσεις
+        russian: не моги
+        english: do not be able (singular)
+    imperative_negation_plural:
+      - greek: μην μπορέσετε
+        russian: не могите
+        english: do not be able (plural)

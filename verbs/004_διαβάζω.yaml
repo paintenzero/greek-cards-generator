@@ -1,0 +1,160 @@
+- verb: διαβάζω
+  translation: to read
+  tenses:
+    present_tense:
+    - greek: διαβάζω
+      russian: читаю
+      english: I read
+    - greek: διαβάζεις
+      russian: читаешь
+      english: you read
+    - greek: διαβάζει
+      russian: читает
+      english: he/she/it reads
+    - greek: διαβάζουμε
+      russian: читаем
+      english: we read
+    - greek: διαβάζετε
+      russian: читаете
+      english: you read
+    - greek: διαβάζουν
+      russian: читают
+      english: they read
+    future_continuous_tense:
+    - greek: θα διαβάζω
+      russian: буду читать
+      english: I will be reading
+    - greek: θα διαβάζεις
+      russian: будешь читать
+      english: you will be reading
+    - greek: θα διαβάζει
+      russian: будет читать
+      english: he/she/it will be reading
+    - greek: θα διαβάζουμε
+      russian: будем читать
+      english: we will be reading
+    - greek: θα διαβάζετε
+      russian: будете читать
+      english: you will be reading
+    - greek: θα διαβάζουν
+      russian: будут читать
+      english: they will be reading
+    simple_future_tense:
+    - greek: θα διαβάσω
+      russian: прочитаю
+      english: I will read
+    - greek: θα διαβάσεις
+      russian: прочитаешь
+      english: you will read
+    - greek: θα διαβάσει
+      russian: прочитает
+      english: he/she/it will read
+    - greek: θα διαβάσουμε
+      russian: прочитаем
+      english: we will read
+    - greek: θα διαβάσετε
+      russian: прочитаете
+      english: you will read
+    - greek: θα διαβάσουν
+      russian: прочитают
+      english: they will read
+    imperfect_past_tense:
+    - greek: διάβαζα
+      russian: читал
+      english: I was reading
+    - greek: διάβαζες
+      russian: читал
+      english: you were reading
+    - greek: διάβαζε
+      russian: читал
+      english: he/she/it was reading
+    - greek: διαβάζαμε
+      russian: читали
+      english: we were reading
+    - greek: διαβάζατε
+      russian: читали
+      english: you were reading
+    - greek: διάβαζαν
+      russian: читали
+      english: they were reading
+    simple_past_tense:
+    - greek: διάβασα
+      russian: прочитал
+      english: I read
+    - greek: διάβασες
+      russian: прочитал
+      english: you read
+    - greek: διάβασε
+      russian: прочитал
+      english: he/she/it read
+    - greek: διαβάσαμε
+      russian: прочитали
+      english: we read
+    - greek: διαβάσατε
+      russian: прочитали
+      english: you read
+    - greek: διάβασαν
+      russian: прочитали
+      english: they read
+    continuous_subjunctive_mood:
+    - greek: να διαβάζω
+      russian: читал бы
+      english: (that) I should read
+    - greek: να διαβάζεις
+      russian: читал бы
+      english: (that) you should read
+    - greek: να διαβάζει
+      russian: читал бы
+      english: (that) he/she/it should read
+    - greek: να διαβάζουμε
+      russian: читали бы
+      english: (that) we should read
+    - greek: να διαβάζετε
+      russian: читали бы
+      english: (that) you should read
+    - greek: να διαβάζουν
+      russian: читали бы
+      english: (that) they should read
+    simple_subjunctive_mood:
+    - greek: να διαβάσω
+      russian: прочитал бы
+      english: (that) I should have read
+    - greek: να διαβάσεις
+      russian: прочитал бы
+      english: (that) you should have read
+    - greek: να διαβάσει
+      russian: прочитал бы
+      english: (that) he/she/it should have read
+    - greek: να διαβάσουμε
+      russian: прочитали бы
+      english: (that) we should have read
+    - greek: να διαβάσετε
+      russian: прочитали бы
+      english: (that) you should have read
+    - greek: να διαβάσουν
+      russian: прочитали бы
+      english: (that) they should have read
+    imperative_continuous_singular:
+    - greek: διάβαζε
+      russian: читай
+      english: keep reading (singular)
+    imperative_continuous_plural:
+    - greek: διαβάζετε
+      russian: читайте
+      english: keep reading (plural)
+    imperative_simple_singular:
+    - greek: διάβασε
+      russian: прочитай
+      english: read (singular)
+    imperative_simple_plural:
+    - greek: διαβάστε
+      russian: прочитайте
+      english: read (plural)
+    imperative_negation_singular:
+    - greek: μη διαβάσεις
+      russian: не читай
+      english: do not read (singular)
+    imperative_negation_plural:
+    - greek: μη διαβάσετε
+      russian: не читайте
+      english: do not read (plural)

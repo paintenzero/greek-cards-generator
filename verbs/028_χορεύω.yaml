@@ -1,0 +1,160 @@
+- verb: χορεύω
+  translation: to dance
+  tenses:
+    present_tense:
+      - greek: χορεύω
+        russian: танцую
+        english: I dance
+      - greek: χορεύεις
+        russian: танцуешь
+        english: you dance
+      - greek: χορεύει
+        russian: танцует
+        english: he/she/it dances
+      - greek: χορεύουμε
+        russian: танцуем
+        english: we dance
+      - greek: χορεύετε
+        russian: танцуете
+        english: you dance
+      - greek: χορεύουν
+        russian: танцуют
+        english: they dance
+    future_continuous_tense:
+      - greek: θα χορεύω
+        russian: буду танцевать
+        english: I will be dancing
+      - greek: θα χορεύεις
+        russian: будешь танцевать
+        english: you will be dancing
+      - greek: θα χορεύει
+        russian: будет танцевать
+        english: he/she/it will be dancing
+      - greek: θα χορεύουμε
+        russian: будем танцевать
+        english: we will be dancing
+      - greek: θα χορεύετε
+        russian: будете танцевать
+        english: you will be dancing
+      - greek: θα χορεύουν
+        russian: будут танцевать
+        english: they will be dancing
+    simple_future_tense:
+      - greek: θα χορέψω
+        russian: станцую
+        english: I will dance
+      - greek: θα χορέψεις
+        russian: станцуешь
+        english: you will dance
+      - greek: θα χορέψει
+        russian: станцует
+        english: he/she/it will dance
+      - greek: θα χορέψουμε
+        russian: станцуем
+        english: we will dance
+      - greek: θα χορέψετε
+        russian: станцуете
+        english: you will dance
+      - greek: θα χορέψουν
+        russian: станцуют
+        english: they will dance
+    imperfect_past_tense:
+      - greek: χόρευα
+        russian: танцевал
+        english: I was dancing
+      - greek: χόρευες
+        russian: танцевал
+        english: you were dancing
+      - greek: χόρευε
+        russian: танцевал
+        english: he/she/it was dancing
+      - greek: χορεύαμε
+        russian: танцевали
+        english: we were dancing
+      - greek: χορεύατε
+        russian: танцевали
+        english: you were dancing
+      - greek: χόρευαν
+        russian: танцевали
+        english: they were dancing
+    simple_past_tense:
+      - greek: χόρεψα
+        russian: станцевал
+        english: I danced
+      - greek: χόρεψες
+        russian: станцевал
+        english: you danced
+      - greek: χόρεψε
+        russian: станцевал
+        english: he/she/it danced
+      - greek: χορέψαμε
+        russian: станцевали
+        english: we danced
+      - greek: χορέψατε
+        russian: станцевали
+        english: you danced
+      - greek: χόρεψαν
+        russian: станцевали
+        english: they danced
+    continuous_subjunctive_mood:
+      - greek: να χορεύω
+        russian: танцевал бы
+        english: (that) I should dance
+      - greek: να χορεύεις
+        russian: танцевал бы
+        english: (that) you should dance
+      - greek: να χορεύει
+        russian: танцевал бы
+        english: (that) he/she/it should dance
+      - greek: να χορεύουμε
+        russian: танцевали бы
+        english: (that) we should dance
+      - greek: να χορεύετε
+        russian: танцевали бы
+        english: (that) you should dance
+      - greek: να χορεύουν
+        russian: танцевали бы
+        english: (that) they should dance
+    simple_subjunctive_mood:
+      - greek: να χορέψω
+        russian: станцевал бы
+        english: (that) I should have danced
+      - greek: να χορέψεις
+        russian: станцевал бы
+        english: (that) you should have danced
+      - greek: να χορέψει
+        russian: станцевал бы
+        english: (that) he/she/it should have danced
+      - greek: να χορέψουμε
+        russian: станцевали бы
+        english: (that) we should have danced
+      - greek: να χορέψετε
+        russian: станцевали бы
+        english: (that) you should have danced
+      - greek: να χορέψουν
+        russian: станцевали бы
+        english: (that) they should have danced
+    imperative_continuous_singular:
+      - greek: χόρευε
+        russian: танцуй
+        english: keep dancing (singular)
+    imperative_continuous_plural:
+      - greek: χορεύετε
+        russian: танцуйте
+        english: keep dancing (plural)
+    imperative_simple_singular:
+      - greek: χόρεψε
+        russian: станцуй
+        english: dance (singular)
+    imperative_simple_plural:
+      - greek: χορέψτε
+        russian: станцуйте
+        english: dance (plural)
+    imperative_negation_singular:
+      - greek: μη χορέψεις
+        russian: не танцуй
+        english: do not dance (singular)
+    imperative_negation_plural:
+      - greek: μη χορέψετε
+        russian: не танцуйте
+        english: do not dance (plural)

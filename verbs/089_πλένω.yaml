@@ -1,0 +1,160 @@
+- verb: πλένω
+  translation: to wash
+  tenses:
+    present_tense:
+      - greek: πλένω
+        russian: мою
+        english: I wash
+      - greek: πλένεις
+        russian: моешь
+        english: you wash
+      - greek: πλένει
+        russian: моет
+        english: he/she/it washes
+      - greek: πλένουμε
+        russian: моем
+        english: we wash
+      - greek: πλένετε
+        russian: моете
+        english: you wash
+      - greek: πλένουν
+        russian: моют
+        english: they wash
+    future_continuous_tense:
+      - greek: θα πλένω
+        russian: буду мыть
+        english: I will be washing
+      - greek: θα πλένεις
+        russian: будешь мыть
+        english: you will be washing
+      - greek: θα πλένει
+        russian: будет мыть
+        english: he/she/it will be washing
+      - greek: θα πλένουμε
+        russian: будем мыть
+        english: we will be washing
+      - greek: θα πλένετε
+        russian: будете мыть
+        english: you will be washing
+      - greek: θα πλένουν
+        russian: будут мыть
+        english: they will be washing
+    simple_future_tense:
+      - greek: θα πλύνω
+        russian: помою
+        english: I will wash
+      - greek: θα πλύνεις
+        russian: помоешь
+        english: you will wash
+      - greek: θα πλύνει
+        russian: помоет
+        english: he/she/it will wash
+      - greek: θα πλύνουμε
+        russian: помоем
+        english: we will wash
+      - greek: θα πλύνετε
+        russian: помоете
+        english: you will wash
+      - greek: θα πλύνουν
+        russian: помоют
+        english: they will wash
+    imperfect_past_tense:
+      - greek: έπλενα
+        russian: мыл
+        english: I was washing
+      - greek: έπλενες
+        russian: мыл
+        english: you were washing
+      - greek: έπλενε
+        russian: мыл
+        english: he/she/it was washing
+      - greek: πλέναμε
+        russian: мыли
+        english: we were washing
+      - greek: πλένατε
+        russian: мыли
+        english: you were washing
+      - greek: έπλεναν
+        russian: мыли
+        english: they were washing
+    simple_past_tense:
+      - greek: έπλυνα
+        russian: помыл
+        english: I washed
+      - greek: έπλυνες
+        russian: помыл
+        english: you washed
+      - greek: έπλυνε
+        russian: помыл
+        english: he/she/it washed
+      - greek: πλύναμε
+        russian: помыли
+        english: we washed
+      - greek: πλύνατε
+        russian: помыли
+        english: you washed
+      - greek: έπλυναν
+        russian: помыли
+        english: they washed
+    continuous_subjunctive_mood:
+      - greek: να πλένω
+        russian: мыл бы
+        english: (that) I should wash
+      - greek: να πλένεις
+        russian: мыл бы
+        english: (that) you should wash
+      - greek: να πλένει
+        russian: мыл бы
+        english: (that) he/she/it should wash
+      - greek: να πλένουμε
+        russian: мыли бы
+        english: (that) we should wash
+      - greek: να πλένετε
+        russian: мыли бы
+        english: (that) you should wash
+      - greek: να πλένουν
+        russian: мыли бы
+        english: (that) they should wash
+    simple_subjunctive_mood:
+      - greek: να πλύνω
+        russian: помыл бы
+        english: (that) I should have washed
+      - greek: να πλύνεις
+        russian: помыл бы
+        english: (that) you should have washed
+      - greek: να πλύνει
+        russian: помыл бы
+        english: (that) he/she/it should have washed
+      - greek: να πλύνουμε
+        russian: помыли бы
+        english: (that) we should have washed
+      - greek: να πλύνετε
+        russian: помыли бы
+        english: (that) you should have washed
+      - greek: να πλύνουν
+        russian: помыли бы
+        english: (that) they should have washed
+    imperative_continuous_singular:
+      - greek: πλένε
+        russian: мой
+        english: keep washing (singular)
+    imperative_continuous_plural:
+      - greek: πλένετε
+        russian: мойте
+        english: keep washing (plural)
+    imperative_simple_singular:
+      - greek: πλύνε
+        russian: помой
+        english: wash (singular)
+    imperative_simple_plural:
+      - greek: πλύντε
+        russian: помойте
+        english: wash (plural)
+    imperative_negation_singular:
+      - greek: μην πλύνεις
+        russian: не мой
+        english: do not wash (singular)
+    imperative_negation_plural:
+      - greek: μην πλύνετε
+        russian: не мойте
+        english: do not wash (plural)

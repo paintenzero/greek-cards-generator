@@ -1,0 +1,160 @@
+- verb: ξέρω
+  translation: to know
+  tenses:
+    present_tense:
+      - greek: ξέρω
+        russian: знаю
+        english: I know
+      - greek: ξέρεις
+        russian: знаешь
+        english: you know
+      - greek: ξέρει
+        russian: знает
+        english: he/she/it knows
+      - greek: ξέρουμε
+        russian: знаем
+        english: we know
+      - greek: ξέρετε
+        russian: знаете
+        english: you know
+      - greek: ξέρουν
+        russian: знают
+        english: they know
+    future_continuous_tense:
+      - greek: θα ξέρω
+        russian: буду знать
+        english: I will be knowing
+      - greek: θα ξέρεις
+        russian: будешь знать
+        english: you will be knowing
+      - greek: θα ξέρει
+        russian: будет знать
+        english: he/she/it will be knowing
+      - greek: θα ξέρουμε
+        russian: будем знать
+        english: we will be knowing
+      - greek: θα ξέρετε
+        russian: будете знать
+        english: you will be knowing
+      - greek: θα ξέρουν
+        russian: будут знать
+        english: they will be knowing
+    simple_future_tense:
+      - greek: θα ξέρω
+        russian: узнаю
+        english: I will know
+      - greek: θα ξέρεις
+        russian: узнаешь
+        english: you will know
+      - greek: θα ξέρει
+        russian: узнает
+        english: he/she/it will know
+      - greek: θα ξέρουμε
+        russian: узнаем
+        english: we will know
+      - greek: θα ξέρετε
+        russian: узнаете
+        english: you will know
+      - greek: θα ξέρουν
+        russian: узнают
+        english: they will know
+    imperfect_past_tense:
+      - greek: ήξερα
+        russian: знал
+        english: I was knowing
+      - greek: ήξερες
+        russian: знал
+        english: you were knowing
+      - greek: ήξερε
+        russian: знал
+        english: he/she/it was knowing
+      - greek: ξέραμε
+        russian: знали
+        english: we were knowing
+      - greek: ξέρατε
+        russian: знали
+        english: you were knowing
+      - greek: ήξεραν
+        russian: знали
+        english: they were knowing
+    simple_past_tense:
+      - greek: ήξερα
+        russian: узнал
+        english: I knew
+      - greek: ήξερες
+        russian: узнал
+        english: you knew
+      - greek: ήξερε
+        russian: узнал
+        english: he/she/it knew
+      - greek: ξέραμε
+        russian: узнали
+        english: we knew
+      - greek: ξέρατε
+        russian: узнали
+        english: you knew
+      - greek: ήξεραν
+        russian: узнали
+        english: they knew
+    continuous_subjunctive_mood:
+      - greek: να ξέρω
+        russian: знал бы
+        english: (that) I should know
+      - greek: να ξέρεις
+        russian: знал бы
+        english: (that) you should know
+      - greek: να ξέρει
+        russian: знал бы
+        english: (that) he/she/it should know
+      - greek: να ξέρουμε
+        russian: знали бы
+        english: (that) we should know
+      - greek: να ξέρετε
+        russian: знали бы
+        english: (that) you should know
+      - greek: να ξέρουν
+        russian: знали бы
+        english: (that) they should know
+    simple_subjunctive_mood:
+      - greek: να ξέρω
+        russian: узнал бы
+        english: (that) I should have known
+      - greek: να ξέρεις
+        russian: узнал бы
+        english: (that) you should have known
+      - greek: να ξέρει
+        russian: узнал бы
+        english: (that) he/she/it should have known
+      - greek: να ξέρουμε
+        russian: узнали бы
+        english: (that) we should have known
+      - greek: να ξέρετε
+        russian: узнали бы
+        english: (that) you should have known
+      - greek: να ξέρουν
+        russian: узнали бы
+        english: (that) they should have known
+    imperative_continuous_singular:
+      - greek: ξέρε
+        russian: знай
+        english: keep knowing (singular)
+    imperative_continuous_plural:
+      - greek: ξέρετε
+        russian: знайте
+        english: keep knowing (plural)
+    imperative_simple_singular:
+      - greek: ξέρε
+        russian: узнай
+        english: know (singular)
+    imperative_simple_plural:
+      - greek: ξέρετε
+        russian: узнайте
+        english: know (plural)
+    imperative_negation_singular:
+      - greek: μην ξέρεις
+        russian: не знай
+        english: do not know (singular)
+    imperative_negation_plural:
+      - greek: μην ξέρετε
+        russian: не знайте
+        english: do not know (plural)

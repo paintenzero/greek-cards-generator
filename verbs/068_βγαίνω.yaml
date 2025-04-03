@@ -1,0 +1,160 @@
+- verb: βγαίνω
+  translation: to go out/exit
+  tenses:
+    present_tense:
+      - greek: βγαίνω
+        russian: выхожу
+        english: I go out
+      - greek: βγαίνεις
+        russian: выходишь
+        english: you go out
+      - greek: βγαίνει
+        russian: выходит
+        english: he/she/it goes out
+      - greek: βγαίνουμε
+        russian: выходим
+        english: we go out
+      - greek: βγαίνετε
+        russian: выходите
+        english: you go out
+      - greek: βγαίνουν
+        russian: выходят
+        english: they go out
+    future_continuous_tense:
+      - greek: θα βγαίνω
+        russian: буду выходить
+        english: I will be going out
+      - greek: θα βγαίνεις
+        russian: будешь выходить
+        english: you will be going out
+      - greek: θα βγαίνει
+        russian: будет выходить
+        english: he/she/it will be going out
+      - greek: θα βγαίνουμε
+        russian: будем выходить
+        english: we will be going out
+      - greek: θα βγαίνετε
+        russian: будете выходить
+        english: you will be going out
+      - greek: θα βγαίνουν
+        russian: будут выходить
+        english: they will be going out
+    simple_future_tense:
+      - greek: θα βγω
+        russian: выйду
+        english: I will go out
+      - greek: θα βγεις
+        russian: выйдешь
+        english: you will go out
+      - greek: θα βγει
+        russian: выйдет
+        english: he/she/it will go out
+      - greek: θα βγούμε
+        russian: выйдем
+        english: we will go out
+      - greek: θα βγείτε
+        russian: выйдете
+        english: you will go out
+      - greek: θα βγουν
+        russian: выйдут
+        english: they will go out
+    imperfect_past_tense:
+      - greek: έβγαινα
+        russian: выходил
+        english: I was going out
+      - greek: έβγαινες
+        russian: выходил
+        english: you were going out
+      - greek: έβγαινε
+        russian: выходил
+        english: he/she/it was going out
+      - greek: βγαίναμε
+        russian: выходили
+        english: we were going out
+      - greek: βγαίνατε
+        russian: выходили
+        english: you were going out
+      - greek: έβγαιναν
+        russian: выходили
+        english: they were going out
+    simple_past_tense:
+      - greek: βγήκα
+        russian: вышел
+        english: I went out
+      - greek: βγήκες
+        russian: вышел
+        english: you went out
+      - greek: βγήκε
+        russian: вышел
+        english: he/she/it went out
+      - greek: βγήκαμε
+        russian: вышли
+        english: we went out
+      - greek: βγήκατε
+        russian: вышли
+        english: you went out
+      - greek: βγήκαν
+        russian: вышли
+        english: they went out
+    continuous_subjunctive_mood:
+      - greek: να βγαίνω
+        russian: выходил бы
+        english: (that) I should go out
+      - greek: να βγαίνεις
+        russian: выходил бы
+        english: (that) you should go out
+      - greek: να βγαίνει
+        russian: выходил бы
+        english: (that) he/she/it should go out
+      - greek: να βγαίνουμε
+        russian: выходили бы
+        english: (that) we should go out
+      - greek: να βγαίνετε
+        russian: выходили бы
+        english: (that) you should go out
+      - greek: να βγαίνουν
+        russian: выходили бы
+        english: (that) they should go out
+    simple_subjunctive_mood:
+      - greek: να βγω
+        russian: вышел бы
+        english: (that) I should have gone out
+      - greek: να βγεις
+        russian: вышел бы
+        english: (that) you should have gone out
+      - greek: να βγει
+        russian: вышел бы
+        english: (that) he/she/it should have gone out
+      - greek: να βγούμε
+        russian: вышли бы
+        english: (that) we should have gone out
+      - greek: να βγείτε
+        russian: вышли бы
+        english: (that) you should have gone out
+      - greek: να βγουν
+        russian: вышли бы
+        english: (that) they should have gone out
+    imperative_continuous_singular:
+      - greek: βγαίνε
+        russian: выходи
+        english: keep going out (singular)
+    imperative_continuous_plural:
+      - greek: βγαίνετε
+        russian: выходите
+        english: keep going out (plural)
+    imperative_simple_singular:
+      - greek: βγες
+        russian: выйди
+        english: go out (singular)
+    imperative_simple_plural:
+      - greek: βγείτε
+        russian: выйдите
+        english: go out (plural)
+    imperative_negation_singular:
+      - greek: μη βγεις
+        russian: не выходи
+        english: do not go out (singular)
+    imperative_negation_plural:
+      - greek: μη βγείτε
+        russian: не выходите
+        english: do not go out (plural)

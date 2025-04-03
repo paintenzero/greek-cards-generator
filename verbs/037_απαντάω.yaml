@@ -1,0 +1,160 @@
+- verb: απαντάω/απαντώ
+  translation: to answer/to respond
+  tenses:
+    present_tense:
+      - greek: απαντάω/απαντώ
+        russian: отвечаю
+        english: I answer
+      - greek: απαντάς
+        russian: отвечаешь
+        english: you answer
+      - greek: απαντάει/απαντά
+        russian: отвечает
+        english: he/she/it answers
+      - greek: απαντάμε
+        russian: отвечаем
+        english: we answer
+      - greek: απαντάτε
+        russian: отвечаете
+        english: you answer
+      - greek: απαντάνε/απαντούν
+        russian: отвечают
+        english: they answer
+    future_continuous_tense:
+      - greek: θα απαντάω/θα απαντώ
+        russian: буду отвечать
+        english: I will be answering
+      - greek: θα απαντάς
+        russian: будешь отвечать
+        english: you will be answering
+      - greek: θα απαντάει/θα απαντά
+        russian: будет отвечать
+        english: he/she/it will be answering
+      - greek: θα απαντάμε
+        russian: будем отвечать
+        english: we will be answering
+      - greek: θα απαντάτε
+        russian: будете отвечать
+        english: you will be answering
+      - greek: θα απαντάνε/θα απαντούν
+        russian: будут отвечать
+        english: they will be answering
+    simple_future_tense:
+      - greek: θα απαντήσω
+        russian: отвечу
+        english: I will answer
+      - greek: θα απαντήσεις
+        russian: ответишь
+        english: you will answer
+      - greek: θα απαντήσει
+        russian: ответит
+        english: he/she/it will answer
+      - greek: θα απαντήσουμε
+        russian: ответим
+        english: we will answer
+      - greek: θα απαντήσετε
+        russian: ответите
+        english: you will answer
+      - greek: θα απαντήσουν
+        russian: ответят
+        english: they will answer
+    imperfect_past_tense:
+      - greek: απαντούσα
+        russian: отвечал
+        english: I was answering
+      - greek: απαντούσες
+        russian: отвечал
+        english: you were answering
+      - greek: απαντούσε
+        russian: отвечал
+        english: he/she/it was answering
+      - greek: απαντούσαμε
+        russian: отвечали
+        english: we were answering
+      - greek: απαντούσατε
+        russian: отвечали
+        english: you were answering
+      - greek: απαντούσαν
+        russian: отвечали
+        english: they were answering
+    simple_past_tense:
+      - greek: απάντησα
+        russian: ответил
+        english: I answered
+      - greek: απάντησες
+        russian: ответил
+        english: you answered
+      - greek: απάντησε
+        russian: ответил
+        english: he/she/it answered
+      - greek: απαντήσαμε
+        russian: ответили
+        english: we answered
+      - greek: απαντήσατε
+        russian: ответили
+        english: you answered
+      - greek: απάντησαν
+        russian: ответили
+        english: they answered
+    continuous_subjunctive_mood:
+      - greek: να απαντάω/να απαντώ
+        russian: отвечал бы
+        english: (that) I should answer
+      - greek: να απαντάς
+        russian: отвечал бы
+        english: (that) you should answer
+      - greek: να απαντάει/να απαντά
+        russian: отвечал бы
+        english: (that) he/she/it should answer
+      - greek: να απαντάμε
+        russian: отвечали бы
+        english: (that) we should answer
+      - greek: να απαντάτε
+        russian: отвечали бы
+        english: (that) you should answer
+      - greek: να απαντάνε/να απαντούν
+        russian: отвечали бы
+        english: (that) they should answer
+    simple_subjunctive_mood:
+      - greek: να απαντήσω
+        russian: ответил бы
+        english: (that) I should have answered
+      - greek: να απαντήσεις
+        russian: ответил бы
+        english: (that) you should have answered
+      - greek: να απαντήσει
+        russian: ответил бы
+        english: (that) he/she/it should have answered
+      - greek: να απαντήσουμε
+        russian: ответили бы
+        english: (that) we should have answered
+      - greek: να απαντήσετε
+        russian: ответили бы
+        english: (that) you should have answered
+      - greek: να απαντήσουν
+        russian: ответили бы
+        english: (that) they should have answered
+    imperative_continuous_singular:
+      - greek: απάντα
+        russian: отвечай
+        english: keep answering (singular)
+    imperative_continuous_plural:
+      - greek: απαντάτε
+        russian: отвечайте
+        english: keep answering (plural)
+    imperative_simple_singular:
+      - greek: απάντησε
+        russian: ответь
+        english: answer (singular)
+    imperative_simple_plural:
+      - greek: απαντήστε
+        russian: ответьте
+        english: answer (plural)
+    imperative_negation_singular:
+      - greek: μην απαντήσεις
+        russian: не отвечай
+        english: do not answer (singular)
+    imperative_negation_plural:
+      - greek: μην απαντήσετε
+        russian: не отвечайте
+        english: do not answer (plural)

@@ -1,0 +1,160 @@
+- verb: βλέπω
+  translation: to see
+  tenses:
+    present_tense:
+      - greek: βλέπω
+        russian: вижу
+        english: I see
+      - greek: βλέπεις
+        russian: видишь
+        english: you see
+      - greek: βλέπει
+        russian: видит
+        english: he/she/it sees
+      - greek: βλέπουμε
+        russian: видим
+        english: we see
+      - greek: βλέπετε
+        russian: видите
+        english: you see
+      - greek: βλέπουν
+        russian: видят
+        english: they see
+    future_continuous_tense:
+      - greek: θα βλέπω
+        russian: буду видеть
+        english: I will be seeing
+      - greek: θα βλέπεις
+        russian: будешь видеть
+        english: you will be seeing
+      - greek: θα βλέπει
+        russian: будет видеть
+        english: he/she/it will be seeing
+      - greek: θα βλέπουμε
+        russian: будем видеть
+        english: we will be seeing
+      - greek: θα βλέπετε
+        russian: будете видеть
+        english: you will be seeing
+      - greek: θα βλέπουν
+        russian: будут видеть
+        english: they will be seeing
+    simple_future_tense:
+      - greek: θα δω
+        russian: увижу
+        english: I will see
+      - greek: θα δεις
+        russian: увидишь
+        english: you will see
+      - greek: θα δει
+        russian: увидит
+        english: he/she/it will see
+      - greek: θα δούμε
+        russian: увидим
+        english: we will see
+      - greek: θα δείτε
+        russian: увидите
+        english: you will see
+      - greek: θα δουν
+        russian: увидят
+        english: they will see
+    imperfect_past_tense:
+      - greek: έβλεπα
+        russian: видел
+        english: I was seeing
+      - greek: έβλεπες
+        russian: видел
+        english: you were seeing
+      - greek: έβλεπε
+        russian: видел
+        english: he/she/it was seeing
+      - greek: βλέπαμε
+        russian: видели
+        english: we were seeing
+      - greek: βλέπατε
+        russian: видели
+        english: you were seeing
+      - greek: έβλεπαν
+        russian: видели
+        english: they were seeing
+    simple_past_tense:
+      - greek: είδα
+        russian: увидел
+        english: I saw
+      - greek: είδες
+        russian: увидел
+        english: you saw
+      - greek: είδε
+        russian: увидел
+        english: he/she/it saw
+      - greek: είδαμε
+        russian: увидели
+        english: we saw
+      - greek: είδατε
+        russian: увидели
+        english: you saw
+      - greek: είδαν
+        russian: увидели
+        english: they saw
+    continuous_subjunctive_mood:
+      - greek: να βλέπω
+        russian: видел бы
+        english: (that) I should see
+      - greek: να βλέπεις
+        russian: видел бы
+        english: (that) you should see
+      - greek: να βλέπει
+        russian: видел бы
+        english: (that) he/she/it should see
+      - greek: να βλέπουμε
+        russian: видели бы
+        english: (that) we should see
+      - greek: να βλέπετε
+        russian: видели бы
+        english: (that) you should see
+      - greek: να βλέπουν
+        russian: видели бы
+        english: (that) they should see
+    simple_subjunctive_mood:
+      - greek: να δω
+        russian: увидел бы
+        english: (that) I should have seen
+      - greek: να δεις
+        russian: увидел бы
+        english: (that) you should have seen
+      - greek: να δει
+        russian: увидел бы
+        english: (that) he/she/it should have seen
+      - greek: να δούμε
+        russian: увидели бы
+        english: (that) we should have seen
+      - greek: να δείτε
+        russian: увидели бы
+        english: (that) you should have seen
+      - greek: να δουν
+        russian: увидели бы
+        english: (that) they should have seen
+    imperative_continuous_singular:
+      - greek: βλέπε
+        russian: смотри
+        english: keep seeing (singular)
+    imperative_continuous_plural:
+      - greek: βλέπετε
+        russian: смотрите
+        english: keep seeing (plural)
+    imperative_simple_singular:
+      - greek: δες
+        russian: посмотри
+        english: see (singular)
+    imperative_simple_plural:
+      - greek: δείτε
+        russian: посмотрите
+        english: see (plural)
+    imperative_negation_singular:
+      - greek: μη δεις
+        russian: не смотри
+        english: do not see (singular)
+    imperative_negation_plural:
+      - greek: μη δείτε
+        russian: не смотрите
+        english: do not see (plural)

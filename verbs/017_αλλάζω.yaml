@@ -1,0 +1,160 @@
+- verb: αλλάζω
+  translation: to change
+  tenses:
+    present_tense:
+    - greek: αλλάζω
+      russian: меняю
+      english: I change
+    - greek: αλλάζεις
+      russian: меняешь
+      english: you change
+    - greek: αλλάζει
+      russian: меняет
+      english: he/she/it changes
+    - greek: αλλάζουμε
+      russian: меняем
+      english: we change
+    - greek: αλλάζετε
+      russian: меняете
+      english: you change
+    - greek: αλλάζουν
+      russian: меняют
+      english: they change
+    future_continuous_tense:
+    - greek: θα αλλάζω
+      russian: буду менять
+      english: I will be changing
+    - greek: θα αλλάζεις
+      russian: будешь менять
+      english: you will be changing
+    - greek: θα αλλάζει
+      russian: будет менять
+      english: he/she/it will be changing
+    - greek: θα αλλάζουμε
+      russian: будем менять
+      english: we will be changing
+    - greek: θα αλλάζετε
+      russian: будете менять
+      english: you will be changing
+    - greek: θα αλλάζουν
+      russian: будут менять
+      english: they will be changing
+    simple_future_tense:
+    - greek: θα αλλάξω
+      russian: поменяю
+      english: I will change
+    - greek: θα αλλάξεις
+      russian: поменяешь
+      english: you will change
+    - greek: θα αλλάξει
+      russian: поменяет
+      english: he/she/it will change
+    - greek: θα αλλάξουμε
+      russian: поменяем
+      english: we will change
+    - greek: θα αλλάξετε
+      russian: поменяете
+      english: you will change
+    - greek: θα αλλάξουν
+      russian: поменяют
+      english: they will change
+    imperfect_past_tense:
+    - greek: άλλαζα
+      russian: менял
+      english: I was changing
+    - greek: άλλαζες
+      russian: менял
+      english: you were changing
+    - greek: άλλαζε
+      russian: менял
+      english: he/she/it was changing
+    - greek: αλλάζαμε
+      russian: меняли
+      english: we were changing
+    - greek: αλλάζατε
+      russian: меняли
+      english: you were changing
+    - greek: άλλαζαν
+      russian: меняли
+      english: they were changing
+    simple_past_tense:
+    - greek: άλλαξα
+      russian: поменял
+      english: I changed
+    - greek: άλλαξες
+      russian: поменял
+      english: you changed
+    - greek: άλλαξε
+      russian: поменял
+      english: he/she/it changed
+    - greek: αλλάξαμε
+      russian: поменяли
+      english: we changed
+    - greek: αλλάξατε
+      russian: поменяли
+      english: you changed
+    - greek: άλλαξαν
+      russian: поменяли
+      english: they changed
+    continuous_subjunctive_mood:
+    - greek: να αλλάζω
+      russian: менял бы
+      english: (that) I should change
+    - greek: να αλλάζεις
+      russian: менял бы
+      english: (that) you should change
+    - greek: να αλλάζει
+      russian: менял бы
+      english: (that) he/she/it should change
+    - greek: να αλλάζουμε
+      russian: меняли бы
+      english: (that) we should change
+    - greek: να αλλάζετε
+      russian: меняли бы
+      english: (that) you should change
+    - greek: να αλλάζουν
+      russian: меняли бы
+      english: (that) they should change
+    simple_subjunctive_mood:
+    - greek: να αλλάξω
+      russian: поменял бы
+      english: (that) I should have changed
+    - greek: να αλλάξεις
+      russian: поменял бы
+      english: (that) you should have changed
+    - greek: να αλλάξει
+      russian: поменял бы
+      english: (that) he/she/it should have changed
+    - greek: να αλλάξουμε
+      russian: поменяли бы
+      english: (that) we should have changed
+    - greek: να αλλάξετε
+      russian: поменяли бы
+      english: (that) you should have changed
+    - greek: να αλλάξουν
+      russian: поменяли бы
+      english: (that) they should have changed
+    imperative_continuous_singular:
+    - greek: άλλαζε
+      russian: меняй
+      english: keep changing (singular)
+    imperative_continuous_plural:
+    - greek: αλλάζετε
+      russian: меняйте
+      english: keep changing (plural)
+    imperative_simple_singular:
+    - greek: άλλαξε
+      russian: поменяй
+      english: change (singular)
+    imperative_simple_plural:
+    - greek: αλλάξτε
+      russian: поменяйте
+      english: change (plural)
+    imperative_negation_singular:
+    - greek: μην αλλάξεις
+      russian: не меняй
+      english: do not change (singular)
+    imperative_negation_plural:
+    - greek: μην αλλάξετε
+      russian: не меняйте
+      english: do not change (plural)

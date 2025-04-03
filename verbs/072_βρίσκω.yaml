@@ -1,0 +1,160 @@
+- verb: βρίσκω
+  translation: to find
+  tenses:
+    present_tense:
+      - greek: βρίσκω
+        russian: нахожу
+        english: I find
+      - greek: βρίσκεις
+        russian: находишь
+        english: you find
+      - greek: βρίσκει
+        russian: находит
+        english: he/she/it finds
+      - greek: βρίσκουμε
+        russian: находим
+        english: we find
+      - greek: βρίσκετε
+        russian: находите
+        english: you find
+      - greek: βρίσκουν
+        russian: находят
+        english: they find
+    future_continuous_tense:
+      - greek: θα βρίσκω
+        russian: буду находить
+        english: I will be finding
+      - greek: θα βρίσκεις
+        russian: будешь находить
+        english: you will be finding
+      - greek: θα βρίσκει
+        russian: будет находить
+        english: he/she/it will be finding
+      - greek: θα βρίσκουμε
+        russian: будем находить
+        english: we will be finding
+      - greek: θα βρίσκετε
+        russian: будете находить
+        english: you will be finding
+      - greek: θα βρίσκουν
+        russian: будут находить
+        english: they will be finding
+    simple_future_tense:
+      - greek: θα βρω
+        russian: найду
+        english: I will find
+      - greek: θα βρεις
+        russian: найдёшь
+        english: you will find
+      - greek: θα βρει
+        russian: найдёт
+        english: he/she/it will find
+      - greek: θα βρούμε
+        russian: найдём
+        english: we will find
+      - greek: θα βρείτε
+        russian: найдёте
+        english: you will find
+      - greek: θα βρουν
+        russian: найдут
+        english: they will find
+    imperfect_past_tense:
+      - greek: έβρισκα
+        russian: находил
+        english: I was finding
+      - greek: έβρισκες
+        russian: находил
+        english: you were finding
+      - greek: έβρισκε
+        russian: находил
+        english: he/she/it was finding
+      - greek: βρίσκαμε
+        russian: находили
+        english: we were finding
+      - greek: βρίσκατε
+        russian: находили
+        english: you were finding
+      - greek: έβρισκαν
+        russian: находили
+        english: they were finding
+    simple_past_tense:
+      - greek: βρήκα
+        russian: нашёл
+        english: I found
+      - greek: βρήκες
+        russian: нашёл
+        english: you found
+      - greek: βρήκε
+        russian: нашёл
+        english: he/she/it found
+      - greek: βρήκαμε
+        russian: нашли
+        english: we found
+      - greek: βρήκατε
+        russian: нашли
+        english: you found
+      - greek: βρήκαν
+        russian: нашли
+        english: they found
+    continuous_subjunctive_mood:
+      - greek: να βρίσκω
+        russian: находил бы
+        english: (that) I should find
+      - greek: να βρίσκεις
+        russian: находил бы
+        english: (that) you should find
+      - greek: να βρίσκει
+        russian: находил бы
+        english: (that) he/she/it should find
+      - greek: να βρίσκουμε
+        russian: находили бы
+        english: (that) we should find
+      - greek: να βρίσκετε
+        russian: находили бы
+        english: (that) you should find
+      - greek: να βρίσκουν
+        russian: находили бы
+        english: (that) they should find
+    simple_subjunctive_mood:
+      - greek: να βρω
+        russian: нашёл бы
+        english: (that) I should have found
+      - greek: να βρεις
+        russian: нашёл бы
+        english: (that) you should have found
+      - greek: να βρει
+        russian: нашёл бы
+        english: (that) he/she/it should have found
+      - greek: να βρούμε
+        russian: нашли бы
+        english: (that) we should have found
+      - greek: να βρείτε
+        russian: нашли бы
+        english: (that) you should have found
+      - greek: να βρουν
+        russian: нашли бы
+        english: (that) they should have found
+    imperative_continuous_singular:
+      - greek: βρίσκε
+        russian: находи
+        english: keep finding (singular)
+    imperative_continuous_plural:
+      - greek: βρίσκετε
+        russian: находите
+        english: keep finding (plural)
+    imperative_simple_singular:
+      - greek: βρες
+        russian: найди
+        english: find (singular)
+    imperative_simple_plural:
+      - greek: βρείτε
+        russian: найдите
+        english: find (plural)
+    imperative_negation_singular:
+      - greek: μη βρεις
+        russian: не находи
+        english: do not find (singular)
+    imperative_negation_plural:
+      - greek: μη βρείτε
+        russian: не находите
+        english: do not find (plural)

@@ -1,0 +1,160 @@
+- verb: συναντάω/συναντώ
+  translation: to meet
+  tenses:
+    present_tense:
+      - greek: συναντάω/συναντώ
+        russian: встречаю
+        english: I meet
+      - greek: συναντάς
+        russian: встречаешь
+        english: you meet
+      - greek: συναντάει/συναντά
+        russian: встречает
+        english: he/she/it meets
+      - greek: συναντάμε
+        russian: встречаем
+        english: we meet
+      - greek: συναντάτε
+        russian: встречаете
+        english: you meet
+      - greek: συναντάνε/συναντούν
+        russian: встречают
+        english: they meet
+    future_continuous_tense:
+      - greek: θα συναντάω/θα συναντώ
+        russian: буду встречать
+        english: I will be meeting
+      - greek: θα συναντάς
+        russian: будешь встречать
+        english: you will be meeting
+      - greek: θα συναντάει/θα συναντά
+        russian: будет встречать
+        english: he/she/it will be meeting
+      - greek: θα συναντάμε
+        russian: будем встречать
+        english: we will be meeting
+      - greek: θα συναντάτε
+        russian: будете встречать
+        english: you will be meeting
+      - greek: θα συναντάνε/θα συναντούν
+        russian: будут встречать
+        english: they will be meeting
+    simple_future_tense:
+      - greek: θα συναντήσω
+        russian: встречу
+        english: I will meet
+      - greek: θα συναντήσεις
+        russian: встретишь
+        english: you will meet
+      - greek: θα συναντήσει
+        russian: встретит
+        english: he/she/it will meet
+      - greek: θα συναντήσουμε
+        russian: встретим
+        english: we will meet
+      - greek: θα συναντήσετε
+        russian: встретите
+        english: you will meet
+      - greek: θα συναντήσουν
+        russian: встретят
+        english: they will meet
+    imperfect_past_tense:
+      - greek: συναντούσα
+        russian: встречал
+        english: I was meeting
+      - greek: συναντούσες
+        russian: встречал
+        english: you were meeting
+      - greek: συναντούσε
+        russian: встречал
+        english: he/she/it was meeting
+      - greek: συναντούσαμε
+        russian: встречали
+        english: we were meeting
+      - greek: συναντούσατε
+        russian: встречали
+        english: you were meeting
+      - greek: συναντούσαν
+        russian: встречали
+        english: they were meeting
+    simple_past_tense:
+      - greek: συνάντησα
+        russian: встретил
+        english: I met
+      - greek: συνάντησες
+        russian: встретил
+        english: you met
+      - greek: συνάντησε
+        russian: встретил
+        english: he/she/it met
+      - greek: συναντήσαμε
+        russian: встретили
+        english: we met
+      - greek: συναντήσατε
+        russian: встретили
+        english: you met
+      - greek: συνάντησαν
+        russian: встретили
+        english: they met
+    continuous_subjunctive_mood:
+      - greek: να συναντάω/να συναντώ
+        russian: встречал бы
+        english: (that) I should meet
+      - greek: να συναντάς
+        russian: встречал бы
+        english: (that) you should meet
+      - greek: να συναντάει/να συναντά
+        russian: встречал бы
+        english: (that) he/she/it should meet
+      - greek: να συναντάμε
+        russian: встречали бы
+        english: (that) we should meet
+      - greek: να συναντάτε
+        russian: встречали бы
+        english: (that) you should meet
+      - greek: να συναντάνε/να συναντούν
+        russian: встречали бы
+        english: (that) they should meet
+    simple_subjunctive_mood:
+      - greek: να συναντήσω
+        russian: встретил бы
+        english: (that) I should have met
+      - greek: να συναντήσεις
+        russian: встретил бы
+        english: (that) you should have met
+      - greek: να συναντήσει
+        russian: встретил бы
+        english: (that) he/she/it should have met
+      - greek: να συναντήσουμε
+        russian: встретили бы
+        english: (that) we should have met
+      - greek: να συναντήσετε
+        russian: встретили бы
+        english: (that) you should have met
+      - greek: να συναντήσουν
+        russian: встретили бы
+        english: (that) they should have met
+    imperative_continuous_singular:
+      - greek: συνάντα
+        russian: встречай
+        english: keep meeting (singular)
+    imperative_continuous_plural:
+      - greek: συναντάτε
+        russian: встречайте
+        english: keep meeting (plural)
+    imperative_simple_singular:
+      - greek: συνάντησε
+        russian: встреть
+        english: meet (singular)
+    imperative_simple_plural:
+      - greek: συναντήστε
+        russian: встретьте
+        english: meet (plural)
+    imperative_negation_singular:
+      - greek: μη συναντήσεις
+        russian: не встречай
+        english: do not meet (singular)
+    imperative_negation_plural:
+      - greek: μη συναντήσετε
+        russian: не встречайте
+        english: do not meet (plural)

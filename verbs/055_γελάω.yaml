@@ -1,0 +1,160 @@
+- verb: γελάω/γελώ
+  translation: to laugh
+  tenses:
+    present_tense:
+      - greek: γελάω/γελώ
+        russian: смеюсь
+        english: I laugh
+      - greek: γελάς
+        russian: смеёшься
+        english: you laugh
+      - greek: γελάει/γελά
+        russian: смеётся
+        english: he/she/it laughs
+      - greek: γελάμε
+        russian: смеёмся
+        english: we laugh
+      - greek: γελάτε
+        russian: смеётесь
+        english: you laugh
+      - greek: γελάνε/γελούν
+        russian: смеются
+        english: they laugh
+    future_continuous_tense:
+      - greek: θα γελάω/θα γελώ
+        russian: буду смеяться
+        english: I will be laughing
+      - greek: θα γελάς
+        russian: будешь смеяться
+        english: you will be laughing
+      - greek: θα γελάει/θα γελά
+        russian: будет смеяться
+        english: he/she/it will be laughing
+      - greek: θα γελάμε
+        russian: будем смеяться
+        english: we will be laughing
+      - greek: θα γελάτε
+        russian: будете смеяться
+        english: you will be laughing
+      - greek: θα γελάνε/θα γελούν
+        russian: будут смеяться
+        english: they will be laughing
+    simple_future_tense:
+      - greek: θα γελάσω
+        russian: засмеюсь
+        english: I will laugh
+      - greek: θα γελάσεις
+        russian: засмеёшься
+        english: you will laugh
+      - greek: θα γελάσει
+        russian: засмеётся
+        english: he/she/it will laugh
+      - greek: θα γελάσουμε
+        russian: засмеёмся
+        english: we will laugh
+      - greek: θα γελάσετε
+        russian: засмеётесь
+        english: you will laugh
+      - greek: θα γελάσουν
+        russian: засмеются
+        english: they will laugh
+    imperfect_past_tense:
+      - greek: γελούσα
+        russian: смеялся
+        english: I was laughing
+      - greek: γελούσες
+        russian: смеялся
+        english: you were laughing
+      - greek: γελούσε
+        russian: смеялся
+        english: he/she/it was laughing
+      - greek: γελούσαμε
+        russian: смеялись
+        english: we were laughing
+      - greek: γελούσατε
+        russian: смеялись
+        english: you were laughing
+      - greek: γελούσαν
+        russian: смеялись
+        english: they were laughing
+    simple_past_tense:
+      - greek: γέλασα
+        russian: засмеялся
+        english: I laughed
+      - greek: γέλασες
+        russian: засмеялся
+        english: you laughed
+      - greek: γέλασε
+        russian: засмеялся
+        english: he/she/it laughed
+      - greek: γελάσαμε
+        russian: засмеялись
+        english: we laughed
+      - greek: γελάσατε
+        russian: засмеялись
+        english: you laughed
+      - greek: γέλασαν
+        russian: засмеялись
+        english: they laughed
+    continuous_subjunctive_mood:
+      - greek: να γελάω/να γελώ
+        russian: смеялся бы
+        english: (that) I should laugh
+      - greek: να γελάς
+        russian: смеялся бы
+        english: (that) you should laugh
+      - greek: να γελάει/να γελά
+        russian: смеялся бы
+        english: (that) he/she/it should laugh
+      - greek: να γελάμε
+        russian: смеялись бы
+        english: (that) we should laugh
+      - greek: να γελάτε
+        russian: смеялись бы
+        english: (that) you should laugh
+      - greek: να γελάνε/να γελούν
+        russian: смеялись бы
+        english: (that) they should laugh
+    simple_subjunctive_mood:
+      - greek: να γελάσω
+        russian: засмеялся бы
+        english: (that) I should have laughed
+      - greek: να γελάσεις
+        russian: засмеялся бы
+        english: (that) you should have laughed
+      - greek: να γελάσει
+        russian: засмеялся бы
+        english: (that) he/she/it should have laughed
+      - greek: να γελάσουμε
+        russian: засмеялись бы
+        english: (that) we should have laughed
+      - greek: να γελάσετε
+        russian: засмеялись бы
+        english: (that) you should have laughed
+      - greek: να γελάσουν
+        russian: засмеялись бы
+        english: (that) they should have laughed
+    imperative_continuous_singular:
+      - greek: γέλα
+        russian: смейся
+        english: keep laughing (singular)
+    imperative_continuous_plural:
+      - greek: γελάτε
+        russian: смейтесь
+        english: keep laughing (plural)
+    imperative_simple_singular:
+      - greek: γέλασε
+        russian: засмейся
+        english: laugh (singular)
+    imperative_simple_plural:
+      - greek: γελάστε
+        russian: засмейтесь
+        english: laugh (plural)
+    imperative_negation_singular:
+      - greek: μη γελάσεις
+        russian: не смейся
+        english: do not laugh (singular)
+    imperative_negation_plural:
+      - greek: μη γελάσετε
+        russian: не смейтесь
+        english: do not laugh (plural)

@@ -1,0 +1,160 @@
+- verb: σταματάω/σταματώ
+  translation: to stop
+  tenses:
+    present_tense:
+      - greek: σταματάω/σταματώ
+        russian: останавливаю
+        english: I stop
+      - greek: σταματάς
+        russian: останавливаешь
+        english: you stop
+      - greek: σταματάει/σταματά
+        russian: останавливает
+        english: he/she/it stops
+      - greek: σταματάμε
+        russian: останавливаем
+        english: we stop
+      - greek: σταματάτε
+        russian: останавливаете
+        english: you stop
+      - greek: σταματάνε/σταματούν
+        russian: останавливают
+        english: they stop
+    future_continuous_tense:
+      - greek: θα σταματάω/θα σταματώ
+        russian: буду останавливать
+        english: I will be stopping
+      - greek: θα σταματάς
+        russian: будешь останавливать
+        english: you will be stopping
+      - greek: θα σταματάει/θα σταματά
+        russian: будет останавливать
+        english: he/she/it will be stopping
+      - greek: θα σταματάμε
+        russian: будем останавливать
+        english: we will be stopping
+      - greek: θα σταματάτε
+        russian: будете останавливать
+        english: you will be stopping
+      - greek: θα σταματάνε/θα σταματούν
+        russian: будут останавливать
+        english: they will be stopping
+    simple_future_tense:
+      - greek: θα σταματήσω
+        russian: остановлю
+        english: I will stop
+      - greek: θα σταματήσεις
+        russian: остановишь
+        english: you will stop
+      - greek: θα σταματήσει
+        russian: остановит
+        english: he/she/it will stop
+      - greek: θα σταματήσουμε
+        russian: остановим
+        english: we will stop
+      - greek: θα σταματήσετε
+        russian: остановите
+        english: you will stop
+      - greek: θα σταματήσουν
+        russian: остановят
+        english: they will stop
+    imperfect_past_tense:
+      - greek: σταματούσα
+        russian: останавливал
+        english: I was stopping
+      - greek: σταματούσες
+        russian: останавливал
+        english: you were stopping
+      - greek: σταματούσε
+        russian: останавливал
+        english: he/she/it was stopping
+      - greek: σταματούσαμε
+        russian: останавливали
+        english: we were stopping
+      - greek: σταματούσατε
+        russian: останавливали
+        english: you were stopping
+      - greek: σταματούσαν
+        russian: останавливали
+        english: they were stopping
+    simple_past_tense:
+      - greek: σταμάτησα
+        russian: остановил
+        english: I stopped
+      - greek: σταμάτησες
+        russian: остановил
+        english: you stopped
+      - greek: σταμάτησε
+        russian: остановил
+        english: he/she/it stopped
+      - greek: σταματήσαμε
+        russian: остановили
+        english: we stopped
+      - greek: σταματήσατε
+        russian: остановили
+        english: you stopped
+      - greek: σταμάτησαν
+        russian: остановили
+        english: they stopped
+    continuous_subjunctive_mood:
+      - greek: να σταματάω/να σταματώ
+        russian: останавливал бы
+        english: (that) I should stop
+      - greek: να σταματάς
+        russian: останавливал бы
+        english: (that) you should stop
+      - greek: να σταματάει/να σταματά
+        russian: останавливал бы
+        english: (that) he/she/it should stop
+      - greek: να σταματάμε
+        russian: останавливали бы
+        english: (that) we should stop
+      - greek: να σταματάτε
+        russian: останавливали бы
+        english: (that) you should stop
+      - greek: να σταματάνε/να σταματούν
+        russian: останавливали бы
+        english: (that) they should stop
+    simple_subjunctive_mood:
+      - greek: να σταματήσω
+        russian: остановил бы
+        english: (that) I should have stopped
+      - greek: να σταματήσεις
+        russian: остановил бы
+        english: (that) you should have stopped
+      - greek: να σταματήσει
+        russian: остановил бы
+        english: (that) he/she/it should have stopped
+      - greek: να σταματήσουμε
+        russian: остановили бы
+        english: (that) we should have stopped
+      - greek: να σταματήσετε
+        russian: остановили бы
+        english: (that) you should have stopped
+      - greek: να σταματήσουν
+        russian: остановили бы
+        english: (that) they should have stopped
+    imperative_continuous_singular:
+      - greek: σταμάτα
+        russian: останавливай
+        english: keep stopping (singular)
+    imperative_continuous_plural:
+      - greek: σταματάτε
+        russian: останавливайте
+        english: keep stopping (plural)
+    imperative_simple_singular:
+      - greek: σταμάτησε
+        russian: останови
+        english: stop (singular)
+    imperative_simple_plural:
+      - greek: σταματήστε
+        russian: остановите
+        english: stop (plural)
+    imperative_negation_singular:
+      - greek: μη σταματήσεις
+        russian: не останавливай
+        english: do not stop (singular)
+    imperative_negation_plural:
+      - greek: μη σταματήσετε
+        russian: не останавливайте
+        english: do not stop (plural)

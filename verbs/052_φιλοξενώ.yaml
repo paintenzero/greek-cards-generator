@@ -1,0 +1,160 @@
+- verb: φιλοξενώ
+  translation: to host/to accommodate
+  tenses:
+    present_tense:
+      - greek: φιλοξενώ
+        russian: принимаю
+        english: I host
+      - greek: φιλοξενείς
+        russian: принимаешь
+        english: you host
+      - greek: φιλοξενεί
+        russian: принимает
+        english: he/she/it hosts
+      - greek: φιλοξενούμε
+        russian: принимаем
+        english: we host
+      - greek: φιλοξενείτε
+        russian: принимаете
+        english: you host
+      - greek: φιλοξενούν
+        russian: принимают
+        english: they host
+    future_continuous_tense:
+      - greek: θα φιλοξενώ
+        russian: буду принимать
+        english: I will be hosting
+      - greek: θα φιλοξενείς
+        russian: будешь принимать
+        english: you will be hosting
+      - greek: θα φιλοξενεί
+        russian: будет принимать
+        english: he/she/it will be hosting
+      - greek: θα φιλοξενούμε
+        russian: будем принимать
+        english: we will be hosting
+      - greek: θα φιλοξενείτε
+        russian: будете принимать
+        english: you will be hosting
+      - greek: θα φιλοξενούν
+        russian: будут принимать
+        english: they will be hosting
+    simple_future_tense:
+      - greek: θα φιλοξενήσω
+        russian: приму
+        english: I will host
+      - greek: θα φιλοξενήσεις
+        russian: примешь
+        english: you will host
+      - greek: θα φιλοξενήσει
+        russian: примет
+        english: he/she/it will host
+      - greek: θα φιλοξενήσουμε
+        russian: примем
+        english: we will host
+      - greek: θα φιλοξενήσετε
+        russian: примете
+        english: you will host
+      - greek: θα φιλοξενήσουν
+        russian: примут
+        english: they will host
+    imperfect_past_tense:
+      - greek: φιλοξενούσα
+        russian: принимал
+        english: I was hosting
+      - greek: φιλοξενούσες
+        russian: принимал
+        english: you were hosting
+      - greek: φιλοξενούσε
+        russian: принимал
+        english: he/she/it was hosting
+      - greek: φιλοξενούσαμε
+        russian: принимали
+        english: we were hosting
+      - greek: φιλοξενούσατε
+        russian: принимали
+        english: you were hosting
+      - greek: φιλοξενούσαν
+        russian: принимали
+        english: they were hosting
+    simple_past_tense:
+      - greek: φιλοξένησα
+        russian: принял
+        english: I hosted
+      - greek: φιλοξένησες
+        russian: принял
+        english: you hosted
+      - greek: φιλοξένησε
+        russian: принял
+        english: he/she/it hosted
+      - greek: φιλοξενήσαμε
+        russian: приняли
+        english: we hosted
+      - greek: φιλοξενήσατε
+        russian: приняли
+        english: you hosted
+      - greek: φιλοξένησαν
+        russian: приняли
+        english: they hosted
+    continuous_subjunctive_mood:
+      - greek: να φιλοξενώ
+        russian: принимал бы
+        english: (that) I should host
+      - greek: να φιλοξενείς
+        russian: принимал бы
+        english: (that) you should host
+      - greek: να φιλοξενεί
+        russian: принимал бы
+        english: (that) he/she/it should host
+      - greek: να φιλοξενούμε
+        russian: принимали бы
+        english: (that) we should host
+      - greek: να φιλοξενείτε
+        russian: принимали бы
+        english: (that) you should host
+      - greek: να φιλοξενούν
+        russian: принимали бы
+        english: (that) they should host
+    simple_subjunctive_mood:
+      - greek: να φιλοξενήσω
+        russian: принял бы
+        english: (that) I should have hosted
+      - greek: να φιλοξενήσεις
+        russian: принял бы
+        english: (that) you should have hosted
+      - greek: να φιλοξενήσει
+        russian: принял бы
+        english: (that) he/she/it should have hosted
+      - greek: να φιλοξενήσουμε
+        russian: приняли бы
+        english: (that) we should have hosted
+      - greek: να φιλοξενήσετε
+        russian: приняли бы
+        english: (that) you should have hosted
+      - greek: να φιλοξενήσουν
+        russian: приняли бы
+        english: (that) they should have hosted
+    imperative_continuous_singular:
+      - greek: φιλοξένει
+        russian: принимай
+        english: keep hosting (singular)
+    imperative_continuous_plural:
+      - greek: φιλοξενείτε
+        russian: принимайте
+        english: keep hosting (plural)
+    imperative_simple_singular:
+      - greek: φιλοξένησε
+        russian: прими
+        english: host (singular)
+    imperative_simple_plural:
+      - greek: φιλοξενήστε
+        russian: примите
+        english: host (plural)
+    imperative_negation_singular:
+      - greek: μη φιλοξενήσεις
+        russian: не принимай
+        english: do not host (singular)
+    imperative_negation_plural:
+      - greek: μη φιλοξενήσετε
+        russian: не принимайте
+        english: do not host (plural)

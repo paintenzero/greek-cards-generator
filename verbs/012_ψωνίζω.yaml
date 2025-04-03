@@ -1,0 +1,160 @@
+- verb: ψωνίζω
+  translation: to shop
+  tenses:
+    present_tense:
+    - greek: ψωνίζω
+      russian: делаю покупки
+      english: I am shopping
+    - greek: ψωνίζεις
+      russian: делаешь покупки
+      english: you are shopping
+    - greek: ψωνίζει
+      russian: делает покупки
+      english: he/she/it is shopping
+    - greek: ψωνίζουμε
+      russian: делаем покупки
+      english: we are shopping
+    - greek: ψωνίζετε
+      russian: делаете покупки
+      english: you are shopping
+    - greek: ψωνίζουν
+      russian: делают покупки
+      english: they are shopping
+    future_continuous_tense:
+    - greek: θα ψωνίζω
+      russian: буду делать покупки
+      english: I will be shopping
+    - greek: θα ψωνίζεις
+      russian: будешь делать покупки
+      english: you will be shopping
+    - greek: θα ψωνίζει
+      russian: будет делать покупки
+      english: he/she/it will be shopping
+    - greek: θα ψωνίζουμε
+      russian: будем делать покупки
+      english: we will be shopping
+    - greek: θα ψωνίζετε
+      russian: будете делать покупки
+      english: you will be shopping
+    - greek: θα ψωνίζουν
+      russian: будут делать покупки
+      english: they will be shopping
+    simple_future_tense:
+    - greek: θα ψωνίσω
+      russian: сделаю покупки
+      english: I will shop
+    - greek: θα ψωνίσεις
+      russian: сделаешь покупки
+      english: you will shop
+    - greek: θα ψωνίσει
+      russian: сделает покупки
+      english: he/she/it will shop
+    - greek: θα ψωνίσουμε
+      russian: сделаем покупки
+      english: we will shop
+    - greek: θα ψωνίσετε
+      russian: сделаете покупки
+      english: you will shop
+    - greek: θα ψωνίσουν
+      russian: сделают покупки
+      english: they will shop
+    imperfect_past_tense:
+    - greek: ψώνιζα
+      russian: делал покупки
+      english: I was shopping
+    - greek: ψώνιζες
+      russian: делал покупки
+      english: you were shopping
+    - greek: ψώνιζε
+      russian: делал покупки
+      english: he/she/it was shopping
+    - greek: ψωνίζαμε
+      russian: делали покупки
+      english: we were shopping
+    - greek: ψωνίζατε
+      russian: делали покупки
+      english: you were shopping
+    - greek: ψώνιζαν
+      russian: делали покупки
+      english: they were shopping
+    simple_past_tense:
+    - greek: ψώνισα
+      russian: сделал покупки
+      english: I shopped
+    - greek: ψώνισες
+      russian: сделал покупки
+      english: you shopped
+    - greek: ψώνισε
+      russian: сделал покупки
+      english: he/she/it shopped
+    - greek: ψωνίσαμε
+      russian: сделали покупки
+      english: we shopped
+    - greek: ψωνίσατε
+      russian: сделали покупки
+      english: you shopped
+    - greek: ψώνισαν
+      russian: сделали покупки
+      english: they shopped
+    continuous_subjunctive_mood:
+    - greek: να ψωνίζω
+      russian: делал бы покупки
+      english: (that) I should shop
+    - greek: να ψωνίζεις
+      russian: делал бы покупки
+      english: (that) you should shop
+    - greek: να ψωνίζει
+      russian: делал бы покупки
+      english: (that) he/she/it should shop
+    - greek: να ψωνίζουμε
+      russian: делали бы покупки
+      english: (that) we should shop
+    - greek: να ψωνίζετε
+      russian: делали бы покупки
+      english: (that) you should shop
+    - greek: να ψωνίζουν
+      russian: делали бы покупки
+      english: (that) they should shop
+    simple_subjunctive_mood:
+    - greek: να ψωνίσω
+      russian: сделал бы покупки
+      english: (that) I should have shopped
+    - greek: να ψωνίσεις
+      russian: сделал бы покупки
+      english: (that) you should have shopped
+    - greek: να ψωνίσει
+      russian: сделал бы покупки
+      english: (that) he/she/it should have shopped
+    - greek: να ψωνίσουμε
+      russian: сделали бы покупки
+      english: (that) we should have shopped
+    - greek: να ψωνίσετε
+      russian: сделали бы покупки
+      english: (that) you should have shopped
+    - greek: να ψωνίσουν
+      russian: сделали бы покупки
+      english: (that) they should have shopped
+    imperative_continuous_singular:
+    - greek: ψώνιζε
+      russian: делай покупки
+      english: keep shopping (singular)
+    imperative_continuous_plural:
+    - greek: ψωνίζετε
+      russian: делайте покупки
+      english: keep shopping (plural)
+    imperative_simple_singular:
+    - greek: ψώνισε
+      russian: сделай покупки
+      english: shop (singular)
+    imperative_simple_plural:
+    - greek: ψωνίστε
+      russian: сделайте покупки
+      english: shop (plural)
+    imperative_negation_singular:
+    - greek: μην ψωνίσεις
+      russian: не делай покупки
+      english: do not shop (singular)
+    imperative_negation_plural:
+    - greek: μην ψωνίσετε
+      russian: не делайте покупки
+      english: do not shop (plural)

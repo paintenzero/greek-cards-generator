@@ -1,0 +1,160 @@
+- verb: πλέκω
+  translation: to knit
+  tenses:
+    present_tense:
+      - greek: πλέκω
+        russian: вяжу
+        english: I knit
+      - greek: πλέκεις
+        russian: вяжешь
+        english: you knit
+      - greek: πλέκει
+        russian: вяжет
+        english: he/she/it knits
+      - greek: πλέκουμε
+        russian: вяжем
+        english: we knit
+      - greek: πλέκετε
+        russian: вяжете
+        english: you knit
+      - greek: πλέκουν
+        russian: вяжут
+        english: they knit
+    future_continuous_tense:
+      - greek: θα πλέκω
+        russian: буду вязать
+        english: I will be knitting
+      - greek: θα πλέκεις
+        russian: будешь вязать
+        english: you will be knitting
+      - greek: θα πλέκει
+        russian: будет вязать
+        english: he/she/it will be knitting
+      - greek: θα πλέκουμε
+        russian: будем вязать
+        english: we will be knitting
+      - greek: θα πλέκετε
+        russian: будете вязать
+        english: you will be knitting
+      - greek: θα πλέκουν
+        russian: будут вязать
+        english: they will be knitting
+    simple_future_tense:
+      - greek: θα πλέξω
+        russian: свяжу
+        english: I will knit
+      - greek: θα πλέξεις
+        russian: свяжешь
+        english: you will knit
+      - greek: θα πλέξει
+        russian: свяжет
+        english: he/she/it will knit
+      - greek: θα πλέξουμε
+        russian: свяжем
+        english: we will knit
+      - greek: θα πλέξετε
+        russian: свяжете
+        english: you will knit
+      - greek: θα πλέξουν
+        russian: свяжут
+        english: they will knit
+    imperfect_past_tense:
+      - greek: έπλεκα
+        russian: вязал
+        english: I was knitting
+      - greek: έπλεκες
+        russian: вязал
+        english: you were knitting
+      - greek: έπλεκε
+        russian: вязал
+        english: he/she/it was knitting
+      - greek: πλέκαμε
+        russian: вязали
+        english: we were knitting
+      - greek: πλέκατε
+        russian: вязали
+        english: you were knitting
+      - greek: έπλεκαν
+        russian: вязали
+        english: they were knitting
+    simple_past_tense:
+      - greek: έπλεξα
+        russian: связал
+        english: I knitted
+      - greek: έπλεξες
+        russian: связал
+        english: you knitted
+      - greek: έπλεξε
+        russian: связал
+        english: he/she/it knitted
+      - greek: πλέξαμε
+        russian: связали
+        english: we knitted
+      - greek: πλέξατε
+        russian: связали
+        english: you knitted
+      - greek: έπλεξαν
+        russian: связали
+        english: they knitted
+    continuous_subjunctive_mood:
+      - greek: να πλέκω
+        russian: вязал бы
+        english: (that) I should knit
+      - greek: να πλέκεις
+        russian: вязал бы
+        english: (that) you should knit
+      - greek: να πλέκει
+        russian: вязал бы
+        english: (that) he/she/it should knit
+      - greek: να πλέκουμε
+        russian: вязали бы
+        english: (that) we should knit
+      - greek: να πλέκετε
+        russian: вязали бы
+        english: (that) you should knit
+      - greek: να πλέκουν
+        russian: вязали бы
+        english: (that) they should knit
+    simple_subjunctive_mood:
+      - greek: να πλέξω
+        russian: связал бы
+        english: (that) I should have knitted
+      - greek: να πλέξεις
+        russian: связал бы
+        english: (that) you should have knitted
+      - greek: να πλέξει
+        russian: связал бы
+        english: (that) he/she/it should have knitted
+      - greek: να πλέξουμε
+        russian: связали бы
+        english: (that) we should have knitted
+      - greek: να πλέξετε
+        russian: связали бы
+        english: (that) you should have knitted
+      - greek: να πλέξουν
+        russian: связали бы
+        english: (that) they should have knitted
+    imperative_continuous_singular:
+      - greek: πλέκε
+        russian: вяжи
+        english: keep knitting (singular)
+    imperative_continuous_plural:
+      - greek: πλέκετε
+        russian: вяжите
+        english: keep knitting (plural)
+    imperative_simple_singular:
+      - greek: πλέξε
+        russian: свяжи
+        english: knit (singular)
+    imperative_simple_plural:
+      - greek: πλέξτε
+        russian: свяжите
+        english: knit (plural)
+    imperative_negation_singular:
+      - greek: μην πλέξεις
+        russian: не вяжи
+        english: do not knit (singular)
+    imperative_negation_plural:
+      - greek: μην πλέξετε
+        russian: не вяжите
+        english: do not knit (plural)

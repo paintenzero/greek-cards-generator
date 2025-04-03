@@ -1,0 +1,160 @@
+- verb: θέλω
+  translation: to want
+  tenses:
+    present_tense:
+      - greek: θέλω
+        russian: хочу
+        english: I want
+      - greek: θέλεις
+        russian: хочешь
+        english: you want
+      - greek: θέλει
+        russian: хочет
+        english: he/she/it wants
+      - greek: θέλουμε
+        russian: хотим
+        english: we want
+      - greek: θέλετε
+        russian: хотите
+        english: you want
+      - greek: θέλουν
+        russian: хотят
+        english: they want
+    future_continuous_tense:
+      - greek: θα θέλω
+        russian: буду хотеть
+        english: I will be wanting
+      - greek: θα θέλεις
+        russian: будешь хотеть
+        english: you will be wanting
+      - greek: θα θέλει
+        russian: будет хотеть
+        english: he/she/it will be wanting
+      - greek: θα θέλουμε
+        russian: будем хотеть
+        english: we will be wanting
+      - greek: θα θέλετε
+        russian: будете хотеть
+        english: you will be wanting
+      - greek: θα θέλουν
+        russian: будут хотеть
+        english: they will be wanting
+    simple_future_tense:
+      - greek: θα θελήσω
+        russian: захочу
+        english: I will want
+      - greek: θα θελήσεις
+        russian: захочешь
+        english: you will want
+      - greek: θα θελήσει
+        russian: захочет
+        english: he/she/it will want
+      - greek: θα θελήσουμε
+        russian: захотим
+        english: we will want
+      - greek: θα θελήσετε
+        russian: захотите
+        english: you will want
+      - greek: θα θελήσουν
+        russian: захотят
+        english: they will want
+    imperfect_past_tense:
+      - greek: ήθελα
+        russian: хотел
+        english: I was wanting
+      - greek: ήθελες
+        russian: хотел
+        english: you were wanting
+      - greek: ήθελε
+        russian: хотел
+        english: he/she/it was wanting
+      - greek: θέλαμε
+        russian: хотели
+        english: we were wanting
+      - greek: θέλατε
+        russian: хотели
+        english: you were wanting
+      - greek: ήθελαν
+        russian: хотели
+        english: they were wanting
+    simple_past_tense:
+      - greek: θέλησα
+        russian: захотел
+        english: I wanted
+      - greek: θέλησες
+        russian: захотел
+        english: you wanted
+      - greek: θέλησε
+        russian: захотел
+        english: he/she/it wanted
+      - greek: θελήσαμε
+        russian: захотели
+        english: we wanted
+      - greek: θελήσατε
+        russian: захотели
+        english: you wanted
+      - greek: θέλησαν
+        russian: захотели
+        english: they wanted
+    continuous_subjunctive_mood:
+      - greek: να θέλω
+        russian: хотел бы
+        english: (that) I should want
+      - greek: να θέλεις
+        russian: хотел бы
+        english: (that) you should want
+      - greek: να θέλει
+        russian: хотел бы
+        english: (that) he/she/it should want
+      - greek: να θέλουμε
+        russian: хотели бы
+        english: (that) we should want
+      - greek: να θέλετε
+        russian: хотели бы
+        english: (that) you should want
+      - greek: να θέλουν
+        russian: хотели бы
+        english: (that) they should want
+    simple_subjunctive_mood:
+      - greek: να θελήσω
+        russian: захотел бы
+        english: (that) I should have wanted
+      - greek: να θελήσεις
+        russian: захотел бы
+        english: (that) you should have wanted
+      - greek: να θελήσει
+        russian: захотел бы
+        english: (that) he/she/it should have wanted
+      - greek: να θελήσουμε
+        russian: захотели бы
+        english: (that) we should have wanted
+      - greek: να θελήσετε
+        russian: захотели бы
+        english: (that) you should have wanted
+      - greek: να θελήσουν
+        russian: захотели бы
+        english: (that) they should have wanted
+    imperative_continuous_singular:
+      - greek: θέλε
+        russian: хоти
+        english: keep wanting (singular)
+    imperative_continuous_plural:
+      - greek: θέλετε
+        russian: хотите
+        english: keep wanting (plural)
+    imperative_simple_singular:
+      - greek: θέλησε
+        russian: захоти
+        english: want (singular)
+    imperative_simple_plural:
+      - greek: θελήστε
+        russian: захотите
+        english: want (plural)
+    imperative_negation_singular:
+      - greek: μη θελήσεις
+        russian: не хоти
+        english: do not want (singular)
+    imperative_negation_plural:
+      - greek: μη θελήσετε
+        russian: не хотите
+        english: do not want (plural)

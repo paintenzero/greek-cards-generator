@@ -1,0 +1,160 @@
+- verb: πίνω
+  translation: to drink
+  tenses:
+    present_tense:
+      - greek: πίνω
+        russian: пью
+        english: I drink
+      - greek: πίνεις
+        russian: пьёшь
+        english: you drink
+      - greek: πίνει
+        russian: пьёт
+        english: he/she/it drinks
+      - greek: πίνουμε
+        russian: пьём
+        english: we drink
+      - greek: πίνετε
+        russian: пьёте
+        english: you drink
+      - greek: πίνουν
+        russian: пьют
+        english: they drink
+    future_continuous_tense:
+      - greek: θα πίνω
+        russian: буду пить
+        english: I will be drinking
+      - greek: θα πίνεις
+        russian: будешь пить
+        english: you will be drinking
+      - greek: θα πίνει
+        russian: будет пить
+        english: he/she/it will be drinking
+      - greek: θα πίνουμε
+        russian: будем пить
+        english: we will be drinking
+      - greek: θα πίνετε
+        russian: будете пить
+        english: you will be drinking
+      - greek: θα πίνουν
+        russian: будут пить
+        english: they will be drinking
+    simple_future_tense:
+      - greek: θα πιω
+        russian: выпью
+        english: I will drink
+      - greek: θα πιεις
+        russian: выпьешь
+        english: you will drink
+      - greek: θα πιει
+        russian: выпьет
+        english: he/she/it will drink
+      - greek: θα πιούμε
+        russian: выпьем
+        english: we will drink
+      - greek: θα πιείτε
+        russian: выпьете
+        english: you will drink
+      - greek: θα πιουν
+        russian: выпьют
+        english: they will drink
+    imperfect_past_tense:
+      - greek: έπινα
+        russian: пил
+        english: I was drinking
+      - greek: έπινες
+        russian: пил
+        english: you were drinking
+      - greek: έπινε
+        russian: пил
+        english: he/she/it was drinking
+      - greek: πίναμε
+        russian: пили
+        english: we were drinking
+      - greek: πίνατε
+        russian: пили
+        english: you were drinking
+      - greek: έπιναν
+        russian: пили
+        english: they were drinking
+    simple_past_tense:
+      - greek: ήπια
+        russian: выпил
+        english: I drank
+      - greek: ήπιες
+        russian: выпил
+        english: you drank
+      - greek: ήπιε
+        russian: выпил
+        english: he/she/it drank
+      - greek: ήπιαμε
+        russian: выпили
+        english: we drank
+      - greek: ήπιατε
+        russian: выпили
+        english: you drank
+      - greek: ήπιαν
+        russian: выпили
+        english: they drank
+    continuous_subjunctive_mood:
+      - greek: να πίνω
+        russian: пил бы
+        english: (that) I should drink
+      - greek: να πίνεις
+        russian: пил бы
+        english: (that) you should drink
+      - greek: να πίνει
+        russian: пил бы
+        english: (that) he/she/it should drink
+      - greek: να πίνουμε
+        russian: пили бы
+        english: (that) we should drink
+      - greek: να πίνετε
+        russian: пили бы
+        english: (that) you should drink
+      - greek: να πίνουν
+        russian: пили бы
+        english: (that) they should drink
+    simple_subjunctive_mood:
+      - greek: να πιω
+        russian: выпил бы
+        english: (that) I should have drunk
+      - greek: να πιεις
+        russian: выпил бы
+        english: (that) you should have drunk
+      - greek: να πιει
+        russian: выпил бы
+        english: (that) he/she/it should have drunk
+      - greek: να πιούμε
+        russian: выпили бы
+        english: (that) we should have drunk
+      - greek: να πιείτε
+        russian: выпили бы
+        english: (that) you should have drunk
+      - greek: να πιουν
+        russian: выпили бы
+        english: (that) they should have drunk
+    imperative_continuous_singular:
+      - greek: πίνε
+        russian: пей
+        english: keep drinking (singular)
+    imperative_continuous_plural:
+      - greek: πίνετε
+        russian: пейте
+        english: keep drinking (plural)
+    imperative_simple_singular:
+      - greek: πιες
+        russian: выпей
+        english: drink (singular)
+    imperative_simple_plural:
+      - greek: πιείτε
+        russian: выпейте
+        english: drink (plural)
+    imperative_negation_singular:
+      - greek: μην πιεις
+        russian: не пей
+        english: do not drink (singular)
+    imperative_negation_plural:
+      - greek: μην πιείτε
+        russian: не пейте
+        english: do not drink (plural)

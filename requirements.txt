@@ -1,0 +1,4 @@
+openai
+pyyaml>=6.0.0
+dotenv
+jinja2

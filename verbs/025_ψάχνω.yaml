@@ -1,0 +1,160 @@
+- verb: ψάχνω
+  translation: to search
+  tenses:
+    present_tense:
+      - greek: ψάχνω
+        russian: ищу
+        english: I search
+      - greek: ψάχνεις
+        russian: ищешь
+        english: you search
+      - greek: ψάχνει
+        russian: ищет
+        english: he/she/it searches
+      - greek: ψάχνουμε
+        russian: ищем
+        english: we search
+      - greek: ψάχνετε
+        russian: ищете
+        english: you search
+      - greek: ψάχνουν
+        russian: ищут
+        english: they search
+    future_continuous_tense:
+      - greek: θα ψάχνω
+        russian: буду искать
+        english: I will be searching
+      - greek: θα ψάχνεις
+        russian: будешь искать
+        english: you will be searching
+      - greek: θα ψάχνει
+        russian: будет искать
+        english: he/she/it will be searching
+      - greek: θα ψάχνουμε
+        russian: будем искать
+        english: we will be searching
+      - greek: θα ψάχνετε
+        russian: будете искать
+        english: you will be searching
+      - greek: θα ψάχνουν
+        russian: будут искать
+        english: they will be searching
+    simple_future_tense:
+      - greek: θα ψάξω
+        russian: найду
+        english: I will search
+      - greek: θα ψάξεις
+        russian: найдёшь
+        english: you will search
+      - greek: θα ψάξει
+        russian: найдёт
+        english: he/she/it will search
+      - greek: θα ψάξουμε
+        russian: найдём
+        english: we will search
+      - greek: θα ψάξετε
+        russian: найдёте
+        english: you will search
+      - greek: θα ψάξουν
+        russian: найдут
+        english: they will search
+    imperfect_past_tense:
+      - greek: έψαχνα
+        russian: искал
+        english: I was searching
+      - greek: έψαχνες
+        russian: искал
+        english: you were searching
+      - greek: έψαχνε
+        russian: искал
+        english: he/she/it was searching
+      - greek: ψάχναμε
+        russian: искали
+        english: we were searching
+      - greek: ψάχνατε
+        russian: искали
+        english: you were searching
+      - greek: έψαχναν
+        russian: искали
+        english: they were searching
+    simple_past_tense:
+      - greek: έψαξα
+        russian: нашёл
+        english: I searched
+      - greek: έψαξες
+        russian: нашёл
+        english: you searched
+      - greek: έψαξε
+        russian: нашёл
+        english: he/she/it searched
+      - greek: ψάξαμε
+        russian: нашли
+        english: we searched
+      - greek: ψάξατε
+        russian: нашли
+        english: you searched
+      - greek: έψαξαν
+        russian: нашли
+        english: they searched
+    continuous_subjunctive_mood:
+      - greek: να ψάχνω
+        russian: искал бы
+        english: (that) I should search
+      - greek: να ψάχνεις
+        russian: искал бы
+        english: (that) you should search
+      - greek: να ψάχνει
+        russian: искал бы
+        english: (that) he/she/it should search
+      - greek: να ψάχνουμε
+        russian: искали бы
+        english: (that) we should search
+      - greek: να ψάχνετε
+        russian: искали бы
+        english: (that) you should search
+      - greek: να ψάχνουν
+        russian: искали бы
+        english: (that) they should search
+    simple_subjunctive_mood:
+      - greek: να ψάξω
+        russian: нашёл бы
+        english: (that) I should have searched
+      - greek: να ψάξεις
+        russian: нашёл бы
+        english: (that) you should have searched
+      - greek: να ψάξει
+        russian: нашёл бы
+        english: (that) he/she/it should have searched
+      - greek: να ψάξουμε
+        russian: нашли бы
+        english: (that) we should have searched
+      - greek: να ψάξετε
+        russian: нашли бы
+        english: (that) you should have searched
+      - greek: να ψάξουν
+        russian: нашли бы
+        english: (that) they should have searched
+    imperative_continuous_singular:
+      - greek: ψάχνε
+        russian: ищи
+        english: keep searching (singular)
+    imperative_continuous_plural:
+      - greek: ψάχνετε
+        russian: ищите
+        english: keep searching (plural)
+    imperative_simple_singular:
+      - greek: ψάξε
+        russian: найди
+        english: search (singular)
+    imperative_simple_plural:
+      - greek: ψάξτε
+        russian: найдите
+        english: search (plural)
+    imperative_negation_singular:
+      - greek: μην ψάξεις
+        russian: не ищи
+        english: do not search (singular)
+    imperative_negation_plural:
+      - greek: μην ψάξετε
+        russian: не ищите
+        english: do not search (plural)

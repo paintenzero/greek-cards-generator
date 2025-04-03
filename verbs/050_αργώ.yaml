@@ -1,0 +1,160 @@
+- verb: αργώ
+  translation: to be late/to delay
+  tenses:
+    present_tense:
+      - greek: αργώ
+        russian: опаздываю
+        english: I am being late
+      - greek: αργείς
+        russian: опаздываешь
+        english: you are being late
+      - greek: αργεί
+        russian: опаздывает
+        english: he/she/it is being late
+      - greek: αργούμε
+        russian: опаздываем
+        english: we are being late
+      - greek: αργείτε
+        russian: опаздываете
+        english: you are being late
+      - greek: αργούν
+        russian: опаздывают
+        english: they are being late
+    future_continuous_tense:
+      - greek: θα αργώ
+        russian: буду опаздывать
+        english: I will be being late
+      - greek: θα αργείς
+        russian: будешь опаздывать
+        english: you will be being late
+      - greek: θα αργεί
+        russian: будет опаздывать
+        english: he/she/it will be being late
+      - greek: θα αργούμε
+        russian: будем опаздывать
+        english: we will be being late
+      - greek: θα αργείτε
+        russian: будете опаздывать
+        english: you will be being late
+      - greek: θα αργούν
+        russian: будут опаздывать
+        english: they will be being late
+    simple_future_tense:
+      - greek: θα αργήσω
+        russian: опоздаю
+        english: I will be late
+      - greek: θα αργήσεις
+        russian: опоздаешь
+        english: you will be late
+      - greek: θα αργήσει
+        russian: опоздает
+        english: he/she/it will be late
+      - greek: θα αργήσουμε
+        russian: опоздаем
+        english: we will be late
+      - greek: θα αργήσετε
+        russian: опоздаете
+        english: you will be late
+      - greek: θα αργήσουν
+        russian: опоздают
+        english: they will be late
+    imperfect_past_tense:
+      - greek: αργούσα
+        russian: опаздывал
+        english: I was being late
+      - greek: αργούσες
+        russian: опаздывал
+        english: you were being late
+      - greek: αργούσε
+        russian: опаздывал
+        english: he/she/it was being late
+      - greek: αργούσαμε
+        russian: опаздывали
+        english: we were being late
+      - greek: αργούσατε
+        russian: опаздывали
+        english: you were being late
+      - greek: αργούσαν
+        russian: опаздывали
+        english: they were being late
+    simple_past_tense:
+      - greek: άργησα
+        russian: опоздал
+        english: I was late
+      - greek: άργησες
+        russian: опоздал
+        english: you were late
+      - greek: άργησε
+        russian: опоздал
+        english: he/she/it was late
+      - greek: αργήσαμε
+        russian: опоздали
+        english: we were late
+      - greek: αργήσατε
+        russian: опоздали
+        english: you were late
+      - greek: άργησαν
+        russian: опоздали
+        english: they were late
+    continuous_subjunctive_mood:
+      - greek: να αργώ
+        russian: опаздывал бы
+        english: (that) I should be late
+      - greek: να αργείς
+        russian: опаздывал бы
+        english: (that) you should be late
+      - greek: να αργεί
+        russian: опаздывал бы
+        english: (that) he/she/it should be late
+      - greek: να αργούμε
+        russian: опаздывали бы
+        english: (that) we should be late
+      - greek: να αργείτε
+        russian: опаздывали бы
+        english: (that) you should be late
+      - greek: να αργούν
+        russian: опаздывали бы
+        english: (that) they should be late
+    simple_subjunctive_mood:
+      - greek: να αργήσω
+        russian: опоздал бы
+        english: (that) I should have been late
+      - greek: να αργήσεις
+        russian: опоздал бы
+        english: (that) you should have been late
+      - greek: να αργήσει
+        russian: опоздал бы
+        english: (that) he/she/it should have been late
+      - greek: να αργήσουμε
+        russian: опоздали бы
+        english: (that) we should have been late
+      - greek: να αργήσετε
+        russian: опоздали бы
+        english: (that) you should have been late
+      - greek: να αργήσουν
+        russian: опоздали бы
+        english: (that) they should have been late
+    imperative_continuous_singular:
+      - greek: άργει
+        russian: опаздывай
+        english: keep being late (singular)
+    imperative_continuous_plural:
+      - greek: αργείτε
+        russian: опаздывайте
+        english: keep being late (plural)
+    imperative_simple_singular:
+      - greek: άργησε
+        russian: опоздай
+        english: be late (singular)
+    imperative_simple_plural:
+      - greek: αργήστε
+        russian: опоздайте
+        english: be late (plural)
+    imperative_negation_singular:
+      - greek: μην αργήσεις
+        russian: не опаздывай
+        english: do not be late (singular)
+    imperative_negation_plural:
+      - greek: μην αργήσετε
+        russian: не опаздывайте
+        english: do not be late (plural)

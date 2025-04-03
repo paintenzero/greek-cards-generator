@@ -1,0 +1,160 @@
+- verb: δοκιμάζω
+  translation: to try/test
+  tenses:
+    present_tense:
+      - greek: δοκιμάζω
+        russian: пробую
+        english: I try
+      - greek: δοκιμάζεις
+        russian: пробуешь
+        english: you try
+      - greek: δοκιμάζει
+        russian: пробует
+        english: he/she/it tries
+      - greek: δοκιμάζουμε
+        russian: пробуем
+        english: we try
+      - greek: δοκιμάζετε
+        russian: пробуете
+        english: you (plural) try
+      - greek: δοκιμάζουν
+        russian: пробуют
+        english: they try
+    future_continuous_tense:
+      - greek: θα δοκιμάζω
+        russian: буду пробовать
+        english: I will be trying
+      - greek: θα δοκιμάζεις
+        russian: будешь пробовать
+        english: you will be trying
+      - greek: θα δοκιμάζει
+        russian: будет пробовать
+        english: he/she/it will be trying
+      - greek: θα δοκιμάζουμε
+        russian: будем пробовать
+        english: we will be trying
+      - greek: θα δοκιμάζετε
+        russian: будете пробовать
+        english: you (plural) will be trying
+      - greek: θα δοκιμάζουν
+        russian: будут пробовать
+        english: they will be trying
+    simple_future_tense:
+      - greek: θα δοκιμάσω
+        russian: попробую
+        english: I will try
+      - greek: θα δοκιμάσεις
+        russian: попробуешь
+        english: you will try
+      - greek: θα δοκιμάσει
+        russian: попробует
+        english: he/she/it will try
+      - greek: θα δοκιμάσουμε
+        russian: попробуем
+        english: we will try
+      - greek: θα δοκιμάσετε
+        russian: попробуете
+        english: you (plural) will try
+      - greek: θα δοκιμάσουν
+        russian: попробуют
+        english: they will try
+    imperfect_past_tense:
+      - greek: δοκίμαζα
+        russian: пробовал
+        english: I was trying
+      - greek: δοκίμαζες
+        russian: пробовал
+        english: you were trying
+      - greek: δοκίμαζε
+        russian: пробовал
+        english: he/she/it was trying
+      - greek: δοκιμάζαμε
+        russian: пробовали
+        english: we were trying
+      - greek: δοκιμάζατε
+        russian: пробовали
+        english: you (plural) were trying
+      - greek: δοκίμαζαν
+        russian: пробовали
+        english: they were trying
+    simple_past_tense:
+      - greek: δοκίμασα
+        russian: попробовал
+        english: I tried
+      - greek: δοκίμασες
+        russian: попробовал
+        english: you tried
+      - greek: δοκίμασε
+        russian: попробовал
+        english: he/she/it tried
+      - greek: δοκιμάσαμε
+        russian: попробовали
+        english: we tried
+      - greek: δοκιμάσατε
+        russian: попробовали
+        english: you (plural) tried
+      - greek: δοκίμασαν
+        russian: попробовали
+        english: they tried
+    continuous_subjunctive_mood:
+      - greek: να δοκιμάζω
+        russian: пробовал бы
+        english: (that) I should try
+      - greek: να δοκιμάζεις
+        russian: пробовал бы
+        english: (that) you should try
+      - greek: να δοκιμάζει
+        russian: пробовал бы
+        english: (that) he/she/it should try
+      - greek: να δοκιμάζουμε
+        russian: пробовали бы
+        english: (that) we should try
+      - greek: να δοκιμάζеτε
+        russian: пробовали бы
+        english: (that) you should try
+      - greek: να δοκιμάζουν
+        russian: пробовали бы
+        english: (that) they should try
+    simple_subjunctive_mood:
+      - greek: να δοκιμάσω
+        russian: попробовал бы
+        english: (that) I should have tried
+      - greek: να δοκιμάσεις
+        russian: попробовал бы
+        english: (that) you should have tried
+      - greek: να δοκιμάσει
+        russian: попробовал бы
+        english: (that) he/she/it should have tried
+      - greek: να δοκιμάσουμε
+        russian: попробовали бы
+        english: (that) we should have tried
+      - greek: να δοκιμάσετε
+        russian: попробовали бы
+        english: (that) you (plural) should have tried
+      - greek: να δοκιμάσουν
+        russian: попробовали бы
+        english: (that) they should have tried
+    imperative_continuous_singular:
+      - greek: δοκίμαζε
+        russian: пробуй
+        english: keep trying (singular)
+    imperative_continuous_plural:
+      - greek: δοκιμάζετε
+        russian: пробуйте
+        english: keep trying (plural)
+    imperative_simple_singular:
+      - greek: δοκίμασε
+        russian: попробуй
+        english: try (singular)
+    imperative_simple_plural:
+      - greek: δοκιμάστε
+        russian: попробуйте
+        english: try (plural)
+    imperative_negation_singular:
+      - greek: μη δοκιμάσεις
+        russian: не пробуй
+        english: do not try (singular)
+    imperative_negation_plural:
+      - greek: μη δοκιμάσετε
+        russian: не пробуйте
+        english: do not try (plural)

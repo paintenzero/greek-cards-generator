@@ -1,0 +1,98 @@
+- verb: είμαι
+  translation: to be
+  tenses:
+    present_tense:
+      - greek: είμαι
+        russian: являюсь
+        english: I am
+      - greek: είσαι
+        russian: являешься
+        english: you are
+      - greek: είναι
+        russian: является
+        english: he/she/it is
+      - greek: είμαστε
+        russian: являемся
+        english: we are
+      - greek: είστε
+        russian: являетесь
+        english: you (plural) are
+      - greek: είναι
+        russian: являются
+        english: they are
+    future_continuous_tense:
+      - greek: θα είμαι
+        russian: буду
+        english: I will be
+      - greek: θα είσαι
+        russian: будешь
+        english: you will be
+      - greek: θα είναι
+        russian: будет
+        english: he/she/it will be
+      - greek: θα είμαστε
+        russian: будем
+        english: we will be
+      - greek: θα είστε
+        russian: будете
+        english: you (plural) will be
+      - greek: θα είναι
+        russian: будут
+        english: they will be
+    simple_future_tense:
+      - greek: θα είμαι
+        russian: буду
+        english: I will be
+      - greek: θα είσαι
+        russian: будешь
+        english: you will be
+      - greek: θα είναι
+        russian: будет
+        english: he/she/it will be
+      - greek: θα είμαστε
+        russian: будем
+        english: we will be
+      - greek: θα είστε
+        russian: будете
+        english: you (plural) will be
+      - greek: θα είναι
+        russian: будут
+        english: they will be
+    imperfect_past_tense:
+      - greek: ήμουν
+        russian: был
+        english: I was
+      - greek: ήσουν
+        russian: был
+        english: you were
+      - greek: ήταν
+        russian: был
+        english: he/she/it was
+      - greek: ήμασταν
+        russian: были
+        english: we were
+      - greek: ήσασταν
+        russian: были
+        english: you (plural) were
+      - greek: ήταν
+        russian: были
+        english: they were
+    simple_past_tense:
+      - greek: ήμουν
+        russian: был
+        english: I was
+      - greek: ήσουν
+        russian: был
+        english: you were
+      - greek: ήταν
+        russian: был
+        english: he/she/it was
+      - greek: ήμασταν
+        russian: были
+        english: we were
+      - greek: ήσασταν
+        russian: были
+        english: you (plural) were
+      - greek: ήταν
+        russian: были
+        english: they were

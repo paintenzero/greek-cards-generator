@@ -1,0 +1,160 @@
+- verb: στολίζω
+  translation: to decorate
+  tenses:
+    present_tense:
+    - greek: στολίζω
+      russian: украшаю
+      english: I decorate
+    - greek: στολίζεις
+      russian: украшаешь
+      english: you decorate
+    - greek: στολίζει
+      russian: украшает
+      english: he/she/it decorates
+    - greek: στολίζουμε
+      russian: украшаем
+      english: we decorate
+    - greek: στολίζετε
+      russian: украшаете
+      english: you decorate
+    - greek: στολίζουν
+      russian: украшают
+      english: they decorate
+    future_continuous_tense:
+    - greek: θα στολίζω
+      russian: буду украшать
+      english: I will be decorating
+    - greek: θα στολίζεις
+      russian: будешь украшать
+      english: you will be decorating
+    - greek: θα στολίζει
+      russian: будет украшать
+      english: he/she/it will be decorating
+    - greek: θα στολίζουμε
+      russian: будем украшать
+      english: we will be decorating
+    - greek: θα στολίζετε
+      russian: будете украшать
+      english: you will be decorating
+    - greek: θα στολίζουν
+      russian: будут украшать
+      english: they will be decorating
+    simple_future_tense:
+    - greek: θα στολίσω
+      russian: украшу
+      english: I will decorate
+    - greek: θα στολίσεις
+      russian: украсишь
+      english: you will decorate
+    - greek: θα στολίσει
+      russian: украсит
+      english: he/she/it will decorate
+    - greek: θα στολίσουμε
+      russian: украсим
+      english: we will decorate
+    - greek: θα στολίσετε
+      russian: украсите
+      english: you will decorate
+    - greek: θα στολίσουν
+      russian: украсят
+      english: they will decorate
+    imperfect_past_tense:
+    - greek: στόλιζα
+      russian: украшал
+      english: I was decorating
+    - greek: στόλιζες
+      russian: украшал
+      english: you were decorating
+    - greek: στόλιζε
+      russian: украшал
+      english: he/she/it was decorating
+    - greek: στολίζαμε
+      russian: украшали
+      english: we were decorating
+    - greek: στολίζατε
+      russian: украшали
+      english: you were decorating
+    - greek: στόλιζαν
+      russian: украшали
+      english: they were decorating
+    simple_past_tense:
+    - greek: στόλισα
+      russian: украсил
+      english: I decorated
+    - greek: στόλισες
+      russian: украсил
+      english: you decorated
+    - greek: στόλισε
+      russian: украсил
+      english: he/she/it decorated
+    - greek: στολίσαμε
+      russian: украсили
+      english: we decorated
+    - greek: στολίσατε
+      russian: украсили
+      english: you decorated
+    - greek: στόλισαν
+      russian: украсили
+      english: they decorated
+    continuous_subjunctive_mood:
+    - greek: να στολίζω
+      russian: украшал бы
+      english: (that) I should decorate
+    - greek: να στολίζεις
+      russian: украшал бы
+      english: (that) you should decorate
+    - greek: να στολίζει
+      russian: украшал бы
+      english: (that) he/she/it should decorate
+    - greek: να στολίζουμε
+      russian: украшали бы
+      english: (that) we should decorate
+    - greek: να στολίζετε
+      russian: украшали бы
+      english: (that) you should decorate
+    - greek: να στολίζουν
+      russian: украшали бы
+      english: (that) they should decorate
+    simple_subjunctive_mood:
+    - greek: να στολίσω
+      russian: украсил бы
+      english: (that) I should have decorated
+    - greek: να στολίσεις
+      russian: украсил бы
+      english: (that) you should have decorated
+    - greek: να στολίσει
+      russian: украсил бы
+      english: (that) he/she/it should have decorated
+    - greek: να στολίσουμε
+      russian: украсили бы
+      english: (that) we should have decorated
+    - greek: να στολίσετε
+      russian: украсили бы
+      english: (that) you should have decorated
+    - greek: να στολίσουν
+      russian: украсили бы
+      english: (that) they should have decorated
+    imperative_continuous_singular:
+    - greek: στόλιζε
+      russian: украшай
+      english: keep decorating (singular)
+    imperative_continuous_plural:
+    - greek: στολίζετε
+      russian: украшайте
+      english: keep decorating (plural)
+    imperative_simple_singular:
+    - greek: στόλισε
+      russian: укрась
+      english: decorate (singular)
+    imperative_simple_plural:
+    - greek: στολίστε
+      russian: украсьте
+      english: decorate (plural)
+    imperative_negation_singular:
+    - greek: μη στολίσεις
+      russian: не украшай
+      english: do not decorate (singular)
+    imperative_negation_plural:
+    - greek: μη στολίσετε
+      russian: не украшайте
+      english: do not decorate (plural)

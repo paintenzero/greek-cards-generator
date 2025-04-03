@@ -1,0 +1,160 @@
+- verb: γίνομαι
+  translation: to become
+  tenses:
+    present_tense:
+      - greek: γίνομαι
+        russian: становлюсь
+        english: I become
+      - greek: γίνεσαι
+        russian: становишься
+        english: you become
+      - greek: γίνεται
+        russian: становится
+        english: he/she/it becomes
+      - greek: γινόμαστε
+        russian: становимся
+        english: we become
+      - greek: γίνεστε
+        russian: становитесь
+        english: you become
+      - greek: γίνονται
+        russian: становятся
+        english: they become
+    future_continuous_tense:
+      - greek: θα γίνομαι
+        russian: буду становиться
+        english: I will be becoming
+      - greek: θα γίνεσαι
+        russian: будешь становиться
+        english: you will be becoming
+      - greek: θα γίνεται
+        russian: будет становиться
+        english: he/she/it will be becoming
+      - greek: θα γινόμαστε
+        russian: будем становиться
+        english: we will be becoming
+      - greek: θα γίνεστε
+        russian: будете становиться
+        english: you will be becoming
+      - greek: θα γίνονται
+        russian: будут становиться
+        english: they will be becoming
+    simple_future_tense:
+      - greek: θα γίνω
+        russian: стану
+        english: I will become
+      - greek: θα γίνεις
+        russian: станешь
+        english: you will become
+      - greek: θα γίνει
+        russian: станет
+        english: he/she/it will become
+      - greek: θα γίνουμε
+        russian: станем
+        english: we will become
+      - greek: θα γίνετε
+        russian: станете
+        english: you will become
+      - greek: θα γίνουν
+        russian: станут
+        english: they will become
+    imperfect_past_tense:
+      - greek: γινόμουν
+        russian: становился
+        english: I was becoming
+      - greek: γινόσουν
+        russian: становился
+        english: you were becoming
+      - greek: γινόταν
+        russian: становился
+        english: he/she/it was becoming
+      - greek: γινόμασταν
+        russian: становились
+        english: we were becoming
+      - greek: γινόσασταν
+        russian: становились
+        english: you were becoming
+      - greek: γίνονταν
+        russian: становились
+        english: they were becoming
+    simple_past_tense:
+      - greek: έγινα
+        russian: стал
+        english: I became
+      - greek: έγινες
+        russian: стал
+        english: you became
+      - greek: έγινε
+        russian: стал
+        english: he/she/it became
+      - greek: γίναμε
+        russian: стали
+        english: we became
+      - greek: γίνατε
+        russian: стали
+        english: you became
+      - greek: έγιναν
+        russian: стали
+        english: they became
+    continuous_subjunctive_mood:
+      - greek: να γίνομαι
+        russian: становился бы
+        english: (that) I should become
+      - greek: να γίνεσαι
+        russian: становился бы
+        english: (that) you should become
+      - greek: να γίνεται
+        russian: становился бы
+        english: (that) he/she/it should become
+      - greek: να γινόμαστε
+        russian: становились бы
+        english: (that) we should become
+      - greek: να γίνεστε
+        russian: становились бы
+        english: (that) you should become
+      - greek: να γίνονται
+        russian: становились бы
+        english: (that) they should become
+    simple_subjunctive_mood:
+      - greek: να γίνω
+        russian: стал бы
+        english: (that) I should have become
+      - greek: να γίνεις
+        russian: стал бы
+        english: (that) you should have become
+      - greek: να γίνει
+        russian: стал бы
+        english: (that) he/she/it should have become
+      - greek: να γίνουμε
+        russian: стали бы
+        english: (that) we should have become
+      - greek: να γίνετε
+        russian: стали бы
+        english: (that) you should have become
+      - greek: να γίνουν
+        russian: стали бы
+        english: (that) they should have become
+    imperative_continuous_singular:
+      - greek: γίνου
+        russian: становись
+        english: keep becoming (singular)
+    imperative_continuous_plural:
+      - greek: γίνεστε
+        russian: становитесь
+        english: keep becoming (plural)
+    imperative_simple_singular:
+      - greek: γίνε
+        russian: стань
+        english: become (singular)
+    imperative_simple_plural:
+      - greek: γίνετε
+        russian: станьте
+        english: become (plural)
+    imperative_negation_singular:
+      - greek: μη γίνεις
+        russian: не становись
+        english: do not become (singular)
+    imperative_negation_plural:
+      - greek: μη γίνετε
+        russian: не становитесь
+        english: do not become (plural)

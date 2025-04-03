@@ -1,0 +1,160 @@
+- verb: πετάω/πετώ
+  translation: to fly/to throw
+  tenses:
+    present_tense:
+      - greek: πετάω/πετώ
+        russian: летаю/бросаю
+        english: I fly/throw
+      - greek: πετάς
+        russian: летаешь/бросаешь
+        english: you fly/throw
+      - greek: πετάει/πετά
+        russian: летает/бросает
+        english: he/she/it flies/throws
+      - greek: πετάμε
+        russian: летаем/бросаем
+        english: we fly/throw
+      - greek: πετάτε
+        russian: летаете/бросаете
+        english: you fly/throw
+      - greek: πετάνε/πετούν
+        russian: летают/бросают
+        english: they fly/throw
+    future_continuous_tense:
+      - greek: θα πετάω/θα πετώ
+        russian: буду летать/бросать
+        english: I will be flying/throwing
+      - greek: θα πετάς
+        russian: будешь летать/бросать
+        english: you will be flying/throwing
+      - greek: θα πετάει/θα πετά
+        russian: будет летать/бросать
+        english: he/she/it will be flying/throwing
+      - greek: θα πετάμε
+        russian: будем летать/бросать
+        english: we will be flying/throwing
+      - greek: θα πετάτε
+        russian: будете летать/бросать
+        english: you will be flying/throwing
+      - greek: θα πετάνε/θα πετούν
+        russian: будут летать/бросать
+        english: they will be flying/throwing
+    simple_future_tense:
+      - greek: θα πετάξω
+        russian: полечу/брошу
+        english: I will fly/throw
+      - greek: θα πετάξεις
+        russian: полетишь/бросишь
+        english: you will fly/throw
+      - greek: θα πετάξει
+        russian: полетит/бросит
+        english: he/she/it will fly/throw
+      - greek: θα πετάξουμε
+        russian: полетим/бросим
+        english: we will fly/throw
+      - greek: θα πετάξετε
+        russian: полетите/бросите
+        english: you will fly/throw
+      - greek: θα πετάξουν
+        russian: полетят/бросят
+        english: they will fly/throw
+    imperfect_past_tense:
+      - greek: πετούσα
+        russian: летал/бросал
+        english: I was flying/throwing
+      - greek: πετούσες
+        russian: летал/бросал
+        english: you were flying/throwing
+      - greek: πετούσε
+        russian: летал/бросал
+        english: he/she/it was flying/throwing
+      - greek: πετούσαμε
+        russian: летали/бросали
+        english: we were flying/throwing
+      - greek: πετούσατε
+        russian: летали/бросали
+        english: you were flying/throwing
+      - greek: πετούσαν
+        russian: летали/бросали
+        english: they were flying/throwing
+    simple_past_tense:
+      - greek: πέταξα
+        russian: полетел/бросил
+        english: I flew/threw
+      - greek: πέταξες
+        russian: полетел/бросил
+        english: you flew/threw
+      - greek: πέταξε
+        russian: полетел/бросил
+        english: he/she/it flew/threw
+      - greek: πετάξαμε
+        russian: полетели/бросили
+        english: we flew/threw
+      - greek: πετάξατε
+        russian: полетели/бросили
+        english: you flew/threw
+      - greek: πέταξαν
+        russian: полетели/бросили
+        english: they flew/threw
+    continuous_subjunctive_mood:
+      - greek: να πετάω/να πετώ
+        russian: летал бы/бросал бы
+        english: (that) I should fly/throw
+      - greek: να πετάς
+        russian: летал бы/бросал бы
+        english: (that) you should fly/throw
+      - greek: να πετάει/να πετά
+        russian: летал бы/бросал бы
+        english: (that) he/she/it should fly/throw
+      - greek: να πετάμε
+        russian: летали бы/бросали бы
+        english: (that) we should fly/throw
+      - greek: να πετάτε
+        russian: летали бы/бросали бы
+        english: (that) you should fly/throw
+      - greek: να πετάνε/να πετούν
+        russian: летали бы/бросали бы
+        english: (that) they should fly/throw
+    simple_subjunctive_mood:
+      - greek: να πετάξω
+        russian: полетел бы/бросил бы
+        english: (that) I should have flown/thrown
+      - greek: να πετάξεις
+        russian: полетел бы/бросил бы
+        english: (that) you should have flown/thrown
+      - greek: να πετάξει
+        russian: полетел бы/бросил бы
+        english: (that) he/she/it should have flown/thrown
+      - greek: να πετάξουμε
+        russian: полетели бы/бросили бы
+        english: (that) we should have flown/thrown
+      - greek: να πετάξετε
+        russian: полетели бы/бросили бы
+        english: (that) you should have flown/thrown
+      - greek: να πετάξουν
+        russian: полетели бы/бросили бы
+        english: (that) they should have flown/thrown
+    imperative_continuous_singular:
+      - greek: πέτα
+        russian: летай/бросай
+        english: keep flying/throwing (singular)
+    imperative_continuous_plural:
+      - greek: πετάτε
+        russian: летайте/бросайте
+        english: keep flying/throwing (plural)
+    imperative_simple_singular:
+      - greek: πέταξε
+        russian: полети/брось
+        english: fly/throw (singular)
+    imperative_simple_plural:
+      - greek: πετάξτε
+        russian: полетите/бросьте
+        english: fly/throw (plural)
+    imperative_negation_singular:
+      - greek: μην πετάξεις
+        russian: не летай/не бросай
+        english: do not fly/throw (singular)
+    imperative_negation_plural:
+      - greek: μην πετάξετε
+        russian: не летайте/не бросайте
+        english: do not fly/throw (plural)

@@ -1,0 +1,160 @@
+- verb: ακούω
+  translation: to listen/hear
+  tenses:
+    present_tense:
+    - greek: ακούω
+      russian: слушаю
+      english: I listen
+    - greek: ακούεις
+      russian: слушаешь
+      english: you listen
+    - greek: ακούει
+      russian: слушает
+      english: he/she/it listens
+    - greek: ακούμε
+      russian: слушаем
+      english: we listen
+    - greek: ακούτε
+      russian: слушаете
+      english: you (plural) listen
+    - greek: ακούν
+      russian: слушают
+      english: they listen
+    future_continuous_tense:
+    - greek: θα ακούω
+      russian: буду слушать
+      english: I will be listening
+    - greek: θα ακούεις
+      russian: будешь слушать
+      english: you will be listening
+    - greek: θα ακούει
+      russian: будет слушать
+      english: he/she/it will be listening
+    - greek: θα ακούμε
+      russian: будем слушать
+      english: we will be listening
+    - greek: θα ακούτε
+      russian: будете слушать
+      english: you (plural) will be listening
+    - greek: θα ακούν
+      russian: будут слушать
+      english: they will be listening
+    simple_future_tense:
+    - greek: θα ακούσω
+      russian: послушаю
+      english: I will listen
+    - greek: θα ακούσεις
+      russian: послушаешь
+      english: you will listen
+    - greek: θα ακούσει
+      russian: послушает
+      english: he/she/it will listen
+    - greek: θα ακούσουμε
+      russian: послушаем
+      english: we will listen
+    - greek: θα ακούσετε
+      russian: послушаете
+      english: you (plural) will listen
+    - greek: θα ακούσουν
+      russian: послушают
+      english: they will listen
+    imperfect_past_tense:
+    - greek: άκουγα
+      russian: слушал
+      english: I was listening
+    - greek: άκουγες
+      russian: слушал
+      english: you were listening
+    - greek: άκουγε
+      russian: слушал
+      english: he/she/it was listening
+    - greek: ακούγαμε
+      russian: слушали
+      english: we were listening
+    - greek: ακούγατε
+      russian: слушали
+      english: you (plural) were listening
+    - greek: άκουγαν
+      russian: слушали
+      english: they were listening
+    simple_past_tense:
+    - greek: άκουσα
+      russian: послушал
+      english: I listened
+    - greek: άκουσες
+      russian: послушал
+      english: you listened
+    - greek: άκουσε
+      russian: послушал
+      english: he/she/it listened
+    - greek: ακούσαμε
+      russian: послушали
+      english: we listened
+    - greek: ακούσατε
+      russian: послушали
+      english: you (plural) listened
+    - greek: άκουσαν
+      russian: послушали
+      english: they listened
+    continuous_subjunctive_mood:
+    - greek: να ακούω
+      russian: слушал бы
+      english: (that) I should listen
+    - greek: να ακούεις
+      russian: слушал бы
+      english: (that) you should listen
+    - greek: να ακούει
+      russian: слушал бы
+      english: (that) he/she/it should listen
+    - greek: να ακούμε
+      russian: слушали бы
+      english: (that) we should listen
+    - greek: να ακούτε
+      russian: слушали бы
+      english: (that) you should listen
+    - greek: να ακούν
+      russian: слушали бы
+      english: (that) they should listen
+    simple_subjunctive_mood:
+    - greek: να ακούσω
+      russian: послушал бы
+      english: (that) I should have listened
+    - greek: να ακούσεις
+      russian: послушал бы
+      english: (that) you should have listened
+    - greek: να ακούσει
+      russian: послушал бы
+      english: (that) he/she/it should have listened
+    - greek: να ακούσουμε
+      russian: послушали бы
+      english: (that) we should have listened
+    - greek: να ακούσετε
+      russian: послушали бы
+      english: (that) you (plural) should have listened
+    - greek: να ακούσουν
+      russian: послушали бы
+      english: (that) they should have listened
+    imperative_continuous_singular:
+    - greek: άκουγε
+      russian: слушай
+      english: keep listening (singular)
+    imperative_continuous_plural:
+    - greek: ακούγετε
+      russian: слушайте
+      english: keep listening (plural)
+    imperative_simple_singular:
+    - greek: άκουσε
+      russian: послушай
+      english: listen (singular)
+    imperative_simple_plural:
+    - greek: ακούστε
+      russian: послушайте
+      english: listen (plural)
+    imperative_negation_singular:
+    - greek: μην ακούς
+      russian: не слушай
+      english: do not listen (singular)
+    imperative_negation_plural:
+    - greek: μην ακούτε
+      russian: не слушайте
+      english: do not listen (plural)

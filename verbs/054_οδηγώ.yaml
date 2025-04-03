@@ -1,0 +1,160 @@
+- verb: οδηγώ
+  translation: to drive
+  tenses:
+    present_tense:
+      - greek: οδηγώ
+        russian: вожу
+        english: I drive
+      - greek: οδηγείς
+        russian: водишь
+        english: you drive
+      - greek: οδηγεί
+        russian: водит
+        english: he/she/it drive
+      - greek: οδηγούμε
+        russian: водим
+        english: we drive
+      - greek: οδηγείτε
+        russian: водите
+        english: you drive
+      - greek: οδηγούν
+        russian: водят
+        english: they drive
+    future_continuous_tense:
+      - greek: θα οδηγώ
+        russian: буду водить
+        english: I will be driving
+      - greek: θα οδηγείς
+        russian: будешь водить
+        english: you will be driving
+      - greek: θα οδηγεί
+        russian: будет водить
+        english: he/she/it will be driving
+      - greek: θα οδηγούμε
+        russian: будем водить
+        english: we will be driving
+      - greek: θα οδηγείτε
+        russian: будете водить
+        english: you will be driving
+      - greek: θα οδηγούν
+        russian: будут водить
+        english: they will be driving
+    simple_future_tense:
+      - greek: θα οδηγήσω
+        russian: поведу
+        english: I will drive
+      - greek: θα οδηγήσεις
+        russian: поведёшь
+        english: you will drive
+      - greek: θα οδηγήσει
+        russian: поведёт
+        english: he/she/it will drive
+      - greek: θα οδηγήσουμε
+        russian: поведём
+        english: we will drive
+      - greek: θα οδηγήσετε
+        russian: поведёте
+        english: you will drive
+      - greek: θα οδηγήσουν
+        russian: поведут
+        english: they will drive
+    imperfect_past_tense:
+      - greek: οδηγούσα
+        russian: водил
+        english: I was driving
+      - greek: οδηγούσες
+        russian: водил
+        english: you were driving
+      - greek: οδηγούσε
+        russian: водил
+        english: he/she/it was driving
+      - greek: οδηγούσαμε
+        russian: водили
+        english: we were driving
+      - greek: οδηγούσατε
+        russian: водили
+        english: you were driving
+      - greek: οδηγούσαν
+        russian: водили
+        english: they were driving
+    simple_past_tense:
+      - greek: οδήγησα
+        russian: повёл
+        english: I drove
+      - greek: οδήγησες
+        russian: повёл
+        english: you drove
+      - greek: οδήγησε
+        russian: повёл
+        english: he/she/it drove
+      - greek: οδηγήσαμε
+        russian: повели
+        english: we drove
+      - greek: οδηγήσατε
+        russian: повели
+        english: you drove
+      - greek: οδήγησαν
+        russian: повели
+        english: they drove
+    continuous_subjunctive_mood:
+      - greek: να οδηγώ
+        russian: водил бы
+        english: (that) I should drive
+      - greek: να οδηγείς
+        russian: водил бы
+        english: (that) you should drive
+      - greek: να οδηγεί
+        russian: водил бы
+        english: (that) he/she/it should drive
+      - greek: να οδηγούμε
+        russian: водили бы
+        english: (that) we should drive
+      - greek: να οδηγείτε
+        russian: водили бы
+        english: (that) you should drive
+      - greek: να οδηγούν
+        russian: водили бы
+        english: (that) they should drive
+    simple_subjunctive_mood:
+      - greek: να οδηγήσω
+        russian: повёл бы
+        english: (that) I should have driven
+      - greek: να οδηγήσεις
+        russian: повёл бы
+        english: (that) you should have driven
+      - greek: να οδηγήσει
+        russian: повёл бы
+        english: (that) he/she/it should have driven
+      - greek: να οδηγήσουμε
+        russian: повели бы
+        english: (that) we should have driven
+      - greek: να οδηγήσετε
+        russian: повели бы
+        english: (that) you should have driven
+      - greek: να οδηγήσουν
+        russian: повели бы
+        english: (that) they should have driven
+    imperative_continuous_singular:
+      - greek: οδήγει
+        russian: води
+        english: keep driving (singular)
+    imperative_continuous_plural:
+      - greek: οδηγείτε
+        russian: водите
+        english: keep driving (plural)
+    imperative_simple_singular:
+      - greek: οδήγησε
+        russian: поведи
+        english: drive (singular)
+    imperative_simple_plural:
+      - greek: οδηγήστε
+        russian: поведите
+        english: drive (plural)
+    imperative_negation_singular:
+      - greek: μην οδηγήσεις
+        russian: не води
+        english: do not drive (singular)
+    imperative_negation_plural:
+      - greek: μην οδηγήσετε
+        russian: не водите
+        english: do not drive (plural)
