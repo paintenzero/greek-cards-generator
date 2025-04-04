@@ -30,7 +30,7 @@ HTML_TEMPLATE = """
             background-color: white;
             border-radius: 8px;
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-            width: 230px;
+            width: 235px;
             overflow: hidden;
             margin-bottom: 10px;
         }
@@ -43,17 +43,17 @@ HTML_TEMPLATE = """
             font-size: 1.1em;
         }
         .card-content {
-            padding: 10px;
+            padding: 5px;
         }
         .row {
             display: grid;
             grid-template-columns: 1fr 1fr;
-            gap: 10px;
+            gap: 2px;
             margin-bottom: 10px;
             align-items: center;
         }
         .greek-text {
-            font-size: 1em;
+            font-size: 0.9em;
             font-weight: 500;
         }
         .english-text {
@@ -88,7 +88,7 @@ HTML_TEMPLATE = """
             {% for tense_name, forms in verb.tenses.items() %}
             <div class="row">
                 <div class="greek-text">{{ forms[0].greek }}</div>
-                <div class="english-text">{% if tense_name not in ["imperative_negation_plural", "imperative_simple_plural"] %}{{ forms[0].english | replace(" (singular)", "") | replace(" (plural)", "") }}{% endif %}</div>
+                <div class="english-text">{% if language != 'english' or tense_name not in ["imperative_negation_plural", "imperative_simple_plural"] %}{{ forms[0][language] | replace(" (singular)", "") | replace(" (plural)", "") }}{% endif %}</div>
             </div>
             {% endfor %}
         </div>
@@ -122,7 +122,7 @@ def load_yaml_files(verbs_dir):
 
 
 def generate_html_from_yaml(
-    verbs_dir="verbs", output_file="verbs.html", page_title="Greek Verb Conjugations"
+    verbs_dir="verbs", output_file="verbs.html", page_title="Greek Verb Conjugations", language='english'
 ):
     """
     Generate HTML page from all YAML files in the verbs directory
@@ -157,7 +157,7 @@ def generate_html_from_yaml(
     template = Template(HTML_TEMPLATE)
 
     # Render the template
-    html_output = template.render(verbs=filtered_verbs, page_title=page_title)
+    html_output = template.render(language=language, verbs=filtered_verbs, page_title=page_title)
 
     # Write the HTML file
     with open(output_file, "w", encoding="utf-8") as f:
@@ -168,4 +168,5 @@ def generate_html_from_yaml(
 
 # Example usage
 if __name__ == "__main__":
-    generate_html_from_yaml()
+    generate_html_from_yaml(output_file='verbs_en.html', language='english')
+    generate_html_from_yaml(output_file='verbs_ru.html', language='russian')

@@ -1,4 +1,4 @@
-- verb:  
+- verb: κατεβαίνω
   translation: to go down/descend
   tenses:
     present_tense:
@@ -128,7 +128,7 @@
       - greek: να κατέβουμε
         russian: спустились бы
         english: (that) we should have gone down
-      - greek: να κατέβετε
+      - greek: να κατεβείτε
         russian: спустились бы
         english: (that) you should have gone down
       - greek: να κατέβουν
@@ -155,6 +155,6 @@
         russian: не спускайся
         english: do not go down (singular)
     imperative_negation_plural:
-      - greek: μην κατέβετε
+      - greek: μην κατεβείτε
         russian: не спускайтесь
         english: do not go down (plural)

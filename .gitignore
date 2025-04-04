@@ -1,3 +1,5 @@
 .idx
 .venv
 .env
+*.html
+*.docx

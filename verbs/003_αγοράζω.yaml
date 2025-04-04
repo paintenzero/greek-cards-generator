@@ -151,10 +151,10 @@
       russian: купите
       english: buy (plural)
     imperative_negation_singular:
-    - greek: μην αγοράδεις
+    - greek: μην αγοράσεις
       russian: не покупай
       english: do not buy (singular)
     imperative_negation_plural:
-    - greek: μην αγοράδετε
+    - greek: μην αγοράσετε
       russian: не покупайте
       english: do not buy (plural)

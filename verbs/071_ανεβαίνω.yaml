@@ -128,7 +128,7 @@
       - greek: να ανέβουμε
         russian: поднялись бы
         english: (that) we should have gone up
-      - greek: να ανέβετε
+      - greek: να ανεβείτε
         russian: поднялись бы
         english: (that) you should have gone up
       - greek: να ανέβουν
@@ -155,6 +155,6 @@
         russian: не поднимайся
         english: do not go up (singular)
     imperative_negation_plural:
-      - greek: μην ανέβετε
+      - greek: μην ανεβείτε
         russian: не поднимайтесь
         english: do not go up (plural)

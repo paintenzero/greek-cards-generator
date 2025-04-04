@@ -143,18 +143,18 @@
         russian: идите
         english: keep going (plural)
     imperative_simple_singular:
-      - greek: πήγαινε/πάνε
+      - greek: πάνε
         russian: пойди
         english: go (singular)
     imperative_simple_plural:
-      - greek: πηγαίνετε/πάτε
+      - greek: πάτε
         russian: пойдите
         english: go (plural)
     imperative_negation_singular:
-      - greek: μην πηγαίνεις/μην πάς
+      - greek: μην πάς
         russian: не иди
         english: do not go (singular)
     imperative_negation_plural:
-      - greek: μην πηγαίνετε/μην πάτε
+      - greek: μην πάτε
         russian: не идите
         english: do not go (plural)

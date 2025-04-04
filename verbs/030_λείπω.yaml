@@ -4,157 +4,157 @@
     present_tense:
       - greek: λείπω
         russian: отсутствую
-        english: I am absent/missing
+        english: I am absent
       - greek: λείπεις
         russian: отсутствуешь
-        english: you are absent/missing
+        english: you are absent
       - greek: λείπει
         russian: отсутствует
-        english: he/she/it is absent/missing
+        english: he/she/it is absent
       - greek: λείπουμε
         russian: отсутствуем
-        english: we are absent/missing
+        english: we are absent
       - greek: λείπετε
         russian: отсутствуете
-        english: you are absent/missing
+        english: you are absent
       - greek: λείπουν
         russian: отсутствуют
-        english: they are absent/missing
+        english: they are absent
     future_continuous_tense:
       - greek: θα λείπω
         russian: буду отсутствовать
-        english: I will be absent/missing
+        english: I will be absent
       - greek: θα λείπεις
         russian: будешь отсутствовать
-        english: you will be absent/missing
+        english: you will be absent
       - greek: θα λείπει
         russian: будет отсутствовать
-        english: he/she/it will be absent/missing
+        english: he/she/it will be absent
       - greek: θα λείπουμε
         russian: будем отсутствовать
-        english: we will be absent/missing
+        english: we will be absent
       - greek: θα λείπετε
         russian: будете отсутствовать
-        english: you will be absent/missing
+        english: you will be absent
       - greek: θα λείπουν
         russian: будут отсутствовать
-        english: they will be absent/missing
+        english: they will be absent
     simple_future_tense:
       - greek: θα λείψω
         russian: буду отсутствовать
-        english: I will be absent/missing
+        english: I will be absent
       - greek: θα λείψεις
         russian: будешь отсутствовать
-        english: you will be absent/missing
+        english: you will be absent
       - greek: θα λείψει
         russian: будет отсутствовать
-        english: he/she/it will be absent/missing
+        english: he/she/it will be absent
       - greek: θα λείψουμε
         russian: будем отсутствовать
-        english: we will be absent/missing
+        english: we will be absent
       - greek: θα λείψετε
         russian: будете отсутствовать
-        english: you will be absent/missing
+        english: you will be absent
       - greek: θα λείψουν
         russian: будут отсутствовать
-        english: they will be absent/missing
+        english: they will be absent
     imperfect_past_tense:
       - greek: έλειπα
         russian: отсутствовал
-        english: I was absent/missing
+        english: I was absent
       - greek: έλειπες
         russian: отсутствовал
-        english: you were absent/missing
+        english: you were absent
       - greek: έλειπε
         russian: отсутствовал
-        english: he/she/it was absent/missing
+        english: he/she/it was absent
       - greek: λείπαμε
         russian: отсутствовали
-        english: we were absent/missing
+        english: we were absent
       - greek: λείπατε
         russian: отсутствовали
-        english: you were absent/missing
+        english: you were absent
       - greek: έλειπαν
         russian: отсутствовали
-        english: they were absent/missing
+        english: they were absent
     simple_past_tense:
       - greek: έλειψα
         russian: отсутствовал
-        english: I was absent/missing
+        english: I was absent
       - greek: έλειψες
         russian: отсутствовал
-        english: you were absent/missing
+        english: you were absent
       - greek: έλειψε
         russian: отсутствовал
-        english: he/she/it was absent/missing
+        english: he/she/it was absent
       - greek: λείψαμε
         russian: отсутствовали
-        english: we were absent/missing
+        english: we were absent
       - greek: λείψατε
         russian: отсутствовали
-        english: you were absent/missing
+        english: you were absent
       - greek: έλειψαν
         russian: отсутствовали
-        english: they were absent/missing
+        english: they were absent
     continuous_subjunctive_mood:
       - greek: να λείπω
         russian: отсутствовал бы
-        english: (that) I should be absent/missing
+        english: (that) I should be absent
       - greek: να λείπεις
         russian: отсутствовал бы
-        english: (that) you should be absent/missing
+        english: (that) you should be absent
       - greek: να λείπει
         russian: отсутствовал бы
-        english: (that) he/she/it should be absent/missing
+        english: (that) he/she/it should be absent
       - greek: να λείπουμε
         russian: отсутствовали бы
-        english: (that) we should be absent/missing
+        english: (that) we should be absent
       - greek: να λείπετε
         russian: отсутствовали бы
-        english: (that) you should be absent/missing
+        english: (that) you should be absent
       - greek: να λείπουν
         russian: отсутствовали бы
-        english: (that) they should be absent/missing
+        english: (that) they should be absent
     simple_subjunctive_mood:
       - greek: να λείψω
         russian: отсутствовал бы
-        english: (that) I should have been absent/missing
+        english: (that) I should have been absent
       - greek: να λείψεις
         russian: отсутствовал бы
-        english: (that) you should have been absent/missing
+        english: (that) you should have been absent
       - greek: να λείψει
         russian: отсутствовал бы
-        english: (that) he/she/it should have been absent/missing
+        english: (that) he/she/it should have been absent
       - greek: να λείψουμε
         russian: отсутствовали бы
-        english: (that) we should have been absent/missing
+        english: (that) we should have been absent
       - greek: να λείψετε
         russian: отсутствовали бы
-        english: (that) you should have been absent/missing
+        english: (that) you should have been absent
       - greek: να λείψουν
         russian: отсутствовали бы
-        english: (that) they should have been absent/missing
+        english: (that) they should have been absent
     imperative_continuous_singular:
       - greek: λείπε
         russian: отсутствуй
-        english: be absent/missing (singular)
+        english: be absent (singular)
     imperative_continuous_plural:
       - greek: λείπετε
         russian: отсутствуйте
-        english: be absent/missing (plural)
+        english: be absent (plural)
     imperative_simple_singular:
       - greek: λείψε
         russian: отсутствуй
-        english: be absent/missing (singular)
+        english: be absent (singular)
     imperative_simple_plural:
       - greek: λείψτε
         russian: отсутствуйте
-        english: be absent/missing (plural)
+        english: be absent (plural)
     imperative_negation_singular:
       - greek: μη λείψεις
         russian: не отсутствуй
-        english: do not be absent/missing (singular)
+        english: do not be absent (singular)
     imperative_negation_plural:
       - greek: μη λείψετε
         russian: не отсутствуйте
-        english: do not be absent/missing (plural)
+        english: do not be absent (plural)
