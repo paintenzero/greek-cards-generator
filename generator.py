@@ -168,5 +168,6 @@ def generate_html_from_yaml(
 
 # Example usage
 if __name__ == "__main__":
-    generate_html_from_yaml(output_file='verbs_en.html', language='english')
-    generate_html_from_yaml(output_file='verbs_ru.html', language='russian')
+    Path("pages").mkdir(parents=True, exist_ok=True)
+    generate_html_from_yaml(output_file='pages/verbs_en.html', language='english')
+    generate_html_from_yaml(output_file='pages/verbs_ru.html', language='russian')
