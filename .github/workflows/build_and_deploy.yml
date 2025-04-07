@@ -19,8 +19,8 @@ jobs:
 
       - name: Run generator.py
         run: |
-          python generator.py
           pip install -r requirements.txt
+          python generator.py
 
       - name: Upload static files as artifact
         id: deployment
