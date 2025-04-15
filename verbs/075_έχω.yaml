@@ -143,11 +143,11 @@
         russian: имейте
         english: have (plural)
     imperative_simple_singular:
-      - greek: έχε
+      - greek: να έχεις
         russian: имей
         english: have (singular)
     imperative_simple_plural:
-      - greek: έχετε
+      - greek: να έχετε
         russian: имейте
         english: have (plural)
     imperative_negation_singular:

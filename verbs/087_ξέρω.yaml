@@ -143,11 +143,11 @@
         russian: знайте
         english: keep knowing (plural)
     imperative_simple_singular:
-      - greek: ξέρε
+      - greek: ξέρε/να ξέρεις
         russian: узнай
         english: know (singular)
     imperative_simple_plural:
-      - greek: ξέρετε
+      - greek: να ξέρετε
         russian: узнайте
         english: know (plural)
     imperative_negation_singular:

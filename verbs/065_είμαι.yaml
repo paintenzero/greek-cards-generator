@@ -96,3 +96,19 @@
       - greek: ήταν
         russian: были
         english: they were
+    imperative_simple_singular:
+    - greek: να είσαι
+      russian: будь
+      english: be (singular)
+    imperative_simple_plural:
+    - greek: να είστε
+      russian: будьте
+      english: be (plural)
+    imperative_negation_singular:
+    - greek: μην είσαι
+      russian: не будь
+      english: don't be (singular)
+    imperative_negation_plural:
+    - greek: μην είστε
+      russian: не будьте
+      english: don't be (plural)
