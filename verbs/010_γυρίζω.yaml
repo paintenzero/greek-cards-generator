@@ -151,10 +151,10 @@
       russian: вернитесь
       english: return (plural)
     imperative_negation_singular:
-    - greek: μη γύρισεις
+    - greek: μην γυρίσεις
       russian: не возвращайся
       english: do not return (singular)
     imperative_negation_plural:
-    - greek: μη γυρίσετε
+    - greek: μην γυρίσετε
       russian: не возвращайтесь
       english: do not return (plural)

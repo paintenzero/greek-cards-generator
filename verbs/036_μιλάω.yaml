@@ -80,22 +80,22 @@
     simple_past_tense:
       - greek: μίλησα
         russian: поговорил
-        english: I spoked
+        english: I spoke
       - greek: μίλησες
         russian: поговорил
-        english: you spoked
+        english: you spoke
       - greek: μίλησε
         russian: поговорил
-        english: he/she/it spoked
+        english: he/she/it spoke
       - greek: μιλήσαμε
         russian: поговорили
-        english: we spoked
+        english: we spoke
       - greek: μιλήσατε
         russian: поговорили
-        english: you spoked
+        english: you spoke
       - greek: μίλησαν
         russian: поговорили
-        english: they spoked
+        english: they spoke
     continuous_subjunctive_mood:
       - greek: να μιλάω/να μιλώ
         russian: говорил бы

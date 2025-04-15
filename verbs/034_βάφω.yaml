@@ -144,7 +144,7 @@
         english: keep painting (plural)
     imperative_simple_singular:
       - greek: βάψε
-        russian: покраси
+        russian: покрась
         english: paint (singular)
     imperative_simple_plural:
       - greek: βάψτε
