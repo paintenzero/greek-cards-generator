@@ -52,7 +52,7 @@
       - greek: θα χαρούμε
         russian: порадуемся
         english: we will be happy
-      - greek: θα χαθείτε
+      - greek: θα χαρείτε
         russian: порадуетесь
         english: you (plural) will be happy
       - greek: θα χαθούν
@@ -119,19 +119,19 @@
       - greek: να χαρώ
         russian: порадовался бы
         english: (that) I should have been happy
-      - greek: να χαθείς
+      - greek: να χαρείς
         russian: порадовался бы
         english: (that) you should have been happy
-      - greek: να χαθεί
+      - greek: να χαρεί
         russian: порадовался бы
         english: (that) he/she/it should have been happy
       - greek: να χαρούμε
         russian: порадовались бы
         english: (that) we should have been happy
-      - greek: να χαθείτε
+      - greek: να χαρείτε
         russian: порадовались бы
         english: (that) you (plural) should have been happy
-      - greek: να χαθούν
+      - greek: να χαρούν
         russian: порадовались бы
         english: (that) they should have been happy
     imperative_continuous_singular:
@@ -143,11 +143,11 @@
         russian: радуйтесь
         english: be happy (plural)
     imperative_simple_singular:
-      - greek: χαρείς
+      - greek: να χαρείς
         russian: порадуйся
         english: be happy (singular)
     imperative_simple_plural:
-      - greek: χαρείτε
+      - greek: να χαρείτε
         russian: порадуйтесь
         english: be happy (plural)
     imperative_negation_singular:
