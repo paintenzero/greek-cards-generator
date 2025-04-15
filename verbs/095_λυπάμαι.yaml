@@ -3,158 +3,158 @@
   tenses:
     present_tense:
       - greek: λυπάμαι
-        russian: грущу
-        english: I am sad
+        russian: грущу/мне жаль
+        english: I am sad/sorry
       - greek: λυπάσαι
-        russian: грустишь
-        english: you are sad
+        russian: грустишь/тебе жаль
+        english: you are sad/sorry
       - greek: λυπάται
-        russian: грустит
-        english: he/she/it is sad
+        russian: грустит/ему жаль
+        english: he/she/it is sad/sorry
       - greek: λυπόμαστε
-        russian: грустим
-        english: we are sad
+        russian: грустим/нам жаль
+        english: we are sad/sorry
       - greek: λυπάστε
-        russian: грустите
-        english: you (plural) are sad
+        russian: грустите/вам жаль
+        english: you are sad/sorry
       - greek: λυπόνται
-        russian: грустят
-        english: they are sad
+        russian: грустят/им жаль
+        english: they are sad/sorry
     future_continuous_tense:
       - greek: θα λυπάμαι
-        russian: буду грустить
-        english: I will be sad
+        russian: буду грустить/мне будет жаль
+        english: I will be sad/sorry
       - greek: θα λυπάσαι
-        russian: будешь грустить
-        english: you will be sad
+        russian: будешь грустить/тебе будет жаль
+        english: you will be sad/sorry
       - greek: θα λυπάται
-        russian: будет грустить
-        english: he/she/it will be sad
+        russian: будет грустить/ему будет жаль
+        english: he/she/it will be sad/sorry
       - greek: θα λυπόμαστε
-        russian: будем грустить
-        english: we will be sad
+        russian: будем грустить/нам будет жаль
+        english: we will be sad/sorry
       - greek: θα λυπάστε
-        russian: будете грустить
-        english: you (plural) will be sad
+        russian: будете грустить/вам будет жаль
+        english: you (plural) will be sad/sorry
       - greek: θα λυπόνται
-        russian: будут грустить
-        english: they will be sad
+        russian: будут грустить/им будет жаль
+        english: they will be sad/sorry
     simple_future_tense:
       - greek: θα λυπηθώ
-        russian: погрущу
-        english: I will be sad
+        russian: погрущу/мне будет жаль
+        english: I will be sad/sorry
       - greek: θα λυπηθείς
-        russian: погрустишь
-        english: you will be sad
+        russian: погрустишь/тебе будет жаль
+        english: you will be sad/sorry
       - greek: θα λυπηθεί
-        russian: погрустит
-        english: he/she/it will be sad
+        russian: погрустит/ему будет жаль
+        english: he/she/it will be sad/sorry
       - greek: θα λυπηθούμε
-        russian: погрустим
-        english: we will be sad
+        russian: погрустим/нам будет жаль
+        english: we will be sad/sorry
       - greek: θα λυπηθείτε
-        russian: погрустите
-        english: you (plural) will be sad
+        russian: погрустите/вам будет жаль
+        english: you (plural) will be sad/sorry
       - greek: θα λυπηθούν
-        russian: погрустят
-        english: they will be sad
+        russian: погрустят/им будет жаль
+        english: they will be sad/sorry
     imperfect_past_tense:
       - greek: λυπόμουν
-        russian: грустил
-        english: I was sad
+        russian: грустил/мне было жаль
+        english: I was sad/sorry
       - greek: λυπόσουν
-        russian: грустил
-        english: you were sad
+        russian: грустил/тебе было жаль
+        english: you were sad/sorry
       - greek: λυπόταν
-        russian: грустил
-        english: he/she/it was sad
+        russian: грустил/ему было жаль
+        english: he/she/it was sad/sorry
       - greek: λυπόμαστε
-        russian: грустили
-        english: we were sad
+        russian: грустили/нам было жаль
+        english: we were sad/sorry
       - greek: λυπόσαστε
-        russian: грустили
-        english: you (plural) were sad
+        russian: грустили/вам было жаль
+        english: you (plural) were sad/sorry
       - greek: λυπόνταν
-        russian: грустили
-        english: they were sad
+        russian: грустили/им было жаль
+        english: they were sad/sorry
     simple_past_tense:
       - greek: λυπήθηκα
-        russian: погрустил
-        english: I was sad
+        russian: грустил/мне было жаль
+        english: I was sad/sorry
       - greek: λυπήθηκες
-        russian: погрустил
-        english: you were sad
+        russian: грустил/тебе было жаль
+        english: you were sad/sorry
       - greek: λυπήθηκε
-        russian: погрустил
-        english: he/she/it was sad
+        russian: грустил/ему было жаль
+        english: he/she/it was sad/sorry
       - greek: λυπηθήκαμε
-        russian: погрустили
-        english: we were sad
+        russian: грустили/нам было жаль
+        english: we were sad/sorry
       - greek: λυπηθήκατε
-        russian: погрустили
-        english: you (plural) were sad
+        russian: грустили/вам было жаль
+        english: you (plural) were sad/sorry
       - greek: λυπήθηκαν
-        russian: погрустили
-        english: they were sad
+        russian: грустили/им было жаль
+        english: they were sad/sorry
     continuous_subjunctive_mood:
       - greek: να λυπάμαι
         russian: грустил бы
-        english: (that) I should be sad
+        english: (that) I should be sad/sorry
       - greek: να λυπάσαι
         russian: грустил бы
-        english: (that) you should be sad
+        english: (that) you should be sad/sorry
       - greek: να λυπάται
         russian: грустил бы
-        english: (that) he/she/it should be sad
+        english: (that) he/she/it should be sad/sorry
       - greek: να λυπόμαστε
         russian: грустили бы
-        english: (that) we should be sad
+        english: (that) we should be sad/sorry
       - greek: να λυπάστε
         russian: грустили бы
-        english: (that) you should be sad
+        english: (that) you should be sad/sorry
       - greek: να λυπόνται
         russian: грустили бы
-        english: (that) they should be sad
+        english: (that) they should be sad/sorry
     simple_subjunctive_mood:
       - greek: να λυπηθώ
         russian: погрустил бы
-        english: (that) I should have been sad
+        english: (that) I should have been sad/sorry
       - greek: να λυπηθείς
         russian: погрустил бы
-        english: (that) you should have been sad
+        english: (that) you should have been sad/sorry
       - greek: να λυπηθεί
         russian: погрустил бы
-        english: (that) he/she/it should have been sad
+        english: (that) he/she/it should have been sad/sorry
       - greek: να λυπηθούμε
         russian: погрустили бы
-        english: (that) we should have been sad
+        english: (that) we should have been sad/sorry
       - greek: να λυπηθείτε
         russian: погрустили бы
-        english: (that) you (plural) should have been sad
+        english: (that) you (plural) should have been sad/sorry
       - greek: να λυπηθούν
         russian: погрустили бы
-        english: (that) they should have been sad
+        english: (that) they should have been sad/sorry
     imperative_continuous_singular:
       - greek: λυπάσου
         russian: грусти
-        english: be sad (singular)
+        english: be sad/sorry
     imperative_continuous_plural:
       - greek: λυπάστε
         russian: грустите
-        english: be sad (plural)
+        english: be sad/sorry
     imperative_simple_singular:
       - greek: λυπήσου
         russian: погрусти
-        english: be sad (singular)
+        english: be sad/sorry
     imperative_simple_plural:
       - greek: λυπηθείτε
         russian: погрустите
-        english: be sad (plural)
+        english: be sad/sorry
     imperative_negation_singular:
       - greek: μη λυπηθείς
         russian: не грусти
-        english: do not be sad (singular)
+        english: do not be sad/sorry
     imperative_negation_plural:
       - greek: μη λυπηθείτε
         russian: не грустите
-        english: do not be sad (plural)
+        english: do not be sad/sorry

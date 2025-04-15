@@ -4,157 +4,157 @@
     present_tense:
       - greek: καλώ
         russian: зову
-        english: I call
+        english: I invite
       - greek: καλείς
         russian: зовёшь
-        english: you call
+        english: you /invite
       - greek: καλεί
         russian: зовёт
-        english: he/she/it calls
+        english: he/she/it invites
       - greek: καλούμε
         russian: зовём
-        english: we call
+        english: we invite
       - greek: καλείτε
         russian: зовёте
-        english: you call
+        english: you invite
       - greek: καλούν
         russian: зовут
-        english: they call
+        english: they invite
     future_continuous_tense:
       - greek: θα καλώ
         russian: буду звать
-        english: I will be calling
+        english: I will be inviting
       - greek: θα καλείς
         russian: будешь звать
-        english: you will be calling
+        english: you will be inviting
       - greek: θα καλεί
         russian: будет звать
-        english: he/she/it will be calling
+        english: he/she/it will be inviting
       - greek: θα καλούμε
         russian: будем звать
-        english: we will be calling
+        english: we will be inviting
       - greek: θα καλείτε
         russian: будете звать
-        english: you will be calling
+        english: you will be inviting
       - greek: θα καλούν
         russian: будут звать
-        english: they will be calling
+        english: they will be inviting
     simple_future_tense:
       - greek: θα καλέσω
         russian: позову
-        english: I will call
+        english: I will invite
       - greek: θα καλέσεις
         russian: позовёшь
-        english: you will call
+        english: you will invite
       - greek: θα καλέσει
         russian: позовёт
-        english: he/she/it will call
+        english: he/she/it will invite
       - greek: θα καλέσουμε
         russian: позовём
-        english: we will call
+        english: we will invite
       - greek: θα καλέσετε
         russian: позовёте
-        english: you will call
+        english: you will invite
       - greek: θα καλέσουν
         russian: позовут
-        english: they will call
+        english: they will invite
     imperfect_past_tense:
       - greek: καλούσα
         russian: звал
-        english: I was calling
+        english: I was inviting
       - greek: καλούσες
         russian: звал
-        english: you were calling
+        english: you were inviting
       - greek: καλούσε
         russian: звал
-        english: he/she/it was calling
+        english: he/she/it was inviting
       - greek: καλούσαμε
         russian: звали
-        english: we were calling
+        english: we were inviting
       - greek: καλούσατε
         russian: звали
-        english: you were calling
+        english: you were inviting
       - greek: καλούσαν
         russian: звали
-        english: they were calling
+        english: they were inviting
     simple_past_tense:
       - greek: κάλεσα
         russian: позвал
-        english: I called
+        english: I invited
       - greek: κάλεσες
         russian: позвал
-        english: you called
+        english: you invited
       - greek: κάλεσε
         russian: позвал
-        english: he/she/it called
+        english: he/she/it invited
       - greek: καλέσαμε
         russian: позвали
-        english: we called
+        english: we invited
       - greek: καλέσατε
         russian: позвали
-        english: you called
+        english: you invited
       - greek: κάλεσαν
         russian: позвали
-        english: they called
+        english: they invited
     continuous_subjunctive_mood:
       - greek: να καλώ
         russian: звал бы
-        english: (that) I should call
+        english: (that) I should invite
       - greek: να καλείς
         russian: звал бы
-        english: (that) you should call
+        english: (that) you should invite
       - greek: να καλεί
         russian: звал бы
-        english: (that) he/she/it should call
+        english: (that) he/she/it should invite
       - greek: να καλούμε
         russian: звали бы
-        english: (that) we should call
+        english: (that) we should invite
       - greek: να καλείτε
         russian: звали бы
-        english: (that) you should call
+        english: (that) you should invite
       - greek: να καλούν
         russian: звали бы
-        english: (that) they should call
+        english: (that) they should invite
     simple_subjunctive_mood:
       - greek: να καλέσω
         russian: позвал бы
-        english: (that) I should have called
+        english: (that) I should have invited
       - greek: να καλέσεις
         russian: позвал бы
-        english: (that) you should have called
+        english: (that) you should have invited
       - greek: να καλέσει
         russian: позвал бы
-        english: (that) he/she/it should have called
+        english: (that) he/she/it should have invited
       - greek: να καλέσουμε
         russian: позвали бы
-        english: (that) we should have called
+        english: (that) we should have invited
       - greek: να καλέσετε
         russian: позвали бы
-        english: (that) you should have called
+        english: (that) you should have invited
       - greek: να καλέσουν
         russian: позвали бы
-        english: (that) they should have called
+        english: (that) they should have invited
     imperative_continuous_singular:
       - greek: κάλει
         russian: зови
-        english: keep calling (singular)
+        english: keep inviting (singular)
     imperative_continuous_plural:
       - greek: καλείτε
         russian: зовите
-        english: keep calling (plural)
+        english: keep inviting (plural)
     imperative_simple_singular:
       - greek: κάλεσε
         russian: позови
-        english: call (singular)
+        english: invite (singular)
     imperative_simple_plural:
       - greek: καλέστε
         russian: позовите
-        english: call (plural)
+        english: invite (plural)
     imperative_negation_singular:
       - greek: μην καλέσεις
         russian: не зови
-        english: do not call (singular)
+        english: do not invite (singular)
     imperative_negation_plural:
       - greek: μην καλέσετε
         russian: не зовите
-        english: do not call (plural)
+        english: do not invite (plural)

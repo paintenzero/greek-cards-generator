@@ -147,7 +147,7 @@
         russian: помой
         english: wash (singular)
     imperative_simple_plural:
-      - greek: πλύντε
+      - greek: πλύνετε
         russian: помойте
         english: wash (plural)
     imperative_negation_singular:

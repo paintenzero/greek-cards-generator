@@ -151,7 +151,7 @@
         russian: полюбите
         english: love (plural)
     imperative_negation_singular:
-      - greek: μην αγαπύσεις
+      - greek: μην αγαπήσεις
         russian: не люби
         english: do not love (singular)
     imperative_negation_plural:

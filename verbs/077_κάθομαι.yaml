@@ -143,18 +143,18 @@
         russian: сидите
         english: keep sitting (plural)
     imperative_simple_singular:
-      - greek: κάτσε
+      - greek: κάτσε/κάθισε
         russian: сядь
         english: sit (singular)
     imperative_simple_plural:
-      - greek: καθίστε
+      - greek: κάτσετε/καθίστε
         russian: сядьте
         english: sit (plural)
     imperative_negation_singular:
-      - greek: μην καθίσεις
+      - greek: μην κάτσεις/μην καθίσεις
         russian: не сиди
         english: do not sit (singular)
     imperative_negation_plural:
-      - greek: μην καθίσετε
+      - greek: μην κάτσετε/μην καθίσετε
         russian: не сидите
         english: do not sit (plural)
