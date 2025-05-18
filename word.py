@@ -13,6 +13,19 @@ from docx.shared import Pt, RGBColor
 PER_ROW_VERBS = 2
 ROWS_PER_PAGE = 3
 
+FIRST_FORM_ONLY = True
+tenses = [
+    'present_tense',
+    'simple_future_tense',
+    'simple_past_tense',
+    'imperative_simple_singular',
+    'imperative_simple_plural',
+    'imperative_negation_singular',
+    'imperative_negation_plural'
+]
+
+languages = [ "english", "russian" ]
+
 def load_yaml_files(verbs_dir):
     """
     Load and merge all YAML files from the verbs directory
@@ -115,16 +128,7 @@ def set_cell_margins(cell: _Cell, **kwargs):
 
 verbs = load_yaml_files("verbs")
 
-tenses = [
-    'present_tense',
-    'simple_future_tense',
-    'simple_past_tense',
-    'imperative_simple_singular',
-    'imperative_simple_plural',
-    'imperative_negation_singular',
-    'imperative_negation_plural'
-]
-languages = [ "english", "russian" ]
+
 
 for lang in languages:
 
@@ -175,13 +179,16 @@ for lang in languages:
             for tense in tenses:
                 if tense not in verb['tenses']:
                     continue
-                row = table.add_row()
-                row.height = Pt(14)
-                row.height_rule = WD_ROW_HEIGHT_RULE.AT_LEAST
-                row_cells = row.cells
-                set_cell_border(row_cells[0], start={"val": "single", "color": "ffffff"}, end={"val": "single", "color": "ffffff"})
-                set_cell_border(row_cells[1], start={"val": "single", "color": "ffffff"}, end={"val": "single", "color": "ffffff"})
-                row_cells[0].text = verb['tenses'][tense][0]['greek']
-                row_cells[1].text = verb['tenses'][tense][0][lang]
+                for form in range(len(verb['tenses'][tense])):
+                    row = table.add_row()
+                    row.height = Pt(14)
+                    row.height_rule = WD_ROW_HEIGHT_RULE.AT_LEAST
+                    row_cells = row.cells
+                    set_cell_border(row_cells[0], start={"val": "single", "color": "ffffff"}, end={"val": "single", "color": "ffffff"})
+                    set_cell_border(row_cells[1], start={"val": "single", "color": "ffffff"}, end={"val": "single", "color": "ffffff"})
+                    row_cells[0].text = verb['tenses'][tense][form]['greek']
+                    row_cells[1].text = verb['tenses'][tense][form][lang]
+                    if FIRST_FORM_ONLY:
+                        break
 
     document.save(f'verbs_{lang}.docx')

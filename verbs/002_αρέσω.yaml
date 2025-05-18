@@ -5,6 +5,9 @@
       - greek: μου αρέσει
         russian: мне нравится
         english: I like
+      - greek: μου αρέσουν
+        russian: мне нравятся
+        english: I like (plural)
 
     simple_future_tense:
       - greek: θα μου αρέσει
